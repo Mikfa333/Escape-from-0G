@@ -14701,3 +14701,228 @@ LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variab
 [2024.03.21-14.29.06:151][567]LogSavePackage: Moving '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/L_2_Auto23502C30F41BD73DB68F3A0BC61456076.tmp' to '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/Autosaves/Game/FirstPerson/Maps/L_2_Auto2.umap'
 [2024.03.21-14.29.06:167][567]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/L_2' took 0.209
 [2024.03.21-14.29.06:167][567]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.209
+[2024.03.21-14.30.01:512][462]BlueprintLog: New page: Compile BP_CommandCenterElevatorDoors
+[2024.03.21-14.30.01:625][462]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2024.03.21-14.30.01:687][462]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.21-14.30.01:782][462]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/Doors/BP_CommandCenterElevatorDoors
+[2024.03.21-14.30.01:782][462]LogSavePackage: Moving '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/BP_CommandCenterElevatorDoors1A56BFD24B021B36781714BFC6499925.tmp' to '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/FirstPerson/Blueprints/Doors/BP_CommandCenterElevatorDoors.uasset'
+[2024.03.21-14.30.01:815][462]LogFileHelpers: InternalPromptForCheckoutAndSave took 128 ms (total: 3.50 sec)
+[2024.03.21-14.30.01:822][462]AssetCheck: New page: Asset Save: BP_CommandCenterElevatorDoors
+[2024.03.21-14.30.01:822][462]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/Doors/BP_CommandCenterElevatorDoors.BP_CommandCenterElevatorDoors
+[2024.03.21-14.30.47:022][785]BlueprintLog: New page: Compile BP_CommandCenterElevatorDoors
+[2024.03.21-14.30.47:127][785]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2024.03.21-14.30.47:176][785]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.21-14.30.47:266][785]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/Doors/BP_CommandCenterElevatorDoors
+[2024.03.21-14.30.47:267][785]LogSavePackage: Moving '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/BP_CommandCenterElevatorDoors7837F1F747144CD66BC560AC52CFB035.tmp' to '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/FirstPerson/Blueprints/Doors/BP_CommandCenterElevatorDoors.uasset'
+[2024.03.21-14.30.47:293][785]LogFileHelpers: InternalPromptForCheckoutAndSave took 116 ms (total: 3.61 sec)
+[2024.03.21-14.30.47:300][785]AssetCheck: New page: Asset Save: BP_CommandCenterElevatorDoors
+[2024.03.21-14.30.47:300][785]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/Doors/BP_CommandCenterElevatorDoors.BP_CommandCenterElevatorDoors
+[2024.03.21-14.31.00:105][245]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.21-14.31.00:117][245]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.21-14.31.00:118][245]PIE: New page: PIE session: L_2 (21 mar 2024, 16:31:00)
+[2024.03.21-14.31.00:118][245]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_L_2
+[2024.03.21-14.31.00:162][245]LogPlayLevel: PIE: StaticDuplicateObject took: (0.044349s)
+[2024.03.21-14.31.00:162][245]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/L_2.L_2 to /Game/FirstPerson/Maps/UEDPIE_0_L_2.L_2 (0.044423s)
+[2024.03.21-14.31.00:162][245]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.21-14.31.00:163][245]LogAIModule: Creating AISystem for world L_2
+[2024.03.21-14.31.00:163][245]LogPlayLevel: PIE: World Init took: (0.001230s)
+[2024.03.21-14.31.00:233][245]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2024.03.21-14.31.00:237][245]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2024.03.21-14.31.00:237][245]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.21-14.31.00:237][245]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.21-14.31.00:237][245]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.21-14.31.00:237][245]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.21-14.31.00:237][245]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.03.21-14.31.00:237][245]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.03.21-14.31.00:237][245]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.03.21-14.31.00:237][245]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.21-14.31.00:239][245]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.21-14.31.00:239][245]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.21-14.31.00:239][245]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.21-14.31.00:242][245]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.21-14.31.00:267][245]LogAudioMixer: Display: Using Audio Hardware Device Głośniki (Realtek(R) Audio)
+[2024.03.21-14.31.00:268][245]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.21-14.31.00:268][245]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.21-14.31.00:268][245]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.21-14.31.00:269][245]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2024.03.21-14.31.00:269][245]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2024.03.21-14.31.00:271][245]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2024.03.21-14.31.00:272][245]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2024.03.21-14.31.00:272][245]LogInit: FAudioDevice initialized.
+[2024.03.21-14.31.00:272][245]LogAudio: Display: Audio Device (ID: 13) registered with world 'L_2'.
+[2024.03.21-14.31.00:276][245]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.03.21-14.31.00:301][245]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_L_2.L_2 up for play (max tick rate 60) at 2024.03.21-15.31.00
+[2024.03.21-14.31.00:301][245]LogWorld: Bringing up level for play took: 0.025219
+[2024.03.21-14.31.00:305][245]LogOnline: OSS: Created online subsystem instance for: :Context_31
+[2024.03.21-14.31.00:311][245]PIE: Server logged in
+[2024.03.21-14.31.00:313][245]PIE: Play in editor total start time 0,196 seconds.
+[2024.03.21-14.31.16:885][ 85]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.21-14.31.16:885][ 85]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_L_2
+[2024.03.21-14.31.16:886][ 85]LogWorld: UWorld::CleanupWorld for L_2, bSessionEnded=true, bCleanupResources=true
+[2024.03.21-14.31.16:888][ 85]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.21-14.31.16:909][ 85]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.21-14.31.16:917][ 85]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.21-14.31.16:982][ 85]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.03.21-14.31.16:985][ 85]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2024.03.21-14.31.16:987][ 85]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2024.03.21-14.31.16:992][ 85]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.21-14.31.17:000][ 85]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2024.03.21-14.31.17:053][ 86]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2024.03.21-14.31.41:714][929]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPerson/Blueprints/Doors/BP_Doors.BP_Doors
+[2024.03.21-14.31.41:714][929]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.21-14.32.08:759][854]BlueprintLog: New page: Compile BP_CommandCenterElevatorDoors
+[2024.03.21-14.32.08:902][854]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2024.03.21-14.32.08:956][854]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.21-14.32.09:053][854]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/Doors/BP_CommandCenterElevatorDoors
+[2024.03.21-14.32.09:054][854]LogSavePackage: Moving '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/BP_CommandCenterElevatorDoors08CF99D94A1A50E90AF96B8F3AE65559.tmp' to '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/FirstPerson/Blueprints/Doors/BP_CommandCenterElevatorDoors.uasset'
+[2024.03.21-14.32.09:066][854]LogFileHelpers: InternalPromptForCheckoutAndSave took 109 ms (total: 3.72 sec)
+[2024.03.21-14.32.09:074][854]AssetCheck: New page: Asset Save: BP_CommandCenterElevatorDoors
+[2024.03.21-14.32.09:074][854]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/Doors/BP_CommandCenterElevatorDoors.BP_CommandCenterElevatorDoors
+[2024.03.21-14.32.12:475][981]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.21-14.32.12:482][981]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.21-14.32.12:482][981]PIE: New page: PIE session: L_2 (21 mar 2024, 16:32:12)
+[2024.03.21-14.32.12:482][981]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_L_2
+[2024.03.21-14.32.12:524][981]LogPlayLevel: PIE: StaticDuplicateObject took: (0.041122s)
+[2024.03.21-14.32.12:524][981]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/L_2.L_2 to /Game/FirstPerson/Maps/UEDPIE_0_L_2.L_2 (0.041188s)
+[2024.03.21-14.32.12:524][981]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.21-14.32.12:525][981]LogAIModule: Creating AISystem for world L_2
+[2024.03.21-14.32.12:525][981]LogPlayLevel: PIE: World Init took: (0.001206s)
+[2024.03.21-14.32.12:599][981]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2024.03.21-14.32.12:602][981]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2024.03.21-14.32.12:602][981]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.21-14.32.12:602][981]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.21-14.32.12:602][981]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.21-14.32.12:602][981]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.21-14.32.12:602][981]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.03.21-14.32.12:602][981]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.03.21-14.32.12:602][981]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.03.21-14.32.12:602][981]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.21-14.32.12:603][981]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.21-14.32.12:603][981]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.21-14.32.12:603][981]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.21-14.32.12:609][981]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.21-14.32.12:631][981]LogAudioMixer: Display: Using Audio Hardware Device Głośniki (Realtek(R) Audio)
+[2024.03.21-14.32.12:631][981]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.21-14.32.12:632][981]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.21-14.32.12:632][981]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.21-14.32.12:633][981]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2024.03.21-14.32.12:633][981]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2024.03.21-14.32.12:634][981]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2024.03.21-14.32.12:634][981]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2024.03.21-14.32.12:634][981]LogInit: FAudioDevice initialized.
+[2024.03.21-14.32.12:634][981]LogAudio: Display: Audio Device (ID: 14) registered with world 'L_2'.
+[2024.03.21-14.32.12:640][981]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.03.21-14.32.12:656][981]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_L_2.L_2 up for play (max tick rate 60) at 2024.03.21-15.32.12
+[2024.03.21-14.32.12:657][981]LogWorld: Bringing up level for play took: 0.016879
+[2024.03.21-14.32.12:659][981]LogOnline: OSS: Created online subsystem instance for: :Context_33
+[2024.03.21-14.32.12:664][981]PIE: Server logged in
+[2024.03.21-14.32.12:665][981]PIE: Play in editor total start time 0,183 seconds.
+[2024.03.21-14.32.49:985][952]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.21-14.32.49:985][952]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_L_2
+[2024.03.21-14.32.49:986][952]LogWorld: UWorld::CleanupWorld for L_2, bSessionEnded=true, bCleanupResources=true
+[2024.03.21-14.32.49:988][952]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.21-14.32.50:004][952]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.21-14.32.50:014][952]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.21-14.32.50:097][952]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.03.21-14.32.50:098][952]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2024.03.21-14.32.50:101][952]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2024.03.21-14.32.50:110][952]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.21-14.32.50:118][952]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2024.03.21-14.32.50:181][953]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2024.03.21-14.33.00:349][358]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2024.03.21-14.33.00:349][358]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.21-14.33.01:661][401]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2024.03.21-14.33.01:668][401]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.21-14.33.01:744][401]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Maps/L_2" FILE="../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/FirstPerson/Maps/L_2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.03.21-14.33.01:805][401]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2024.03.21-14.33.01:906][401]LogSavePackage: Moving output files for package: /Game/FirstPerson/Maps/L_2
+[2024.03.21-14.33.01:906][401]LogSavePackage: Moving '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/L_20789CAF34070BD0EBADBC2AD082AAE26.tmp' to '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/FirstPerson/Maps/L_2.umap'
+[2024.03.21-14.33.01:920][401]LogFileHelpers: No new changes to save!
+[2024.03.21-14.33.01:920][401]LogFileHelpers: Saving map 'L_2' took 0.177
+[2024.03.21-14.33.04:888][401]LogSlate: Window 'Save Level As' being destroyed
+[2024.03.21-14.33.04:934][401]LogFileHelpers: InternalPromptForCheckoutAndSave took 3.26 sec (total: 6.99 sec)
+[2024.03.21-14.33.04:943][401]AssetCheck: New page: Asset Save: L_2
+[2024.03.21-14.33.04:943][401]LogContentValidation: Display: Validating /Script/Engine.World /Game/FirstPerson/Maps/L_2.L_2
+[2024.03.21-14.33.05:759][426]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2024.03.21-14.33.07:044][426]LogSlate: Window 'Save Content' being destroyed
+[2024.03.21-14.33.17:172][803]LogHttp: Warning: 00000ACC7C6AEB00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0E7D8815-4686-84E2-1B59-9885E2A38991%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.1.1-23901901%2B%2B%2BUE5%2BRelease-5.1&UserID=fc53e8e24a6deaaa5acfb7b721c76d3b%7C9f4f2872ca4440f9904eb1ccd0ad3818%7Cf406128b-8dd6-47c0-915a-f45b0e1f606e&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.03.21-14.33.17:172][803]LogHttp: Warning: 00000ACC7C6AEB00: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2024.03.21-14.33.17:172][803]LogHttp: Warning: 00000ACC7C6AEB00: libcurl info message cache 0 (Found bundle for host: 0xacbec9602d0 [serially])
+[2024.03.21-14.33.17:172][803]LogHttp: Warning: 00000ACC7C6AEB00: libcurl info message cache 1 (Re-using existing connection #10 with host datarouter.ol.epicgames.com)
+[2024.03.21-14.33.17:172][803]LogHttp: Warning: 00000ACC7C6AEB00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (54.167.141.34) port 443 (#10))
+[2024.03.21-14.33.17:172][803]LogHttp: Warning: 00000ACC7C6AEB00: libcurl info message cache 3 (We are completely uploaded and fine)
+[2024.03.21-14.33.17:172][803]LogHttp: Warning: 00000ACC7C6AEB00: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, close notify (256):)
+[2024.03.21-14.33.17:172][803]LogHttp: Warning: 00000ACC7C6AEB00: libcurl info message cache 5 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.03.21-14.33.17:172][803]LogHttp: Warning: 00000ACC7C6AEB00: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2024.03.21-14.33.17:172][803]LogHttp: Warning: 00000ACC7C6AEB00: libcurl info message cache 7 (Closing connection 10)
+[2024.03.21-14.33.17:172][803]LogHttp: Warning: 00000ACC7C6AEB00: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.21-14.33.17:172][803]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0E7D8815-4686-84E2-1B59-9885E2A38991%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.1.1-23901901%2B%2B%2BUE5%2BRelease-5.1&UserID=fc53e8e24a6deaaa5acfb7b721c76d3b%7C9f4f2872ca4440f9904eb1ccd0ad3818%7Cf406128b-8dd6-47c0-915a-f45b0e1f606e&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.03.21-14.33.21:726][964]PIE: Warning: Constraint in '/Engine/Transient.World_20:PersistentLevel.BP_GravityBoots_C_0.PhysicsConstraint' attempting to create a joint between objects that are both static.  No joint created.
+[2024.03.21-14.33.25:105][ 53]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2024.03.21-14.33.32:076][ 53]LogSlate: Window 'Delete Assets' being destroyed
+[2024.03.21-14.33.32:273][ 53]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.03.21-14.33.32:273][ 53]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2024.03.21-14.33.32:273][ 53]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.21-14.33.32:326][ 53]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Blueprints/Doors/BP_CommandCenterElevatorDoors.BP_CommandCenterElevatorDoors
+	Asset Type: Blueprint
+[2024.03.21-14.33.32:866][ 53]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2024.03.21-14.33.33:005][ 53]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2024.03.21-14.33.33:074][ 53]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2024.03.21-14.33.33:129][ 53]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.03.21-14.33.33:149][ 53]LogShaderCompilers: Display: ================================================
+[2024.03.21-14.33.33:149][ 53]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.03.21-14.33.33:149][ 53]LogShaderCompilers: Display: Total job queries 292, among them cache hits 54 (18.49%)
+[2024.03.21-14.33.33:149][ 53]LogShaderCompilers: Display: Tracking 234 distinct input hashes that result in 128 distinct outputs (54.70%)
+[2024.03.21-14.33.33:149][ 53]LogShaderCompilers: Display: RAM used: 1.66 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.20%
+[2024.03.21-14.33.33:149][ 53]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.03.21-14.33.33:149][ 53]LogShaderCompilers: Display: Shaders Compiled: 112
+[2024.03.21-14.33.33:149][ 53]LogShaderCompilers: Display: Jobs assigned 112, completed 112 (100.00%)
+[2024.03.21-14.33.33:149][ 53]LogShaderCompilers: Display: Average time worker was idle: 237.59 s
+[2024.03.21-14.33.33:149][ 53]LogShaderCompilers: Display: Time job spent in pending queue: average 1.73 s, longest 5.95 s
+[2024.03.21-14.33.33:149][ 53]LogShaderCompilers: Display: Job execution time: average 1.58 s, max 4.97 s
+[2024.03.21-14.33.33:149][ 53]LogShaderCompilers: Display: Job life time (pending + execution): average 3.30 s, max 6.58
+[2024.03.21-14.33.33:149][ 53]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 27.76 s
+[2024.03.21-14.33.33:149][ 53]LogShaderCompilers: Display: Jobs were issued in 112 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.03.21-14.33.33:149][ 53]LogShaderCompilers: Display: Average processing rate: 4.03 jobs/sec
+[2024.03.21-14.33.33:149][ 53]LogShaderCompilers: Display: Total thread time: 118.16 s
+[2024.03.21-14.33.33:149][ 53]LogShaderCompilers: Display: Total thread preprocess time: 8.09 s
+[2024.03.21-14.33.33:149][ 53]LogShaderCompilers: Display: Percentage time preprocessing: 6.85%
+[2024.03.21-14.33.33:149][ 53]LogShaderCompilers: Display: Effective parallelization: 4.26 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.03.21-14.33.33:149][ 53]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.03.21-14.33.33:149][ 53]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   11 times, average 1.38 sec, max 1.55 sec, min 1.15 sec)
+[2024.03.21-14.33.33:149][ 53]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy (compiled   16 times, average 1.32 sec, max 1.64 sec, min 1.17 sec)
+[2024.03.21-14.33.33:149][ 53]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled   11 times, average 1.29 sec, max 1.47 sec, min 1.12 sec)
+[2024.03.21-14.33.33:149][ 53]LogShaderCompilers: Display:          TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ (compiled    6 times, average 1.26 sec, max 1.49 sec, min 1.13 sec)
+[2024.03.21-14.33.33:149][ 53]LogShaderCompilers: Display:      TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy (compiled   16 times, average 1.20 sec, max 1.46 sec, min 0.96 sec)
+[2024.03.21-14.33.33:150][ 53]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.03.21-14.33.33:150][ 53]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy - 17.85% of total time (compiled   16 times, average 1.32 sec, max 1.64 sec, min 1.17 sec)
+[2024.03.21-14.33.33:150][ 53]LogShaderCompilers: Display:      TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy - 16.30% of total time (compiled   16 times, average 1.20 sec, max 1.46 sec, min 0.96 sec)
+[2024.03.21-14.33.33:150][ 53]LogShaderCompilers: Display:                                                 FLumenCardVS - 14.96% of total time (compiled   17 times, average 1.04 sec, max 1.32 sec, min 0.77 sec)
+[2024.03.21-14.33.33:150][ 53]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 12.87% of total time (compiled   11 times, average 1.38 sec, max 1.55 sec, min 1.15 sec)
+[2024.03.21-14.33.33:150][ 53]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 11.99% of total time (compiled   11 times, average 1.29 sec, max 1.47 sec, min 1.12 sec)
+[2024.03.21-14.33.33:150][ 53]LogShaderCompilers: Display: ================================================
+[2024.03.21-14.33.42:821][427]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPerson/Blueprints/Doors/BP_Doors.BP_Doors
+[2024.03.21-14.33.42:821][427]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.21-14.34.07:913][419]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPerson/Blueprints/Doors/BP_KeyCardDoors.BP_KeyCardDoors
+[2024.03.21-14.34.07:914][419]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.21-14.35.02:859][403]BlueprintLog: New page: Compile BP_KeyCardDoors
+[2024.03.21-14.35.02:996][403]LogUObjectHash: Compacting FUObjectHashTables data took   4.21ms
+[2024.03.21-14.35.03:030][403]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.21-14.35.03:135][403]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/Doors/BP_KeyCardDoors
+[2024.03.21-14.35.03:135][403]LogSavePackage: Moving '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/BP_KeyCardDoors56EBE6CA4C4F8FF86CE4C0AA6686FA7B.tmp' to '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/FirstPerson/Blueprints/Doors/BP_KeyCardDoors.uasset'
+[2024.03.21-14.35.03:149][403]LogFileHelpers: InternalPromptForCheckoutAndSave took 119 ms (total: 7.11 sec)
+[2024.03.21-14.35.03:158][403]AssetCheck: New page: Asset Save: BP_KeyCardDoors
+[2024.03.21-14.35.03:158][403]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/Doors/BP_KeyCardDoors.BP_KeyCardDoors
+[2024.03.21-14.35.05:143][474]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2024.03.21-14.35.05:150][474]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.21-14.35.05:213][474]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Maps/L_2" FILE="../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/FirstPerson/Maps/L_2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.03.21-14.35.05:295][474]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2024.03.21-14.35.05:391][474]LogSavePackage: Moving output files for package: /Game/FirstPerson/Maps/L_2
+[2024.03.21-14.35.05:392][474]LogSavePackage: Moving '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/L_26302E2674509E8BFF679F4A2032FF8C7.tmp' to '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/FirstPerson/Maps/L_2.umap'
+[2024.03.21-14.35.05:418][474]LogFileHelpers: No new changes to save!
+[2024.03.21-14.35.05:422][474]LogFileHelpers: Saving map 'L_2' took 0.210
+[2024.03.21-14.35.07:081][474]LogSlate: Window 'Save Level As' being destroyed
+[2024.03.21-14.35.07:142][474]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.99 sec (total: 9.10 sec)
+[2024.03.21-14.35.07:155][474]AssetCheck: New page: Asset Save: L_2
+[2024.03.21-14.35.07:155][474]LogContentValidation: Display: Validating /Script/Engine.World /Game/FirstPerson/Maps/L_2.L_2

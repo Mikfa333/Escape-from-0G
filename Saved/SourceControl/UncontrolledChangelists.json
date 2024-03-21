@@ -11,7 +11,9 @@
 				"C:/Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/Blueprints/Doors/BP_CommandCenterElevatorDoors.uasset",
 				"C:/Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/Blueprints/Doors/BP_Doors.uasset",
 				"C:/Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/FirstPerson/Blueprints/BP_PowerSwitch.uasset",
-				"C:/Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/FirstPerson/Blueprints/BPCommandCenter_Monitor.uasset"
+				"C:/Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/FirstPerson/Blueprints/BPCommandCenter_Monitor.uasset",
+				"C:/Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/FirstPerson/Blueprints/Doors/BP_CommandCenterElevatorDoors.uasset",
+				"C:/Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/FirstPerson/Blueprints/Doors/BP_KeyCardDoors.uasset"
 			]
 		}
 	]
