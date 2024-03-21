@@ -5,7 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/FirstPerson/Maps/L_Test.umap"
+				"C:/Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/FirstPerson/Maps/L_Test.umap",
+				"C:/Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/Art/Rooms/Wall/WallWithFrames/Wall_Room_frame_Var_1.uasset",
+				"C:/Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/FirstPerson/Maps/L_2.umap"
 			]
 		}
 	]
