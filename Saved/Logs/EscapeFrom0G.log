@@ -14926,3 +14926,270 @@ LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variab
 [2024.03.21-14.35.07:142][474]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.99 sec (total: 9.10 sec)
 [2024.03.21-14.35.07:155][474]AssetCheck: New page: Asset Save: L_2
 [2024.03.21-14.35.07:155][474]LogContentValidation: Display: Validating /Script/Engine.World /Game/FirstPerson/Maps/L_2.L_2
+[2024.03.21-14.35.42:388][804]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.21-14.35.42:395][804]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.21-14.35.42:395][804]PIE: New page: PIE session: L_2 (21 mar 2024, 16:35:42)
+[2024.03.21-14.35.42:395][804]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_L_2
+[2024.03.21-14.35.42:441][804]LogPlayLevel: PIE: StaticDuplicateObject took: (0.045146s)
+[2024.03.21-14.35.42:441][804]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/L_2.L_2 to /Game/FirstPerson/Maps/UEDPIE_0_L_2.L_2 (0.045220s)
+[2024.03.21-14.35.42:441][804]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.21-14.35.42:442][804]LogAIModule: Creating AISystem for world L_2
+[2024.03.21-14.35.42:443][804]LogPlayLevel: PIE: World Init took: (0.002038s)
+[2024.03.21-14.35.42:526][804]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2024.03.21-14.35.42:528][804]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2024.03.21-14.35.42:528][804]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.21-14.35.42:528][804]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.21-14.35.42:528][804]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.21-14.35.42:528][804]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.21-14.35.42:528][804]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.03.21-14.35.42:528][804]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.03.21-14.35.42:528][804]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.03.21-14.35.42:528][804]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.21-14.35.42:528][804]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.21-14.35.42:528][804]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.21-14.35.42:528][804]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.21-14.35.42:532][804]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.21-14.35.42:559][804]LogAudioMixer: Display: Using Audio Hardware Device Głośniki (Realtek(R) Audio)
+[2024.03.21-14.35.42:559][804]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.21-14.35.42:559][804]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.21-14.35.42:559][804]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.21-14.35.42:560][804]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2024.03.21-14.35.42:560][804]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2024.03.21-14.35.42:562][804]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2024.03.21-14.35.42:562][804]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2024.03.21-14.35.42:562][804]LogInit: FAudioDevice initialized.
+[2024.03.21-14.35.42:562][804]LogAudio: Display: Audio Device (ID: 15) registered with world 'L_2'.
+[2024.03.21-14.35.42:567][804]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.03.21-14.35.42:593][804]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_L_2.L_2 up for play (max tick rate 60) at 2024.03.21-15.35.42
+[2024.03.21-14.35.42:595][804]LogWorld: Bringing up level for play took: 0.027917
+[2024.03.21-14.35.42:597][804]LogOnline: OSS: Created online subsystem instance for: :Context_39
+[2024.03.21-14.35.42:603][804]PIE: Server logged in
+[2024.03.21-14.35.42:605][804]PIE: Play in editor total start time 0,21 seconds.
+[2024.03.21-14.35.58:476][601]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.21-14.35.58:476][601]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_L_2
+[2024.03.21-14.35.58:477][601]LogWorld: UWorld::CleanupWorld for L_2, bSessionEnded=true, bCleanupResources=true
+[2024.03.21-14.35.58:480][601]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.21-14.35.58:531][601]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.21-14.35.58:536][601]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.21-14.35.58:612][601]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.03.21-14.35.58:616][601]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2024.03.21-14.35.58:619][601]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2024.03.21-14.35.58:626][601]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.21-14.35.58:633][601]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2024.03.21-14.35.58:689][602]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2024.03.21-14.36.02:354][729]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2024.03.21-14.36.02:354][729]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.21-14.36.56:948][575]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.21-14.36.57:055][575]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/Doors/BP_CommandCenterElevatorDoors
+[2024.03.21-14.36.57:056][575]LogSavePackage: Moving '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/BP_CommandCenterElevatorDoorsE63AECF44858E8791CFDB8A713A2A474.tmp' to '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/FirstPerson/Blueprints/Doors/BP_CommandCenterElevatorDoors.uasset'
+[2024.03.21-14.36.57:081][575]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/Doors/BP_Doors
+[2024.03.21-14.36.57:081][575]LogSavePackage: Moving '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/BP_Doors85A74C224E3D0B3A6EFF509E87C1EB85.tmp' to '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/FirstPerson/Blueprints/Doors/BP_Doors.uasset'
+[2024.03.21-14.36.57:092][575]LogFileHelpers: InternalPromptForCheckoutAndSave took 143 ms (total: 9.24 sec)
+[2024.03.21-14.36.57:105][575]AssetCheck: New page: Asset Save: multiple assets
+[2024.03.21-14.36.57:106][575]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/Doors/BP_CommandCenterElevatorDoors.BP_CommandCenterElevatorDoors
+[2024.03.21-14.36.57:106][575]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/Doors/BP_Doors.BP_Doors
+[2024.03.21-14.37.07:477][873]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPerson/Blueprints/Doors/BP_DebrisDoor.BP_DebrisDoor
+[2024.03.21-14.37.07:478][873]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.21-14.37.39:229][977]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2024.03.21-14.37.39:229][977]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.21-14.37.47:107][245]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPerson/Blueprints/Doors/BP_EscapePodDoorsRight.BP_EscapePodDoorsRight
+[2024.03.21-14.37.47:108][245]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.21-14.37.53:303][439]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2024.03.21-14.37.53:303][439]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.21-14.37.59:347][647]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPerson/Blueprints/Doors/BP_OneWayDoors.BP_OneWayDoors
+[2024.03.21-14.37.59:349][647]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.21-14.37.59:868][647]LogSlate: The tab "Document" attempted to spawn in layout 'Standalone_BlueprintDefaults_Layout_v7' but failed for some reason. An "unrecognized tab" will be returned instead.
+[2024.03.21-14.38.02:953][745]LogSlate: Window 'Document' being destroyed
+[2024.03.21-14.38.02:990][745]LogSlate: Window 'Document' being destroyed
+[2024.03.21-14.38.04:159][784]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2024.03.21-14.38.04:160][784]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.21-14.38.04:214][784]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPerson/Blueprints/Doors/BP_OneWayDoors.BP_OneWayDoors
+[2024.03.21-14.38.04:215][784]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.21-14.38.09:861][964]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2024.03.21-14.38.09:861][964]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.21-14.38.25:289][477]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPerson/Blueprints/Doors/BP_DebrisDoor.BP_DebrisDoor
+[2024.03.21-14.38.25:290][477]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.21-14.38.31:724][678]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2024.03.21-14.38.31:724][678]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.21-14.39.03:829][781]LogViewport: Scene viewport resized to 1133x638, mode Windowed.
+[2024.03.21-14.39.17:161][179]LogHttp: Warning: 00000ACC8B171E00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0E7D8815-4686-84E2-1B59-9885E2A38991%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.1.1-23901901%2B%2B%2BUE5%2BRelease-5.1&UserID=fc53e8e24a6deaaa5acfb7b721c76d3b%7C9f4f2872ca4440f9904eb1ccd0ad3818%7Cf406128b-8dd6-47c0-915a-f45b0e1f606e&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.03.21-14.39.17:161][179]LogHttp: Warning: 00000ACC8B171E00: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2024.03.21-14.39.17:161][179]LogHttp: Warning: 00000ACC8B171E00: libcurl info message cache 0 (Found bundle for host: 0xacbec960e70 [serially])
+[2024.03.21-14.39.17:161][179]LogHttp: Warning: 00000ACC8B171E00: libcurl info message cache 1 (Re-using existing connection #11 with host datarouter.ol.epicgames.com)
+[2024.03.21-14.39.17:161][179]LogHttp: Warning: 00000ACC8B171E00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (107.22.176.201) port 443 (#11))
+[2024.03.21-14.39.17:161][179]LogHttp: Warning: 00000ACC8B171E00: libcurl info message cache 3 (We are completely uploaded and fine)
+[2024.03.21-14.39.17:161][179]LogHttp: Warning: 00000ACC8B171E00: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, close notify (256):)
+[2024.03.21-14.39.17:161][179]LogHttp: Warning: 00000ACC8B171E00: libcurl info message cache 5 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.03.21-14.39.17:161][179]LogHttp: Warning: 00000ACC8B171E00: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2024.03.21-14.39.17:161][179]LogHttp: Warning: 00000ACC8B171E00: libcurl info message cache 7 (Closing connection 11)
+[2024.03.21-14.39.17:161][179]LogHttp: Warning: 00000ACC8B171E00: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.21-14.39.17:161][179]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0E7D8815-4686-84E2-1B59-9885E2A38991%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.1.1-23901901%2B%2B%2BUE5%2BRelease-5.1&UserID=fc53e8e24a6deaaa5acfb7b721c76d3b%7C9f4f2872ca4440f9904eb1ccd0ad3818%7Cf406128b-8dd6-47c0-915a-f45b0e1f606e&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.03.21-14.39.29:391][544]BlueprintLog: New page: Compile BP_Doors
+[2024.03.21-14.39.29:591][544]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2024.03.21-14.39.29:690][544]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.21-14.39.29:790][544]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/Doors/BP_Doors
+[2024.03.21-14.39.29:790][544]LogSavePackage: Moving '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/BP_DoorsBE691FDC482D719109F20488BCE2FDD5.tmp' to '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/FirstPerson/Blueprints/Doors/BP_Doors.uasset'
+[2024.03.21-14.39.29:813][544]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/Doors/BP_CommandCenterElevatorDoors
+[2024.03.21-14.39.29:814][544]LogSavePackage: Moving '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/BP_CommandCenterElevatorDoorsBD73B9AB42FAA7D0A0EAC7B1FC975D90.tmp' to '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/FirstPerson/Blueprints/Doors/BP_CommandCenterElevatorDoors.uasset'
+[2024.03.21-14.39.29:827][544]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/Doors/BP_KeyCardDoors
+[2024.03.21-14.39.29:828][544]LogSavePackage: Moving '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/BP_KeyCardDoorsAD7948C24BB5406B317DC28ACF5F486A.tmp' to '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/FirstPerson/Blueprints/Doors/BP_KeyCardDoors.uasset'
+[2024.03.21-14.39.29:855][544]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/Doors/BP_OneWayDoors
+[2024.03.21-14.39.29:855][544]LogSavePackage: Moving '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/BP_OneWayDoors0F50C3C2423072484617BE94B974ADD7.tmp' to '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/FirstPerson/Blueprints/Doors/BP_OneWayDoors.uasset'
+[2024.03.21-14.39.29:866][544]LogFileHelpers: InternalPromptForCheckoutAndSave took 176 ms (total: 9.42 sec)
+[2024.03.21-14.39.29:875][544]AssetCheck: New page: Asset Save: multiple assets
+[2024.03.21-14.39.29:875][544]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/Doors/BP_CommandCenterElevatorDoors.BP_CommandCenterElevatorDoors
+[2024.03.21-14.39.29:875][544]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/Doors/BP_Doors.BP_Doors
+[2024.03.21-14.39.29:875][544]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/Doors/BP_KeyCardDoors.BP_KeyCardDoors
+[2024.03.21-14.39.29:875][544]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/Doors/BP_OneWayDoors.BP_OneWayDoors
+[2024.03.21-14.39.51:167][184]BlueprintLog: New page: Compile BP_CommandCenterElevatorDoors
+[2024.03.21-14.39.51:288][184]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2024.03.21-14.39.51:355][184]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.21-14.39.51:439][184]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/Doors/BP_CommandCenterElevatorDoors
+[2024.03.21-14.39.51:442][184]LogSavePackage: Moving '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/BP_CommandCenterElevatorDoorsB180950543751423B421AD89C267236A.tmp' to '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/FirstPerson/Blueprints/Doors/BP_CommandCenterElevatorDoors.uasset'
+[2024.03.21-14.39.51:461][184]LogFileHelpers: InternalPromptForCheckoutAndSave took 105 ms (total: 9.53 sec)
+[2024.03.21-14.39.51:470][184]AssetCheck: New page: Asset Save: BP_CommandCenterElevatorDoors
+[2024.03.21-14.39.51:471][184]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/Doors/BP_CommandCenterElevatorDoors.BP_CommandCenterElevatorDoors
+[2024.03.21-14.39.58:547][457]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.21-14.39.58:557][457]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.21-14.39.58:558][457]PIE: New page: PIE session: L_2 (21 mar 2024, 16:39:58)
+[2024.03.21-14.39.58:558][457]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_L_2
+[2024.03.21-14.39.58:598][457]LogPlayLevel: PIE: StaticDuplicateObject took: (0.040843s)
+[2024.03.21-14.39.58:599][457]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/L_2.L_2 to /Game/FirstPerson/Maps/UEDPIE_0_L_2.L_2 (0.040892s)
+[2024.03.21-14.39.58:599][457]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.21-14.39.58:599][457]LogAIModule: Creating AISystem for world L_2
+[2024.03.21-14.39.58:600][457]LogPlayLevel: PIE: World Init took: (0.001002s)
+[2024.03.21-14.39.58:677][457]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2024.03.21-14.39.58:689][457]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2024.03.21-14.39.58:689][457]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.21-14.39.58:689][457]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.21-14.39.58:689][457]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.21-14.39.58:689][457]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.21-14.39.58:689][457]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.03.21-14.39.58:689][457]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.03.21-14.39.58:689][457]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.03.21-14.39.58:689][457]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.21-14.39.58:689][457]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.21-14.39.58:689][457]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.21-14.39.58:689][457]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.21-14.39.58:692][457]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.21-14.39.58:715][457]LogAudioMixer: Display: Using Audio Hardware Device Głośniki (Realtek(R) Audio)
+[2024.03.21-14.39.58:715][457]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.21-14.39.58:715][457]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.21-14.39.58:715][457]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.21-14.39.58:716][457]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=16
+[2024.03.21-14.39.58:716][457]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=16
+[2024.03.21-14.39.58:718][457]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=16
+[2024.03.21-14.39.58:718][457]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=16
+[2024.03.21-14.39.58:718][457]LogInit: FAudioDevice initialized.
+[2024.03.21-14.39.58:718][457]LogAudio: Display: Audio Device (ID: 16) registered with world 'L_2'.
+[2024.03.21-14.39.58:722][457]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.03.21-14.39.58:738][457]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_L_2.L_2 up for play (max tick rate 60) at 2024.03.21-15.39.58
+[2024.03.21-14.39.58:739][457]LogWorld: Bringing up level for play took: 0.016249
+[2024.03.21-14.39.58:744][457]LogOnline: OSS: Created online subsystem instance for: :Context_49
+[2024.03.21-14.39.58:753][457]PIE: Server logged in
+[2024.03.21-14.39.58:753][457]PIE: Play in editor total start time 0,196 seconds.
+[2024.03.21-14.40.19:076][471]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.21-14.40.19:076][471]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_L_2
+[2024.03.21-14.40.19:076][471]LogWorld: UWorld::CleanupWorld for L_2, bSessionEnded=true, bCleanupResources=true
+[2024.03.21-14.40.19:078][471]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.21-14.40.19:098][471]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.21-14.40.19:105][471]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.21-14.40.19:173][471]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.21-14.40.19:176][471]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2024.03.21-14.40.19:178][471]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2024.03.21-14.40.19:192][471]LogUObjectHash: Compacting FUObjectHashTables data took   4.24ms
+[2024.03.21-14.40.19:251][472]LogPlayLevel: Display: Destroying online subsystem :Context_49
+[2024.03.21-14.40.46:786][305]BlueprintLog: New page: Compile BP_CommandCenterElevatorDoors
+[2024.03.21-14.40.46:912][305]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2024.03.21-14.40.46:977][305]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.21-14.40.47:078][305]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/Doors/BP_CommandCenterElevatorDoors
+[2024.03.21-14.40.47:079][305]LogSavePackage: Moving '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/BP_CommandCenterElevatorDoors650A0CD94167E2985E3A958EF0B5C6AB.tmp' to '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/FirstPerson/Blueprints/Doors/BP_CommandCenterElevatorDoors.uasset'
+[2024.03.21-14.40.47:099][305]LogFileHelpers: InternalPromptForCheckoutAndSave took 121 ms (total: 9.65 sec)
+[2024.03.21-14.40.47:109][305]AssetCheck: New page: Asset Save: BP_CommandCenterElevatorDoors
+[2024.03.21-14.40.47:109][305]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/Doors/BP_CommandCenterElevatorDoors.BP_CommandCenterElevatorDoors
+[2024.03.21-14.40.51:016][419]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.21-14.40.51:026][419]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.21-14.40.51:026][419]PIE: New page: PIE session: L_2 (21 mar 2024, 16:40:51)
+[2024.03.21-14.40.51:026][419]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_L_2
+[2024.03.21-14.40.51:070][419]LogPlayLevel: PIE: StaticDuplicateObject took: (0.045014s)
+[2024.03.21-14.40.51:071][419]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/L_2.L_2 to /Game/FirstPerson/Maps/UEDPIE_0_L_2.L_2 (0.045092s)
+[2024.03.21-14.40.51:071][419]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.21-14.40.51:071][419]LogAIModule: Creating AISystem for world L_2
+[2024.03.21-14.40.51:072][419]LogPlayLevel: PIE: World Init took: (0.001039s)
+[2024.03.21-14.40.51:142][419]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2024.03.21-14.40.51:146][419]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2024.03.21-14.40.51:146][419]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.21-14.40.51:146][419]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.21-14.40.51:146][419]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.21-14.40.51:146][419]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.21-14.40.51:146][419]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.03.21-14.40.51:146][419]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.03.21-14.40.51:146][419]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.03.21-14.40.51:146][419]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.21-14.40.51:147][419]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.21-14.40.51:147][419]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.21-14.40.51:147][419]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.21-14.40.51:151][419]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.21-14.40.51:186][419]LogAudioMixer: Display: Using Audio Hardware Device Głośniki (Realtek(R) Audio)
+[2024.03.21-14.40.51:186][419]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.21-14.40.51:186][419]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.21-14.40.51:186][419]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.21-14.40.51:188][419]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=17
+[2024.03.21-14.40.51:188][419]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=17
+[2024.03.21-14.40.51:195][419]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=17
+[2024.03.21-14.40.51:195][419]LogInit: FAudioDevice initialized.
+[2024.03.21-14.40.51:195][419]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=17
+[2024.03.21-14.40.51:195][419]LogAudio: Display: Audio Device (ID: 17) registered with world 'L_2'.
+[2024.03.21-14.40.51:203][419]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.03.21-14.40.51:226][419]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_L_2.L_2 up for play (max tick rate 60) at 2024.03.21-15.40.51
+[2024.03.21-14.40.51:227][419]LogWorld: Bringing up level for play took: 0.024543
+[2024.03.21-14.40.51:231][419]LogOnline: OSS: Created online subsystem instance for: :Context_50
+[2024.03.21-14.40.51:237][419]PIE: Server logged in
+[2024.03.21-14.40.51:238][419]PIE: Play in editor total start time 0,213 seconds.
+[2024.03.21-14.41.01:475][920]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.21-14.41.01:475][920]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_L_2
+[2024.03.21-14.41.01:476][920]LogWorld: UWorld::CleanupWorld for L_2, bSessionEnded=true, bCleanupResources=true
+[2024.03.21-14.41.01:477][920]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.21-14.41.01:487][920]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.21-14.41.01:498][920]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.21-14.41.01:571][920]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.03.21-14.41.01:571][920]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2024.03.21-14.41.01:573][920]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2024.03.21-14.41.01:580][920]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.21-14.41.01:587][920]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2024.03.21-14.41.01:646][921]LogPlayLevel: Display: Destroying online subsystem :Context_50
+[2024.03.21-14.41.06:337][ 92]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.03.21-14.41.22:386][825]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.03.21-14.41.24:925][952]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2024.03.21-14.41.24:932][952]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.21-14.41.25:001][952]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Maps/L_2" FILE="../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/FirstPerson/Maps/L_2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.03.21-14.41.25:100][952]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2024.03.21-14.41.25:208][952]LogSavePackage: Moving output files for package: /Game/FirstPerson/Maps/L_2
+[2024.03.21-14.41.25:209][952]LogSavePackage: Moving '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/L_21A6033304C25A96D3AD670A67EBFB485.tmp' to '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/FirstPerson/Maps/L_2.umap'
+[2024.03.21-14.41.25:232][952]LogFileHelpers: No new changes to save!
+[2024.03.21-14.41.25:232][952]LogFileHelpers: Saving map 'L_2' took 0.233
+[2024.03.21-14.41.25:233][952]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.21-14.41.25:312][952]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2024.03.21-14.41.25:346][952]LogSavePackage: Moving output files for package: /Game/FirstPerson/Maps/Untitled
+[2024.03.21-14.41.25:347][952]LogSavePackage: Moving '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/Untitled207839E14A7A63AFD2461EA77086F08A.tmp' to '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/FirstPerson/Maps/Untitled.umap'
+[2024.03.21-14.41.25:386][952]LogFileHelpers: Saving map 'Untitled' took 0.154
+[2024.03.21-14.41.25:387][952]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.21-14.41.25:420][952]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Maps/L_1" FILE="../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/FirstPerson/Maps/L_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.03.21-14.41.25:483][952]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.03.21-14.41.25:519][952]LogSavePackage: Moving output files for package: /Game/FirstPerson/Maps/L_1
+[2024.03.21-14.41.25:519][952]LogSavePackage: Moving '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/L_1282227CE44D071C9821A11A8F0C4EE7F.tmp' to '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/FirstPerson/Maps/L_1.umap'
+[2024.03.21-14.41.25:546][952]LogFileHelpers: Saving map 'L_1' took 0.160
+[2024.03.21-14.41.25:547][952]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.21-14.41.25:619][952]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2024.03.21-14.41.25:658][952]LogSavePackage: Moving output files for package: /Game/FirstPerson/Maps/L_11
+[2024.03.21-14.41.25:659][952]LogSavePackage: Moving '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/L_11392355874C958EC9F41241AF31B302BF.tmp' to '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/FirstPerson/Maps/L_11.umap'
+[2024.03.21-14.41.25:686][952]LogFileHelpers: Saving map 'L_11' took 0.139
+[2024.03.21-14.41.27:890][952]LogSlate: Window 'Save Level As' being destroyed
+[2024.03.21-14.41.27:927][952]LogFileHelpers: InternalPromptForCheckoutAndSave took 2.99 sec (total: 12.6 sec)
+[2024.03.21-14.41.27:936][952]AssetCheck: New page: Asset Save: multiple assets
+[2024.03.21-14.41.27:936][952]LogContentValidation: Display: Validating /Script/Engine.World /Game/FirstPerson/Maps/L_2.L_2
+[2024.03.21-14.41.27:936][952]LogContentValidation: Display: Validating /Script/Engine.World /Game/FirstPerson/Maps/L_1.L_1
+[2024.03.21-14.41.27:936][952]LogContentValidation: Display: Validating /Script/Engine.World /Game/FirstPerson/Maps/L_11.L_11
+[2024.03.21-14.41.27:936][952]LogContentValidation: Display: Validating /Script/Engine.World /Game/FirstPerson/Maps/Untitled.Untitled
+[2024.03.21-14.41.29:085][999]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2024.03.21-14.41.30:360][999]LogSlate: Window 'Save Content' being destroyed
