@@ -5,7 +5,20 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/FirstPerson/Maps/L_Test.umap"
+				"C:/Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/FirstPerson/Maps/L_Test.umap",
+				"C:/Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/Art/Rooms/Wall/WallWithFrames/Wall_Room_frame_Var_1.uasset",
+				"C:/Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/FirstPerson/Maps/L_2.umap",
+				"C:/Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/Blueprints/Doors/BP_CommandCenterElevatorDoors.uasset",
+				"C:/Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/Blueprints/Doors/BP_Doors.uasset",
+				"C:/Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/FirstPerson/Blueprints/BP_PowerSwitch.uasset",
+				"C:/Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/FirstPerson/Blueprints/BPCommandCenter_Monitor.uasset",
+				"C:/Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/FirstPerson/Blueprints/Doors/BP_CommandCenterElevatorDoors.uasset",
+				"C:/Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/FirstPerson/Blueprints/Doors/BP_KeyCardDoors.uasset",
+				"C:/Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/FirstPerson/Blueprints/Doors/BP_Doors.uasset",
+				"C:/Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/FirstPerson/Blueprints/Doors/BP_OneWayDoors.uasset",
+				"C:/Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/FirstPerson/Maps/Untitled.umap",
+				"C:/Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/FirstPerson/Maps/L_1.umap",
+				"C:/Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/FirstPerson/Maps/L_11.umap"
 			]
 		}
 	]

@@ -15193,6 +15193,7 @@ LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variab
 [2024.03.21-14.41.27:936][952]LogContentValidation: Display: Validating /Script/Engine.World /Game/FirstPerson/Maps/Untitled.Untitled
 [2024.03.21-14.41.29:085][999]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
 [2024.03.21-14.41.30:360][999]LogSlate: Window 'Save Content' being destroyed
+<<<<<<< HEAD
 [2024.03.21-14.42.17:430][305]LogHttp: Warning: 00000ACC7AC7C300: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0E7D8815-4686-84E2-1B59-9885E2A38991%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.1.1-23901901%2B%2B%2BUE5%2BRelease-5.1&UserID=fc53e8e24a6deaaa5acfb7b721c76d3b%7C9f4f2872ca4440f9904eb1ccd0ad3818%7Cf406128b-8dd6-47c0-915a-f45b0e1f606e&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
 [2024.03.21-14.42.17:430][305]LogHttp: Warning: 00000ACC7AC7C300: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
 [2024.03.21-14.42.17:430][305]LogHttp: Warning: 00000ACC7AC7C300: libcurl info message cache 0 (Found bundle for host: 0xacbec960690 [serially])
@@ -15218,3 +15219,5 @@ LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variab
 [2024.03.21-14.45.17:476][845]LogHttp: Warning: 00000ACC7AC71900: libcurl info message cache 7 (Closing connection 13)
 [2024.03.21-14.45.17:476][845]LogHttp: Warning: 00000ACC7AC71900: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, close notify (256):)
 [2024.03.21-14.45.17:476][845]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0E7D8815-4686-84E2-1B59-9885E2A38991%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.1.1-23901901%2B%2B%2BUE5%2BRelease-5.1&UserID=fc53e8e24a6deaaa5acfb7b721c76d3b%7C9f4f2872ca4440f9904eb1ccd0ad3818%7Cf406128b-8dd6-47c0-915a-f45b0e1f606e&AppEnvironment=datacollector-binary&UploadType=eteventstream
+=======
+>>>>>>> FIX_Door_in_2nd_level_command_center
