@@ -2509,6 +2509,7 @@ UnknownFunction []
 [2024.03.25-22.36.46:263][980]AssetCheck: New page: Asset Save: multiple assets
 [2024.03.25-22.36.46:263][980]LogContentValidation: Display: Validating /Script/Engine.World /Game/FirstPerson/Maps/L_3.L_3
 [2024.03.25-22.36.46:263][980]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/FirstPerson/Maps/_GENERATED/mikir/Box_83BC87BF.Box_83BC87BF
+<<<<<<< HEAD
 [2024.03.25-22.37.57:353][375]LogUObjectHash: Compacting FUObjectHashTables data took   3.86ms
 [2024.03.25-22.37.57:355][375]LogStall: Shutdown...
 [2024.03.25-22.37.57:362][375]LogStall: Shutdown complete.
@@ -3128,3 +3129,5 @@ UnknownFunction []
 [2024.03.25-22.38.01:766][376]LogD3D12RHI: ~FD3D12DynamicRHI
 [2024.03.25-22.38.01:829][376]LogExit: Exiting.
 [2024.03.25-22.38.01:844][376]Log file closed, 03/25/24 23:38:01
+=======
+>>>>>>> FIX_Walls_and_Ceiling_Escape_Pod_Room
