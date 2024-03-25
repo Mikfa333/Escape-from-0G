@@ -2209,3 +2209,303 @@ UnknownFunction []
 [2024.03.25-22.29.30:029][373]LogFileHelpers: InternalPromptForCheckoutAndSave took 292 ms (total: 7.01 sec)
 [2024.03.25-22.29.30:039][373]AssetCheck: New page: Asset Save: L_3
 [2024.03.25-22.29.30:039][373]LogContentValidation: Display: Validating /Script/Engine.World /Game/FirstPerson/Maps/L_3.L_3
+[2024.03.25-22.29.34:082][441]LogHttp: Warning: 000007512D397300: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BDE6AA45D-48C1-0DF4-30CC-528164FEA55C%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.1.1-23901901%2B%2B%2BUE5%2BRelease-5.1&UserID=fc53e8e24a6deaaa5acfb7b721c76d3b%7C9f4f2872ca4440f9904eb1ccd0ad3818%7Cf406128b-8dd6-47c0-915a-f45b0e1f606e&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.03.25-22.29.34:082][441]LogHttp: Warning: 000007512D397300: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2024.03.25-22.29.34:082][441]LogHttp: Warning: 000007512D397300: libcurl info message cache 0 (Found bundle for host: 0x750b0970a50 [serially])
+[2024.03.25-22.29.34:082][441]LogHttp: Warning: 000007512D397300: libcurl info message cache 1 (Re-using existing connection #4 with host datarouter.ol.epicgames.com)
+[2024.03.25-22.29.34:082][441]LogHttp: Warning: 000007512D397300: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (3.208.253.152) port 443 (#4))
+[2024.03.25-22.29.34:082][441]LogHttp: Warning: 000007512D397300: libcurl info message cache 3 (We are completely uploaded and fine)
+[2024.03.25-22.29.34:082][441]LogHttp: Warning: 000007512D397300: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, close notify (256):)
+[2024.03.25-22.29.34:082][441]LogHttp: Warning: 000007512D397300: libcurl info message cache 5 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.03.25-22.29.34:082][441]LogHttp: Warning: 000007512D397300: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2024.03.25-22.29.34:082][441]LogHttp: Warning: 000007512D397300: libcurl info message cache 7 (Closing connection 4)
+[2024.03.25-22.29.34:082][441]LogHttp: Warning: 000007512D397300: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.25-22.29.34:082][441]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BDE6AA45D-48C1-0DF4-30CC-528164FEA55C%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.1.1-23901901%2B%2B%2BUE5%2BRelease-5.1&UserID=fc53e8e24a6deaaa5acfb7b721c76d3b%7C9f4f2872ca4440f9904eb1ccd0ad3818%7Cf406128b-8dd6-47c0-915a-f45b0e1f606e&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.03.25-22.30.46:747][583]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.03.25-22.30.50:167][771]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.25-22.30.50:176][771]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.25-22.30.50:177][771]PIE: New page: PIE session: L_3 (26 mar 2024, 00:30:50)
+[2024.03.25-22.30.50:177][771]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_L_3
+[2024.03.25-22.30.50:215][771]LogPlayLevel: PIE: StaticDuplicateObject took: (0.038201s)
+[2024.03.25-22.30.50:215][771]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/L_3.L_3 to /Game/FirstPerson/Maps/UEDPIE_0_L_3.L_3 (0.038298s)
+[2024.03.25-22.30.50:215][771]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.25-22.30.50:216][771]LogAIModule: Creating AISystem for world L_3
+[2024.03.25-22.30.50:216][771]LogPlayLevel: PIE: World Init took: (0.001347s)
+[2024.03.25-22.30.50:294][771]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2024.03.25-22.30.50:299][771]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2024.03.25-22.30.50:299][771]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.25-22.30.50:299][771]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.25-22.30.50:299][771]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.25-22.30.50:299][771]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.25-22.30.50:299][771]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.03.25-22.30.50:299][771]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.03.25-22.30.50:299][771]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.03.25-22.30.50:299][771]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.25-22.30.50:300][771]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.25-22.30.50:300][771]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.25-22.30.50:300][771]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.25-22.30.50:304][771]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.25-22.30.50:326][771]LogAudioMixer: Display: Using Audio Hardware Device Głośniki (Realtek(R) Audio)
+[2024.03.25-22.30.50:326][771]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.25-22.30.50:326][771]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.25-22.30.50:326][771]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.25-22.30.50:328][771]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2024.03.25-22.30.50:328][771]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2024.03.25-22.30.50:330][771]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2024.03.25-22.30.50:330][771]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2024.03.25-22.30.50:330][771]LogInit: FAudioDevice initialized.
+[2024.03.25-22.30.50:330][771]LogAudio: Display: Audio Device (ID: 12) registered with world 'L_3'.
+[2024.03.25-22.30.50:337][771]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.03.25-22.30.50:353][771]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_L_3.L_3 up for play (max tick rate 60) at 2024.03.25-23.30.50
+[2024.03.25-22.30.50:354][771]LogWorld: Bringing up level for play took: 0.015426
+[2024.03.25-22.30.50:357][771]LogOnline: OSS: Created online subsystem instance for: :Context_41
+[2024.03.25-22.30.50:363][771]PIE: Server logged in
+[2024.03.25-22.30.50:364][771]PIE: Play in editor total start time 0,188 seconds.
+[2024.03.25-22.31.04:290][585]LogShaderCompilers: Display: ================================================
+[2024.03.25-22.31.04:290][585]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.03.25-22.31.04:290][585]LogShaderCompilers: Display: Total job queries 335, among them cache hits 72 (21.49%)
+[2024.03.25-22.31.04:290][585]LogShaderCompilers: Display: Tracking 260 distinct input hashes that result in 158 distinct outputs (60.77%)
+[2024.03.25-22.31.04:290][585]LogShaderCompilers: Display: RAM used: 1.85 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.23%
+[2024.03.25-22.31.04:290][585]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.03.25-22.31.04:291][585]LogShaderCompilers: Display: Shaders Compiled: 60
+[2024.03.25-22.31.04:291][585]LogShaderCompilers: Display: Jobs assigned 63, completed 60 (95.24%)
+[2024.03.25-22.31.04:291][585]LogShaderCompilers: Display: Average time worker was idle: 151.59 s
+[2024.03.25-22.31.04:291][585]LogShaderCompilers: Display: Time job spent in pending queue: average 0.43 s, longest 3.89 s
+[2024.03.25-22.31.04:291][585]LogShaderCompilers: Display: Job execution time: average 2.05 s, max 6.62 s
+[2024.03.25-22.31.04:291][585]LogShaderCompilers: Display: Job life time (pending + execution): average 2.50 s, max 6.68
+[2024.03.25-22.31.04:291][585]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 28.16 s
+[2024.03.25-22.31.04:291][585]LogShaderCompilers: Display: Jobs were issued in 63 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.03.25-22.31.04:291][585]LogShaderCompilers: Display: Average processing rate: 2.13 jobs/sec
+[2024.03.25-22.31.04:291][585]LogShaderCompilers: Display: Total thread time: 87.47 s
+[2024.03.25-22.31.04:291][585]LogShaderCompilers: Display: Total thread preprocess time: 7.57 s
+[2024.03.25-22.31.04:291][585]LogShaderCompilers: Display: Percentage time preprocessing: 8.66%
+[2024.03.25-22.31.04:291][585]LogShaderCompilers: Display: Effective parallelization: 3.11 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.03.25-22.31.04:291][585]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.03.25-22.31.04:291][585]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled   10 times, average 2.38 sec, max 5.64 sec, min 0.67 sec)
+[2024.03.25-22.31.04:291][585]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   10 times, average 2.33 sec, max 5.87 sec, min 0.71 sec)
+[2024.03.25-22.31.04:291][585]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    2 times, average 1.48 sec, max 1.76 sec, min 1.21 sec)
+[2024.03.25-22.31.04:291][585]LogShaderCompilers: Display:                        FLumenFrontLayerTranslucencyGBufferVS (compiled    1 times, average 1.38 sec, max 1.38 sec, min 1.38 sec)
+[2024.03.25-22.31.04:291][585]LogShaderCompilers: Display:                        FLumenTranslucencyRadianceCacheMarkVS (compiled    1 times, average 1.37 sec, max 1.37 sec, min 1.37 sec)
+[2024.03.25-22.31.04:291][585]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.03.25-22.31.04:291][585]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 27.19% of total time (compiled   10 times, average 2.38 sec, max 5.64 sec, min 0.67 sec)
+[2024.03.25-22.31.04:291][585]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 26.60% of total time (compiled   10 times, average 2.33 sec, max 5.87 sec, min 0.71 sec)
+[2024.03.25-22.31.04:291][585]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 3.39% of total time (compiled    2 times, average 1.48 sec, max 1.76 sec, min 1.21 sec)
+[2024.03.25-22.31.04:291][585]LogShaderCompilers: Display:                                                 FLumenCardVS - 3.30% of total time (compiled    3 times, average 0.96 sec, max 1.21 sec, min 0.59 sec)
+[2024.03.25-22.31.04:291][585]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 3.17% of total time (compiled    4 times, average 0.69 sec, max 0.91 sec, min 0.36 sec)
+[2024.03.25-22.31.04:291][585]LogShaderCompilers: Display: ================================================
+[2024.03.25-22.31.04:441][588]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.25-22.31.04:441][588]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_L_3
+[2024.03.25-22.31.04:442][588]LogWorld: UWorld::CleanupWorld for L_3, bSessionEnded=true, bCleanupResources=true
+[2024.03.25-22.31.04:444][588]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.25-22.31.04:456][588]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.25-22.31.04:474][588]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.25-22.31.04:550][588]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.03.25-22.31.04:551][588]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2024.03.25-22.31.04:554][588]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2024.03.25-22.31.04:562][588]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.25-22.31.04:579][588]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2024.03.25-22.31.04:649][589]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2024.03.25-22.31.07:212][722]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.03.25-22.31.12:925][991]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/FirstPerson/Maps/_GENERATED/mikir/Box_83BC87BF.Box_83BC87BF
+[2024.03.25-22.31.12:965][991]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.25-22.31.13:332][991]LogViewport: Scene viewport resized to 1405x894, mode Windowed.
+[2024.03.25-22.32.35:889][988]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.25-22.32.35:997][988]LogSavePackage: Moving output files for package: /Game/FirstPerson/Maps/_GENERATED/mikir/Box_83BC87BF
+[2024.03.25-22.32.35:998][988]LogSavePackage: Moving '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/Box_83BC87BFF45D5D0049B702D2B6BB46A567A35336.tmp' to '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/FirstPerson/Maps/_GENERATED/mikir/Box_83BC87BF.uasset'
+[2024.03.25-22.32.36:009][988]LogFileHelpers: InternalPromptForCheckoutAndSave took 120 ms (total: 7.14 sec)
+[2024.03.25-22.32.36:029][988]AssetCheck: New page: Asset Save: Box_83BC87BF
+[2024.03.25-22.32.36:029][988]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/FirstPerson/Maps/_GENERATED/mikir/Box_83BC87BF.Box_83BC87BF
+[2024.03.25-22.32.38:749][107]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.25-22.32.38:762][107]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.25-22.32.38:763][107]PIE: New page: PIE session: L_3 (26 mar 2024, 00:32:38)
+[2024.03.25-22.32.38:763][107]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_L_3
+[2024.03.25-22.32.38:805][107]LogPlayLevel: PIE: StaticDuplicateObject took: (0.042617s)
+[2024.03.25-22.32.38:805][107]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/L_3.L_3 to /Game/FirstPerson/Maps/UEDPIE_0_L_3.L_3 (0.042699s)
+[2024.03.25-22.32.38:805][107]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.25-22.32.38:806][107]LogAIModule: Creating AISystem for world L_3
+[2024.03.25-22.32.38:806][107]LogPlayLevel: PIE: World Init took: (0.001299s)
+[2024.03.25-22.32.38:883][107]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2024.03.25-22.32.38:885][107]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2024.03.25-22.32.38:885][107]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.25-22.32.38:885][107]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.25-22.32.38:885][107]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.25-22.32.38:885][107]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.25-22.32.38:885][107]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.03.25-22.32.38:885][107]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.03.25-22.32.38:885][107]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.03.25-22.32.38:885][107]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.25-22.32.38:885][107]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.25-22.32.38:887][107]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.25-22.32.38:887][107]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.25-22.32.38:890][107]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.25-22.32.38:911][107]LogAudioMixer: Display: Using Audio Hardware Device Głośniki (Realtek(R) Audio)
+[2024.03.25-22.32.38:911][107]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.25-22.32.38:912][107]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.25-22.32.38:912][107]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.25-22.32.38:913][107]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2024.03.25-22.32.38:913][107]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2024.03.25-22.32.38:916][107]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2024.03.25-22.32.38:916][107]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2024.03.25-22.32.38:916][107]LogInit: FAudioDevice initialized.
+[2024.03.25-22.32.38:916][107]LogAudio: Display: Audio Device (ID: 13) registered with world 'L_3'.
+[2024.03.25-22.32.38:923][107]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.03.25-22.32.38:938][107]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_L_3.L_3 up for play (max tick rate 60) at 2024.03.25-23.32.38
+[2024.03.25-22.32.38:939][107]LogWorld: Bringing up level for play took: 0.015611
+[2024.03.25-22.32.38:942][107]LogOnline: OSS: Created online subsystem instance for: :Context_43
+[2024.03.25-22.32.38:949][107]PIE: Server logged in
+[2024.03.25-22.32.38:949][107]PIE: Play in editor total start time 0,188 seconds.
+[2024.03.25-22.32.52:991][934]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.25-22.32.52:991][934]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_L_3
+[2024.03.25-22.32.52:992][934]LogWorld: UWorld::CleanupWorld for L_3, bSessionEnded=true, bCleanupResources=true
+[2024.03.25-22.32.52:999][934]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.25-22.32.53:006][934]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.25-22.32.53:013][934]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.25-22.32.53:101][934]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.03.25-22.32.53:102][934]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2024.03.25-22.32.53:104][934]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2024.03.25-22.32.53:111][934]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.25-22.32.53:119][934]LogUObjectHash: Compacting FUObjectHashTables data took   3.40ms
+[2024.03.25-22.32.53:203][935]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2024.03.25-22.35.00:498][125]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.25-22.35.00:580][125]LogSavePackage: Moving output files for package: /Game/FirstPerson/Maps/_GENERATED/mikir/Box_83BC87BF
+[2024.03.25-22.35.00:581][125]LogSavePackage: Moving '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/Box_83BC87BF99C0FDE246800859A3CA68B33A6C2B2A.tmp' to '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/FirstPerson/Maps/_GENERATED/mikir/Box_83BC87BF.uasset'
+[2024.03.25-22.35.00:601][125]LogFileHelpers: InternalPromptForCheckoutAndSave took 103 ms (total: 7.24 sec)
+[2024.03.25-22.35.00:612][125]AssetCheck: New page: Asset Save: Box_83BC87BF
+[2024.03.25-22.35.00:612][125]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/FirstPerson/Maps/_GENERATED/mikir/Box_83BC87BF.Box_83BC87BF
+[2024.03.25-22.35.03:956][285]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.25-22.35.03:962][285]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.25-22.35.03:962][285]PIE: New page: PIE session: L_3 (26 mar 2024, 00:35:03)
+[2024.03.25-22.35.03:962][285]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_L_3
+[2024.03.25-22.35.03:998][285]LogPlayLevel: PIE: StaticDuplicateObject took: (0.035708s)
+[2024.03.25-22.35.03:998][285]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/L_3.L_3 to /Game/FirstPerson/Maps/UEDPIE_0_L_3.L_3 (0.035769s)
+[2024.03.25-22.35.03:998][285]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.25-22.35.03:999][285]LogAIModule: Creating AISystem for world L_3
+[2024.03.25-22.35.04:000][285]LogPlayLevel: PIE: World Init took: (0.001039s)
+[2024.03.25-22.35.04:075][285]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2024.03.25-22.35.04:079][285]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2024.03.25-22.35.04:079][285]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.25-22.35.04:079][285]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.25-22.35.04:079][285]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.25-22.35.04:079][285]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.25-22.35.04:079][285]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.03.25-22.35.04:079][285]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.03.25-22.35.04:079][285]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.03.25-22.35.04:079][285]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.25-22.35.04:080][285]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.25-22.35.04:081][285]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.25-22.35.04:081][285]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.25-22.35.04:084][285]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.25-22.35.04:112][285]LogAudioMixer: Display: Using Audio Hardware Device Głośniki (Realtek(R) Audio)
+[2024.03.25-22.35.04:113][285]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.25-22.35.04:113][285]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.25-22.35.04:113][285]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.25-22.35.04:119][285]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2024.03.25-22.35.04:119][285]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2024.03.25-22.35.04:121][285]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2024.03.25-22.35.04:121][285]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2024.03.25-22.35.04:122][285]LogInit: FAudioDevice initialized.
+[2024.03.25-22.35.04:122][285]LogAudio: Display: Audio Device (ID: 14) registered with world 'L_3'.
+[2024.03.25-22.35.04:125][285]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.03.25-22.35.04:141][285]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_L_3.L_3 up for play (max tick rate 60) at 2024.03.25-23.35.04
+[2024.03.25-22.35.04:142][285]LogWorld: Bringing up level for play took: 0.016710
+[2024.03.25-22.35.04:146][285]LogOnline: OSS: Created online subsystem instance for: :Context_44
+[2024.03.25-22.35.04:157][285]PIE: Server logged in
+[2024.03.25-22.35.04:157][285]PIE: Play in editor total start time 0,196 seconds.
+[2024.03.25-22.35.10:742][668]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.25-22.35.10:742][668]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_L_3
+[2024.03.25-22.35.10:742][668]LogWorld: UWorld::CleanupWorld for L_3, bSessionEnded=true, bCleanupResources=true
+[2024.03.25-22.35.10:745][668]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.25-22.35.10:752][668]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.25-22.35.10:759][668]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.25-22.35.10:831][668]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.03.25-22.35.10:831][668]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2024.03.25-22.35.10:833][668]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2024.03.25-22.35.10:838][668]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.25-22.35.10:847][668]LogUObjectHash: Compacting FUObjectHashTables data took   3.32ms
+[2024.03.25-22.35.10:911][669]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2024.03.25-22.35.30:572][815]Cmd: DUPLICATE
+[2024.03.25-22.35.30:572][815]Cmd: ACTOR DUPLICATE
+[2024.03.25-22.35.33:786][  1]LogHttp: Warning: 000007512D749B00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BDE6AA45D-48C1-0DF4-30CC-528164FEA55C%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.1.1-23901901%2B%2B%2BUE5%2BRelease-5.1&UserID=fc53e8e24a6deaaa5acfb7b721c76d3b%7C9f4f2872ca4440f9904eb1ccd0ad3818%7Cf406128b-8dd6-47c0-915a-f45b0e1f606e&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.03.25-22.35.33:786][  1]LogHttp: Warning: 000007512D749B00: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2024.03.25-22.35.33:786][  1]LogHttp: Warning: 000007512D749B00: libcurl info message cache 0 (Found bundle for host: 0x750b0970f00 [serially])
+[2024.03.25-22.35.33:786][  1]LogHttp: Warning: 000007512D749B00: libcurl info message cache 1 (Re-using existing connection #5 with host datarouter.ol.epicgames.com)
+[2024.03.25-22.35.33:786][  1]LogHttp: Warning: 000007512D749B00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (3.226.210.153) port 443 (#5))
+[2024.03.25-22.35.33:786][  1]LogHttp: Warning: 000007512D749B00: libcurl info message cache 3 (We are completely uploaded and fine)
+[2024.03.25-22.35.33:786][  1]LogHttp: Warning: 000007512D749B00: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, close notify (256):)
+[2024.03.25-22.35.33:786][  1]LogHttp: Warning: 000007512D749B00: libcurl info message cache 5 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.03.25-22.35.33:786][  1]LogHttp: Warning: 000007512D749B00: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2024.03.25-22.35.33:786][  1]LogHttp: Warning: 000007512D749B00: libcurl info message cache 7 (Closing connection 5)
+[2024.03.25-22.35.33:786][  1]LogHttp: Warning: 000007512D749B00: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.25-22.35.33:786][  1]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BDE6AA45D-48C1-0DF4-30CC-528164FEA55C%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.1.1-23901901%2B%2B%2BUE5%2BRelease-5.1&UserID=fc53e8e24a6deaaa5acfb7b721c76d3b%7C9f4f2872ca4440f9904eb1ccd0ad3818%7Cf406128b-8dd6-47c0-915a-f45b0e1f606e&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.03.25-22.35.39:316][327]Cmd: TRANSACTION UNDO
+[2024.03.25-22.35.39:316][327]LogEditorTransaction: Undo Move Elements
+[2024.03.25-22.36.03:648][653]LogViewport: Scene viewport resized to 762x894, mode Windowed.
+[2024.03.25-22.36.20:318][548]LogStaticMesh: Display: Building static mesh Box_83BC87BF...
+[2024.03.25-22.36.20:324][548]LogStaticMesh: Built static mesh [0.01s] /Game/FirstPerson/Maps/_GENERATED/mikir/Box_83BC87BF.Box_83BC87BF
+[2024.03.25-22.36.21:721][623]LogMeshUtilities: Finished distance field build in 1.4s - 126x126x63 sparse distance field, 1.2Mb total, 0.0Mb always loaded, 66% occupied, 76 triangles, Box_83BC87BF
+[2024.03.25-22.36.22:861][687]LogViewport: Scene viewport resized to 1197x894, mode Windowed.
+[2024.03.25-22.36.24:066][751]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.25-22.36.24:074][751]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.25-22.36.24:074][751]PIE: New page: PIE session: L_3 (26 mar 2024, 00:36:24)
+[2024.03.25-22.36.24:074][751]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_L_3
+[2024.03.25-22.36.24:120][751]LogPlayLevel: PIE: StaticDuplicateObject took: (0.046225s)
+[2024.03.25-22.36.24:120][751]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/L_3.L_3 to /Game/FirstPerson/Maps/UEDPIE_0_L_3.L_3 (0.046289s)
+[2024.03.25-22.36.24:120][751]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.25-22.36.24:121][751]LogAIModule: Creating AISystem for world L_3
+[2024.03.25-22.36.24:121][751]LogPlayLevel: PIE: World Init took: (0.001356s)
+[2024.03.25-22.36.24:243][751]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2024.03.25-22.36.24:250][751]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2024.03.25-22.36.24:250][751]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.25-22.36.24:250][751]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.25-22.36.24:250][751]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.25-22.36.24:250][751]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.25-22.36.24:250][751]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.03.25-22.36.24:250][751]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.03.25-22.36.24:250][751]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.03.25-22.36.24:250][751]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.25-22.36.24:251][751]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.25-22.36.24:251][751]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.25-22.36.24:251][751]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.25-22.36.24:254][751]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.25-22.36.24:274][751]LogAudioMixer: Display: Using Audio Hardware Device Głośniki (Realtek(R) Audio)
+[2024.03.25-22.36.24:274][751]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.25-22.36.24:274][751]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.25-22.36.24:275][751]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.25-22.36.24:276][751]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2024.03.25-22.36.24:276][751]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2024.03.25-22.36.24:278][751]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2024.03.25-22.36.24:278][751]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2024.03.25-22.36.24:278][751]LogInit: FAudioDevice initialized.
+[2024.03.25-22.36.24:278][751]LogAudio: Display: Audio Device (ID: 15) registered with world 'L_3'.
+[2024.03.25-22.36.24:284][751]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.03.25-22.36.24:305][751]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_L_3.L_3 up for play (max tick rate 60) at 2024.03.25-23.36.24
+[2024.03.25-22.36.24:306][751]LogWorld: Bringing up level for play took: 0.021102
+[2024.03.25-22.36.24:309][751]LogOnline: OSS: Created online subsystem instance for: :Context_45
+[2024.03.25-22.36.24:314][751]PIE: Server logged in
+[2024.03.25-22.36.24:316][751]PIE: Play in editor total start time 0,243 seconds.
+[2024.03.25-22.36.35:949][437]LogLevelSequence: Starting new camera cut: 'Cine_Camera_Actor_1'
+[2024.03.25-22.36.41:511][768]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.25-22.36.41:511][768]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_L_3
+[2024.03.25-22.36.41:512][768]LogWorld: UWorld::CleanupWorld for L_3, bSessionEnded=true, bCleanupResources=true
+[2024.03.25-22.36.41:514][768]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.25-22.36.41:523][768]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.25-22.36.41:534][768]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.25-22.36.41:611][768]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.25-22.36.41:611][768]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2024.03.25-22.36.41:613][768]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2024.03.25-22.36.41:642][768]LogUObjectHash: Compacting FUObjectHashTables data took   3.63ms
+[2024.03.25-22.36.41:712][769]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2024.03.25-22.36.43:197][849]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.03.25-22.36.45:905][980]LogUObjectHash: Compacting FUObjectHashTables data took   5.18ms
+[2024.03.25-22.36.45:912][980]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.25-22.36.45:976][980]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Maps/L_3" FILE="../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/FirstPerson/Maps/L_3.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.03.25-22.36.46:064][980]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2024.03.25-22.36.46:167][980]LogSavePackage: Moving output files for package: /Game/FirstPerson/Maps/L_3
+[2024.03.25-22.36.46:167][980]LogSavePackage: Moving '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/L_366E4AC64483D7BD5514D3F8C72E27A1D.tmp' to '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/FirstPerson/Maps/L_3.umap'
+[2024.03.25-22.36.46:191][980]LogFileHelpers: Saving map 'L_3' took 0.215
+[2024.03.25-22.36.46:222][980]LogSavePackage: Moving output files for package: /Game/FirstPerson/Maps/_GENERATED/mikir/Box_83BC87BF
+[2024.03.25-22.36.46:224][980]LogSavePackage: Moving '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/Box_83BC87BFC672124D4B370960182D79ADD404204E.tmp' to '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/FirstPerson/Maps/_GENERATED/mikir/Box_83BC87BF.uasset'
+[2024.03.25-22.36.46:244][980]LogFileHelpers: InternalPromptForCheckoutAndSave took 332 ms (total: 7.57 sec)
+[2024.03.25-22.36.46:263][980]AssetCheck: New page: Asset Save: multiple assets
+[2024.03.25-22.36.46:263][980]LogContentValidation: Display: Validating /Script/Engine.World /Game/FirstPerson/Maps/L_3.L_3
+[2024.03.25-22.36.46:263][980]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/FirstPerson/Maps/_GENERATED/mikir/Box_83BC87BF.Box_83BC87BF
