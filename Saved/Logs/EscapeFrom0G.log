@@ -10014,3 +10014,315 @@ Make sure 'BP_Player_HUD' has been compiled for  Get CurrentObjectiveText
 [2024.04.13-23.41.26:483][984]LogPlayLevel: Display: Destroying online subsystem :Context_21
 [2024.04.13-23.41.28:078][ 39]LogSlate: Window 'Message Log' being destroyed
 [2024.04.13-23.41.28:091][ 39]LogSlate: Window 'Message Log' being destroyed
+[2024.04.13-23.42.07:904][995]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2024.04.13-23.42.09:324][995]LogSlate: Window 'Save Content' being destroyed
+[2024.04.13-23.42.09:341][995]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.13-23.42.09:449][995]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Maps/L_2" FILE="../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/FirstPerson/Maps/L_2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.04.13-23.42.09:542][995]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2024.04.13-23.42.09:650][995]LogSavePackage: Moving output files for package: /Game/FirstPerson/Maps/L_2
+[2024.04.13-23.42.09:651][995]LogSavePackage: Moving '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/L_2B54232F442B370E6E28B2DBAA01F0A43.tmp' to '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/FirstPerson/Maps/L_2.umap'
+[2024.04.13-23.42.09:670][995]LogFileHelpers: No new changes to save!
+[2024.04.13-23.42.09:670][995]LogFileHelpers: Saving map 'L_2' took 0.221
+[2024.04.13-23.42.09:685][995]LogFileHelpers: InternalPromptForCheckoutAndSave took 343 ms (total: 1.82 sec)
+[2024.04.13-23.42.09:685][995]LogAssetEditorSubsystem: Opening Asset editor for World /Game/FirstPerson/Maps/L_1.L_1
+[2024.04.13-23.42.09:685][995]Cmd: MAP LOAD FILE="../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/FirstPerson/Maps/L_1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.04.13-23.42.09:685][995]LightingResults: New page: Lighting Build
+[2024.04.13-23.42.09:685][995]LoadErrors: New page: Loading map: L_1.umap
+[2024.04.13-23.42.09:699][995]LogWorld: UWorld::CleanupWorld for L_2, bSessionEnded=true, bCleanupResources=true
+[2024.04.13-23.42.09:699][995]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.13-23.42.09:699][995]MapCheck: New page: Map Check
+[2024.04.13-23.42.09:699][995]LightingResults: New page: Lighting Build
+[2024.04.13-23.42.09:774][995]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.13-23.42.09:785][995]LogUObjectHash: Compacting FUObjectHashTables data took   3.55ms
+[2024.04.13-23.42.09:789][995]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2024.04.13-23.42.09:790][995]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.13-23.42.09:791][995]LogWorld: UWorld::CleanupWorld for L_1, bSessionEnded=true, bCleanupResources=true
+[2024.04.13-23.42.09:791][995]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.13-23.42.09:795][995]LogWorld: UWorld::CleanupWorld for L_3, bSessionEnded=true, bCleanupResources=true
+[2024.04.13-23.42.09:798][995]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.13-23.42.09:803][995]LogWorld: UWorld::CleanupWorld for L_11, bSessionEnded=true, bCleanupResources=true
+[2024.04.13-23.42.09:805][995]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.13-23.42.09:806][995]LogWorld: UWorld::CleanupWorld for L_22, bSessionEnded=true, bCleanupResources=true
+[2024.04.13-23.42.09:808][995]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.13-23.42.09:900][995]LogUObjectHash: Compacting FUObjectHashTables data took   3.27ms
+[2024.04.13-23.42.09:991][995]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2024.04.13-23.42.10:015][995]LogAudio: Display: Audio Device (ID: 1) registered with world 'L_1'.
+[2024.04.13-23.42.10:016][995]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.13-23.42.10:016][995]LogAIModule: Creating AISystem for world L_1
+[2024.04.13-23.42.10:041][995]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.04.13-23.42.10:136][995]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2024.04.13-23.42.10:147][995]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.04.13-23.42.10:147][995]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,164ms to complete.
+[2024.04.13-23.42.10:147][995]LogFileHelpers: Loading map 'L_1' took 0.462
+[2024.04.13-23.42.10:169][995]AssetCheck: New page: Asset Save: L_2
+[2024.04.13-23.42.10:176][995]LogShaderCompilers: Display: ================================================
+[2024.04.13-23.42.10:176][995]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.04.13-23.42.10:176][995]LogShaderCompilers: Display: Total job queries 316, among them cache hits 62 (19.62%)
+[2024.04.13-23.42.10:176][995]LogShaderCompilers: Display: Tracking 254 distinct input hashes that result in 128 distinct outputs (50.39%)
+[2024.04.13-23.42.10:176][995]LogShaderCompilers: Display: RAM used: 1.80 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.22%
+[2024.04.13-23.42.10:176][995]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.04.13-23.42.10:176][995]LogShaderCompilers: Display: Shaders Compiled: 0
+[2024.04.13-23.42.10:176][995]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2024.04.13-23.42.10:176][995]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2024.04.13-23.42.10:176][995]LogShaderCompilers: Display: ================================================
+[2024.04.13-23.42.13:171][134]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.13-23.42.13:182][134]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.13-23.42.13:183][134]PIE: New page: PIE session: L_1 (14 kwi 2024, 03:42:13)
+[2024.04.13-23.42.13:204][134]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_L_1
+[2024.04.13-23.42.13:220][134]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016424s)
+[2024.04.13-23.42.13:220][134]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/L_1.L_1 to /Game/FirstPerson/Maps/UEDPIE_0_L_1.L_1 (0.016496s)
+[2024.04.13-23.42.13:220][134]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.13-23.42.13:221][134]LogAIModule: Creating AISystem for world L_1
+[2024.04.13-23.42.13:221][134]LogPlayLevel: PIE: World Init took: (0.000897s)
+[2024.04.13-23.42.13:295][134]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2024.04.13-23.42.13:296][134]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2024.04.13-23.42.13:296][134]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.13-23.42.13:296][134]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.13-23.42.13:296][134]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.13-23.42.13:296][134]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.13-23.42.13:296][134]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.13-23.42.13:297][134]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.04.13-23.42.13:297][134]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.13-23.42.13:297][134]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.13-23.42.13:297][134]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.13-23.42.13:297][134]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.13-23.42.13:297][134]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.13-23.42.13:300][134]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.13-23.42.13:339][134]LogAudioMixer: Display: Using Audio Hardware Device Głośniki (PRO X)
+[2024.04.13-23.42.13:339][134]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.13-23.42.13:339][134]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.13-23.42.13:339][134]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.13-23.42.13:340][134]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2024.04.13-23.42.13:340][134]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2024.04.13-23.42.13:343][134]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2024.04.13-23.42.13:344][134]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2024.04.13-23.42.13:344][134]LogInit: FAudioDevice initialized.
+[2024.04.13-23.42.13:344][134]LogAudio: Display: Audio Device (ID: 15) registered with world 'L_1'.
+[2024.04.13-23.42.13:347][134]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.04.13-23.42.13:352][134]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_L_1.L_1 up for play (max tick rate 60) at 2024.04.14-01.42.13
+[2024.04.13-23.42.13:353][134]LogWorld: Bringing up level for play took: 0.005351
+[2024.04.13-23.42.13:355][134]LogOnline: OSS: Created online subsystem instance for: :Context_22
+[2024.04.13-23.42.13:359][134]LogLevelSequence: Starting new camera cut: 'CineCameraActor_1'
+[2024.04.13-23.42.13:360][134]PIE: Server logged in
+[2024.04.13-23.42.13:360][134]PIE: Play in editor total start time 0,178 seconds.
+[2024.04.13-23.42.13:362][134]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Hint". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.13:362][134]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Prompt". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.13:447][135]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Hint". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.13:447][135]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Prompt". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.13:496][136]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Hint". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.13:496][136]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Prompt". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.13:558][137]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Hint". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.13:558][137]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Prompt". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.13:591][138]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Hint". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.13:591][138]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Prompt". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.13:609][139]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Hint". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.13:609][139]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Prompt". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.13:629][140]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Hint". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.13:629][140]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Prompt". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.13:646][141]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Hint". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.13:646][141]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Prompt". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.13:666][142]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Hint". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.13:666][142]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Prompt". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.13:681][143]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Hint". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.13:681][143]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Prompt". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.13:700][144]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Hint". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.13:700][144]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Prompt". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.13:719][145]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Hint". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.13:719][145]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Prompt". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.13:736][146]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Hint". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.13:736][146]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Prompt". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.13:754][147]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Hint". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.13:754][147]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Prompt". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.13:771][148]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Hint". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.13:771][148]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Prompt". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.13:789][149]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Hint". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.13:790][149]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Prompt". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.13:809][150]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Hint". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.13:809][150]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Prompt". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.13:827][151]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Hint". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.13:827][151]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Prompt". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.13:844][152]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Hint". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.13:844][152]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Prompt". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.13:861][153]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Hint". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.13:861][153]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Prompt". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.13:877][154]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Hint". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.13:878][154]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Prompt". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.13:895][155]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Hint". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.13:895][155]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Prompt". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.13:919][156]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Hint". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.13:919][156]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Prompt". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.13:934][157]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Hint". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.13:935][157]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Prompt". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.13:951][158]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Hint". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.13:951][158]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Prompt". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.13:971][159]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Hint". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.13:971][159]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Prompt". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.13:990][160]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Hint". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.13:990][160]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Prompt". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.14:008][161]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Hint". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.14:008][161]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Prompt". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.14:025][162]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Hint". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.14:026][162]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Prompt". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.14:043][163]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Hint". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.14:043][163]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Prompt". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.14:066][164]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Hint". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.14:066][164]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Prompt". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.14:091][165]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Hint". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.14:091][165]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Prompt". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.14:109][166]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Hint". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.14:109][166]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Prompt". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.14:125][167]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Hint". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.14:126][167]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Prompt". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.14:145][168]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Hint". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.14:145][168]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Prompt". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.14:164][169]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Hint". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.14:164][169]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Prompt". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.14:186][170]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Hint". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.14:186][170]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Prompt". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.14:206][171]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Hint". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.14:206][171]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Prompt". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.14:225][172]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Hint". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.14:225][172]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Prompt". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.14:248][173]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Hint". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.14:248][173]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Prompt". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.14:266][174]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Hint". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.14:266][174]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Prompt". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.14:285][175]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Hint". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.14:285][175]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Prompt". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.14:305][176]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Hint". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.14:305][176]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Prompt". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.14:323][177]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Hint". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.14:323][177]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Prompt". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.14:340][178]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Hint". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.14:340][178]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Prompt". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.14:358][179]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Hint". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.14:359][179]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Prompt". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.14:377][180]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Hint". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.14:377][180]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Prompt". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.14:397][181]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Hint". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.14:397][181]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Prompt". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.14:415][182]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Hint". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.14:415][182]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Prompt". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.14:431][183]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Hint". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.14:431][183]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Prompt". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.14:452][184]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Hint". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.14:452][184]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Prompt". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.14:469][185]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Hint". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.14:470][185]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Prompt". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.14:492][186]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Hint". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.14:492][186]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Prompt". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.14:510][187]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Hint". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.14:510][187]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Prompt". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.14:529][188]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Hint". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.14:529][188]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Prompt". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.14:548][189]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Hint". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.14:548][189]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Prompt". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.14:566][190]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Hint". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.14:566][190]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Prompt". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.14:584][191]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Hint". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.14:584][191]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Prompt". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.14:606][192]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Hint". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.14:606][192]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Prompt". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.14:626][193]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Hint". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.14:626][193]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Prompt". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.14:645][194]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Hint". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.14:645][194]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Prompt". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.14:665][195]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Hint". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.14:665][195]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Prompt". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.14:682][196]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Hint". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.14:682][196]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Prompt". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.14:701][197]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Hint". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.14:701][197]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Prompt". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.14:722][198]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Hint". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.14:722][198]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Prompt". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.14:741][199]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Hint". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.14:741][199]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Prompt". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.14:759][200]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Hint". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.14:759][200]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Prompt". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.14:775][201]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Hint". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.14:775][201]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Prompt". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.14:793][202]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Hint". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.14:793][202]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Prompt". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.14:812][203]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Hint". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.14:812][203]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Prompt". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.14:830][204]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Hint". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.14:830][204]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Prompt". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.14:851][205]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Hint". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.14:851][205]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Prompt". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.14:870][206]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Hint". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.14:871][206]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Prompt". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.14:891][207]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Hint". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.14:891][207]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Prompt". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.14:910][208]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Hint". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.14:910][208]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Prompt". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.14:929][209]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Hint". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.14:929][209]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Prompt". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.14:948][210]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Hint". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.14:948][210]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Prompt". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.14:968][211]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Hint". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.14:968][211]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Prompt". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.14:987][212]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Hint". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.14:987][212]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Prompt". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.15:003][213]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Hint". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.15:004][213]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Prompt". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.15:022][214]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Hint". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.15:022][214]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Prompt". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.15:040][215]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Hint". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.15:040][215]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Prompt". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.15:056][216]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Hint". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.15:056][216]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Prompt". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.15:074][217]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Hint". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.15:075][217]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Prompt". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.15:092][218]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Hint". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.15:092][218]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Prompt". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.15:109][219]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Hint". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.15:109][219]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Prompt". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.15:128][220]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Hint". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.15:128][220]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Prompt". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.15:145][221]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Hint". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.15:145][221]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Prompt". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.15:164][222]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Hint". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.15:164][222]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Prompt". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.15:184][223]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Hint". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.15:184][223]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Prompt". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.15:200][224]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Hint". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.15:200][224]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Prompt". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.15:221][225]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Hint". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.15:221][225]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Prompt". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.15:239][226]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Hint". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.15:239][226]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Prompt". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.15:258][227]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Hint". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.15:259][227]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Prompt". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.15:277][228]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Hint". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.15:277][228]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Prompt". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.15:295][229]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Hint". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.15:295][229]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Prompt". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.15:312][230]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Hint". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.15:312][230]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Prompt". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.15:331][231]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Hint". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.15:331][231]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Prompt". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.15:348][232]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Hint". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.15:348][232]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Prompt". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.15:365][233]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Hint". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.15:365][233]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Prompt". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.15:384][234]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Hint". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.15:384][234]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Prompt". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.15:402][235]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Hint". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.15:402][235]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Prompt". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.15:424][236]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Hint". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.15:424][236]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Prompt". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.15:443][237]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Hint". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.15:444][237]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Prompt". Node:  Set Visibility Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.04.13-23.42.15:475][237]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.13-23.42.15:476][237]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_L_1
+[2024.04.13-23.42.15:476][237]LogWorld: UWorld::CleanupWorld for L_1, bSessionEnded=true, bCleanupResources=true
+[2024.04.13-23.42.15:477][237]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.13-23.42.15:483][237]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.13-23.42.15:495][237]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.13-23.42.15:600][237]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.13-23.42.15:601][237]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2024.04.13-23.42.15:603][237]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2024.04.13-23.42.15:618][237]LogUObjectHash: Compacting FUObjectHashTables data took   3.18ms
+[2024.04.13-23.42.15:881][238]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2024.04.13-23.42.24:982][627]LogSlate: Window 'Message Log' being destroyed
+[2024.04.13-23.42.24:994][627]LogSlate: Window 'Message Log' being destroyed
