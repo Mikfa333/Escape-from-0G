@@ -1080,3 +1080,315 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.04.13-18.51.06:354][214]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/ConceptArts/WardrobeSpace.WardrobeSpace
 [2024.04.13-18.51.07:298][269]LogSlate: Took 0.000168 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
 [2024.04.13-18.51.09:327][384]AssetReimport: Importing new asset /Game/ConceptArts/WardrobeSpace.
+[2024.04.13-18.52.13:293][376]LogDerivedDataCache: C:/Users/mikir/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:14.429 and deleted 0 files with total size 0 MiB. Scanned 7954 files in 7842 folders with total size 946 MiB.
+[2024.04.13-18.52.42:240][531]LogViewport: Scene viewport resized to 798x589, mode Windowed.
+[2024.04.13-18.52.42:389][531]LogViewport: Scene viewport resized to 997x736, mode Windowed.
+[2024.04.13-18.52.43:480][531]LogViewport: Scene viewport resized to 1194x848, mode Windowed.
+[2024.04.13-18.52.54:596][162]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2024.04.13-18.52.54:597][162]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.13-18.52.56:374][162]LogSlate: Took 0.001240 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2024.04.13-18.53.01:861][290]LogViewport: Scene viewport resized to 1197x894, mode Windowed.
+[2024.04.13-18.53.06:835][506]LogViewport: Scene viewport resized to 1194x848, mode Windowed.
+[2024.04.13-18.55.28:641][507]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2024.04.13-18.55.28:784][507]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2024.04.13-18.55.28:840][507]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.13-18.55.28:959][507]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2024.04.13-18.55.28:960][507]LogSavePackage: Moving '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/BP_FirstPersonCharacterB372D8CF4FD901A35A44688A72AD4795.tmp' to '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2024.04.13-18.55.28:970][507]LogFileHelpers: InternalPromptForCheckoutAndSave took 129 ms (total: 589 ms)
+[2024.04.13-18.55.28:985][507]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2024.04.13-18.55.28:985][507]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2024.04.13-18.55.30:325][568]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.13-18.55.30:336][568]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.13-18.55.30:336][568]PIE: New page: PIE session: MainMenuMap (13 kwi 2024, 22:55:30)
+[2024.04.13-18.55.30:343][568]LogOnline: OSS: Created online subsystem instance for: NULL
+[2024.04.13-18.55.30:343][568]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2024.04.13-18.55.30:344][568]LogPlayLevel: Creating play world package: /Game/UI/UEDPIE_0_MainMenuMap
+[2024.04.13-18.55.30:346][568]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001554s)
+[2024.04.13-18.55.30:346][568]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/UI/MainMenuMap.MainMenuMap to /Game/UI/UEDPIE_0_MainMenuMap.MainMenuMap (0.001861s)
+[2024.04.13-18.55.30:346][568]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.13-18.55.30:347][568]LogAIModule: Creating AISystem for world MainMenuMap
+[2024.04.13-18.55.30:347][568]LogPlayLevel: PIE: World Init took: (0.001228s)
+[2024.04.13-18.55.30:385][568]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2024.04.13-18.55.30:388][568]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2024.04.13-18.55.30:388][568]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.13-18.55.30:388][568]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.13-18.55.30:388][568]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.13-18.55.30:388][568]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.13-18.55.30:388][568]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.13-18.55.30:388][568]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.04.13-18.55.30:388][568]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.13-18.55.30:388][568]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.13-18.55.30:388][568]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.13-18.55.30:388][568]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.13-18.55.30:388][568]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.13-18.55.30:391][568]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.13-18.55.30:441][568]LogAudioMixer: Display: Using Audio Hardware Device Głośniki (PRO X)
+[2024.04.13-18.55.30:442][568]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.13-18.55.30:442][568]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.13-18.55.30:442][568]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.13-18.55.30:443][568]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2024.04.13-18.55.30:443][568]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2024.04.13-18.55.30:445][568]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2024.04.13-18.55.30:445][568]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2024.04.13-18.55.30:445][568]LogInit: FAudioDevice initialized.
+[2024.04.13-18.55.30:445][568]LogAudio: Display: Audio Device (ID: 2) registered with world 'MainMenuMap'.
+[2024.04.13-18.55.30:451][568]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.04.13-18.55.30:452][568]LogWorld: Bringing World /Game/UI/UEDPIE_0_MainMenuMap.MainMenuMap up for play (max tick rate 60) at 2024.04.13-20.55.30
+[2024.04.13-18.55.30:452][568]LogWorld: Bringing up level for play took: 0.000909
+[2024.04.13-18.55.30:456][568]LogOnline: OSS: Created online subsystem instance for: :Context_3
+[2024.04.13-18.55.30:493][568]PIE: Server logged in
+[2024.04.13-18.55.30:495][568]PIE: Play in editor total start time 0,16 seconds.
+[2024.04.13-18.55.31:006][569]LogShaderCompilers: Display: ================================================
+[2024.04.13-18.55.31:006][569]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.04.13-18.55.31:006][569]LogShaderCompilers: Display: Total job queries 24, among them cache hits 4 (16.67%)
+[2024.04.13-18.55.31:006][569]LogShaderCompilers: Display: Tracking 20 distinct input hashes that result in 15 distinct outputs (75.00%)
+[2024.04.13-18.55.31:006][569]LogShaderCompilers: Display: RAM used: 0.13 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.02%
+[2024.04.13-18.55.31:006][569]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.04.13-18.55.31:006][569]LogShaderCompilers: Display: Shaders Compiled: 0
+[2024.04.13-18.55.31:006][569]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2024.04.13-18.55.31:006][569]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2024.04.13-18.55.31:006][569]LogShaderCompilers: Display: ================================================
+[2024.04.13-18.55.46:904][443]Cmd: LevelEditor.ToggleImmersive
+[2024.04.13-18.55.46:928][443]LogViewport: Scene viewport resized to 594x421, mode Windowed.
+[2024.04.13-18.55.46:940][443]LogViewport: Scene viewport resized to 594x421, mode Windowed.
+[2024.04.13-18.55.46:953][443]LogViewport: Scene viewport resized to 594x421, mode Windowed.
+[2024.04.13-18.55.46:964][443]LogViewport: Scene viewport resized to 1529x929, mode Windowed.
+[2024.04.13-18.55.47:014][444]LogViewport: Scene viewport resized to 1910x1020, mode Windowed.
+[2024.04.13-18.55.47:038][445]LogViewport: Scene viewport resized to 1923x1023, mode Windowed.
+[2024.04.13-18.55.52:230][745]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.13-18.55.53:879][842]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.13-18.55.56:892][ 14]LogNet: Browse: /Game/FirstPerson/Maps/L_1
+[2024.04.13-18.55.56:892][ 14]LogLoad: LoadMap: /Game/FirstPerson/Maps/L_1
+[2024.04.13-18.55.56:892][ 14]LogWorld: BeginTearingDown for /Game/UI/UEDPIE_0_MainMenuMap
+[2024.04.13-18.55.56:893][ 14]LogWorld: UWorld::CleanupWorld for MainMenuMap, bSessionEnded=true, bCleanupResources=true
+[2024.04.13-18.55.56:894][ 14]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.13-18.55.56:948][ 14]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.13-18.55.56:975][ 14]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2024.04.13-18.55.57:251][ 14]LogAudio: Display: Audio Device (ID: 2) registered with world 'L_1'.
+[2024.04.13-18.55.57:251][ 14]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.13-18.55.57:252][ 14]LogAIModule: Creating AISystem for world L_1
+[2024.04.13-18.55.57:252][ 14]LogPlayLevel: PIE: World Init took: (0.000929s)
+[2024.04.13-18.55.57:252][ 14]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.04.13-18.55.57:255][ 14]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Art/Doors/SquareDoors/Square_Door_Var_1_Plane_001.Square_Door_Var_1_Plane_001 being ready before playing
+[2024.04.13-18.55.57:255][ 14]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Art/Doors/SquareDoors/Square_Door_Var_2_Plane_001.Square_Door_Var_2_Plane_001 being ready before playing
+[2024.04.13-18.55.57:255][ 14]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Art/Doors/SquareDoors/SquareDoor_Var_3_Plane.SquareDoor_Var_3_Plane being ready before playing
+[2024.04.13-18.55.57:255][ 14]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Art/Doors/SquareDoors/SquareDoor_Var_3_Plane_001.SquareDoor_Var_3_Plane_001 being ready before playing
+[2024.04.13-18.55.57:255][ 14]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Engine/EngineSky/SM_SkySphere.SM_SkySphere being ready before playing
+[2024.04.13-18.55.57:255][ 14]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Art/Corridor/Ceiling/Ceiling_corridor_Var_1.Ceiling_corridor_Var_1 being ready before playing
+[2024.04.13-18.55.57:255][ 14]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Art/Corridor/Floor/Floor_Corridor_Var_2.Floor_Corridor_Var_2 being ready before playing
+[2024.04.13-18.55.57:255][ 14]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Art/Corridor/Walls/Wall_Corridor_Var_3.Wall_Corridor_Var_3 being ready before playing
+[2024.04.13-18.55.57:255][ 14]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Art/Rooms/Ceiling/Ceiling_Room_Var_3.Ceiling_Room_Var_3 being ready before playing
+[2024.04.13-18.55.57:255][ 14]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Art/Rooms/Corner/Corner_Wall_Room_Var_2.Corner_Wall_Room_Var_2 being ready before playing
+[2024.04.13-18.55.57:255][ 14]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Art/Rooms/Floor/Floor_Room_Var_3.Floor_Room_Var_3 being ready before playing
+[2024.04.13-18.55.57:255][ 14]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Art/Rooms/Wall/Wall_Room__with_window_Var_5.Wall_Room__with_window_Var_5 being ready before playing
+[2024.04.13-18.55.57:255][ 14]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Art/Rooms/Wall/Wall_Room_Var_2_5.Wall_Room_Var_2_5 being ready before playing
+[2024.04.13-18.55.57:255][ 14]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Art/Rooms/Wall/WallWithFrames/Wall_Room_frame_Var_2_5.Wall_Room_frame_Var_2_5 being ready before playing
+[2024.04.13-18.55.57:255][ 14]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Art/SmallObjects/sci-fi_chair_1.sci-fi_chair_1 being ready before playing
+[2024.04.13-18.55.57:255][ 14]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Art/SmallObjects/sci-fi_shelf1.sci-fi_shelf1 being ready before playing
+[2024.04.13-18.55.57:255][ 14]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Art/SmallObjects/sci-fi_shelf2.sci-fi_shelf2 being ready before playing
+[2024.04.13-18.55.57:255][ 14]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Art/SmallObjects/sci-fi_stool.sci-fi_stool being ready before playing
+[2024.04.13-18.55.57:255][ 14]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Art/SmallObjects/sci-fi_table.sci-fi_table being ready before playing
+[2024.04.13-18.55.57:255][ 14]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Art/SmallObjects/SmallCrate_1.SmallCrate_1 being ready before playing
+[2024.04.13-18.55.57:255][ 14]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/FirstPerson/Maps/_GENERATED/mikir/Disc_D53906FB.Disc_D53906FB being ready before playing
+[2024.04.13-18.55.57:273][ 14]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_L_1.L_1 up for play (max tick rate 60) at 2024.04.13-20.55.57
+[2024.04.13-18.55.57:277][ 14]LogWorld: Bringing up level for play took: 0.017182
+[2024.04.13-18.55.57:289][ 14]LogLevelSequence: Starting new camera cut: 'CineCameraActor_1'
+[2024.04.13-18.55.57:290][ 14]LogLoad: Took 0.398393 seconds to LoadMap(/Game/FirstPerson/Maps/L_1)
+[2024.04.13-18.56.26:447][632]LogLevelSequence: Starting new camera cut: 'None'
+[2024.04.13-18.56.37:395][254]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.13-18.56.37:395][254]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_L_1
+[2024.04.13-18.56.37:397][254]LogWorld: UWorld::CleanupWorld for L_1, bSessionEnded=true, bCleanupResources=true
+[2024.04.13-18.56.37:397][254]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.13-18.56.37:404][254]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.13-18.56.37:410][254]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.13-18.56.37:469][254]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.13-18.56.37:469][254]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.04.13-18.56.37:471][254]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.04.13-18.56.37:484][254]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.13-18.56.37:489][254]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2024.04.13-18.56.37:533][255]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2024.04.13-18.56.39:621][376]LogViewport: Scene viewport resized to 1728x976, mode Windowed.
+[2024.04.13-18.56.39:641][377]LogViewport: Scene viewport resized to 1548x933, mode Windowed.
+[2024.04.13-18.56.39:675][378]LogViewport: Scene viewport resized to 1377x892, mode Windowed.
+[2024.04.13-18.56.39:712][379]LogViewport: Scene viewport resized to 1263x865, mode Windowed.
+[2024.04.13-18.56.39:774][380]LogViewport: Scene viewport resized to 1195x848, mode Windowed.
+[2024.04.13-18.56.39:807][381]LogViewport: Scene viewport resized to 1194x848, mode Windowed.
+[2024.04.13-18.56.51:227][971]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/mainMenu.mainMenu
+[2024.04.13-18.56.51:227][971]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.13-18.56.51:237][971]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.13-18.56.51:245][971]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+Space Bar]
+[2024.04.13-18.56.51:828][971]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2024.04.13-18.56.51:828][971]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2024.04.13-18.56.52:023][971]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find SlateColor 'Foreground'.'
+[2024.04.13-18.56.52:025][971]LogSlate: Took 0.000969 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2024.04.13-18.57.05:165][708]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2024.04.13-18.57.05:166][708]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.13-18.57.05:179][708]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2024.04.13-18.57.05:179][708]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.13-18.57.44:580][806]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/Loading_screens/LoadingScreen.LoadingScreen
+[2024.04.13-18.57.44:581][806]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.13-18.57.44:593][806]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.13-18.57.45:223][806]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2024.04.13-18.57.45:223][806]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2024.04.13-18.57.57:647][522]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/Death_and_hit_screen/Death_Screen_WB.Death_Screen_WB
+[2024.04.13-18.57.57:647][522]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.13-18.57.57:659][522]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.13-18.57.58:181][522]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2024.04.13-18.57.58:181][522]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2024.04.13-18.58.15:862][427]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.13-18.58.15:872][427]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.13-18.58.15:873][427]PIE: New page: PIE session: MainMenuMap (13 kwi 2024, 22:58:15)
+[2024.04.13-18.58.15:873][427]LogPlayLevel: Creating play world package: /Game/UI/UEDPIE_0_MainMenuMap
+[2024.04.13-18.58.15:876][427]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002138s)
+[2024.04.13-18.58.15:876][427]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/UI/MainMenuMap.MainMenuMap to /Game/UI/UEDPIE_0_MainMenuMap.MainMenuMap (0.002214s)
+[2024.04.13-18.58.15:876][427]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.13-18.58.15:877][427]LogAIModule: Creating AISystem for world MainMenuMap
+[2024.04.13-18.58.15:877][427]LogPlayLevel: PIE: World Init took: (0.001187s)
+[2024.04.13-18.58.16:010][427]LogUObjectHash: Compacting FUObjectHashTables data took   3.52ms
+[2024.04.13-18.58.16:012][427]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2024.04.13-18.58.16:012][427]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.13-18.58.16:012][427]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.13-18.58.16:012][427]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.13-18.58.16:012][427]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.13-18.58.16:012][427]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.13-18.58.16:012][427]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.04.13-18.58.16:012][427]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.13-18.58.16:012][427]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.13-18.58.16:012][427]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.13-18.58.16:012][427]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.13-18.58.16:012][427]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.13-18.58.16:014][427]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.13-18.58.16:065][427]LogAudioMixer: Display: Using Audio Hardware Device Głośniki (PRO X)
+[2024.04.13-18.58.16:066][427]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.13-18.58.16:066][427]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.13-18.58.16:066][427]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.13-18.58.16:067][427]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2024.04.13-18.58.16:067][427]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2024.04.13-18.58.16:070][427]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2024.04.13-18.58.16:071][427]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2024.04.13-18.58.16:071][427]LogInit: FAudioDevice initialized.
+[2024.04.13-18.58.16:071][427]LogAudio: Display: Audio Device (ID: 3) registered with world 'MainMenuMap'.
+[2024.04.13-18.58.16:076][427]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.04.13-18.58.16:077][427]LogWorld: Bringing World /Game/UI/UEDPIE_0_MainMenuMap.MainMenuMap up for play (max tick rate 60) at 2024.04.13-20.58.16
+[2024.04.13-18.58.16:077][427]LogWorld: Bringing up level for play took: 0.000515
+[2024.04.13-18.58.16:080][427]LogOnline: OSS: Created online subsystem instance for: :Context_11
+[2024.04.13-18.58.16:087][427]PIE: Server logged in
+[2024.04.13-18.58.16:088][427]PIE: Play in editor total start time 0,215 seconds.
+[2024.04.13-18.58.36:957][484]Cmd: LevelEditor.ToggleImmersive
+[2024.04.13-18.58.36:983][484]LogViewport: Scene viewport resized to 1565x937, mode Windowed.
+[2024.04.13-18.58.37:010][485]LogViewport: Scene viewport resized to 1747x981, mode Windowed.
+[2024.04.13-18.58.37:038][486]LogViewport: Scene viewport resized to 1865x1009, mode Windowed.
+[2024.04.13-18.58.37:067][487]LogViewport: Scene viewport resized to 1913x1021, mode Windowed.
+[2024.04.13-18.58.37:093][488]LogViewport: Scene viewport resized to 1923x1023, mode Windowed.
+[2024.04.13-18.58.43:786][851]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.13-18.58.43:786][851]LogWorld: BeginTearingDown for /Game/UI/UEDPIE_0_MainMenuMap
+[2024.04.13-18.58.43:786][851]LogWorld: UWorld::CleanupWorld for MainMenuMap, bSessionEnded=true, bCleanupResources=true
+[2024.04.13-18.58.43:786][851]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.13-18.58.43:800][851]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.13-18.58.43:809][851]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.13-18.58.43:884][851]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.13-18.58.43:887][851]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.04.13-18.58.43:889][851]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.04.13-18.58.43:939][851]LogUObjectHash: Compacting FUObjectHashTables data took   3.37ms
+[2024.04.13-18.58.43:981][852]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2024.04.13-18.58.52:563][280]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/mainMenu.mainMenu
+[2024.04.13-18.58.52:564][280]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.13-18.58.52:576][280]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.13-18.58.53:087][280]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2024.04.13-18.58.53:087][280]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2024.04.13-18.59.06:529][971]BlueprintLog: New page: Compile mainMenu
+[2024.04.13-18.59.06:641][971]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2024.04.13-18.59.06:661][971]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.13-18.59.06:719][971]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/mainMenu" FILE="../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/UI/mainMenu.uasset" SILENT=true
+[2024.04.13-18.59.06:738][971]LogSavePackage: Moving output files for package: /Game/UI/mainMenu
+[2024.04.13-18.59.06:739][971]LogSavePackage: Moving '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/mainMenu34BB529149E56EDC7C2656B4AB8C722E.tmp' to '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/UI/mainMenu.uasset'
+[2024.04.13-18.59.06:749][971]LogFileHelpers: InternalPromptForCheckoutAndSave took 88 ms (total: 677 ms)
+[2024.04.13-18.59.06:760][971]AssetCheck: New page: Asset Save: mainMenu
+[2024.04.13-18.59.06:760][971]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/mainMenu.mainMenu
+[2024.04.13-18.59.07:831][ 25]LogEditorViewport: Clicking Background
+[2024.04.13-18.59.10:812][193]LogEditorViewport: Clicking Background
+[2024.04.13-18.59.13:322][336]Cmd: SELECT NONE
+[2024.04.13-18.59.14:967][427]LogViewport: Scene viewport resized to 1725x975, mode Windowed.
+[2024.04.13-18.59.14:997][428]LogViewport: Scene viewport resized to 1508x923, mode Windowed.
+[2024.04.13-18.59.15:025][429]LogViewport: Scene viewport resized to 1342x884, mode Windowed.
+[2024.04.13-18.59.15:058][430]LogViewport: Scene viewport resized to 1253x862, mode Windowed.
+[2024.04.13-18.59.15:089][431]LogViewport: Scene viewport resized to 1209x851, mode Windowed.
+[2024.04.13-18.59.15:121][432]LogViewport: Scene viewport resized to 1195x848, mode Windowed.
+[2024.04.13-18.59.15:157][433]LogViewport: Scene viewport resized to 1194x848, mode Windowed.
+[2024.04.13-18.59.20:636][722]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.13-18.59.20:646][722]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.13-18.59.20:646][722]PIE: New page: PIE session: MainMenuMap (13 kwi 2024, 22:59:20)
+[2024.04.13-18.59.20:647][722]LogPlayLevel: Creating play world package: /Game/UI/UEDPIE_0_MainMenuMap
+[2024.04.13-18.59.20:648][722]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001323s)
+[2024.04.13-18.59.20:648][722]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/UI/MainMenuMap.MainMenuMap to /Game/UI/UEDPIE_0_MainMenuMap.MainMenuMap (0.001376s)
+[2024.04.13-18.59.20:648][722]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.13-18.59.20:649][722]LogAIModule: Creating AISystem for world MainMenuMap
+[2024.04.13-18.59.20:649][722]LogPlayLevel: PIE: World Init took: (0.000859s)
+[2024.04.13-18.59.20:728][722]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2024.04.13-18.59.20:730][722]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2024.04.13-18.59.20:730][722]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.13-18.59.20:730][722]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.13-18.59.20:730][722]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.13-18.59.20:730][722]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.13-18.59.20:730][722]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.13-18.59.20:730][722]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.04.13-18.59.20:730][722]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.13-18.59.20:730][722]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.13-18.59.20:730][722]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.13-18.59.20:730][722]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.13-18.59.20:730][722]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.13-18.59.20:732][722]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.13-18.59.20:777][722]LogAudioMixer: Display: Using Audio Hardware Device Głośniki (PRO X)
+[2024.04.13-18.59.20:778][722]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.13-18.59.20:778][722]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.13-18.59.20:778][722]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.13-18.59.20:779][722]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2024.04.13-18.59.20:779][722]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2024.04.13-18.59.20:782][722]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2024.04.13-18.59.20:782][722]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2024.04.13-18.59.20:782][722]LogInit: FAudioDevice initialized.
+[2024.04.13-18.59.20:782][722]LogAudio: Display: Audio Device (ID: 4) registered with world 'MainMenuMap'.
+[2024.04.13-18.59.20:785][722]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.04.13-18.59.20:785][722]LogWorld: Bringing World /Game/UI/UEDPIE_0_MainMenuMap.MainMenuMap up for play (max tick rate 60) at 2024.04.13-20.59.20
+[2024.04.13-18.59.20:785][722]LogWorld: Bringing up level for play took: 0.000350
+[2024.04.13-18.59.20:788][722]LogOnline: OSS: Created online subsystem instance for: :Context_14
+[2024.04.13-18.59.20:791][722]PIE: Server logged in
+[2024.04.13-18.59.20:792][722]PIE: Play in editor total start time 0,146 seconds.
+[2024.04.13-18.59.23:805][873]Cmd: LevelEditor.ToggleImmersive
+[2024.04.13-18.59.23:830][873]LogViewport: Scene viewport resized to 1560x936, mode Windowed.
+[2024.04.13-18.59.23:856][874]LogViewport: Scene viewport resized to 1736x978, mode Windowed.
+[2024.04.13-18.59.23:892][875]LogViewport: Scene viewport resized to 1870x1010, mode Windowed.
+[2024.04.13-18.59.23:926][876]LogViewport: Scene viewport resized to 1918x1022, mode Windowed.
+[2024.04.13-18.59.23:958][877]LogViewport: Scene viewport resized to 1923x1023, mode Windowed.
+[2024.04.13-18.59.26:582][ 24]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.13-18.59.27:333][ 66]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.13-18.59.27:333][ 66]LogWorld: BeginTearingDown for /Game/UI/UEDPIE_0_MainMenuMap
+[2024.04.13-18.59.27:333][ 66]LogWorld: UWorld::CleanupWorld for MainMenuMap, bSessionEnded=true, bCleanupResources=true
+[2024.04.13-18.59.27:333][ 66]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.13-18.59.27:340][ 66]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.13-18.59.27:347][ 66]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.13-18.59.27:428][ 66]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.13-18.59.27:429][ 66]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.04.13-18.59.27:431][ 66]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.04.13-18.59.27:441][ 66]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.13-18.59.27:445][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2024.04.13-18.59.27:509][ 67]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2024.04.13-18.59.30:221][219]LogViewport: Scene viewport resized to 1714x973, mode Windowed.
+[2024.04.13-18.59.30:249][220]LogViewport: Scene viewport resized to 1481x917, mode Windowed.
+[2024.04.13-18.59.30:286][221]LogViewport: Scene viewport resized to 1311x876, mode Windowed.
+[2024.04.13-18.59.30:321][222]LogViewport: Scene viewport resized to 1234x858, mode Windowed.
+[2024.04.13-18.59.30:358][223]LogViewport: Scene viewport resized to 1199x849, mode Windowed.
+[2024.04.13-18.59.30:387][224]LogViewport: Scene viewport resized to 1194x848, mode Windowed.
+[2024.04.13-18.59.34:309][422]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2024.04.13-18.59.34:309][422]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.13-18.59.34:320][422]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2024.04.13-18.59.34:320][422]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.13-18.59.34:837][447]LogSlate: Window 'mainMenu' being destroyed
+[2024.04.13-18.59.34:857][447]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2024.04.13-18.59.34:857][447]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.13-18.59.34:870][447]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2024.04.13-18.59.34:870][447]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.13-18.59.36:960][563]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2024.04.13-18.59.36:960][563]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.13-18.59.36:973][563]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2024.04.13-18.59.36:973][563]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
