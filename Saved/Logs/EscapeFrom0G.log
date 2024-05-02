@@ -2928,6 +2928,7 @@ Script Stack (0 frames) :
 [2024.05.02-09.08.00:844][635]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2024.05.02-09.08.00:858][635]LogUObjectHash: Compacting FUObjectHashTables data took   3.98ms
 [2024.05.02-09.08.00:917][636]LogPlayLevel: Display: Destroying online subsystem :Context_51
+<<<<<<< HEAD
 [2024.05.02-09.08.34:342][  1]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
 [2024.05.02-09.08.34:348][  1]LogFileHelpers: InternalPromptForCheckoutAndSave started...
 [2024.05.02-09.08.34:473][  1]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Maps/L_3" FILE="../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/FirstPerson/Maps/L_3.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
@@ -3608,3 +3609,5 @@ Script Stack (0 frames) :
 [2024.05.02-09.08.42:286][108]LogD3D12RHI: ~FD3D12DynamicRHI
 [2024.05.02-09.08.42:371][108]LogExit: Exiting.
 [2024.05.02-09.08.42:384][108]Log file closed, 05/02/24 11:08:42
+=======
+>>>>>>> PinPadDoors
