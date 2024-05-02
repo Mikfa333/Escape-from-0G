@@ -1294,3 +1294,338 @@ Script Stack (0 frames) :
 [2024.05.02-07.28.17:001][508]LogFileHelpers: InternalPromptForCheckoutAndSave took 160 ms (total: 1.41 sec)
 [2024.05.02-07.28.17:089][508]AssetCheck: New page: Asset Save: BP_PinPad
 [2024.05.02-07.28.17:089][508]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_PinPad.BP_PinPad
+[2024.05.02-07.39.57:550][630]LogDerivedDataCache: C:/Users/mikir/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:13.598 and deleted 0 files with total size 0 MiB. Scanned 6949 files in 6881 folders with total size 930 MiB.
+[2024.05.02-07.43.05:509][531]LogEditorClassViewer: Warning: Class /Script/InteractiveToolsFramework.GizmoActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.05.02-07.43.05:509][531]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewGeometryActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.05.02-07.43.05:509][531]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewMeshActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.05.02-07.43.09:041][531]LogSlate: Window 'Pick Root Widget for New Widget Blueprint' being destroyed
+[2024.05.02-07.43.09:057][531]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2024.05.02-07.43.09:067][531]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2024.05.02-07.43.09:092][532]LogAutomationController: Ignoring very large delta of 3.79 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.05.02-07.43.09:120][532]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2024.05.02-07.43.18:466][896]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> UW_PinPad
+[2024.05.02-07.43.18:530][896]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2024.05.02-07.43.20:762][982]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/UW_PinPad.UW_PinPad
+[2024.05.02-07.43.20:763][982]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.02-07.43.20:781][982]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.02-07.43.20:797][982]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+Space Bar]
+[2024.05.02-07.43.21:267][982]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2024.05.02-07.43.21:267][982]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2024.05.02-07.43.21:735][982]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find SlateColor 'Foreground'.'
+[2024.05.02-07.43.21:750][982]LogSlate: Took 0.012921 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2024.05.02-07.44.04:624][951]BlueprintLog: New page: Compile BP_PinPad
+[2024.05.02-07.44.04:706][951]LogBlueprint: Error: [AssetLog] C:\Users\mikir\OneDrive\Pulpit\Escape-from-0G\Content\FirstPerson\Blueprints\BP_PinPad.uasset: [Compiler] Spawn node  Create Widget  must have a class specified.
+[2024.05.02-07.44.05:125][951]LogUObjectHash: Compacting FUObjectHashTables data took   8.27ms
+[2024.05.02-07.44.31:202][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   4.44ms
+[2024.05.02-07.44.31:217][ 69]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/L_3' took 0.174
+[2024.05.02-07.44.31:218][ 69]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/Blueprints/BP_PinPad] ([2] browsable assets)...
+[2024.05.02-07.44.31:283][ 69]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Blueprints/BP_PinPad.BP_PinPad]
+[2024.05.02-07.44.31:285][ 69]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_PinPad]
+[2024.05.02-07.44.31:300][ 69]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Blueprints/BP_PinPad_Auto2
+[2024.05.02-07.44.31:300][ 69]LogSavePackage: Moving '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/BP_PinPad_Auto26914B4154614F90418854CBF06C3D4D0.tmp' to '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/Autosaves/Game/FirstPerson/Blueprints/BP_PinPad_Auto2.uasset'
+[2024.05.02-07.44.31:304][ 69]LogFileHelpers: Auto-saving content packages took 0.087
+[2024.05.02-07.47.05:284][719]BlueprintLog: New page: Compile UW_PinPad
+[2024.05.02-07.47.05:492][719]LogUObjectHash: Compacting FUObjectHashTables data took   5.19ms
+[2024.05.02-07.47.05:543][719]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.02-07.47.05:706][719]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UW_PinPad" FILE="../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/UI/UW_PinPad.uasset" SILENT=true
+[2024.05.02-07.47.05:762][719]LogSavePackage: Moving output files for package: /Game/UI/UW_PinPad
+[2024.05.02-07.47.05:763][719]LogSavePackage: Moving '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/UW_PinPad07D8F520442808FB04087494C1574B36.tmp' to '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/UI/UW_PinPad.uasset'
+[2024.05.02-07.47.05:782][719]LogFileHelpers: InternalPromptForCheckoutAndSave took 238 ms (total: 1.65 sec)
+[2024.05.02-07.47.05:811][719]AssetCheck: New page: Asset Save: UW_PinPad
+[2024.05.02-07.47.05:811][719]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/UW_PinPad.UW_PinPad
+[2024.05.02-07.47.56:395][420]LogSlate: Took 0.014218 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2024.05.02-07.48.38:056][307]LogEditorTransaction: Undo Drag and Drop Widget
+[2024.05.02-07.48.58:961][ 41]LogEditorTransaction: Undo Duplicate selection
+[2024.05.02-07.54.31:757][262]LogUObjectHash: Compacting FUObjectHashTables data took   3.33ms
+[2024.05.02-07.54.31:762][262]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/L_3' took 0.101
+[2024.05.02-07.54.31:763][262]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/UW_PinPad] ([2] browsable assets)...
+[2024.05.02-07.54.31:768][262]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/UW_PinPad.UW_PinPad]
+[2024.05.02-07.54.31:768][262]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/UW_PinPad]
+[2024.05.02-07.54.31:768][262]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UW_PinPad" FILE="../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/Autosaves/Game/UI/UW_PinPad_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2024.05.02-07.54.31:779][262]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/UW_PinPad_Auto3
+[2024.05.02-07.54.31:779][262]LogSavePackage: Moving '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/UW_PinPad_Auto39C5289364E48CB2322F67C8427BCEC7C.tmp' to '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/Autosaves/Game/UI/UW_PinPad_Auto3.uasset'
+[2024.05.02-07.54.31:780][262]LogFileHelpers: Auto-saving content packages took 0.017
+[2024.05.02-07.57.44:543][105]BlueprintLog: New page: Compile UW_PinPad
+[2024.05.02-07.57.44:668][105]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2024.05.02-07.57.44:684][105]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.02-07.57.44:831][105]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UW_PinPad" FILE="../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/UI/UW_PinPad.uasset" SILENT=true
+[2024.05.02-07.57.44:843][105]LogSavePackage: Moving output files for package: /Game/UI/UW_PinPad
+[2024.05.02-07.57.44:844][105]LogSavePackage: Moving '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/UW_PinPadA807AD0240EFF4E9CC0EBEA3DF73C755.tmp' to '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/UI/UW_PinPad.uasset'
+[2024.05.02-07.57.44:871][105]LogFileHelpers: InternalPromptForCheckoutAndSave took 186 ms (total: 1.84 sec)
+[2024.05.02-07.57.44:891][105]AssetCheck: New page: Asset Save: UW_PinPad
+[2024.05.02-07.57.44:891][105]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/UW_PinPad.UW_PinPad
+[2024.05.02-07.58.43:091][808]LogEditorTransaction: Undo Move Widget
+[2024.05.02-08.00.25:827][816]BlueprintLog: New page: Compile UW_PinPad
+[2024.05.02-08.00.25:970][816]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2024.05.02-08.00.25:989][816]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.02-08.00.26:112][816]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UW_PinPad" FILE="../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/UI/UW_PinPad.uasset" SILENT=true
+[2024.05.02-08.00.26:125][816]LogSavePackage: Moving output files for package: /Game/UI/UW_PinPad
+[2024.05.02-08.00.26:126][816]LogSavePackage: Moving '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/UW_PinPad598FB3614E5DF3E63EF9FB916CF96DD4.tmp' to '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/UI/UW_PinPad.uasset'
+[2024.05.02-08.00.26:154][816]LogFileHelpers: InternalPromptForCheckoutAndSave took 164 ms (total: 2.00 sec)
+[2024.05.02-08.00.26:164][816]AssetCheck: New page: Asset Save: UW_PinPad
+[2024.05.02-08.00.26:164][816]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/UW_PinPad.UW_PinPad
+[2024.05.02-08.02.16:277][940]LogSlate: Took 0.006325 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2024.05.02-08.03.41:944][648]BlueprintLog: New page: Compile UW_PinPad
+[2024.05.02-08.03.42:062][648]LogUObjectHash: Compacting FUObjectHashTables data took   4.23ms
+[2024.05.02-08.03.42:084][648]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.02-08.03.42:189][648]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UW_PinPad" FILE="../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/UI/UW_PinPad.uasset" SILENT=true
+[2024.05.02-08.03.42:199][648]LogSavePackage: Moving output files for package: /Game/UI/UW_PinPad
+[2024.05.02-08.03.42:199][648]LogSavePackage: Moving '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/UW_PinPad94D6C09144580E588DE4BEA71216B922.tmp' to '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/UI/UW_PinPad.uasset'
+[2024.05.02-08.03.42:216][648]LogFileHelpers: InternalPromptForCheckoutAndSave took 132 ms (total: 2.13 sec)
+[2024.05.02-08.03.42:229][648]AssetCheck: New page: Asset Save: UW_PinPad
+[2024.05.02-08.03.42:229][648]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/UW_PinPad.UW_PinPad
+[2024.05.02-08.04.34:075][500]BlueprintLog: New page: Compile UW_PinPad
+[2024.05.02-08.04.34:201][500]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2024.05.02-08.04.34:213][500]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.02-08.04.34:347][500]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UW_PinPad" FILE="../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/UI/UW_PinPad.uasset" SILENT=true
+[2024.05.02-08.04.34:357][500]LogSavePackage: Moving output files for package: /Game/UI/UW_PinPad
+[2024.05.02-08.04.34:357][500]LogSavePackage: Moving '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/UW_PinPad1882A45948EF5906DCB540BB4E20D72A.tmp' to '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/UI/UW_PinPad.uasset'
+[2024.05.02-08.04.34:377][500]LogFileHelpers: InternalPromptForCheckoutAndSave took 163 ms (total: 2.30 sec)
+[2024.05.02-08.04.34:388][500]AssetCheck: New page: Asset Save: UW_PinPad
+[2024.05.02-08.04.34:388][500]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/UW_PinPad.UW_PinPad
+[2024.05.02-08.05.06:449][863]LogUObjectHash: Compacting FUObjectHashTables data took   3.61ms
+[2024.05.02-08.05.06:452][863]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/L_3' took 0.126
+[2024.05.02-08.05.06:453][863]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/Blueprints/Doors/BP_PinPadDoors] ([2] browsable assets)...
+[2024.05.02-08.05.06:514][863]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Blueprints/Doors/BP_PinPadDoors.BP_PinPadDoors]
+[2024.05.02-08.05.06:516][863]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/Doors/BP_PinPadDoors]
+[2024.05.02-08.05.06:528][863]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Blueprints/Doors/BP_PinPadDoors_Auto4
+[2024.05.02-08.05.06:528][863]LogSavePackage: Moving '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/BP_PinPadDoors_Auto41AECDF104DCD8A949FC526B85F0C6D50.tmp' to '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/Autosaves/Game/FirstPerson/Blueprints/Doors/BP_PinPadDoors_Auto4.uasset'
+[2024.05.02-08.05.06:530][863]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/UW_PinPad] ([2] browsable assets)...
+[2024.05.02-08.05.06:537][863]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/UW_PinPad.UW_PinPad]
+[2024.05.02-08.05.06:537][863]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/UW_PinPad]
+[2024.05.02-08.05.06:537][863]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UW_PinPad" FILE="../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/Autosaves/Game/UI/UW_PinPad_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2024.05.02-08.05.06:553][863]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/UW_PinPad_Auto4
+[2024.05.02-08.05.06:553][863]LogSavePackage: Moving '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/UW_PinPad_Auto4A4569A0944A9A3F236D9A4A85DA9E367.tmp' to '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/Autosaves/Game/UI/UW_PinPad_Auto4.uasset'
+[2024.05.02-08.05.06:554][863]LogFileHelpers: Auto-saving content packages took 0.102
+[2024.05.02-08.07.53:775][823]BlueprintLog: New page: Compile UW_PinPad
+[2024.05.02-08.07.53:914][823]LogUObjectHash: Compacting FUObjectHashTables data took   3.72ms
+[2024.05.02-08.07.53:934][823]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.02-08.07.54:050][823]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UW_PinPad" FILE="../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/UI/UW_PinPad.uasset" SILENT=true
+[2024.05.02-08.07.54:063][823]LogSavePackage: Moving output files for package: /Game/UI/UW_PinPad
+[2024.05.02-08.07.54:064][823]LogSavePackage: Moving '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/UW_PinPadA90A0F6B443E4C76D9551FA2808C7D6E.tmp' to '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/UI/UW_PinPad.uasset'
+[2024.05.02-08.07.54:081][823]LogFileHelpers: InternalPromptForCheckoutAndSave took 146 ms (total: 2.44 sec)
+[2024.05.02-08.07.54:096][823]AssetCheck: New page: Asset Save: UW_PinPad
+[2024.05.02-08.07.54:096][823]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/UW_PinPad.UW_PinPad
+[2024.05.02-08.08.18:177][566]BlueprintLog: New page: Compile UW_PinPad
+[2024.05.02-08.08.18:319][566]LogUObjectHash: Compacting FUObjectHashTables data took   4.01ms
+[2024.05.02-08.08.18:337][566]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.02-08.08.18:442][566]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UW_PinPad" FILE="../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/UI/UW_PinPad.uasset" SILENT=true
+[2024.05.02-08.08.18:457][566]LogSavePackage: Moving output files for package: /Game/UI/UW_PinPad
+[2024.05.02-08.08.18:458][566]LogSavePackage: Moving '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/UW_PinPadFF6B1E1349D1A3202C8946B94927511C.tmp' to '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/UI/UW_PinPad.uasset'
+[2024.05.02-08.08.18:482][566]LogFileHelpers: InternalPromptForCheckoutAndSave took 145 ms (total: 2.59 sec)
+[2024.05.02-08.08.18:496][566]AssetCheck: New page: Asset Save: UW_PinPad
+[2024.05.02-08.08.18:496][566]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/UW_PinPad.UW_PinPad
+[2024.05.02-08.09.36:150][400]BlueprintLog: New page: Compile UW_PinPad
+[2024.05.02-08.09.36:301][400]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2024.05.02-08.09.36:320][400]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.02-08.09.36:468][400]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UW_PinPad" FILE="../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/UI/UW_PinPad.uasset" SILENT=true
+[2024.05.02-08.09.36:490][400]LogSavePackage: Moving output files for package: /Game/UI/UW_PinPad
+[2024.05.02-08.09.36:491][400]LogSavePackage: Moving '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/UW_PinPad7EC6313E40D421AFB1F9098B6E07DEEF.tmp' to '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/UI/UW_PinPad.uasset'
+[2024.05.02-08.09.36:518][400]LogFileHelpers: InternalPromptForCheckoutAndSave took 198 ms (total: 2.79 sec)
+[2024.05.02-08.09.36:532][400]AssetCheck: New page: Asset Save: UW_PinPad
+[2024.05.02-08.09.36:532][400]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/UW_PinPad.UW_PinPad
+[2024.05.02-08.15.07:174][959]LogUObjectHash: Compacting FUObjectHashTables data took   3.65ms
+[2024.05.02-08.15.07:174][959]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/L_3' took 0.080
+[2024.05.02-08.15.07:175][959]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/UW_PinPad] ([2] browsable assets)...
+[2024.05.02-08.15.07:178][959]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/UW_PinPad.UW_PinPad]
+[2024.05.02-08.15.07:178][959]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/UW_PinPad]
+[2024.05.02-08.15.07:178][959]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UW_PinPad" FILE="../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/Autosaves/Game/UI/UW_PinPad_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2024.05.02-08.15.07:191][959]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/UW_PinPad_Auto5
+[2024.05.02-08.15.07:191][959]LogSavePackage: Moving '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/UW_PinPad_Auto58942FF9049B31F40AC17659CD19AE248.tmp' to '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/Autosaves/Game/UI/UW_PinPad_Auto5.uasset'
+[2024.05.02-08.15.07:192][959]LogFileHelpers: Auto-saving content packages took 0.019
+[2024.05.02-08.32.52:550][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2024.05.02-08.32.52:556][ 25]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/L_3' took 0.085
+[2024.05.02-08.32.52:556][ 25]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/UW_PinPad] ([2] browsable assets)...
+[2024.05.02-08.32.52:561][ 25]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/UW_PinPad.UW_PinPad]
+[2024.05.02-08.32.52:561][ 25]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/UW_PinPad]
+[2024.05.02-08.32.52:562][ 25]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UW_PinPad" FILE="../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/Autosaves/Game/UI/UW_PinPad_Auto6.uasset" SILENT=false AUTOSAVING=true
+[2024.05.02-08.32.52:575][ 25]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/UW_PinPad_Auto6
+[2024.05.02-08.32.52:575][ 25]LogSavePackage: Moving '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/UW_PinPad_Auto6BA7F3AF94C0A7E44F5EDD7A38C13A859.tmp' to '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/Autosaves/Game/UI/UW_PinPad_Auto6.uasset'
+[2024.05.02-08.32.52:576][ 25]LogFileHelpers: Auto-saving content packages took 0.021
+[2024.05.02-08.37.43:580][411]LogEditorClassViewer: Warning: Class /Script/InteractiveToolsFramework.GizmoActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.05.02-08.37.43:581][411]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewGeometryActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.05.02-08.37.43:581][411]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewMeshActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.05.02-08.39.57:856][586]LogDerivedDataCache: C:/Users/mikir/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:13.902 and deleted 0 files with total size 0 MiB. Scanned 6949 files in 6881 folders with total size 930 MiB.
+[2024.05.02-08.40.17:894][512]BlueprintLog: New page: Compile UW_PinPad
+[2024.05.02-08.40.18:037][512]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2024.05.02-08.40.18:057][512]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.02-08.40.18:207][512]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UW_PinPad" FILE="../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/UI/UW_PinPad.uasset" SILENT=true
+[2024.05.02-08.40.18:230][512]LogSavePackage: Moving output files for package: /Game/UI/UW_PinPad
+[2024.05.02-08.40.18:231][512]LogSavePackage: Moving '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/UW_PinPadB3E288254EBB7E843BA9868DB8081D49.tmp' to '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/UI/UW_PinPad.uasset'
+[2024.05.02-08.40.18:248][512]LogFileHelpers: InternalPromptForCheckoutAndSave took 191 ms (total: 2.98 sec)
+[2024.05.02-08.40.18:258][512]AssetCheck: New page: Asset Save: UW_PinPad
+[2024.05.02-08.40.18:258][512]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/UW_PinPad.UW_PinPad
+[2024.05.02-08.43.05:093][106]LogUObjectHash: Compacting FUObjectHashTables data took   3.70ms
+[2024.05.02-08.43.05:096][106]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/L_3' took 0.100
+[2024.05.02-08.43.05:097][106]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/UW_PinPad] ([2] browsable assets)...
+[2024.05.02-08.43.05:101][106]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/UW_PinPad.UW_PinPad]
+[2024.05.02-08.43.05:101][106]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/UW_PinPad]
+[2024.05.02-08.43.05:101][106]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UW_PinPad" FILE="../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/Autosaves/Game/UI/UW_PinPad_Auto7.uasset" SILENT=false AUTOSAVING=true
+[2024.05.02-08.43.05:118][106]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/UW_PinPad_Auto7
+[2024.05.02-08.43.05:118][106]LogSavePackage: Moving '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/UW_PinPad_Auto7CF38C4D8473FA88E0B2E80AA6DDBAB0B.tmp' to '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/Autosaves/Game/UI/UW_PinPad_Auto7.uasset'
+[2024.05.02-08.43.05:119][106]LogFileHelpers: Auto-saving content packages took 0.023
+[2024.05.02-08.44.50:481][265]BlueprintLog: New page: Compile UW_PinPad
+[2024.05.02-08.44.50:656][265]LogUObjectHash: Compacting FUObjectHashTables data took   6.05ms
+[2024.05.02-08.44.50:690][265]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.02-08.44.50:807][265]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UW_PinPad" FILE="../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/UI/UW_PinPad.uasset" SILENT=true
+[2024.05.02-08.44.50:834][265]LogSavePackage: Moving output files for package: /Game/UI/UW_PinPad
+[2024.05.02-08.44.50:834][265]LogSavePackage: Moving '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/UW_PinPad96118EE2468F45EB528123B3CA67A17C.tmp' to '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/UI/UW_PinPad.uasset'
+[2024.05.02-08.44.50:853][265]LogFileHelpers: InternalPromptForCheckoutAndSave took 162 ms (total: 3.14 sec)
+[2024.05.02-08.44.50:874][265]AssetCheck: New page: Asset Save: UW_PinPad
+[2024.05.02-08.44.50:874][265]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/UW_PinPad.UW_PinPad
+[2024.05.02-08.45.45:840][594]LogEditorClassViewer: Warning: Class /Script/InteractiveToolsFramework.GizmoActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.05.02-08.45.45:840][594]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewGeometryActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.05.02-08.45.45:840][594]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewMeshActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.05.02-08.45.50:066][778]BlueprintLog: New page: Compile BP_PinPad
+[2024.05.02-08.45.50:222][778]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2024.05.02-08.45.50:258][778]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.02-08.45.50:440][778]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/BP_PinPad" FILE="../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/FirstPerson/Blueprints/BP_PinPad.uasset" SILENT=true
+[2024.05.02-08.45.50:459][778]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_PinPad
+[2024.05.02-08.45.50:461][778]LogSavePackage: Moving '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/BP_PinPadB33A49604E1C412894EDDB91BFD60557.tmp' to '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/FirstPerson/Blueprints/BP_PinPad.uasset'
+[2024.05.02-08.45.50:485][778]LogFileHelpers: InternalPromptForCheckoutAndSave took 227 ms (total: 3.37 sec)
+[2024.05.02-08.45.50:501][778]AssetCheck: New page: Asset Save: BP_PinPad
+[2024.05.02-08.45.50:501][778]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_PinPad.BP_PinPad
+[2024.05.02-08.45.53:588][875]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2024.05.02-08.45.53:593][875]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.02-08.45.53:723][875]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/Doors/BP_PinPadDoors
+[2024.05.02-08.45.53:724][875]LogSavePackage: Moving '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/BP_PinPadDoorsB4CB1A674DF7D576CEDAE59574C1828A.tmp' to '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/FirstPerson/Blueprints/Doors/BP_PinPadDoors.uasset'
+[2024.05.02-08.45.53:749][875]LogFileHelpers: InternalPromptForCheckoutAndSave took 156 ms (total: 3.52 sec)
+[2024.05.02-08.45.53:763][875]AssetCheck: New page: Asset Save: BP_PinPadDoors
+[2024.05.02-08.45.53:764][875]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/Doors/BP_PinPadDoors.BP_PinPadDoors
+[2024.05.02-08.46.02:566][254]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FirstPerson/Blueprints/Doors/BP_PinPadDoors.BP_PinPadDoors_C
+[2024.05.02-08.46.02:567][254]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FirstPerson/Blueprints/Doors/BP_PinPadDoors.BP_PinPadDoors_C
+[2024.05.02-08.46.02:578][254]LogActorFactory: Actor Factory spawned Blueprint /Game/FirstPerson/Blueprints/Doors/BP_PinPadDoors.BP_PinPadDoors as actor: BP_PinPadDoors_C /Game/FirstPerson/Maps/L_3.L_3:PersistentLevel.BP_PinPadDoors_C_0
+[2024.05.02-08.46.02:583][254]LogActorFactory: Actor Factory spawned Blueprint /Game/FirstPerson/Blueprints/Doors/BP_PinPadDoors.BP_PinPadDoors as actor: BP_PinPadDoors_C /Game/FirstPerson/Maps/L_3.L_3:PersistentLevel.BP_PinPadDoors_C_0
+[2024.05.02-08.46.02:601][254]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2024.05.02-08.46.03:762][281]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FirstPerson/Blueprints/Doors/BP_PinPadDoors.BP_PinPadDoors_C
+[2024.05.02-08.46.03:762][281]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FirstPerson/Blueprints/Doors/BP_PinPadDoors.BP_PinPadDoors_C
+[2024.05.02-08.46.03:778][281]LogActorFactory: Actor Factory spawned Blueprint /Game/FirstPerson/Blueprints/Doors/BP_PinPadDoors.BP_PinPadDoors as actor: BP_PinPadDoors_C /Game/FirstPerson/Maps/L_3.L_3:PersistentLevel.BP_PinPadDoors_C_1
+[2024.05.02-08.46.03:785][281]LogActorFactory: Actor Factory spawned Blueprint /Game/FirstPerson/Blueprints/Doors/BP_PinPadDoors.BP_PinPadDoors as actor: BP_PinPadDoors_C /Game/FirstPerson/Maps/L_3.L_3:PersistentLevel.BP_PinPadDoors_C_1
+[2024.05.02-08.46.06:491][420]LogAudioMixer: Warning: Audio Thread Command from SetListenerTransforms()() took 1.171900 milleseconds to execute
+[2024.05.02-08.46.11:236][689]Cmd: DELETE
+[2024.05.02-08.46.11:236][689]Cmd: ACTOR DELETE
+[2024.05.02-08.46.13:771][689]LogShaderCompilers: Display: ================================================
+[2024.05.02-08.46.13:771][689]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.05.02-08.46.13:771][689]LogShaderCompilers: Display: Total job queries 254, among them cache hits 28 (11.02%)
+[2024.05.02-08.46.13:771][689]LogShaderCompilers: Display: Tracking 226 distinct input hashes that result in 105 distinct outputs (46.46%)
+[2024.05.02-08.46.13:771][689]LogShaderCompilers: Display: RAM used: 1.31 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.16%
+[2024.05.02-08.46.13:771][689]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.05.02-08.46.13:771][689]LogShaderCompilers: Display: Shaders Compiled: 0
+[2024.05.02-08.46.13:771][689]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2024.05.02-08.46.13:771][689]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2024.05.02-08.46.13:771][689]LogShaderCompilers: Display: ================================================
+[2024.05.02-08.46.13:973][689]LogEditorActor: Deleted Actor: BP_Doors_C
+[2024.05.02-08.46.14:109][689]LogUObjectHash: Compacting FUObjectHashTables data took   4.52ms
+[2024.05.02-08.46.14:115][689]LogEditorActor: Deleted 1 Actors (2.876 secs)
+[2024.05.02-08.46.14:230][690]LogAutomationController: Ignoring very large delta of 3.00 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.05.02-08.46.23:713][143]Cmd: MODE ROTGRID=1
+[2024.05.02-08.46.36:401][496]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2024.05.02-08.46.36:401][496]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2024.05.02-08.46.44:218][812]BlueprintLog: New page: Compile UW_PinPad
+[2024.05.02-08.46.44:350][812]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2024.05.02-08.46.44:436][812]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.02-08.46.44:583][812]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UW_PinPad" FILE="../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/UI/UW_PinPad.uasset" SILENT=true
+[2024.05.02-08.46.44:620][812]LogSavePackage: Moving output files for package: /Game/UI/UW_PinPad
+[2024.05.02-08.46.44:621][812]LogSavePackage: Moving '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/UW_PinPad6A75320B4534E385A836509E3491139C.tmp' to '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/UI/UW_PinPad.uasset'
+[2024.05.02-08.46.44:634][812]LogFileHelpers: InternalPromptForCheckoutAndSave took 198 ms (total: 3.72 sec)
+[2024.05.02-08.46.44:678][812]AssetCheck: New page: Asset Save: UW_PinPad
+[2024.05.02-08.46.44:678][812]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/UW_PinPad.UW_PinPad
+[2024.05.02-08.46.57:299][379]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FirstPerson/Blueprints/BP_PinPad.BP_PinPad_C
+[2024.05.02-08.46.57:299][379]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FirstPerson/Blueprints/BP_PinPad.BP_PinPad_C
+[2024.05.02-08.46.57:307][379]LogActorFactory: Actor Factory spawned Blueprint /Game/FirstPerson/Blueprints/BP_PinPad.BP_PinPad as actor: BP_PinPad_C /Game/FirstPerson/Maps/L_3.L_3:PersistentLevel.BP_PinPad_C_0
+[2024.05.02-08.46.57:315][379]LogActorFactory: Actor Factory spawned Blueprint /Game/FirstPerson/Blueprints/BP_PinPad.BP_PinPad as actor: BP_PinPad_C /Game/FirstPerson/Maps/L_3.L_3:PersistentLevel.BP_PinPad_C_0
+[2024.05.02-08.46.58:711][440]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FirstPerson/Blueprints/BP_PinPad.BP_PinPad_C
+[2024.05.02-08.46.58:711][440]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FirstPerson/Blueprints/BP_PinPad.BP_PinPad_C
+[2024.05.02-08.46.58:720][440]LogActorFactory: Actor Factory spawned Blueprint /Game/FirstPerson/Blueprints/BP_PinPad.BP_PinPad as actor: BP_PinPad_C /Game/FirstPerson/Maps/L_3.L_3:PersistentLevel.BP_PinPad_C_1
+[2024.05.02-08.46.58:725][440]LogActorFactory: Actor Factory spawned Blueprint /Game/FirstPerson/Blueprints/BP_PinPad.BP_PinPad as actor: BP_PinPad_C /Game/FirstPerson/Maps/L_3.L_3:PersistentLevel.BP_PinPad_C_1
+[2024.05.02-08.47.27:167][706]LogEditorTransaction: Undo Modify Component(s)
+[2024.05.02-08.47.35:898][992]LogEditorTransaction: Undo Modify Component(s)
+[2024.05.02-08.48.29:789][932]LogEditorTransaction: Undo Set Scale
+[2024.05.02-08.49.13:197][483]LogEditorTransaction: Undo Modify Component(s)
+[2024.05.02-08.49.16:446][583]LogEditorTransaction: Undo Modify Component(s)
+[2024.05.02-08.49.16:898][592]LogEditorTransaction: Undo Set Scale
+[2024.05.02-08.49.17:303][598]LogEditorTransaction: Undo Modify Component(s)
+[2024.05.02-08.49.17:652][606]LogEditorTransaction: Undo Set Scale
+[2024.05.02-08.49.18:124][622]LogEditorTransaction: Undo Modify Component(s)
+[2024.05.02-08.49.18:487][630]LogEditorTransaction: Undo Set Scale
+[2024.05.02-08.49.27:844][958]LogEditorTransaction: Undo Modify Component(s)
+[2024.05.02-08.49.32:678][121]BlueprintLog: New page: Compile BP_PinPad
+[2024.05.02-08.49.33:124][121]LogUObjectHash: Compacting FUObjectHashTables data took   4.64ms
+[2024.05.02-08.49.33:153][121]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.02-08.49.33:282][121]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/BP_PinPad" FILE="../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/FirstPerson/Blueprints/BP_PinPad.uasset" SILENT=true
+[2024.05.02-08.49.33:294][121]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_PinPad
+[2024.05.02-08.49.33:295][121]LogSavePackage: Moving '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/BP_PinPad8009A1EB42D2F125C6C6DCB005F2CF46.tmp' to '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/FirstPerson/Blueprints/BP_PinPad.uasset'
+[2024.05.02-08.49.33:314][121]LogFileHelpers: InternalPromptForCheckoutAndSave took 161 ms (total: 3.88 sec)
+[2024.05.02-08.49.33:330][121]AssetCheck: New page: Asset Save: BP_PinPad
+[2024.05.02-08.49.33:330][121]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_PinPad.BP_PinPad
+[2024.05.02-08.49.38:273][356]Cmd: SELECT NONE
+[2024.05.02-08.49.45:120][686]LogShaderCompilers: Display: ================================================
+[2024.05.02-08.49.45:120][686]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.05.02-08.49.45:120][686]LogShaderCompilers: Display: Total job queries 351, among them cache hits 70 (19.94%)
+[2024.05.02-08.49.45:120][686]LogShaderCompilers: Display: Tracking 281 distinct input hashes that result in 122 distinct outputs (43.42%)
+[2024.05.02-08.49.45:120][686]LogShaderCompilers: Display: RAM used: 1.66 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.20%
+[2024.05.02-08.49.45:120][686]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.05.02-08.49.45:120][686]LogShaderCompilers: Display: Shaders Compiled: 0
+[2024.05.02-08.49.45:120][686]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2024.05.02-08.49.45:120][686]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2024.05.02-08.49.45:120][686]LogShaderCompilers: Display: ================================================
+[2024.05.02-08.49.45:900][720]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.05.02-08.49.46:940][773]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.05.02-08.49.46:966][773]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.05.02-08.49.46:970][773]LogPlayLevel: [PlayLevel] Compiling BP_PinPadDoors before play...
+[2024.05.02-08.49.47:204][773]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2024.05.02-08.49.47:206][773]LogPlayLevel: PlayLevel: Blueprint regeneration took 239 ms (1 blueprints)
+[2024.05.02-08.49.47:209][773]PIE: New page: PIE session: L_3 (2 maj 2024, 12:49:47)
+[2024.05.02-08.49.47:255][773]LogOnline: OSS: Created online subsystem instance for: NULL
+[2024.05.02-08.49.47:257][773]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2024.05.02-08.49.47:259][773]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_L_3
+[2024.05.02-08.49.47:350][773]LogPlayLevel: PIE: StaticDuplicateObject took: (0.090940s)
+[2024.05.02-08.49.47:351][773]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/L_3.L_3 to /Game/FirstPerson/Maps/UEDPIE_0_L_3.L_3 (0.091534s)
+[2024.05.02-08.49.47:358][773]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.02-08.49.47:360][773]LogAIModule: Creating AISystem for world L_3
+[2024.05.02-08.49.47:367][773]LogPlayLevel: PIE: World Init took: (0.015949s)
+[2024.05.02-08.49.47:467][773]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2024.05.02-08.49.47:475][773]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2024.05.02-08.49.47:478][773]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.02-08.49.47:478][773]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.02-08.49.47:478][773]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.02-08.49.47:479][773]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.02-08.49.47:479][773]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.02-08.49.47:479][773]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.05.02-08.49.47:479][773]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.02-08.49.47:480][773]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.02-08.49.47:482][773]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.02-08.49.47:482][773]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.02-08.49.47:482][773]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.02-08.49.47:488][773]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.02-08.49.47:511][773]LogAudioMixer: Display: Using Audio Hardware Device Słuchawki (JBL TUNE560BT)
+[2024.05.02-08.49.47:515][773]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.02-08.49.47:515][773]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.02-08.49.47:517][773]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.02-08.49.47:525][773]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2024.05.02-08.49.47:525][773]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2024.05.02-08.49.47:528][773]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2024.05.02-08.49.47:528][773]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2024.05.02-08.49.47:528][773]LogInit: FAudioDevice initialized.
+[2024.05.02-08.49.47:529][773]LogAudio: Display: Audio Device (ID: 2) registered with world 'L_3'.
+[2024.05.02-08.49.47:543][773]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.05.02-08.49.47:582][773]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_L_3.L_3 up for play (max tick rate 60) at 2024.05.02-10.49.47
+[2024.05.02-08.49.47:615][773]LogWorld: Bringing up level for play took: 0.071921
+[2024.05.02-08.49.47:622][773]LogOnline: OSS: Created online subsystem instance for: :Context_32
+[2024.05.02-08.49.47:649][773]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2024.05.02-08.49.47:801][773]PIE: Server logged in
+[2024.05.02-08.49.47:804][773]PIE: Play in editor total start time 0,845 seconds.
+[2024.05.02-08.49.55:431][132]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.05.02-08.49.55:431][132]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2024.05.02-08.49.55:431][132]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2024.05.02-08.50.26:009][834]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.02-08.50.26:010][834]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_L_3
+[2024.05.02-08.50.26:014][834]LogWorld: UWorld::CleanupWorld for L_3, bSessionEnded=true, bCleanupResources=true
+[2024.05.02-08.50.26:024][834]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.02-08.50.26:041][834]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.02-08.50.26:067][834]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.02-08.50.26:201][834]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.02-08.50.26:205][834]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.05.02-08.50.26:207][834]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.05.02-08.50.26:337][834]LogUObjectHash: Compacting FUObjectHashTables data took   4.79ms
+[2024.05.02-08.50.26:403][835]LogPlayLevel: Display: Destroying online subsystem :Context_32
