@@ -1629,3 +1629,1302 @@ Script Stack (0 frames) :
 [2024.05.02-08.50.26:207][834]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
 [2024.05.02-08.50.26:337][834]LogUObjectHash: Compacting FUObjectHashTables data took   4.79ms
 [2024.05.02-08.50.26:403][835]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2024.05.02-08.52.36:175][555]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.05.02-08.52.36:189][555]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.02-08.52.36:189][555]PIE: New page: PIE session: L_3 (2 maj 2024, 12:52:36)
+[2024.05.02-08.52.36:190][555]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_L_3
+[2024.05.02-08.52.36:271][555]LogPlayLevel: PIE: StaticDuplicateObject took: (0.082024s)
+[2024.05.02-08.52.36:271][555]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/L_3.L_3 to /Game/FirstPerson/Maps/UEDPIE_0_L_3.L_3 (0.082104s)
+[2024.05.02-08.52.36:271][555]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.02-08.52.36:272][555]LogAIModule: Creating AISystem for world L_3
+[2024.05.02-08.52.36:273][555]LogPlayLevel: PIE: World Init took: (0.001564s)
+[2024.05.02-08.52.36:403][555]LogUObjectHash: Compacting FUObjectHashTables data took   4.24ms
+[2024.05.02-08.52.36:420][555]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2024.05.02-08.52.36:420][555]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.02-08.52.36:420][555]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.02-08.52.36:420][555]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.02-08.52.36:420][555]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.02-08.52.36:420][555]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.02-08.52.36:420][555]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.05.02-08.52.36:420][555]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.02-08.52.36:420][555]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.02-08.52.36:420][555]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.02-08.52.36:421][555]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.02-08.52.36:421][555]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.02-08.52.36:424][555]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.02-08.52.36:445][555]LogAudioMixer: Display: Using Audio Hardware Device Słuchawki (JBL TUNE560BT)
+[2024.05.02-08.52.36:445][555]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.02-08.52.36:445][555]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.02-08.52.36:445][555]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.02-08.52.36:447][555]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2024.05.02-08.52.36:447][555]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2024.05.02-08.52.36:449][555]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2024.05.02-08.52.36:449][555]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2024.05.02-08.52.36:449][555]LogInit: FAudioDevice initialized.
+[2024.05.02-08.52.36:449][555]LogAudio: Display: Audio Device (ID: 3) registered with world 'L_3'.
+[2024.05.02-08.52.36:453][555]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.05.02-08.52.36:486][555]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_L_3.L_3 up for play (max tick rate 60) at 2024.05.02-10.52.36
+[2024.05.02-08.52.36:487][555]LogWorld: Bringing up level for play took: 0.034555
+[2024.05.02-08.52.36:491][555]LogOnline: OSS: Created online subsystem instance for: :Context_33
+[2024.05.02-08.52.36:492][555]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2024.05.02-08.52.36:497][555]PIE: Server logged in
+[2024.05.02-08.52.36:497][555]PIE: Play in editor total start time 0,309 seconds.
+[2024.05.02-08.52.41:448][838]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.05.02-08.52.41:448][838]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2024.05.02-08.52.41:448][838]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2024.05.02-08.52.58:727][867]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.02-08.52.58:727][867]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_L_3
+[2024.05.02-08.52.58:729][867]LogWorld: UWorld::CleanupWorld for L_3, bSessionEnded=true, bCleanupResources=true
+[2024.05.02-08.52.58:733][867]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.02-08.52.58:738][867]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.02-08.52.58:747][867]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.02-08.52.58:837][867]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.02-08.52.58:841][867]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.05.02-08.52.58:843][867]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.05.02-08.52.58:861][867]LogUObjectHash: Compacting FUObjectHashTables data took   4.14ms
+[2024.05.02-08.52.59:004][868]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2024.05.02-08.53.18:771][656]BlueprintLog: New page: Compile UW_PinPad
+[2024.05.02-08.53.18:914][656]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2024.05.02-08.53.18:986][656]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.02-08.53.19:128][656]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UW_PinPad" FILE="../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/UI/UW_PinPad.uasset" SILENT=true
+[2024.05.02-08.53.19:168][656]LogSavePackage: Moving output files for package: /Game/UI/UW_PinPad
+[2024.05.02-08.53.19:169][656]LogSavePackage: Moving '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/UW_PinPad487FBA814CF8394DEE7EE58F0EA203F0.tmp' to '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/UI/UW_PinPad.uasset'
+[2024.05.02-08.53.19:189][656]LogFileHelpers: InternalPromptForCheckoutAndSave took 203 ms (total: 4.09 sec)
+[2024.05.02-08.53.19:206][656]AssetCheck: New page: Asset Save: UW_PinPad
+[2024.05.02-08.53.19:206][656]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/UW_PinPad.UW_PinPad
+[2024.05.02-08.53.24:133][848]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2024.05.02-08.53.24:133][848]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2024.05.02-08.53.53:606][981]LogEditorTransaction: Undo Drag and Drop Widget
+[2024.05.02-08.54.07:604][376]LogEditorTransaction: Undo Remove Widget
+[2024.05.02-08.54.08:108][382]LogEditorTransaction: Undo Drag and Drop Widget
+[2024.05.02-08.54.08:600][396]LogEditorTransaction: Undo Resize Widget
+[2024.05.02-08.54.39:453][653]BlueprintLog: New page: Compile UW_PinPad
+[2024.05.02-08.54.39:602][653]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2024.05.02-08.54.39:697][653]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.02-08.54.39:786][653]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UW_PinPad" FILE="../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/UI/UW_PinPad.uasset" SILENT=true
+[2024.05.02-08.54.39:811][653]LogSavePackage: Moving output files for package: /Game/UI/UW_PinPad
+[2024.05.02-08.54.39:812][653]LogSavePackage: Moving '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/UW_PinPad85B79E61411F1D5C11D5F79CA652255A.tmp' to '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/UI/UW_PinPad.uasset'
+[2024.05.02-08.54.39:824][653]LogFileHelpers: InternalPromptForCheckoutAndSave took 126 ms (total: 4.21 sec)
+[2024.05.02-08.54.39:861][653]AssetCheck: New page: Asset Save: UW_PinPad
+[2024.05.02-08.54.39:861][653]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/UW_PinPad.UW_PinPad
+[2024.05.02-08.55.45:068][146]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2024.05.02-08.55.45:068][146]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2024.05.02-08.56.15:104][320]BlueprintLog: New page: Compile UW_PinPad
+[2024.05.02-08.56.15:241][320]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2024.05.02-08.56.15:296][320]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.02-08.56.15:400][320]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UW_PinPad" FILE="../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/UI/UW_PinPad.uasset" SILENT=true
+[2024.05.02-08.56.15:424][320]LogSavePackage: Moving output files for package: /Game/UI/UW_PinPad
+[2024.05.02-08.56.15:425][320]LogSavePackage: Moving '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/UW_PinPad06B7B6124B48E14CF9511DA14EA19B44.tmp' to '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/UI/UW_PinPad.uasset'
+[2024.05.02-08.56.15:441][320]LogFileHelpers: InternalPromptForCheckoutAndSave took 144 ms (total: 4.36 sec)
+[2024.05.02-08.56.15:453][320]AssetCheck: New page: Asset Save: UW_PinPad
+[2024.05.02-08.56.15:453][320]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/UW_PinPad.UW_PinPad
+[2024.05.02-08.56.19:365][483]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.05.02-08.56.19:377][483]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.02-08.56.19:377][483]PIE: New page: PIE session: L_3 (2 maj 2024, 12:56:19)
+[2024.05.02-08.56.19:378][483]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_L_3
+[2024.05.02-08.56.19:437][483]LogPlayLevel: PIE: StaticDuplicateObject took: (0.059169s)
+[2024.05.02-08.56.19:437][483]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/L_3.L_3 to /Game/FirstPerson/Maps/UEDPIE_0_L_3.L_3 (0.059253s)
+[2024.05.02-08.56.19:437][483]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.02-08.56.19:438][483]LogAIModule: Creating AISystem for world L_3
+[2024.05.02-08.56.19:438][483]LogPlayLevel: PIE: World Init took: (0.001340s)
+[2024.05.02-08.56.19:524][483]LogUObjectHash: Compacting FUObjectHashTables data took   5.40ms
+[2024.05.02-08.56.19:529][483]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2024.05.02-08.56.19:529][483]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.02-08.56.19:529][483]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.02-08.56.19:529][483]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.02-08.56.19:529][483]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.02-08.56.19:529][483]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.02-08.56.19:529][483]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.05.02-08.56.19:529][483]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.02-08.56.19:529][483]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.02-08.56.19:530][483]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.02-08.56.19:530][483]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.02-08.56.19:530][483]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.02-08.56.19:534][483]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.02-08.56.19:578][483]LogAudioMixer: Display: Using Audio Hardware Device Słuchawki (JBL TUNE560BT)
+[2024.05.02-08.56.19:578][483]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.02-08.56.19:578][483]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.02-08.56.19:578][483]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.02-08.56.19:579][483]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2024.05.02-08.56.19:579][483]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2024.05.02-08.56.19:583][483]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2024.05.02-08.56.19:583][483]LogInit: FAudioDevice initialized.
+[2024.05.02-08.56.19:583][483]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2024.05.02-08.56.19:583][483]LogAudio: Display: Audio Device (ID: 4) registered with world 'L_3'.
+[2024.05.02-08.56.19:588][483]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.05.02-08.56.19:632][483]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_L_3.L_3 up for play (max tick rate 60) at 2024.05.02-10.56.19
+[2024.05.02-08.56.19:634][483]LogWorld: Bringing up level for play took: 0.045406
+[2024.05.02-08.56.19:639][483]LogOnline: OSS: Created online subsystem instance for: :Context_34
+[2024.05.02-08.56.19:640][483]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2024.05.02-08.56.19:647][483]PIE: Server logged in
+[2024.05.02-08.56.19:648][483]PIE: Play in editor total start time 0,271 seconds.
+[2024.05.02-08.56.21:998][611]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.05.02-08.56.21:998][611]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2024.05.02-08.56.21:998][611]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2024.05.02-08.56.28:078][973]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.02-08.56.28:079][973]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_L_3
+[2024.05.02-08.56.28:080][973]LogWorld: UWorld::CleanupWorld for L_3, bSessionEnded=true, bCleanupResources=true
+[2024.05.02-08.56.28:085][973]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.02-08.56.28:094][973]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.02-08.56.28:106][973]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.02-08.56.28:205][973]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.02-08.56.28:205][973]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.05.02-08.56.28:207][973]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.05.02-08.56.28:213][973]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.02-08.56.28:229][973]LogUObjectHash: Compacting FUObjectHashTables data took   3.66ms
+[2024.05.02-08.56.28:272][974]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2024.05.02-08.56.54:066][961]BlueprintLog: New page: Compile BP_PinPad
+[2024.05.02-08.56.54:212][961]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2024.05.02-08.56.54:246][961]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.02-08.56.54:342][961]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/BP_PinPad" FILE="../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/FirstPerson/Blueprints/BP_PinPad.uasset" SILENT=true
+[2024.05.02-08.56.54:349][961]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_PinPad
+[2024.05.02-08.56.54:350][961]LogSavePackage: Moving '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/BP_PinPad7FE84ABB4AC4B07CC59FB0A1F49EAE26.tmp' to '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/FirstPerson/Blueprints/BP_PinPad.uasset'
+[2024.05.02-08.56.54:372][961]LogFileHelpers: InternalPromptForCheckoutAndSave took 126 ms (total: 4.49 sec)
+[2024.05.02-08.56.54:383][961]AssetCheck: New page: Asset Save: BP_PinPad
+[2024.05.02-08.56.54:383][961]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_PinPad.BP_PinPad
+[2024.05.02-08.57.50:469][172]BlueprintLog: New page: Compile UW_PinPad
+[2024.05.02-08.57.50:653][172]LogUObjectHash: Compacting FUObjectHashTables data took   4.94ms
+[2024.05.02-08.57.50:731][172]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.02-08.57.50:872][172]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UW_PinPad" FILE="../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/UI/UW_PinPad.uasset" SILENT=true
+[2024.05.02-08.57.50:896][172]LogSavePackage: Moving output files for package: /Game/UI/UW_PinPad
+[2024.05.02-08.57.50:897][172]LogSavePackage: Moving '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/UW_PinPad57CE48E747544EDCBEBDC2800BFCF362.tmp' to '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/UI/UW_PinPad.uasset'
+[2024.05.02-08.57.50:909][172]LogFileHelpers: InternalPromptForCheckoutAndSave took 177 ms (total: 4.66 sec)
+[2024.05.02-08.57.50:920][172]AssetCheck: New page: Asset Save: UW_PinPad
+[2024.05.02-08.57.50:920][172]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/UW_PinPad.UW_PinPad
+[2024.05.02-08.57.56:328][409]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.05.02-08.57.56:340][409]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.02-08.57.56:340][409]PIE: New page: PIE session: L_3 (2 maj 2024, 12:57:56)
+[2024.05.02-08.57.56:340][409]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_L_3
+[2024.05.02-08.57.56:398][409]LogPlayLevel: PIE: StaticDuplicateObject took: (0.057621s)
+[2024.05.02-08.57.56:398][409]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/L_3.L_3 to /Game/FirstPerson/Maps/UEDPIE_0_L_3.L_3 (0.057683s)
+[2024.05.02-08.57.56:398][409]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.02-08.57.56:399][409]LogAIModule: Creating AISystem for world L_3
+[2024.05.02-08.57.56:399][409]LogPlayLevel: PIE: World Init took: (0.001371s)
+[2024.05.02-08.57.56:500][409]LogUObjectHash: Compacting FUObjectHashTables data took   4.37ms
+[2024.05.02-08.57.56:506][409]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2024.05.02-08.57.56:506][409]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.02-08.57.56:506][409]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.02-08.57.56:506][409]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.02-08.57.56:506][409]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.02-08.57.56:506][409]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.02-08.57.56:506][409]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.05.02-08.57.56:506][409]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.02-08.57.56:506][409]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.02-08.57.56:506][409]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.02-08.57.56:506][409]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.02-08.57.56:506][409]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.02-08.57.56:509][409]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.02-08.57.56:530][409]LogAudioMixer: Display: Using Audio Hardware Device Słuchawki (JBL TUNE560BT)
+[2024.05.02-08.57.56:530][409]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.02-08.57.56:530][409]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.02-08.57.56:530][409]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.02-08.57.56:531][409]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2024.05.02-08.57.56:532][409]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2024.05.02-08.57.56:533][409]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2024.05.02-08.57.56:533][409]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2024.05.02-08.57.56:533][409]LogInit: FAudioDevice initialized.
+[2024.05.02-08.57.56:533][409]LogAudio: Display: Audio Device (ID: 5) registered with world 'L_3'.
+[2024.05.02-08.57.56:537][409]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.05.02-08.57.56:567][409]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_L_3.L_3 up for play (max tick rate 60) at 2024.05.02-10.57.56
+[2024.05.02-08.57.56:568][409]LogWorld: Bringing up level for play took: 0.030776
+[2024.05.02-08.57.56:570][409]LogOnline: OSS: Created online subsystem instance for: :Context_35
+[2024.05.02-08.57.56:571][409]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2024.05.02-08.57.56:575][409]PIE: Server logged in
+[2024.05.02-08.57.56:575][409]PIE: Play in editor total start time 0,236 seconds.
+[2024.05.02-08.57.59:176][551]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-08.57.59:176][551]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.05.02-08.57.59:176][551]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2024.05.02-08.57.59:190][552]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-08.57.59:207][553]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-08.57.59:223][554]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-08.57.59:241][555]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-08.57.59:257][556]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-08.57.59:274][557]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-08.57.59:290][558]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-08.57.59:307][559]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-08.57.59:323][560]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-08.57.59:340][561]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-08.57.59:357][562]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-08.57.59:374][563]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-08.57.59:390][564]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-08.57.59:407][565]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-08.57.59:423][566]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-08.57.59:440][567]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-08.57.59:457][568]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-08.57.59:474][569]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-08.57.59:490][570]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-08.57.59:506][571]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-08.57.59:523][572]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-08.57.59:540][573]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-08.57.59:557][574]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-08.57.59:573][575]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-08.57.59:590][576]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-08.57.59:608][577]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-08.57.59:626][578]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-08.57.59:643][579]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-08.57.59:662][580]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-08.57.59:680][581]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-08.57.59:697][582]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-08.57.59:716][583]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-08.57.59:733][584]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-08.57.59:753][585]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-08.57.59:773][586]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-08.57.59:793][587]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-08.57.59:813][588]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-08.57.59:835][589]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-08.57.59:857][590]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-08.57.59:879][591]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-08.57.59:899][592]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-08.57.59:920][593]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-08.57.59:941][594]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-08.57.59:961][595]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-08.57.59:980][596]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-08.58.00:003][597]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-08.58.00:028][598]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-08.58.00:050][599]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-08.58.00:076][600]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-08.58.00:099][601]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-08.58.00:122][602]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-08.58.00:147][603]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-08.58.00:170][604]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-08.58.00:194][605]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-08.58.00:218][606]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-08.58.00:242][607]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-08.58.00:264][608]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-08.58.00:288][609]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-08.58.00:312][610]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-08.58.00:444][616]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.05.02-08.58.00:444][616]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2024.05.02-08.58.04:098][775]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.02-08.58.04:099][775]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_L_3
+[2024.05.02-08.58.04:100][775]LogWorld: UWorld::CleanupWorld for L_3, bSessionEnded=true, bCleanupResources=true
+[2024.05.02-08.58.04:105][775]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.02-08.58.04:112][775]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.02-08.58.04:124][775]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.02-08.58.04:197][775]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.02-08.58.04:206][775]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.05.02-08.58.04:208][775]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.05.02-08.58.04:227][775]LogUObjectHash: Compacting FUObjectHashTables data took   3.67ms
+[2024.05.02-08.58.04:472][776]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2024.05.02-08.58.18:076][303]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/Pause_Menu/PauseMenu.PauseMenu
+[2024.05.02-08.58.18:077][303]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.02-08.58.18:111][303]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.02-08.58.18:596][303]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2024.05.02-08.58.18:596][303]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2024.05.02-08.58.49:889][133]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/Pause_Menu/Pause_Settings.Pause_Settings
+[2024.05.02-08.58.49:890][133]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.02-08.58.49:903][133]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.02-08.58.50:417][133]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2024.05.02-08.58.50:417][133]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2024.05.02-08.59.00:383][677]LogWorld: UWorld::CleanupWorld for World_49, bSessionEnded=true, bCleanupResources=true
+[2024.05.02-08.59.00:383][677]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.02-08.59.00:407][677]LogWorld: UWorld::CleanupWorld for World_48, bSessionEnded=true, bCleanupResources=true
+[2024.05.02-08.59.00:408][677]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.02-08.59.48:441][446]LogWorld: UWorld::CleanupWorld for World_47, bSessionEnded=true, bCleanupResources=true
+[2024.05.02-08.59.48:441][446]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.02-08.59.48:455][446]LogWorld: UWorld::CleanupWorld for World_46, bSessionEnded=true, bCleanupResources=true
+[2024.05.02-08.59.48:455][446]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.02-08.59.49:449][482]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.05.02-08.59.49:462][482]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.02-08.59.49:463][482]PIE: New page: PIE session: L_3 (2 maj 2024, 12:59:49)
+[2024.05.02-08.59.49:463][482]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_L_3
+[2024.05.02-08.59.49:527][482]LogPlayLevel: PIE: StaticDuplicateObject took: (0.064151s)
+[2024.05.02-08.59.49:527][482]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/L_3.L_3 to /Game/FirstPerson/Maps/UEDPIE_0_L_3.L_3 (0.064202s)
+[2024.05.02-08.59.49:527][482]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.02-08.59.49:528][482]LogAIModule: Creating AISystem for world L_3
+[2024.05.02-08.59.49:528][482]LogPlayLevel: PIE: World Init took: (0.001538s)
+[2024.05.02-08.59.49:624][482]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2024.05.02-08.59.49:628][482]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2024.05.02-08.59.49:628][482]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.02-08.59.49:628][482]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.02-08.59.49:628][482]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.02-08.59.49:628][482]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.02-08.59.49:628][482]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.02-08.59.49:628][482]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.05.02-08.59.49:628][482]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.02-08.59.49:628][482]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.02-08.59.49:629][482]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.02-08.59.49:629][482]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.02-08.59.49:629][482]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.02-08.59.49:631][482]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.02-08.59.49:651][482]LogAudioMixer: Display: Using Audio Hardware Device Słuchawki (JBL TUNE560BT)
+[2024.05.02-08.59.49:651][482]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.02-08.59.49:651][482]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.02-08.59.49:651][482]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.02-08.59.49:652][482]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2024.05.02-08.59.49:652][482]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2024.05.02-08.59.49:654][482]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2024.05.02-08.59.49:654][482]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2024.05.02-08.59.49:654][482]LogInit: FAudioDevice initialized.
+[2024.05.02-08.59.49:654][482]LogAudio: Display: Audio Device (ID: 6) registered with world 'L_3'.
+[2024.05.02-08.59.49:658][482]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.05.02-08.59.49:689][482]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_L_3.L_3 up for play (max tick rate 60) at 2024.05.02-10.59.49
+[2024.05.02-08.59.49:690][482]LogWorld: Bringing up level for play took: 0.031147
+[2024.05.02-08.59.49:693][482]LogOnline: OSS: Created online subsystem instance for: :Context_40
+[2024.05.02-08.59.49:693][482]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2024.05.02-08.59.49:697][482]PIE: Server logged in
+[2024.05.02-08.59.49:698][482]PIE: Play in editor total start time 0,235 seconds.
+[2024.05.02-08.59.52:752][652]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-08.59.52:752][652]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.05.02-08.59.52:752][652]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2024.05.02-08.59.52:767][653]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-08.59.52:784][654]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-08.59.52:800][655]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-08.59.52:817][656]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-08.59.52:834][657]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-08.59.52:851][658]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-08.59.52:867][659]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-08.59.52:884][660]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-08.59.52:900][661]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-08.59.52:918][662]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-08.59.52:936][663]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-08.59.52:950][664]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-08.59.52:968][665]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-08.59.52:984][666]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-08.59.53:001][667]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-08.59.53:017][668]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-08.59.53:034][669]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-08.59.53:051][670]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-08.59.53:067][671]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-08.59.53:084][672]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-08.59.53:101][673]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-08.59.53:119][674]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-08.59.53:135][675]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-08.59.53:152][676]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-08.59.53:170][677]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-08.59.53:188][678]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-08.59.53:206][679]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-08.59.53:223][680]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-08.59.53:242][681]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-08.59.53:261][682]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-08.59.53:279][683]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-08.59.53:298][684]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-08.59.53:316][685]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-08.59.53:337][686]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-08.59.53:356][687]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-08.59.53:376][688]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-08.59.53:397][689]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-08.59.53:418][690]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-08.59.53:437][691]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-08.59.53:457][692]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-08.59.53:478][693]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-08.59.53:498][694]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-08.59.53:521][695]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-08.59.53:542][696]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-08.59.53:563][697]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-08.59.53:584][698]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-08.59.53:606][699]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-08.59.53:627][700]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-08.59.53:648][701]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-08.59.53:672][702]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-08.59.53:694][703]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-08.59.53:718][704]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-08.59.53:741][705]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-08.59.53:763][706]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-08.59.53:788][707]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-08.59.53:811][708]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-08.59.53:837][709]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-08.59.53:861][710]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-08.59.53:886][711]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-08.59.53:913][712]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-08.59.53:939][713]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-08.59.53:969][714]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-08.59.53:998][715]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-08.59.54:029][716]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-08.59.54:060][717]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-08.59.54:097][718]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-08.59.54:137][719]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-08.59.54:170][720]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-08.59.54:206][721]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-08.59.54:234][722]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-08.59.54:262][723]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-08.59.54:289][724]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-08.59.54:316][725]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-08.59.54:345][726]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-08.59.54:372][727]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-08.59.54:401][728]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-08.59.54:434][729]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-08.59.54:464][730]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-08.59.54:493][731]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-08.59.54:523][732]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-08.59.54:551][733]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.00.03:624][ 52]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.05.02-09.00.03:624][ 52]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2024.05.02-09.00.11:496][327]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.00.11:496][327]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.05.02-09.00.11:496][327]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2024.05.02-09.00.11:530][328]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.00.11:559][329]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.00.11:588][330]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.00.11:619][331]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.00.11:652][332]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.00.11:684][333]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.00.11:715][334]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.00.11:745][335]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.00.11:781][336]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.00.11:817][337]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.00.11:849][338]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.00.11:883][339]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.00.11:920][340]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.00.11:958][341]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.00.12:003][342]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.00.12:048][343]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.00.12:082][344]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.00.12:115][345]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.00.12:151][346]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.00.12:189][347]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.00.12:223][348]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.00.12:258][349]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.00.12:299][350]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.00.12:333][351]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.00.12:368][352]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.00.12:404][353]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.00.12:439][354]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.00.12:475][355]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.00.12:510][356]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.00.12:547][357]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.00.12:582][358]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.00.12:620][359]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.00.12:659][360]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.00.12:696][361]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.00.12:732][362]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.00.12:768][363]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.00.12:806][364]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.00.12:843][365]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.00.12:881][366]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.00.12:918][367]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.00.12:960][368]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.00.13:000][369]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.00.13:040][370]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.00.13:077][371]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.00.13:117][372]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.00.13:159][373]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.00.13:201][374]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.00.13:241][375]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.00.13:283][376]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.00.13:326][377]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.00.13:477][381]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.05.02-09.00.13:477][381]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2024.05.02-09.00.16:219][447]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.02-09.00.16:219][447]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_L_3
+[2024.05.02-09.00.16:220][447]LogWorld: UWorld::CleanupWorld for L_3, bSessionEnded=true, bCleanupResources=true
+[2024.05.02-09.00.16:223][447]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.02-09.00.16:228][447]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.02-09.00.16:239][447]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.02-09.00.16:319][447]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.02-09.00.16:320][447]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.05.02-09.00.16:322][447]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.05.02-09.00.16:327][447]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.02-09.00.16:345][447]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2024.05.02-09.00.16:414][448]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2024.05.02-09.00.17:953][528]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.05.02-09.00.17:967][528]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.02-09.00.17:967][528]PIE: New page: PIE session: L_3 (2 maj 2024, 13:00:17)
+[2024.05.02-09.00.17:968][528]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_L_3
+[2024.05.02-09.00.18:030][528]LogPlayLevel: PIE: StaticDuplicateObject took: (0.062116s)
+[2024.05.02-09.00.18:030][528]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/L_3.L_3 to /Game/FirstPerson/Maps/UEDPIE_0_L_3.L_3 (0.062172s)
+[2024.05.02-09.00.18:030][528]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.02-09.00.18:030][528]LogAIModule: Creating AISystem for world L_3
+[2024.05.02-09.00.18:031][528]LogPlayLevel: PIE: World Init took: (0.001144s)
+[2024.05.02-09.00.18:114][528]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2024.05.02-09.00.18:116][528]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2024.05.02-09.00.18:117][528]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.02-09.00.18:117][528]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.02-09.00.18:117][528]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.02-09.00.18:117][528]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.02-09.00.18:117][528]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.02-09.00.18:117][528]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.05.02-09.00.18:117][528]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.02-09.00.18:117][528]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.02-09.00.18:117][528]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.02-09.00.18:117][528]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.02-09.00.18:117][528]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.02-09.00.18:119][528]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.02-09.00.18:138][528]LogAudioMixer: Display: Using Audio Hardware Device Słuchawki (JBL TUNE560BT)
+[2024.05.02-09.00.18:138][528]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.02-09.00.18:138][528]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.02-09.00.18:138][528]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.02-09.00.18:139][528]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2024.05.02-09.00.18:139][528]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2024.05.02-09.00.18:142][528]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2024.05.02-09.00.18:142][528]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2024.05.02-09.00.18:142][528]LogInit: FAudioDevice initialized.
+[2024.05.02-09.00.18:142][528]LogAudio: Display: Audio Device (ID: 7) registered with world 'L_3'.
+[2024.05.02-09.00.18:146][528]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.05.02-09.00.18:175][528]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_L_3.L_3 up for play (max tick rate 60) at 2024.05.02-11.00.18
+[2024.05.02-09.00.18:176][528]LogWorld: Bringing up level for play took: 0.029715
+[2024.05.02-09.00.18:179][528]LogOnline: OSS: Created online subsystem instance for: :Context_41
+[2024.05.02-09.00.18:179][528]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2024.05.02-09.00.18:182][528]PIE: Server logged in
+[2024.05.02-09.00.18:183][528]PIE: Play in editor total start time 0,216 seconds.
+[2024.05.02-09.00.23:343][825]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.00.23:343][825]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.05.02-09.00.23:343][825]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2024.05.02-09.00.23:358][826]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.00.23:378][827]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.00.23:392][828]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.00.23:409][829]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.00.23:424][830]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.00.23:442][831]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.00.23:458][832]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.00.23:474][833]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.00.23:491][834]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.00.23:508][835]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.00.23:526][836]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.00.23:541][837]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.00.23:557][838]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.00.23:574][839]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.00.23:591][840]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.00.23:607][841]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.00.23:624][842]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.00.23:641][843]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.00.23:658][844]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.00.23:674][845]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.00.23:693][846]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.00.23:709][847]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.00.23:726][848]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.00.23:744][849]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.00.23:762][850]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.00.23:779][851]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.00.23:798][852]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.00.23:818][853]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.00.23:838][854]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.00.23:859][855]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.00.23:882][856]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.00.23:903][857]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.00.23:924][858]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.00.23:946][859]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.00.23:968][860]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.00.23:993][861]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.00.24:012][862]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.00.24:035][863]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.00.24:054][864]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.00.24:074][865]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.00.24:095][866]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.00.24:118][867]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.00.24:138][868]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.00.24:159][869]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.00.24:181][870]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.00.24:206][871]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.00.24:228][872]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.00.24:250][873]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.00.24:272][874]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.00.24:297][875]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.00.24:321][876]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.00.24:344][877]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.00.24:368][878]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.00.24:393][879]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.00.24:417][880]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.00.24:442][881]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.00.24:467][882]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.00.24:491][883]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.00.24:517][884]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.00.24:544][885]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.00.24:571][886]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.00.24:594][887]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.00.24:620][888]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.00.24:645][889]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.00.24:670][890]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.00.24:696][891]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.00.28:799][ 56]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.05.02-09.00.28:799][ 56]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2024.05.02-09.00.33:104][229]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.02-09.00.33:104][229]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_L_3
+[2024.05.02-09.00.33:104][229]LogWorld: UWorld::CleanupWorld for L_3, bSessionEnded=true, bCleanupResources=true
+[2024.05.02-09.00.33:109][229]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.02-09.00.33:115][229]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.02-09.00.33:135][229]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.02-09.00.33:246][229]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.02-09.00.33:250][229]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2024.05.02-09.00.33:252][229]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2024.05.02-09.00.33:276][229]LogUObjectHash: Compacting FUObjectHashTables data took   3.40ms
+[2024.05.02-09.00.33:357][230]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2024.05.02-09.00.34:148][270]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.05.02-09.00.34:161][270]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.02-09.00.34:161][270]PIE: New page: PIE session: L_3 (2 maj 2024, 13:00:34)
+[2024.05.02-09.00.34:162][270]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_L_3
+[2024.05.02-09.00.34:218][270]LogPlayLevel: PIE: StaticDuplicateObject took: (0.057078s)
+[2024.05.02-09.00.34:218][270]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/L_3.L_3 to /Game/FirstPerson/Maps/UEDPIE_0_L_3.L_3 (0.057139s)
+[2024.05.02-09.00.34:218][270]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.02-09.00.34:218][270]LogAIModule: Creating AISystem for world L_3
+[2024.05.02-09.00.34:219][270]LogPlayLevel: PIE: World Init took: (0.001440s)
+[2024.05.02-09.00.34:319][270]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2024.05.02-09.00.34:322][270]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2024.05.02-09.00.34:322][270]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.02-09.00.34:322][270]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.02-09.00.34:322][270]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.02-09.00.34:322][270]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.02-09.00.34:322][270]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.02-09.00.34:322][270]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.05.02-09.00.34:322][270]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.02-09.00.34:322][270]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.02-09.00.34:323][270]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.02-09.00.34:323][270]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.02-09.00.34:323][270]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.02-09.00.34:326][270]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.02-09.00.34:344][270]LogAudioMixer: Display: Using Audio Hardware Device Słuchawki (JBL TUNE560BT)
+[2024.05.02-09.00.34:344][270]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.02-09.00.34:344][270]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.02-09.00.34:344][270]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.02-09.00.34:345][270]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2024.05.02-09.00.34:345][270]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2024.05.02-09.00.34:347][270]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2024.05.02-09.00.34:347][270]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2024.05.02-09.00.34:347][270]LogInit: FAudioDevice initialized.
+[2024.05.02-09.00.34:347][270]LogAudio: Display: Audio Device (ID: 8) registered with world 'L_3'.
+[2024.05.02-09.00.34:350][270]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.05.02-09.00.34:382][270]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_L_3.L_3 up for play (max tick rate 60) at 2024.05.02-11.00.34
+[2024.05.02-09.00.34:383][270]LogWorld: Bringing up level for play took: 0.031974
+[2024.05.02-09.00.34:386][270]LogOnline: OSS: Created online subsystem instance for: :Context_42
+[2024.05.02-09.00.34:386][270]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2024.05.02-09.00.34:390][270]PIE: Server logged in
+[2024.05.02-09.00.34:391][270]PIE: Play in editor total start time 0,23 seconds.
+[2024.05.02-09.00.44:547][864]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.02-09.00.44:547][864]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_L_3
+[2024.05.02-09.00.44:549][864]LogWorld: UWorld::CleanupWorld for L_3, bSessionEnded=true, bCleanupResources=true
+[2024.05.02-09.00.44:553][864]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.02-09.00.44:560][864]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.02-09.00.44:571][864]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.02-09.00.44:674][864]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.02-09.00.44:678][864]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2024.05.02-09.00.44:681][864]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2024.05.02-09.00.44:698][864]LogUObjectHash: Compacting FUObjectHashTables data took   4.70ms
+[2024.05.02-09.00.44:760][865]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2024.05.02-09.01.06:084][773]BlueprintLog: New page: Compile UW_PinPad
+[2024.05.02-09.01.06:222][773]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2024.05.02-09.01.06:284][773]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.02-09.01.06:396][773]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UW_PinPad" FILE="../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/UI/UW_PinPad.uasset" SILENT=true
+[2024.05.02-09.01.06:424][773]LogSavePackage: Moving output files for package: /Game/UI/UW_PinPad
+[2024.05.02-09.01.06:424][773]LogSavePackage: Moving '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/UW_PinPad0262930748A97CEDC3B6C4AF504227FB.tmp' to '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/UI/UW_PinPad.uasset'
+[2024.05.02-09.01.06:439][773]LogFileHelpers: InternalPromptForCheckoutAndSave took 154 ms (total: 4.82 sec)
+[2024.05.02-09.01.06:454][773]AssetCheck: New page: Asset Save: UW_PinPad
+[2024.05.02-09.01.06:454][773]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/UW_PinPad.UW_PinPad
+[2024.05.02-09.01.08:870][884]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.05.02-09.01.08:884][884]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.02-09.01.08:884][884]PIE: New page: PIE session: L_3 (2 maj 2024, 13:01:08)
+[2024.05.02-09.01.08:884][884]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_L_3
+[2024.05.02-09.01.08:947][884]LogPlayLevel: PIE: StaticDuplicateObject took: (0.062471s)
+[2024.05.02-09.01.08:947][884]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/L_3.L_3 to /Game/FirstPerson/Maps/UEDPIE_0_L_3.L_3 (0.062528s)
+[2024.05.02-09.01.08:947][884]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.02-09.01.08:948][884]LogAIModule: Creating AISystem for world L_3
+[2024.05.02-09.01.08:948][884]LogPlayLevel: PIE: World Init took: (0.001309s)
+[2024.05.02-09.01.09:034][884]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2024.05.02-09.01.09:040][884]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2024.05.02-09.01.09:040][884]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.02-09.01.09:040][884]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.02-09.01.09:040][884]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.02-09.01.09:040][884]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.02-09.01.09:040][884]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.02-09.01.09:040][884]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.05.02-09.01.09:040][884]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.02-09.01.09:040][884]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.02-09.01.09:041][884]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.02-09.01.09:041][884]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.02-09.01.09:041][884]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.02-09.01.09:043][884]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.02-09.01.09:063][884]LogAudioMixer: Display: Using Audio Hardware Device Słuchawki (JBL TUNE560BT)
+[2024.05.02-09.01.09:063][884]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.02-09.01.09:063][884]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.02-09.01.09:063][884]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.02-09.01.09:064][884]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2024.05.02-09.01.09:064][884]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2024.05.02-09.01.09:066][884]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2024.05.02-09.01.09:066][884]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2024.05.02-09.01.09:066][884]LogInit: FAudioDevice initialized.
+[2024.05.02-09.01.09:066][884]LogAudio: Display: Audio Device (ID: 9) registered with world 'L_3'.
+[2024.05.02-09.01.09:070][884]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.05.02-09.01.09:099][884]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_L_3.L_3 up for play (max tick rate 60) at 2024.05.02-11.01.09
+[2024.05.02-09.01.09:100][884]LogWorld: Bringing up level for play took: 0.029854
+[2024.05.02-09.01.09:102][884]LogOnline: OSS: Created online subsystem instance for: :Context_43
+[2024.05.02-09.01.09:103][884]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2024.05.02-09.01.09:106][884]PIE: Server logged in
+[2024.05.02-09.01.09:107][884]PIE: Play in editor total start time 0,223 seconds.
+[2024.05.02-09.01.11:358][  7]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.01.11:358][  7]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.05.02-09.01.11:358][  7]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2024.05.02-09.01.11:374][  8]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.01.11:391][  9]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.01.11:407][ 10]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.01.11:424][ 11]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.01.11:440][ 12]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.01.11:457][ 13]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.01.11:473][ 14]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.01.11:490][ 15]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.01.11:507][ 16]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.01.11:523][ 17]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.01.11:541][ 18]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.01.11:557][ 19]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.01.11:576][ 20]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.01.11:590][ 21]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.01.11:608][ 22]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.01.11:623][ 23]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.01.11:640][ 24]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.01.11:657][ 25]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.01.11:674][ 26]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.01.11:690][ 27]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.01.11:707][ 28]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.01.11:724][ 29]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.01.11:740][ 30]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.01.11:757][ 31]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.01.11:774][ 32]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.01.11:792][ 33]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.01.11:810][ 34]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.01.11:829][ 35]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.01.11:847][ 36]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.01.11:866][ 37]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.01.11:884][ 38]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.01.11:902][ 39]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.01.11:923][ 40]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.01.11:943][ 41]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.01.11:962][ 42]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.01.11:982][ 43]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.01.12:001][ 44]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.01.12:020][ 45]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.01.12:040][ 46]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.01.12:061][ 47]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.01.12:085][ 48]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.01.12:104][ 49]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.01.12:125][ 50]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.01.12:144][ 51]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.01.12:166][ 52]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.01.12:186][ 53]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.01.12:208][ 54]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.01.12:229][ 55]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.01.12:250][ 56]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.01.12:271][ 57]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.01.14:670][170]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.05.02-09.01.14:670][170]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2024.05.02-09.01.24:143][599]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.02-09.01.24:144][599]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_L_3
+[2024.05.02-09.01.24:145][599]LogWorld: UWorld::CleanupWorld for L_3, bSessionEnded=true, bCleanupResources=true
+[2024.05.02-09.01.24:151][599]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.02-09.01.24:159][599]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.02-09.01.24:176][599]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.02-09.01.24:259][599]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.02-09.01.24:259][599]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2024.05.02-09.01.24:262][599]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2024.05.02-09.01.24:267][599]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.02-09.01.24:282][599]LogUObjectHash: Compacting FUObjectHashTables data took   4.12ms
+[2024.05.02-09.01.24:354][600]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2024.05.02-09.01.39:497][194]BlueprintLog: New page: Compile UW_PinPad
+[2024.05.02-09.01.39:634][194]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2024.05.02-09.01.39:673][194]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.02-09.01.39:804][194]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UW_PinPad" FILE="../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/UI/UW_PinPad.uasset" SILENT=true
+[2024.05.02-09.01.39:838][194]LogSavePackage: Moving output files for package: /Game/UI/UW_PinPad
+[2024.05.02-09.01.39:839][194]LogSavePackage: Moving '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/UW_PinPad32B88FC54650A359610F3B9E66B2B601.tmp' to '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/UI/UW_PinPad.uasset'
+[2024.05.02-09.01.39:857][194]LogFileHelpers: InternalPromptForCheckoutAndSave took 182 ms (total: 5.00 sec)
+[2024.05.02-09.01.39:873][194]AssetCheck: New page: Asset Save: UW_PinPad
+[2024.05.02-09.01.39:873][194]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/UW_PinPad.UW_PinPad
+[2024.05.02-09.01.43:074][328]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.05.02-09.01.43:088][328]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.02-09.01.43:088][328]PIE: New page: PIE session: L_3 (2 maj 2024, 13:01:43)
+[2024.05.02-09.01.43:088][328]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_L_3
+[2024.05.02-09.01.43:148][328]LogPlayLevel: PIE: StaticDuplicateObject took: (0.059886s)
+[2024.05.02-09.01.43:148][328]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/L_3.L_3 to /Game/FirstPerson/Maps/UEDPIE_0_L_3.L_3 (0.059978s)
+[2024.05.02-09.01.43:149][328]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.02-09.01.43:149][328]LogAIModule: Creating AISystem for world L_3
+[2024.05.02-09.01.43:150][328]LogPlayLevel: PIE: World Init took: (0.001271s)
+[2024.05.02-09.01.43:242][328]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2024.05.02-09.01.43:246][328]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2024.05.02-09.01.43:246][328]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.02-09.01.43:246][328]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.02-09.01.43:246][328]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.02-09.01.43:246][328]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.02-09.01.43:246][328]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.02-09.01.43:246][328]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.05.02-09.01.43:246][328]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.02-09.01.43:246][328]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.02-09.01.43:246][328]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.02-09.01.43:246][328]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.02-09.01.43:246][328]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.02-09.01.43:249][328]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.02-09.01.43:267][328]LogAudioMixer: Display: Using Audio Hardware Device Słuchawki (JBL TUNE560BT)
+[2024.05.02-09.01.43:267][328]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.02-09.01.43:267][328]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.02-09.01.43:267][328]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.02-09.01.43:268][328]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2024.05.02-09.01.43:268][328]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2024.05.02-09.01.43:270][328]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2024.05.02-09.01.43:270][328]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2024.05.02-09.01.43:270][328]LogInit: FAudioDevice initialized.
+[2024.05.02-09.01.43:270][328]LogAudio: Display: Audio Device (ID: 10) registered with world 'L_3'.
+[2024.05.02-09.01.43:274][328]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.05.02-09.01.43:307][328]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_L_3.L_3 up for play (max tick rate 60) at 2024.05.02-11.01.43
+[2024.05.02-09.01.43:308][328]LogWorld: Bringing up level for play took: 0.033756
+[2024.05.02-09.01.43:310][328]LogOnline: OSS: Created online subsystem instance for: :Context_44
+[2024.05.02-09.01.43:311][328]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2024.05.02-09.01.43:317][328]PIE: Server logged in
+[2024.05.02-09.01.43:319][328]PIE: Play in editor total start time 0,231 seconds.
+[2024.05.02-09.01.45:683][452]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.01.45:683][452]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.05.02-09.01.45:683][452]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2024.05.02-09.01.45:698][453]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.01.45:712][454]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.01.45:730][455]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.01.45:747][456]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.01.45:763][457]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.01.45:781][458]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.01.45:796][459]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.01.45:814][460]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.01.45:831][461]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.01.45:848][462]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.01.45:864][463]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.01.45:879][464]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.01.45:897][465]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.01.45:913][466]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.01.45:932][467]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.01.45:948][468]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.01.45:970][469]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.01.45:987][470]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.01.46:004][471]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.01.46:022][472]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.01.46:039][473]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.01.46:057][474]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.01.46:074][475]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.01.46:092][476]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.01.46:111][477]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.01.46:130][478]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.01.46:149][479]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.01.46:169][480]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.01.46:188][481]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.01.46:207][482]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.01.46:227][483]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.01.46:246][484]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.01.46:266][485]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.01.46:286][486]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.01.46:306][487]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.01.46:328][488]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.01.46:349][489]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.01.46:370][490]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.01.46:389][491]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.01.46:411][492]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.01.46:433][493]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.01.46:456][494]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.01.46:479][495]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.01.46:502][496]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.01.46:523][497]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.01.46:542][498]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.01.46:563][499]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.01.46:584][500]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.01.48:871][612]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.05.02-09.01.48:871][612]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2024.05.02-09.01.48:877][612]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.02-09.01.52:896][851]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.02-09.01.52:897][851]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_L_3
+[2024.05.02-09.01.52:897][851]LogWorld: UWorld::CleanupWorld for L_3, bSessionEnded=true, bCleanupResources=true
+[2024.05.02-09.01.52:902][851]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.02-09.01.52:910][851]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.02-09.01.52:924][851]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.02-09.01.53:014][851]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.02-09.01.53:020][851]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2024.05.02-09.01.53:022][851]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2024.05.02-09.01.53:041][851]LogUObjectHash: Compacting FUObjectHashTables data took   3.65ms
+[2024.05.02-09.01.53:107][852]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2024.05.02-09.02.22:569][140]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2024.05.02-09.02.22:807][140]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Maps/L_3_Auto8
+[2024.05.02-09.02.22:808][140]LogSavePackage: Moving '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/L_3_Auto8011A0DAE4CBB71DC166C959BCFD1871F.tmp' to '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/Autosaves/Game/FirstPerson/Maps/L_3_Auto8.umap'
+[2024.05.02-09.02.22:839][140]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/L_3' took 0.348
+[2024.05.02-09.02.22:839][140]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.348
+[2024.05.02-09.02.22:840][140]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/UW_PinPad] ([2] browsable assets)...
+[2024.05.02-09.02.22:848][140]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/UW_PinPad.UW_PinPad]
+[2024.05.02-09.02.22:848][140]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/UW_PinPad]
+[2024.05.02-09.02.22:848][140]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UW_PinPad" FILE="../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/Autosaves/Game/UI/UW_PinPad_Auto8.uasset" SILENT=false AUTOSAVING=true
+[2024.05.02-09.02.22:884][140]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/UW_PinPad_Auto8
+[2024.05.02-09.02.22:884][140]LogSavePackage: Moving '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/UW_PinPad_Auto88AD924AC4303A3EF0058D789E5264565.tmp' to '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/Autosaves/Game/UI/UW_PinPad_Auto8.uasset'
+[2024.05.02-09.02.22:886][140]LogFileHelpers: Auto-saving content packages took 0.046
+[2024.05.02-09.04.10:875][101]BlueprintLog: New page: Compile BP_PinPad
+[2024.05.02-09.04.11:053][101]LogUObjectHash: Compacting FUObjectHashTables data took   3.73ms
+[2024.05.02-09.04.11:089][101]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.02-09.04.11:226][101]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/BP_PinPad" FILE="../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/FirstPerson/Blueprints/BP_PinPad.uasset" SILENT=true
+[2024.05.02-09.04.11:237][101]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_PinPad
+[2024.05.02-09.04.11:238][101]LogSavePackage: Moving '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/BP_PinPadB05E0CDC441EB322B8A27AA9E4FC6016.tmp' to '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/FirstPerson/Blueprints/BP_PinPad.uasset'
+[2024.05.02-09.04.11:257][101]LogFileHelpers: InternalPromptForCheckoutAndSave took 168 ms (total: 5.17 sec)
+[2024.05.02-09.04.11:272][101]AssetCheck: New page: Asset Save: BP_PinPad
+[2024.05.02-09.04.11:272][101]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_PinPad.BP_PinPad
+[2024.05.02-09.04.13:068][166]BlueprintLog: New page: Compile UW_PinPad
+[2024.05.02-09.04.13:220][166]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2024.05.02-09.04.13:271][166]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.02-09.04.13:393][166]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UW_PinPad" FILE="../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/UI/UW_PinPad.uasset" SILENT=true
+[2024.05.02-09.04.13:416][166]LogSavePackage: Moving output files for package: /Game/UI/UW_PinPad
+[2024.05.02-09.04.13:417][166]LogSavePackage: Moving '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/UW_PinPadB05985FF4451BB810DC87D9C5649470B.tmp' to '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/UI/UW_PinPad.uasset'
+[2024.05.02-09.04.13:431][166]LogFileHelpers: InternalPromptForCheckoutAndSave took 159 ms (total: 5.33 sec)
+[2024.05.02-09.04.13:442][166]AssetCheck: New page: Asset Save: UW_PinPad
+[2024.05.02-09.04.13:442][166]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/UW_PinPad.UW_PinPad
+[2024.05.02-09.04.15:899][283]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.05.02-09.04.15:911][283]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.02-09.04.15:911][283]PIE: New page: PIE session: L_3 (2 maj 2024, 13:04:15)
+[2024.05.02-09.04.15:912][283]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_L_3
+[2024.05.02-09.04.15:971][283]LogPlayLevel: PIE: StaticDuplicateObject took: (0.059393s)
+[2024.05.02-09.04.15:971][283]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/L_3.L_3 to /Game/FirstPerson/Maps/UEDPIE_0_L_3.L_3 (0.059454s)
+[2024.05.02-09.04.15:971][283]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.02-09.04.15:971][283]LogAIModule: Creating AISystem for world L_3
+[2024.05.02-09.04.15:972][283]LogPlayLevel: PIE: World Init took: (0.001232s)
+[2024.05.02-09.04.16:069][283]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2024.05.02-09.04.16:073][283]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2024.05.02-09.04.16:073][283]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.02-09.04.16:073][283]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.02-09.04.16:073][283]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.02-09.04.16:073][283]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.02-09.04.16:073][283]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.02-09.04.16:073][283]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.05.02-09.04.16:073][283]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.02-09.04.16:073][283]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.02-09.04.16:074][283]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.02-09.04.16:074][283]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.02-09.04.16:074][283]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.02-09.04.16:076][283]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.02-09.04.16:096][283]LogAudioMixer: Display: Using Audio Hardware Device Słuchawki (JBL TUNE560BT)
+[2024.05.02-09.04.16:096][283]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.02-09.04.16:096][283]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.02-09.04.16:096][283]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.02-09.04.16:097][283]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2024.05.02-09.04.16:097][283]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2024.05.02-09.04.16:099][283]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2024.05.02-09.04.16:099][283]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2024.05.02-09.04.16:099][283]LogInit: FAudioDevice initialized.
+[2024.05.02-09.04.16:099][283]LogAudio: Display: Audio Device (ID: 11) registered with world 'L_3'.
+[2024.05.02-09.04.16:103][283]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.05.02-09.04.16:134][283]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_L_3.L_3 up for play (max tick rate 60) at 2024.05.02-11.04.16
+[2024.05.02-09.04.16:135][283]LogWorld: Bringing up level for play took: 0.031284
+[2024.05.02-09.04.16:137][283]LogOnline: OSS: Created online subsystem instance for: :Context_45
+[2024.05.02-09.04.16:138][283]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2024.05.02-09.04.16:141][283]PIE: Server logged in
+[2024.05.02-09.04.16:142][283]PIE: Play in editor total start time 0,231 seconds.
+[2024.05.02-09.04.19:359][462]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.04.19:359][462]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.05.02-09.04.19:359][462]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2024.05.02-09.04.22:842][671]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.05.02-09.04.22:842][671]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2024.05.02-09.04.29:908][ 92]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.02-09.04.29:908][ 92]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_L_3
+[2024.05.02-09.04.29:910][ 92]LogWorld: UWorld::CleanupWorld for L_3, bSessionEnded=true, bCleanupResources=true
+[2024.05.02-09.04.29:915][ 92]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.02-09.04.29:924][ 92]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.02-09.04.29:941][ 92]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.02-09.04.30:040][ 92]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.02-09.04.30:040][ 92]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2024.05.02-09.04.30:042][ 92]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2024.05.02-09.04.30:047][ 92]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.02-09.04.30:058][ 92]LogUObjectHash: Compacting FUObjectHashTables data took   3.66ms
+[2024.05.02-09.04.30:121][ 93]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2024.05.02-09.04.37:218][397]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.05.02-09.04.37:231][397]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.02-09.04.37:231][397]PIE: New page: PIE session: L_3 (2 maj 2024, 13:04:37)
+[2024.05.02-09.04.37:266][397]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_L_3
+[2024.05.02-09.04.37:328][397]LogPlayLevel: PIE: StaticDuplicateObject took: (0.062665s)
+[2024.05.02-09.04.37:329][397]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/L_3.L_3 to /Game/FirstPerson/Maps/UEDPIE_0_L_3.L_3 (0.062738s)
+[2024.05.02-09.04.37:329][397]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.02-09.04.37:329][397]LogAIModule: Creating AISystem for world L_3
+[2024.05.02-09.04.37:330][397]LogPlayLevel: PIE: World Init took: (0.001321s)
+[2024.05.02-09.04.37:433][397]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2024.05.02-09.04.37:437][397]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2024.05.02-09.04.37:437][397]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.02-09.04.37:437][397]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.02-09.04.37:437][397]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.02-09.04.37:437][397]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.02-09.04.37:437][397]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.02-09.04.37:437][397]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.05.02-09.04.37:437][397]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.02-09.04.37:437][397]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.02-09.04.37:437][397]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.02-09.04.37:437][397]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.02-09.04.37:437][397]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.02-09.04.37:441][397]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.02-09.04.37:463][397]LogAudioMixer: Display: Using Audio Hardware Device Słuchawki (JBL TUNE560BT)
+[2024.05.02-09.04.37:463][397]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.02-09.04.37:463][397]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.02-09.04.37:463][397]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.02-09.04.37:464][397]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2024.05.02-09.04.37:464][397]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2024.05.02-09.04.37:467][397]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2024.05.02-09.04.37:467][397]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2024.05.02-09.04.37:467][397]LogInit: FAudioDevice initialized.
+[2024.05.02-09.04.37:467][397]LogAudio: Display: Audio Device (ID: 12) registered with world 'L_3'.
+[2024.05.02-09.04.37:471][397]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.05.02-09.04.37:501][397]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_L_3.L_3 up for play (max tick rate 60) at 2024.05.02-11.04.37
+[2024.05.02-09.04.37:502][397]LogWorld: Bringing up level for play took: 0.031541
+[2024.05.02-09.04.37:504][397]LogOnline: OSS: Created online subsystem instance for: :Context_46
+[2024.05.02-09.04.37:505][397]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2024.05.02-09.04.37:509][397]PIE: Server logged in
+[2024.05.02-09.04.37:510][397]PIE: Play in editor total start time 0,279 seconds.
+[2024.05.02-09.04.39:792][521]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.04.39:792][521]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.05.02-09.04.39:792][521]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2024.05.02-09.04.40:654][573]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.05.02-09.04.40:654][573]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2024.05.02-09.04.44:447][798]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.02-09.04.44:447][798]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_L_3
+[2024.05.02-09.04.44:449][798]LogWorld: UWorld::CleanupWorld for L_3, bSessionEnded=true, bCleanupResources=true
+[2024.05.02-09.04.44:455][798]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.02-09.04.44:463][798]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.02-09.04.44:481][798]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.02-09.04.44:574][798]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.02-09.04.44:574][798]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2024.05.02-09.04.44:576][798]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2024.05.02-09.04.44:593][798]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2024.05.02-09.04.44:653][799]LogPlayLevel: Display: Destroying online subsystem :Context_46
+[2024.05.02-09.04.59:474][413]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2024.05.02-09.04.59:474][413]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.02-09.05.16:657][ 39]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2024.05.02-09.05.17:073][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   4.52ms
+[2024.05.02-09.05.17:267][ 39]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.02-09.05.17:493][ 39]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2024.05.02-09.05.17:494][ 39]LogSavePackage: Moving '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/BP_FirstPersonCharacter7FBE7F1947013C080B3362864EB887D0.tmp' to '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2024.05.02-09.05.17:508][ 39]LogFileHelpers: InternalPromptForCheckoutAndSave took 240 ms (total: 5.57 sec)
+[2024.05.02-09.05.17:533][ 39]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2024.05.02-09.05.17:533][ 39]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2024.05.02-09.05.23:378][292]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.05.02-09.05.23:390][292]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.02-09.05.23:390][292]PIE: New page: PIE session: L_3 (2 maj 2024, 13:05:23)
+[2024.05.02-09.05.23:390][292]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_L_3
+[2024.05.02-09.05.23:446][292]LogPlayLevel: PIE: StaticDuplicateObject took: (0.056133s)
+[2024.05.02-09.05.23:446][292]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/L_3.L_3 to /Game/FirstPerson/Maps/UEDPIE_0_L_3.L_3 (0.056221s)
+[2024.05.02-09.05.23:446][292]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.02-09.05.23:447][292]LogAIModule: Creating AISystem for world L_3
+[2024.05.02-09.05.23:447][292]LogPlayLevel: PIE: World Init took: (0.001128s)
+[2024.05.02-09.05.23:547][292]LogUObjectHash: Compacting FUObjectHashTables data took   3.59ms
+[2024.05.02-09.05.23:551][292]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2024.05.02-09.05.23:551][292]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.02-09.05.23:551][292]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.02-09.05.23:551][292]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.02-09.05.23:551][292]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.02-09.05.23:551][292]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.02-09.05.23:551][292]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.05.02-09.05.23:551][292]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.02-09.05.23:551][292]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.02-09.05.23:552][292]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.02-09.05.23:552][292]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.02-09.05.23:552][292]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.02-09.05.23:554][292]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.02-09.05.23:574][292]LogAudioMixer: Display: Using Audio Hardware Device Słuchawki (JBL TUNE560BT)
+[2024.05.02-09.05.23:575][292]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.02-09.05.23:575][292]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.02-09.05.23:575][292]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.02-09.05.23:576][292]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2024.05.02-09.05.23:576][292]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2024.05.02-09.05.23:579][292]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2024.05.02-09.05.23:579][292]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2024.05.02-09.05.23:579][292]LogInit: FAudioDevice initialized.
+[2024.05.02-09.05.23:579][292]LogAudio: Display: Audio Device (ID: 13) registered with world 'L_3'.
+[2024.05.02-09.05.23:584][292]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.05.02-09.05.23:627][292]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_L_3.L_3 up for play (max tick rate 60) at 2024.05.02-11.05.23
+[2024.05.02-09.05.23:628][292]LogWorld: Bringing up level for play took: 0.043497
+[2024.05.02-09.05.23:633][292]LogOnline: OSS: Created online subsystem instance for: :Context_48
+[2024.05.02-09.05.23:634][292]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2024.05.02-09.05.23:639][292]PIE: Server logged in
+[2024.05.02-09.05.23:640][292]PIE: Play in editor total start time 0,251 seconds.
+[2024.05.02-09.05.26:078][426]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.05.26:078][426]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.05.02-09.05.26:078][426]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2024.05.02-09.05.27:242][496]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.05.02-09.05.27:242][496]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2024.05.02-09.05.40:717][291]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.02-09.05.40:717][291]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_L_3
+[2024.05.02-09.05.40:718][291]LogWorld: UWorld::CleanupWorld for L_3, bSessionEnded=true, bCleanupResources=true
+[2024.05.02-09.05.40:724][291]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.02-09.05.40:733][291]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.02-09.05.40:747][291]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.02-09.05.40:846][291]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.02-09.05.40:848][291]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2024.05.02-09.05.40:851][291]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2024.05.02-09.05.40:870][291]LogUObjectHash: Compacting FUObjectHashTables data took   3.91ms
+[2024.05.02-09.05.41:014][292]LogPlayLevel: Display: Destroying online subsystem :Context_48
+[2024.05.02-09.05.42:599][370]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.05.02-09.05.42:613][370]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.02-09.05.42:614][370]PIE: New page: PIE session: L_3 (2 maj 2024, 13:05:42)
+[2024.05.02-09.05.42:614][370]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_L_3
+[2024.05.02-09.05.42:681][370]LogPlayLevel: PIE: StaticDuplicateObject took: (0.067706s)
+[2024.05.02-09.05.42:681][370]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/L_3.L_3 to /Game/FirstPerson/Maps/UEDPIE_0_L_3.L_3 (0.067794s)
+[2024.05.02-09.05.42:682][370]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.02-09.05.42:682][370]LogAIModule: Creating AISystem for world L_3
+[2024.05.02-09.05.42:683][370]LogPlayLevel: PIE: World Init took: (0.001267s)
+[2024.05.02-09.05.42:764][370]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2024.05.02-09.05.42:767][370]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2024.05.02-09.05.42:767][370]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.02-09.05.42:767][370]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.02-09.05.42:767][370]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.02-09.05.42:767][370]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.02-09.05.42:767][370]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.02-09.05.42:767][370]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.05.02-09.05.42:767][370]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.02-09.05.42:767][370]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.02-09.05.42:767][370]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.02-09.05.42:768][370]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.02-09.05.42:768][370]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.02-09.05.42:770][370]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.02-09.05.42:817][370]LogAudioMixer: Display: Using Audio Hardware Device Słuchawki (JBL TUNE560BT)
+[2024.05.02-09.05.42:817][370]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.02-09.05.42:818][370]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.02-09.05.42:818][370]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.02-09.05.42:819][370]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2024.05.02-09.05.42:819][370]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2024.05.02-09.05.42:823][370]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2024.05.02-09.05.42:823][370]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2024.05.02-09.05.42:823][370]LogInit: FAudioDevice initialized.
+[2024.05.02-09.05.42:823][370]LogAudio: Display: Audio Device (ID: 14) registered with world 'L_3'.
+[2024.05.02-09.05.42:829][370]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.05.02-09.05.42:874][370]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_L_3.L_3 up for play (max tick rate 60) at 2024.05.02-11.05.42
+[2024.05.02-09.05.42:874][370]LogWorld: Bringing up level for play took: 0.044879
+[2024.05.02-09.05.42:878][370]LogOnline: OSS: Created online subsystem instance for: :Context_49
+[2024.05.02-09.05.42:879][370]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2024.05.02-09.05.42:883][370]PIE: Server logged in
+[2024.05.02-09.05.42:884][370]PIE: Play in editor total start time 0,27 seconds.
+[2024.05.02-09.05.43:957][415]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.02-09.05.43:957][415]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_L_3
+[2024.05.02-09.05.43:958][415]LogWorld: UWorld::CleanupWorld for L_3, bSessionEnded=true, bCleanupResources=true
+[2024.05.02-09.05.43:963][415]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.02-09.05.43:972][415]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.02-09.05.43:986][415]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.02-09.05.44:093][415]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.02-09.05.44:095][415]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2024.05.02-09.05.44:097][415]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2024.05.02-09.05.44:102][415]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.02-09.05.44:113][415]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2024.05.02-09.05.44:155][416]LogPlayLevel: Display: Destroying online subsystem :Context_49
+[2024.05.02-09.05.52:078][720]BlueprintLog: New page: Compile BP_PinPad
+[2024.05.02-09.05.52:215][720]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2024.05.02-09.05.52:255][720]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.02-09.05.52:398][720]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/BP_PinPad" FILE="../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/FirstPerson/Blueprints/BP_PinPad.uasset" SILENT=true
+[2024.05.02-09.05.52:409][720]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_PinPad
+[2024.05.02-09.05.52:409][720]LogSavePackage: Moving '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/BP_PinPad42A02B984BBEFF8BA99EAA8A12864D97.tmp' to '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/FirstPerson/Blueprints/BP_PinPad.uasset'
+[2024.05.02-09.05.52:428][720]LogFileHelpers: InternalPromptForCheckoutAndSave took 174 ms (total: 5.74 sec)
+[2024.05.02-09.05.52:445][720]AssetCheck: New page: Asset Save: BP_PinPad
+[2024.05.02-09.05.52:445][720]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_PinPad.BP_PinPad
+[2024.05.02-09.05.54:367][803]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.05.02-09.05.54:383][803]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.02-09.05.54:383][803]PIE: New page: PIE session: L_3 (2 maj 2024, 13:05:54)
+[2024.05.02-09.05.54:384][803]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_L_3
+[2024.05.02-09.05.54:439][803]LogPlayLevel: PIE: StaticDuplicateObject took: (0.055442s)
+[2024.05.02-09.05.54:439][803]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/L_3.L_3 to /Game/FirstPerson/Maps/UEDPIE_0_L_3.L_3 (0.055500s)
+[2024.05.02-09.05.54:439][803]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.02-09.05.54:439][803]LogAIModule: Creating AISystem for world L_3
+[2024.05.02-09.05.54:440][803]LogPlayLevel: PIE: World Init took: (0.001363s)
+[2024.05.02-09.05.54:543][803]LogUObjectHash: Compacting FUObjectHashTables data took   3.97ms
+[2024.05.02-09.05.54:546][803]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2024.05.02-09.05.54:546][803]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.02-09.05.54:546][803]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.02-09.05.54:546][803]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.02-09.05.54:546][803]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.02-09.05.54:546][803]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.02-09.05.54:546][803]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.05.02-09.05.54:546][803]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.02-09.05.54:546][803]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.02-09.05.54:547][803]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.02-09.05.54:547][803]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.02-09.05.54:547][803]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.02-09.05.54:550][803]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.02-09.05.54:569][803]LogAudioMixer: Display: Using Audio Hardware Device Słuchawki (JBL TUNE560BT)
+[2024.05.02-09.05.54:570][803]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.02-09.05.54:570][803]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.02-09.05.54:570][803]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.02-09.05.54:571][803]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2024.05.02-09.05.54:571][803]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2024.05.02-09.05.54:574][803]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2024.05.02-09.05.54:574][803]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2024.05.02-09.05.54:574][803]LogInit: FAudioDevice initialized.
+[2024.05.02-09.05.54:574][803]LogAudio: Display: Audio Device (ID: 15) registered with world 'L_3'.
+[2024.05.02-09.05.54:579][803]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.05.02-09.05.54:614][803]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_L_3.L_3 up for play (max tick rate 60) at 2024.05.02-11.05.54
+[2024.05.02-09.05.54:615][803]LogWorld: Bringing up level for play took: 0.035186
+[2024.05.02-09.05.54:617][803]LogOnline: OSS: Created online subsystem instance for: :Context_50
+[2024.05.02-09.05.54:618][803]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2024.05.02-09.05.54:623][803]PIE: Server logged in
+[2024.05.02-09.05.54:624][803]PIE: Play in editor total start time 0,242 seconds.
+[2024.05.02-09.05.56:959][930]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.05.56:959][930]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.05.02-09.05.56:959][930]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2024.05.02-09.05.57:789][980]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.05.02-09.05.57:789][980]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2024.05.02-09.05.58:391][ 16]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.05.58:391][ 16]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.05.02-09.05.58:391][ 16]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2024.05.02-09.06.01:637][211]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.05.02-09.06.01:637][211]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2024.05.02-09.06.02:007][233]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.06.02:007][233]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.05.02-09.06.02:008][233]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2024.05.02-09.06.04:204][365]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.05.02-09.06.04:204][365]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2024.05.02-09.06.16:057][ 70]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.02-09.06.16:057][ 70]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_L_3
+[2024.05.02-09.06.16:058][ 70]LogWorld: UWorld::CleanupWorld for L_3, bSessionEnded=true, bCleanupResources=true
+[2024.05.02-09.06.16:063][ 70]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.02-09.06.16:070][ 70]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.02-09.06.16:083][ 70]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.02-09.06.16:176][ 70]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.02-09.06.16:176][ 70]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2024.05.02-09.06.16:178][ 70]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2024.05.02-09.06.16:199][ 70]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2024.05.02-09.06.16:261][ 71]LogPlayLevel: Display: Destroying online subsystem :Context_50
+[2024.05.02-09.06.29:041][592]LogEditorTransaction: Undo Modify Component(s)
+[2024.05.02-09.07.11:815][297]LogEditorTransaction: Undo Move Nodes
+[2024.05.02-09.07.30:942][964]BlueprintLog: New page: Compile BP_PinPadDoors
+[2024.05.02-09.07.31:122][964]LogUObjectHash: Compacting FUObjectHashTables data took   4.05ms
+[2024.05.02-09.07.31:162][964]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.02-09.07.31:284][964]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/Doors/BP_PinPadDoors
+[2024.05.02-09.07.31:285][964]LogSavePackage: Moving '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/BP_PinPadDoors723AF31544BD0EBB11A198AD63B2955B.tmp' to '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/FirstPerson/Blueprints/Doors/BP_PinPadDoors.uasset'
+[2024.05.02-09.07.31:305][964]LogFileHelpers: InternalPromptForCheckoutAndSave took 142 ms (total: 5.89 sec)
+[2024.05.02-09.07.31:317][964]AssetCheck: New page: Asset Save: BP_PinPadDoors
+[2024.05.02-09.07.31:317][964]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/Doors/BP_PinPadDoors.BP_PinPadDoors
+[2024.05.02-09.07.35:258][135]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.05.02-09.07.35:270][135]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.02-09.07.35:270][135]PIE: New page: PIE session: L_3 (2 maj 2024, 13:07:35)
+[2024.05.02-09.07.35:270][135]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_L_3
+[2024.05.02-09.07.35:335][135]LogPlayLevel: PIE: StaticDuplicateObject took: (0.064556s)
+[2024.05.02-09.07.35:335][135]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/L_3.L_3 to /Game/FirstPerson/Maps/UEDPIE_0_L_3.L_3 (0.064612s)
+[2024.05.02-09.07.35:335][135]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.02-09.07.35:336][135]LogAIModule: Creating AISystem for world L_3
+[2024.05.02-09.07.35:336][135]LogPlayLevel: PIE: World Init took: (0.001226s)
+[2024.05.02-09.07.35:417][135]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2024.05.02-09.07.35:420][135]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2024.05.02-09.07.35:420][135]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.02-09.07.35:420][135]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.02-09.07.35:420][135]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.02-09.07.35:420][135]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.02-09.07.35:420][135]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.02-09.07.35:420][135]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.05.02-09.07.35:420][135]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.02-09.07.35:420][135]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.02-09.07.35:420][135]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.02-09.07.35:421][135]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.02-09.07.35:421][135]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.02-09.07.35:423][135]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.02-09.07.35:441][135]LogAudioMixer: Display: Using Audio Hardware Device Słuchawki (JBL TUNE560BT)
+[2024.05.02-09.07.35:442][135]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.02-09.07.35:442][135]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.02-09.07.35:442][135]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.02-09.07.35:443][135]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=16
+[2024.05.02-09.07.35:443][135]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=16
+[2024.05.02-09.07.35:446][135]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=16
+[2024.05.02-09.07.35:446][135]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=16
+[2024.05.02-09.07.35:446][135]LogInit: FAudioDevice initialized.
+[2024.05.02-09.07.35:446][135]LogAudio: Display: Audio Device (ID: 16) registered with world 'L_3'.
+[2024.05.02-09.07.35:449][135]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.05.02-09.07.35:479][135]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_L_3.L_3 up for play (max tick rate 60) at 2024.05.02-11.07.35
+[2024.05.02-09.07.35:480][135]LogWorld: Bringing up level for play took: 0.030400
+[2024.05.02-09.07.35:483][135]LogOnline: OSS: Created online subsystem instance for: :Context_51
+[2024.05.02-09.07.35:483][135]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2024.05.02-09.07.35:486][135]PIE: Server logged in
+[2024.05.02-09.07.35:487][135]PIE: Play in editor total start time 0,218 seconds.
+[2024.05.02-09.07.38:336][296]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.07.38:336][296]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.05.02-09.07.38:336][296]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2024.05.02-09.07.39:399][360]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.05.02-09.07.39:399][360]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2024.05.02-09.07.40:252][411]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.02-09.07.40:253][411]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.05.02-09.07.40:253][411]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2024.05.02-09.07.47:800][864]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.05.02-09.07.47:800][864]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2024.05.02-09.08.00:697][635]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.02-09.08.00:697][635]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_L_3
+[2024.05.02-09.08.00:698][635]LogWorld: UWorld::CleanupWorld for L_3, bSessionEnded=true, bCleanupResources=true
+[2024.05.02-09.08.00:703][635]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.02-09.08.00:711][635]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.02-09.08.00:733][635]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.02-09.08.00:836][635]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.02-09.08.00:837][635]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2024.05.02-09.08.00:839][635]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2024.05.02-09.08.00:844][635]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.02-09.08.00:858][635]LogUObjectHash: Compacting FUObjectHashTables data took   3.98ms
+[2024.05.02-09.08.00:917][636]LogPlayLevel: Display: Destroying online subsystem :Context_51
