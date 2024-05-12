@@ -3623,3 +3623,1411 @@ Saving these assets will allow them to be unloaded.
 [2024.05.12-07.01.19:274][660]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 6.52% of total time (compiled   95 times, average 1.21 sec, max 10.48 sec, min 0.48 sec)
 [2024.05.12-07.01.19:274][660]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight - 6.22% of total time (compiled   96 times, average 1.14 sec, max 1.55 sec, min 0.97 sec)
 [2024.05.12-07.01.19:274][660]LogShaderCompilers: Display: ================================================
+[2024.05.12-07.02.23:484][634]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_Closet.BP_Closet
+[2024.05.12-07.02.23:484][634]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.12-07.02.25:228][677]LogViewport: Scene viewport resized to 1130x593, mode Windowed.
+[2024.05.12-07.03.52:295][107]LogEditorTransaction: Undo Modify Component(s)
+[2024.05.12-07.03.53:572][139]Cmd: MODE GRID=1
+[2024.05.12-07.05.05:872][ 59]Cmd: MODE ROTGRID=0
+[2024.05.12-07.05.57:591][248]LogEditorTransaction: Undo Modify Component(s)
+[2024.05.12-07.05.58:043][252]LogEditorTransaction: Undo Modify Component(s)
+[2024.05.12-07.05.58:453][260]LogEditorTransaction: Undo Set Rotation
+[2024.05.12-07.05.58:722][268]LogEditorTransaction: Undo Modify Component(s)
+[2024.05.12-07.05.58:905][272]LogEditorTransaction: Undo Set Rotation
+[2024.05.12-07.05.59:093][276]LogEditorTransaction: Undo Set Rotation
+[2024.05.12-07.05.59:276][280]LogEditorTransaction: Undo Modify Component(s)
+[2024.05.12-07.05.59:479][285]LogEditorTransaction: Undo Modify Component(s)
+[2024.05.12-07.05.59:709][291]LogEditorTransaction: Undo Modify Component(s)
+[2024.05.12-07.05.59:956][297]LogEditorTransaction: Undo Modify Component(s)
+[2024.05.12-07.06.00:171][302]LogEditorTransaction: Undo Modify Component(s)
+[2024.05.12-07.06.00:478][312]LogEditorTransaction: Undo Modify Component(s)
+[2024.05.12-07.06.00:854][324]LogEditorTransaction: Undo Modify Component(s)
+[2024.05.12-07.06.01:261][337]LogEditorTransaction: Undo Modify Component(s)
+[2024.05.12-07.06.01:828][343]LogEditorTransaction: Undo Modify Component(s)
+[2024.05.12-07.06.02:685][372]LogEditorTransaction: Undo Modify Component(s)
+[2024.05.12-07.06.03:207][391]LogEditorTransaction: Undo Modify Component(s)
+[2024.05.12-07.06.03:690][407]LogEditorTransaction: Undo Modify Component(s)
+[2024.05.12-07.06.04:138][420]LogEditorTransaction: Undo Reset Rotation
+[2024.05.12-07.06.04:579][434]LogEditorTransaction: Undo Set Scale
+[2024.05.12-07.06.05:001][445]LogEditorTransaction: Undo Set Scale
+[2024.05.12-07.06.05:520][451]LogEditorTransaction: Undo Reset Scale
+[2024.05.12-07.06.06:070][465]LogEditorTransaction: Undo Edit Static Mesh
+[2024.05.12-07.06.08:083][538]BlueprintLog: New page: Compile BP_Closet
+[2024.05.12-07.06.08:530][538]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2024.05.12-07.06.08:566][538]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.12-07.06.08:737][538]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Closet" FILE="../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/Blueprints/BP_Closet.uasset" SILENT=true
+[2024.05.12-07.06.08:757][538]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Closet
+[2024.05.12-07.06.08:758][538]LogSavePackage: Moving '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/BP_Closet98C3C8BB459C5E1C657EB785DC519FAE.tmp' to '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/Blueprints/BP_Closet.uasset'
+[2024.05.12-07.06.08:778][538]LogFileHelpers: InternalPromptForCheckoutAndSave took 211 ms (total: 3:43 min)
+[2024.05.12-07.06.08:790][538]AssetCheck: New page: Asset Save: BP_Closet
+[2024.05.12-07.06.08:790][538]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Closet.BP_Closet
+[2024.05.12-07.06.13:168][715]LogSlate: Window 'BP_Closet' being destroyed
+[2024.05.12-07.06.13:177][715]LogSlate: Window 'BP_Closet' being destroyed
+[2024.05.12-07.06.13:190][715]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2024.05.12-07.06.13:190][715]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.12-07.07.00:416][977]LogShaderCompilers: Display: ================================================
+[2024.05.12-07.07.00:416][977]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.05.12-07.07.00:416][977]LogShaderCompilers: Display: Total job queries 2131, among them cache hits 244 (11.45%)
+[2024.05.12-07.07.00:416][977]LogShaderCompilers: Display: Tracking 1887 distinct input hashes that result in 157 distinct outputs (8.32%)
+[2024.05.12-07.07.00:416][977]LogShaderCompilers: Display: RAM used: 13.32 MB (0.01 GB) of 819.20 MB (0.80 GB) budget. Usage: 1.63%
+[2024.05.12-07.07.00:416][977]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.05.12-07.07.00:416][977]LogShaderCompilers: Display: Shaders Compiled: 1534
+[2024.05.12-07.07.00:416][977]LogShaderCompilers: Display: Jobs assigned 1534, completed 1534 (100.00%)
+[2024.05.12-07.07.00:416][977]LogShaderCompilers: Display: Average time worker was idle: 10.82 s
+[2024.05.12-07.07.00:416][977]LogShaderCompilers: Display: Time job spent in pending queue: average 3.10 s, longest 37.24 s
+[2024.05.12-07.07.00:416][977]LogShaderCompilers: Display: Job execution time: average 1.43 s, max 17.64 s
+[2024.05.12-07.07.00:416][977]LogShaderCompilers: Display: Job life time (pending + execution): average 4.53 s, max 38.75
+[2024.05.12-07.07.00:416][977]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 329.20 s
+[2024.05.12-07.07.00:416][977]LogShaderCompilers: Display: Jobs were issued in 1534 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.05.12-07.07.00:416][977]LogShaderCompilers: Display: Average processing rate: 4.66 jobs/sec
+[2024.05.12-07.07.00:417][977]LogShaderCompilers: Display: Total thread time: 1765.60 s
+[2024.05.12-07.07.00:417][977]LogShaderCompilers: Display: Total thread preprocess time: 113.46 s
+[2024.05.12-07.07.00:417][977]LogShaderCompilers: Display: Percentage time preprocessing: 6.43%
+[2024.05.12-07.07.00:417][977]LogShaderCompilers: Display: Effective parallelization: 5.36 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.05.12-07.07.00:417][977]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.05.12-07.07.00:417][977]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled   95 times, average 2.11 sec, max 16.43 sec, min 1.10 sec)
+[2024.05.12-07.07.00:417][977]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   95 times, average 1.99 sec, max 6.62 sec, min 1.06 sec)
+[2024.05.12-07.07.00:417][977]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled   95 times, average 1.63 sec, max 8.15 sec, min 0.86 sec)
+[2024.05.12-07.07.00:417][977]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled   95 times, average 1.21 sec, max 10.48 sec, min 0.48 sec)
+[2024.05.12-07.07.00:417][977]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled   96 times, average 1.14 sec, max 1.55 sec, min 0.97 sec)
+[2024.05.12-07.07.00:417][977]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.05.12-07.07.00:417][977]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 11.36% of total time (compiled   95 times, average 2.11 sec, max 16.43 sec, min 1.10 sec)
+[2024.05.12-07.07.00:417][977]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 10.73% of total time (compiled   95 times, average 1.99 sec, max 6.62 sec, min 1.06 sec)
+[2024.05.12-07.07.00:417][977]LogShaderCompilers: Display:                                                 FLumenCardVS - 8.78% of total time (compiled   95 times, average 1.63 sec, max 8.15 sec, min 0.86 sec)
+[2024.05.12-07.07.00:417][977]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 6.52% of total time (compiled   95 times, average 1.21 sec, max 10.48 sec, min 0.48 sec)
+[2024.05.12-07.07.00:417][977]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight - 6.22% of total time (compiled   96 times, average 1.14 sec, max 1.55 sec, min 0.97 sec)
+[2024.05.12-07.07.00:417][977]LogShaderCompilers: Display: ================================================
+[2024.05.12-07.07.06:283][300]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2024.05.12-07.07.06:305][300]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.12-07.07.07:867][300]LogSlate: Window 'Save Level As' being destroyed
+[2024.05.12-07.07.07:922][300]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.61 sec (total: 3:45 min)
+[2024.05.12-07.07.08:456][326]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2024.05.12-07.07.10:021][326]LogSlate: Window 'Save Content' being destroyed
+[2024.05.12-07.07.10:058][326]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.12-07.07.10:198][326]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Maps/L_1" FILE="../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/FirstPerson/Maps/L_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.05.12-07.07.10:256][326]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2024.05.12-07.07.10:299][326]LogSavePackage: Moving output files for package: /Game/FirstPerson/Maps/L_1
+[2024.05.12-07.07.10:299][326]LogSavePackage: Moving '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/L_14CAAB562403BEF3BC0E605A0FD5571F7.tmp' to '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/FirstPerson/Maps/L_1.umap'
+[2024.05.12-07.07.10:315][326]LogFileHelpers: Saving map 'L_1' took 0.119
+[2024.05.12-07.07.10:324][326]LogFileHelpers: InternalPromptForCheckoutAndSave took 266 ms (total: 3:45 min)
+[2024.05.12-07.07.10:335][326]AssetCheck: New page: Asset Save: L_1
+[2024.05.12-07.07.10:335][326]LogContentValidation: Display: Validating /Script/Engine.World /Game/FirstPerson/Maps/L_1.L_1
+[2024.05.12-07.07.25:600][229]Cmd: SELECT NONE
+[2024.05.12-07.07.33:601][686]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2024.05.12-07.07.35:312][686]LogSlate: Window 'Save Content' being destroyed
+[2024.05.12-07.07.36:802][686]LogStaticMesh: Display: Building static mesh Ceiling_Garden_1...
+[2024.05.12-07.07.36:804][686]LogStaticMesh: Display: Building static mesh Floor_Garden_1...
+[2024.05.12-07.07.36:804][686]LogStaticMesh: Display: Building static mesh Wall_Garden_1...
+[2024.05.12-07.07.36:810][686]LogStaticMesh: Built static mesh [0.01s] /Game/Art/Garden/Ceiling_Garden_1.Ceiling_Garden_1
+[2024.05.12-07.07.36:811][686]LogStaticMesh: Built static mesh [0.01s] /Game/Art/Garden/Floor_Garden_1.Floor_Garden_1
+[2024.05.12-07.07.36:811][686]LogStaticMesh: Built static mesh [0.01s] /Game/Art/Garden/Wall_Garden_1.Wall_Garden_1
+[2024.05.12-07.07.36:812][686]LogStaticMesh: Display: Building static mesh Wall_Garden_2...
+[2024.05.12-07.07.36:822][686]LogStaticMesh: Built static mesh [0.01s] /Game/Art/Garden/Wall_Garden_2.Wall_Garden_2
+[2024.05.12-07.07.36:883][686]LogStaticMesh: Display: Building static mesh Boolean_03FC0897...
+[2024.05.12-07.07.36:893][686]LogStaticMesh: Built static mesh [0.01s] /Game/FirstPerson/Maps/_GENERATED/Paweł/Boolean_03FC0897.Boolean_03FC0897
+[2024.05.12-07.07.36:894][686]LogStaticMesh: Display: Building static mesh Boolean_0708BA3B...
+[2024.05.12-07.07.36:894][686]LogStaticMesh: Display: Building static mesh Boolean_12E4941E...
+[2024.05.12-07.07.36:895][686]LogStaticMesh: Display: Building static mesh Boolean_03FC0897...
+[2024.05.12-07.07.36:899][686]LogStaticMesh: Built static mesh [0.01s] /Game/FirstPerson/Maps/_GENERATED/Paweł/Boolean_0708BA3B.Boolean_0708BA3B
+[2024.05.12-07.07.36:900][686]LogStaticMesh: Display: Building static mesh Boolean_0708BA3B...
+[2024.05.12-07.07.36:903][686]LogStaticMesh: Built static mesh [0.01s] /Game/FirstPerson/Maps/_GENERATED/Paweł/Boolean_12E4941E.Boolean_12E4941E
+[2024.05.12-07.07.36:904][686]LogStaticMesh: Built static mesh [0.01s] /Game/FirstPerson/Maps/_GENERATED/Paweł/Boolean_03FC0897.Boolean_03FC0897
+[2024.05.12-07.07.36:905][686]LogStaticMesh: Built static mesh [0.00s] /Game/FirstPerson/Maps/_GENERATED/Paweł/Boolean_0708BA3B.Boolean_0708BA3B
+[2024.05.12-07.07.36:905][686]LogStaticMesh: Display: Building static mesh Boolean_12E4941E...
+[2024.05.12-07.07.36:906][686]LogStaticMesh: Display: Building static mesh Boolean_1B6221D3...
+[2024.05.12-07.07.36:910][686]LogStaticMesh: Display: Building static mesh Boolean_24F2CE87...
+[2024.05.12-07.07.36:913][686]LogStaticMesh: Built static mesh [0.01s] /Game/FirstPerson/Maps/_GENERATED/Paweł/Boolean_1B6221D3.Boolean_1B6221D3
+[2024.05.12-07.07.36:915][686]LogStaticMesh: Built static mesh [0.01s] /Game/FirstPerson/Maps/_GENERATED/Paweł/Boolean_12E4941E.Boolean_12E4941E
+[2024.05.12-07.07.36:915][686]LogStaticMesh: Display: Building static mesh Boolean_1B6221D3...
+[2024.05.12-07.07.36:916][686]LogStaticMesh: Display: Building static mesh Boolean_257E9BD0...
+[2024.05.12-07.07.36:922][686]LogStaticMesh: Built static mesh [0.01s] /Game/FirstPerson/Maps/_GENERATED/Paweł/Boolean_1B6221D3.Boolean_1B6221D3
+[2024.05.12-07.07.36:923][686]LogStaticMesh: Display: Building static mesh Boolean_26E7EA93...
+[2024.05.12-07.07.36:930][686]LogStaticMesh: Built static mesh [0.01s] /Game/FirstPerson/Maps/_GENERATED/Paweł/Boolean_26E7EA93.Boolean_26E7EA93
+[2024.05.12-07.07.36:932][686]LogStaticMesh: Built static mesh [0.02s] /Game/FirstPerson/Maps/_GENERATED/Paweł/Boolean_24F2CE87.Boolean_24F2CE87
+[2024.05.12-07.07.36:932][686]LogStaticMesh: Display: Building static mesh Boolean_26E7EA93...
+[2024.05.12-07.07.36:940][686]LogStaticMesh: Display: Building static mesh Boolean_3153A47E...
+[2024.05.12-07.07.36:942][686]LogStaticMesh: Built static mesh [0.01s] /Game/FirstPerson/Maps/_GENERATED/Paweł/Boolean_26E7EA93.Boolean_26E7EA93
+[2024.05.12-07.07.36:942][686]LogStaticMesh: Built static mesh [0.03s] /Game/FirstPerson/Maps/_GENERATED/Paweł/Boolean_257E9BD0.Boolean_257E9BD0
+[2024.05.12-07.07.36:944][686]LogStaticMesh: Display: Building static mesh Boolean_343A9EC9...
+[2024.05.12-07.07.36:948][686]LogStaticMesh: Built static mesh [0.01s] /Game/FirstPerson/Maps/_GENERATED/Paweł/Boolean_3153A47E.Boolean_3153A47E
+[2024.05.12-07.07.36:948][686]LogStaticMesh: Display: Building static mesh Boolean_257E9BD0...
+[2024.05.12-07.07.36:950][686]LogStaticMesh: Display: Building static mesh Boolean_3153A47E...
+[2024.05.12-07.07.36:951][686]LogStaticMesh: Built static mesh [0.01s] /Game/FirstPerson/Maps/_GENERATED/Paweł/Boolean_343A9EC9.Boolean_343A9EC9
+[2024.05.12-07.07.36:953][686]LogStaticMesh: Display: Building static mesh Boolean_343A9EC9...
+[2024.05.12-07.07.36:959][686]LogStaticMesh: Display: Building static mesh Boolean_49E1BF73...
+[2024.05.12-07.07.36:960][686]LogStaticMesh: Built static mesh [0.01s] /Game/FirstPerson/Maps/_GENERATED/Paweł/Boolean_3153A47E.Boolean_3153A47E
+[2024.05.12-07.07.36:961][686]LogStaticMesh: Built static mesh [0.01s] /Game/FirstPerson/Maps/_GENERATED/Paweł/Boolean_343A9EC9.Boolean_343A9EC9
+[2024.05.12-07.07.36:966][686]LogStaticMesh: Built static mesh [0.01s] /Game/FirstPerson/Maps/_GENERATED/Paweł/Boolean_49E1BF73.Boolean_49E1BF73
+[2024.05.12-07.07.36:969][686]LogStaticMesh: Built static mesh [0.02s] /Game/FirstPerson/Maps/_GENERATED/Paweł/Boolean_257E9BD0.Boolean_257E9BD0
+[2024.05.12-07.07.36:973][686]LogStaticMesh: Display: Building static mesh Boolean_803A51E4...
+[2024.05.12-07.07.36:980][686]LogStaticMesh: Built static mesh [0.01s] /Game/FirstPerson/Maps/_GENERATED/Paweł/Boolean_803A51E4.Boolean_803A51E4
+[2024.05.12-07.07.36:981][686]LogStaticMesh: Display: Building static mesh Boolean_803A51E4...
+[2024.05.12-07.07.36:987][686]LogStaticMesh: Built static mesh [0.01s] /Game/FirstPerson/Maps/_GENERATED/Paweł/Boolean_803A51E4.Boolean_803A51E4
+[2024.05.12-07.07.36:988][686]LogStaticMesh: Display: Building static mesh Boolean_840C33F8...
+[2024.05.12-07.07.36:996][686]LogAssetEditorSubsystem: Opening Asset editor for World /Game/FirstPerson/Maps/L_3.L_3
+[2024.05.12-07.07.36:997][686]Cmd: MAP LOAD FILE="../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/FirstPerson/Maps/L_3.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.05.12-07.07.36:997][686]LightingResults: New page: Lighting Build
+[2024.05.12-07.07.36:997][686]LoadErrors: New page: Loading map: L_3.umap
+[2024.05.12-07.07.36:998][686]LogStaticMesh: Built static mesh [0.01s] /Game/FirstPerson/Maps/_GENERATED/Paweł/Boolean_840C33F8.Boolean_840C33F8
+[2024.05.12-07.07.37:014][686]LogWorld: UWorld::CleanupWorld for L_1, bSessionEnded=true, bCleanupResources=true
+[2024.05.12-07.07.37:015][686]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.12-07.07.37:015][686]MapCheck: New page: Map Check
+[2024.05.12-07.07.37:015][686]LightingResults: New page: Lighting Build
+[2024.05.12-07.07.37:034][686]LogStaticMesh: Display: Building static mesh Boolean_91A01EE1...
+[2024.05.12-07.07.37:056][686]LogStaticMesh: Built static mesh [0.02s] /Game/FirstPerson/Maps/_GENERATED/Paweł/Boolean_91A01EE1.Boolean_91A01EE1
+[2024.05.12-07.07.37:061][686]LogStaticMesh: Display: Building static mesh Boolean_91A01EE1...
+[2024.05.12-07.07.37:073][686]LogStaticMesh: Display: Building static mesh Boolean_9FFB56DC...
+[2024.05.12-07.07.37:073][686]LogStaticMesh: Display: Building static mesh Boolean_AFE9CF32...
+[2024.05.12-07.07.37:073][686]LogStaticMesh: Display: Building static mesh Boolean_9FD62B1F...
+[2024.05.12-07.07.37:076][686]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.12-07.07.37:080][686]LogStaticMesh: Built static mesh [0.01s] /Game/FirstPerson/Maps/_GENERATED/Paweł/Boolean_9FD62B1F.Boolean_9FD62B1F
+[2024.05.12-07.07.37:080][686]LogStaticMesh: Built static mesh [0.01s] /Game/FirstPerson/Maps/_GENERATED/Paweł/Boolean_9FFB56DC.Boolean_9FFB56DC
+[2024.05.12-07.07.37:083][686]LogStaticMesh: Display: Building static mesh Boolean_B13A32B9...
+[2024.05.12-07.07.37:085][686]LogStaticMesh: Built static mesh [0.02s] /Game/FirstPerson/Maps/_GENERATED/Paweł/Boolean_91A01EE1.Boolean_91A01EE1
+[2024.05.12-07.07.37:086][686]LogStaticMesh: Display: Building static mesh Boolean_C03B9DFE...
+[2024.05.12-07.07.37:089][686]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2024.05.12-07.07.37:089][686]LogStaticMesh: Built static mesh [0.01s] /Game/FirstPerson/Maps/_GENERATED/Paweł/Boolean_AFE9CF32.Boolean_AFE9CF32
+[2024.05.12-07.07.37:091][686]LogStaticMesh: Display: Building static mesh Boolean_AFE9CF32...
+[2024.05.12-07.07.37:094][686]LogStaticMesh: Built static mesh [0.01s] /Game/FirstPerson/Maps/_GENERATED/Paweł/Boolean_C03B9DFE.Boolean_C03B9DFE
+[2024.05.12-07.07.37:099][686]LogStaticMesh: Built static mesh [0.01s] /Game/FirstPerson/Maps/_GENERATED/Paweł/Boolean_AFE9CF32.Boolean_AFE9CF32
+[2024.05.12-07.07.37:100][686]LogStaticMesh: Built static mesh [0.02s] /Game/FirstPerson/Maps/_GENERATED/Paweł/Boolean_B13A32B9.Boolean_B13A32B9
+[2024.05.12-07.07.37:101][686]LogStaticMesh: Display: Building static mesh Boolean_C6F2AA02...
+[2024.05.12-07.07.37:106][686]LogStaticMesh: Display: Building static mesh Boolean_B13A32B9...
+[2024.05.12-07.07.37:107][686]LogStaticMesh: Built static mesh [0.01s] /Game/FirstPerson/Maps/_GENERATED/Paweł/Boolean_C6F2AA02.Boolean_C6F2AA02
+[2024.05.12-07.07.37:109][686]LogStaticMesh: Display: Building static mesh Boolean_C6F2AA02...
+[2024.05.12-07.07.37:112][686]LogTexture: Display: Waiting for textures to be ready 0/1 (/Game/UI/EndGameScreens/end__game_window) ...
+[2024.05.12-07.07.37:115][686]LogStaticMesh: Built static mesh [0.01s] /Game/FirstPerson/Maps/_GENERATED/Paweł/Boolean_C6F2AA02.Boolean_C6F2AA02
+[2024.05.12-07.07.37:117][686]LogStaticMesh: Display: Building static mesh Boolean_CF682CC4...
+[2024.05.12-07.07.37:126][686]LogStaticMesh: Built static mesh [0.01s] /Game/FirstPerson/Maps/_GENERATED/Paweł/Boolean_CF682CC4.Boolean_CF682CC4
+[2024.05.12-07.07.37:129][686]LogStaticMesh: Built static mesh [0.02s] /Game/FirstPerson/Maps/_GENERATED/Paweł/Boolean_B13A32B9.Boolean_B13A32B9
+[2024.05.12-07.07.37:318][686]LogStaticMesh: Display: Waiting for static meshes to be ready 78/93 (/Game/FirstPerson/Maps/_GENERATED/Paweł/Boolean_F304D202) ...
+[2024.05.12-07.07.38:998][686]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' exceeded budget of 2.000000s
+[2024.05.12-07.07.39:699][686]LogWorld: UWorld::CleanupWorld for L_3, bSessionEnded=true, bCleanupResources=true
+[2024.05.12-07.07.39:702][686]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.12-07.07.39:754][686]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2024.05.12-07.07.39:791][686]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2024.05.12-07.07.46:956][686]LogSlate: Window 'Message' being destroyed
+[2024.05.12-07.07.46:968][686]Message dialog closed, result: Ok, title: Message, text: The following assets have been modified and cannot be unloaded:
+    /Temp/Autosaves/Game/FirstPerson/Maps/L_2_Auto1
+Saving these assets will allow them to be unloaded.
+[2024.05.12-07.07.47:067][686]LogAudio: Display: Audio Device (ID: 1) registered with world 'L_3'.
+[2024.05.12-07.07.47:067][686]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.12-07.07.47:068][686]LogAIModule: Creating AISystem for world L_3
+[2024.05.12-07.07.47:175][686]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.05.12-07.07.47:229][686]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2024.05.12-07.07.47:251][686]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.05.12-07.07.47:252][686]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,555ms to complete.
+[2024.05.12-07.07.47:252][686]LogFileHelpers: Loading map 'L_3' took 10.255
+[2024.05.12-07.07.47:274][686]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' complete in 0.000402s (1.198660s overbudget)
+[2024.05.12-07.07.47:320][686]LogNavigation: Warning: Exporting geometry with too many verticies (1179630). This might cause performance and memory issues. Simplify collision or change GeometryExportVertexCountWarningThreshold. See 'StaticMeshComponent /Game/FirstPerson/Maps/L_3.L_3:PersistentLevel.BP_Blackhole_C_1.Blackhole'.
+[2024.05.12-07.08.02:603][544]LogBlueprint: Warning: [AssetLog] C:\Users\mikir\OneDrive\Pulpit\Escape-from-0G\Content\UI\UW_PinPad.uasset: [Compiler] Could not find a variable named "T_Input" in 'UW_PinPad_C'.
+Make sure 'UW_PinPad_C' has been compiled for  Get T_Input
+[2024.05.12-07.08.02:604][544]LogBlueprint: Warning: [AssetLog] C:\Users\mikir\OneDrive\Pulpit\Escape-from-0G\Content\UI\UW_PinPad.uasset: [Compiler] Could not find a variable named "T_Input" in 'UW_PinPad_C'.
+Make sure 'UW_PinPad_C' has been compiled for  Get T_Input
+[2024.05.12-07.08.02:604][544]LogBlueprint: Warning: [AssetLog] C:\Users\mikir\OneDrive\Pulpit\Escape-from-0G\Content\UI\UW_PinPad.uasset: [Compiler] Could not find a variable named "T_Input" in 'UW_PinPad_C'.
+Make sure 'UW_PinPad_C' has been compiled for  Get T_Input
+[2024.05.12-07.08.02:604][544]LogBlueprint: Warning: [AssetLog] C:\Users\mikir\OneDrive\Pulpit\Escape-from-0G\Content\UI\UW_PinPad.uasset: [Compiler] Could not find a variable named "Correct?" in 'UW_PinPad'.
+Make sure 'UW_PinPad' has been compiled for  Set Correct?
+[2024.05.12-07.08.02:605][544]LogBlueprint: Warning: [AssetLog] C:\Users\mikir\OneDrive\Pulpit\Escape-from-0G\Content\UI\UW_PinPad.uasset: [Compiler] Could not find a variable named "T_Input" in 'UW_PinPad_C'.
+Make sure 'UW_PinPad_C' has been compiled for  Get T_Input
+[2024.05.12-07.08.02:605][544]LogBlueprint: Error: [AssetLog] C:\Users\mikir\OneDrive\Pulpit\Escape-from-0G\Content\UI\UW_PinPad.uasset: [Compiler] This blueprint (self) is not compatible with ' Target ', therefore that pin must have a connection.
+[2024.05.12-07.08.02:606][544]LogBlueprint: Error: [AssetLog] C:\Users\mikir\OneDrive\Pulpit\Escape-from-0G\Content\UI\UW_PinPad.uasset: [Compiler] The property associated with  T Input  could not be found in '/Game/UI/UW_PinPad.UW_PinPad_C'
+[2024.05.12-07.08.02:606][544]LogBlueprint: Error: [AssetLog] C:\Users\mikir\OneDrive\Pulpit\Escape-from-0G\Content\UI\UW_PinPad.uasset: [Compiler] The property associated with  T Input  could not be found in '/Game/UI/UW_PinPad.UW_PinPad_C'
+[2024.05.12-07.08.02:606][544]LogBlueprint: Error: [AssetLog] C:\Users\mikir\OneDrive\Pulpit\Escape-from-0G\Content\UI\UW_PinPad.uasset: [Compiler] The property associated with  T Input  could not be found in '/Game/UI/UW_PinPad.UW_PinPad_C'
+[2024.05.12-07.08.02:607][544]LogBlueprint: Error: [AssetLog] C:\Users\mikir\OneDrive\Pulpit\Escape-from-0G\Content\UI\UW_PinPad.uasset: [Compiler] The property associated with  Correct?  could not be found in '/Game/UI/UW_PinPad.UW_PinPad_C'
+[2024.05.12-07.08.02:607][544]LogBlueprint: Error: [AssetLog] C:\Users\mikir\OneDrive\Pulpit\Escape-from-0G\Content\UI\UW_PinPad.uasset: [Compiler] The property associated with  T Input  could not be found in '/Game/UI/UW_PinPad.UW_PinPad_C'
+[2024.05.12-07.08.02:930][548]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FirstPerson/Blueprints/BP_PinPad.BP_PinPad_C
+[2024.05.12-07.08.02:930][548]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FirstPerson/Blueprints/BP_PinPad.BP_PinPad_C
+[2024.05.12-07.08.02:936][548]LogActorFactory: Actor Factory spawned Blueprint /Game/FirstPerson/Blueprints/BP_PinPad.BP_PinPad as actor: BP_PinPad_C /Game/FirstPerson/Maps/L_3.L_3:PersistentLevel.BP_PinPad_C_0
+[2024.05.12-07.08.02:944][548]LogActorFactory: Actor Factory spawned Blueprint /Game/FirstPerson/Blueprints/BP_PinPad.BP_PinPad as actor: BP_PinPad_C /Game/FirstPerson/Maps/L_3.L_3:PersistentLevel.BP_PinPad_C_0
+[2024.05.12-07.08.02:964][548]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2024.05.12-07.08.05:023][655]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FirstPerson/Blueprints/BP_PinPad.BP_PinPad_C
+[2024.05.12-07.08.05:024][655]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FirstPerson/Blueprints/BP_PinPad.BP_PinPad_C
+[2024.05.12-07.08.05:033][655]LogActorFactory: Actor Factory spawned Blueprint /Game/FirstPerson/Blueprints/BP_PinPad.BP_PinPad as actor: BP_PinPad_C /Game/FirstPerson/Maps/L_3.L_3:PersistentLevel.BP_PinPad_C_1
+[2024.05.12-07.08.05:041][655]LogActorFactory: Actor Factory spawned Blueprint /Game/FirstPerson/Blueprints/BP_PinPad.BP_PinPad as actor: BP_PinPad_C /Game/FirstPerson/Maps/L_3.L_3:PersistentLevel.BP_PinPad_C_1
+[2024.05.12-07.08.08:632][835]Cmd: TRANSACTION UNDO
+[2024.05.12-07.08.08:632][835]LogEditorTransaction: Undo Rotate Elements
+[2024.05.12-07.08.11:337][947]Cmd: MODE ROTGRID=1
+[2024.05.12-07.08.17:956][323]Cmd: SELECT NONE
+[2024.05.12-07.08.21:414][501]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPerson/Blueprints/BP_PinPad.BP_PinPad
+[2024.05.12-07.08.21:414][501]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.12-07.08.22:653][515]LogDerivedDataCache: C:/Users/mikir/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:14.500 and deleted 0 files with total size 0 MiB. Scanned 7785 files in 7679 folders with total size 1306 MiB.
+[2024.05.12-07.08.24:098][580]LogViewport: Scene viewport resized to 1130x593, mode Windowed.
+[2024.05.12-07.08.36:566][ 32]LogStaticMesh: Display: Building static mesh pinpad1...
+[2024.05.12-07.08.36:573][ 32]LogStaticMesh: Built static mesh [0.01s] /Game/Art/SmallObjects/pinpad1.pinpad1
+[2024.05.12-07.09.10:693][313]BlueprintLog: New page: Compile BP_PinPad
+[2024.05.12-07.09.10:839][313]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2024.05.12-07.09.10:865][313]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.12-07.09.11:038][313]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/BP_PinPad" FILE="../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/FirstPerson/Blueprints/BP_PinPad.uasset" SILENT=true
+[2024.05.12-07.09.11:050][313]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_PinPad
+[2024.05.12-07.09.11:051][313]LogSavePackage: Moving '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/BP_PinPad17D004B248E3198482E44A84EEDF0BEC.tmp' to '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/FirstPerson/Blueprints/BP_PinPad.uasset'
+[2024.05.12-07.09.11:093][313]LogFileHelpers: InternalPromptForCheckoutAndSave took 228 ms (total: 3:46 min)
+[2024.05.12-07.09.11:105][313]AssetCheck: New page: Asset Save: BP_PinPad
+[2024.05.12-07.09.11:106][313]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_PinPad.BP_PinPad
+[2024.05.12-07.11.45:229][802]Cmd: SELECT NONE
+[2024.05.12-07.13.35:919][669]Cmd: SELECT NONE
+[2024.05.12-07.13.40:264][912]Cmd: SELECT NONE
+[2024.05.12-07.16.12:791][815]Cmd: TRANSACTION UNDO
+[2024.05.12-07.16.12:791][815]LogEditorTransaction: Undo Clicking on Elements
+[2024.05.12-07.16.13:552][830]Cmd: TRANSACTION UNDO
+[2024.05.12-07.16.13:552][830]LogEditorTransaction: Undo Clicking on Elements
+[2024.05.12-07.16.14:503][868]Cmd: TRANSACTION UNDO
+[2024.05.12-07.16.14:503][868]LogEditorTransaction: Undo Clicking on Elements
+[2024.05.12-07.16.15:164][892]Cmd: TRANSACTION UNDO
+[2024.05.12-07.16.15:164][892]LogEditorTransaction: Undo Clicking on Elements
+[2024.05.12-07.16.26:364][491]Cmd: SELECT NONE
+[2024.05.12-07.16.47:363][722]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPerson/Blueprints/BP_Spacesuit.BP_Spacesuit
+[2024.05.12-07.16.47:365][722]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.12-07.16.49:470][782]LogViewport: Scene viewport resized to 1130x593, mode Windowed.
+[2024.05.12-07.17.33:884][500]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2024.05.12-07.17.34:106][500]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Maps/L_3_Auto2
+[2024.05.12-07.17.34:107][500]LogSavePackage: Moving '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/L_3_Auto27634CCEE4D6A91839D31FDB0989D8718.tmp' to '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/Autosaves/Game/FirstPerson/Maps/L_3_Auto2.umap'
+[2024.05.12-07.17.34:146][500]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/L_3' took 0.316
+[2024.05.12-07.17.34:147][500]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.316
+[2024.05.12-07.17.34:147][500]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPerson/Blueprints/BP_PinPad] ([2] browsable assets)...
+[2024.05.12-07.17.34:147][500]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_PinPad]
+[2024.05.12-07.17.34:161][500]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Blueprints/BP_PinPad_Auto2
+[2024.05.12-07.17.34:162][500]LogSavePackage: Moving '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/BP_PinPad_Auto2FA7A44FF4E961501AC7F9CA571B7D2CA.tmp' to '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/Autosaves/Game/FirstPerson/Blueprints/BP_PinPad_Auto2.uasset'
+[2024.05.12-07.17.34:165][500]LogFileHelpers: Auto-saving content packages took 0.017
+[2024.05.12-07.20.16:601][148]LogEditorTransaction: Undo Modify Component(s)
+[2024.05.12-07.25.02:014][932]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Art/Spacesuit/AstronautVer2_Sphere_2.AstronautVer2_Sphere_2
+[2024.05.12-07.25.02:024][932]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.12-07.25.02:448][932]LogViewport: Scene viewport resized to 1403x848, mode Windowed.
+[2024.05.12-07.25.12:101][335]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2024.05.12-07.25.12:101][335]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.12-07.25.59:276][956]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Art/Spacesuit/Visor.Visor
+[2024.05.12-07.25.59:315][956]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.12-07.25.59:574][956]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.12-07.25.59:574][956]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.05.12-07.25.59:574][956]MaterialEditorStats: Shader Count: 0
+[2024.05.12-07.25.59:589][956]LogViewport: Scene viewport resized to 374x421, mode Windowed.
+[2024.05.12-07.25.59:686][957]LogShaderCompilers: Display: ================================================
+[2024.05.12-07.25.59:686][957]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.05.12-07.25.59:686][957]LogShaderCompilers: Display: Total job queries 2167, among them cache hits 259 (11.95%)
+[2024.05.12-07.25.59:686][957]LogShaderCompilers: Display: Tracking 1908 distinct input hashes that result in 163 distinct outputs (8.54%)
+[2024.05.12-07.25.59:686][957]LogShaderCompilers: Display: RAM used: 13.47 MB (0.01 GB) of 819.20 MB (0.80 GB) budget. Usage: 1.64%
+[2024.05.12-07.25.59:686][957]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.05.12-07.25.59:686][957]LogShaderCompilers: Display: Shaders Compiled: 1538
+[2024.05.12-07.25.59:686][957]LogShaderCompilers: Display: Jobs assigned 1538, completed 1538 (100.00%)
+[2024.05.12-07.25.59:686][957]LogShaderCompilers: Display: Average time worker was idle: 12.65 s
+[2024.05.12-07.25.59:686][957]LogShaderCompilers: Display: Time job spent in pending queue: average 3.09 s, longest 37.24 s
+[2024.05.12-07.25.59:686][957]LogShaderCompilers: Display: Job execution time: average 1.43 s, max 17.64 s
+[2024.05.12-07.25.59:686][957]LogShaderCompilers: Display: Job life time (pending + execution): average 4.52 s, max 38.75
+[2024.05.12-07.25.59:686][957]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 331.04 s
+[2024.05.12-07.25.59:686][957]LogShaderCompilers: Display: Jobs were issued in 1538 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.05.12-07.25.59:686][957]LogShaderCompilers: Display: Average processing rate: 4.65 jobs/sec
+[2024.05.12-07.25.59:686][957]LogShaderCompilers: Display: Total thread time: 1769.99 s
+[2024.05.12-07.25.59:686][957]LogShaderCompilers: Display: Total thread preprocess time: 113.72 s
+[2024.05.12-07.25.59:686][957]LogShaderCompilers: Display: Percentage time preprocessing: 6.42%
+[2024.05.12-07.25.59:686][957]LogShaderCompilers: Display: Effective parallelization: 5.35 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.05.12-07.25.59:686][957]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.05.12-07.25.59:686][957]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled   96 times, average 2.10 sec, max 16.43 sec, min 1.10 sec)
+[2024.05.12-07.25.59:686][957]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   96 times, average 1.99 sec, max 6.62 sec, min 1.06 sec)
+[2024.05.12-07.25.59:686][957]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled   96 times, average 1.63 sec, max 8.15 sec, min 0.86 sec)
+[2024.05.12-07.25.59:686][957]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled   96 times, average 1.21 sec, max 10.48 sec, min 0.48 sec)
+[2024.05.12-07.25.59:686][957]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled   96 times, average 1.14 sec, max 1.55 sec, min 0.97 sec)
+[2024.05.12-07.25.59:686][957]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.05.12-07.25.59:686][957]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 11.40% of total time (compiled   96 times, average 2.10 sec, max 16.43 sec, min 1.10 sec)
+[2024.05.12-07.25.59:686][957]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 10.78% of total time (compiled   96 times, average 1.99 sec, max 6.62 sec, min 1.06 sec)
+[2024.05.12-07.25.59:686][957]LogShaderCompilers: Display:                                                 FLumenCardVS - 8.82% of total time (compiled   96 times, average 1.63 sec, max 8.15 sec, min 0.86 sec)
+[2024.05.12-07.25.59:686][957]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 6.54% of total time (compiled   96 times, average 1.21 sec, max 10.48 sec, min 0.48 sec)
+[2024.05.12-07.25.59:686][957]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight - 6.20% of total time (compiled   96 times, average 1.14 sec, max 1.55 sec, min 0.97 sec)
+[2024.05.12-07.25.59:686][957]LogShaderCompilers: Display: ================================================
+[2024.05.12-07.25.59:720][958]MaterialEditorStats: Base pass shader: 216 instructions
+[2024.05.12-07.25.59:721][958]MaterialEditorStats: Base pass vertex shader: 255 instructions
+[2024.05.12-07.25.59:721][958]MaterialEditorStats: Texture samplers: 2/16
+[2024.05.12-07.25.59:721][958]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.05.12-07.25.59:721][958]MaterialEditorStats: Shader Count: 4
+[2024.05.12-07.26.08:916][230]LogSlate: Window 'Color Picker' being destroyed
+[2024.05.12-07.26.11:463][339]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2024.05.12-07.26.11:463][339]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.12-07.27.34:700][877]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2024.05.12-07.27.34:941][877]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Maps/L_3_Auto3
+[2024.05.12-07.27.34:942][877]LogSavePackage: Moving '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/L_3_Auto398901F324039084B94A057AA1EE90804.tmp' to '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/Autosaves/Game/FirstPerson/Maps/L_3_Auto3.umap'
+[2024.05.12-07.27.34:969][877]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/L_3' took 0.362
+[2024.05.12-07.27.34:969][877]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.362
+[2024.05.12-07.27.34:969][877]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/Blueprints/BP_Spacesuit] ([2] browsable assets)...
+[2024.05.12-07.27.35:035][877]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Blueprints/BP_Spacesuit.BP_Spacesuit]
+[2024.05.12-07.27.35:037][877]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_Spacesuit]
+[2024.05.12-07.27.35:047][877]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Blueprints/BP_Spacesuit_Auto3
+[2024.05.12-07.27.35:047][877]LogSavePackage: Moving '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/BP_Spacesuit_Auto35610EA1B4D7725EE309848A8739FE39F.tmp' to '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/Autosaves/Game/FirstPerson/Blueprints/BP_Spacesuit_Auto3.uasset'
+[2024.05.12-07.27.35:048][877]LogFileHelpers: Auto-saving content packages took 0.079
+[2024.05.12-07.28.56:388][393]BlueprintLog: New page: Compile BP_Spacesuit
+[2024.05.12-07.28.56:490][393]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2024.05.12-07.28.56:523][393]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.12-07.28.56:702][393]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/BP_Spacesuit" FILE="../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/FirstPerson/Blueprints/BP_Spacesuit.uasset" SILENT=true
+[2024.05.12-07.28.56:711][393]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_Spacesuit
+[2024.05.12-07.28.56:713][393]LogSavePackage: Moving '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/BP_SpacesuitED73E0FB4DD794F15C5F6C94DD5C77BA.tmp' to '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/FirstPerson/Blueprints/BP_Spacesuit.uasset'
+[2024.05.12-07.28.56:735][393]LogFileHelpers: InternalPromptForCheckoutAndSave took 212 ms (total: 3:46 min)
+[2024.05.12-07.28.56:746][393]AssetCheck: New page: Asset Save: BP_Spacesuit
+[2024.05.12-07.28.56:746][393]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_Spacesuit.BP_Spacesuit
+[2024.05.12-07.29.21:667][769]Cmd: SELECT NONE
+[2024.05.12-07.29.54:077][701]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2024.05.12-07.29.54:091][701]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.12-07.29.56:108][701]LogSlate: Window 'Save Level As' being destroyed
+[2024.05.12-07.29.56:171][701]LogFileHelpers: InternalPromptForCheckoutAndSave took 2.07 sec (total: 3:48 min)
+[2024.05.12-07.29.57:180][755]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2024.05.12-07.29.59:660][755]LogSlate: Window 'Save Content' being destroyed
+[2024.05.12-07.29.59:669][755]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.12-07.29.59:833][755]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Maps/L_3" FILE="../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/FirstPerson/Maps/L_3.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.05.12-07.29.59:892][755]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2024.05.12-07.30.00:095][755]LogSavePackage: Moving output files for package: /Game/FirstPerson/Maps/L_3
+[2024.05.12-07.30.00:096][755]LogSavePackage: Moving '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/L_3F19921594E367D762EB2CDA57AA8BD22.tmp' to '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/FirstPerson/Maps/L_3.umap'
+[2024.05.12-07.30.00:117][755]LogFileHelpers: Saving map 'L_3' took 0.288
+[2024.05.12-07.30.00:118][755]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/BP_PinPad" FILE="../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/FirstPerson/Blueprints/BP_PinPad.uasset" SILENT=true
+[2024.05.12-07.30.00:126][755]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_PinPad
+[2024.05.12-07.30.00:127][755]LogSavePackage: Moving '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/BP_PinPad25448F534D05F2C26DAD44B8C92066EB.tmp' to '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/FirstPerson/Blueprints/BP_PinPad.uasset'
+[2024.05.12-07.30.00:165][755]LogFileHelpers: InternalPromptForCheckoutAndSave took 495 ms (total: 3:48 min)
+[2024.05.12-07.30.00:175][755]AssetCheck: New page: Asset Save: multiple assets
+[2024.05.12-07.30.00:175][755]LogContentValidation: Display: Validating /Script/Engine.World /Game/FirstPerson/Maps/L_3.L_3
+[2024.05.12-07.30.00:175][755]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_PinPad.BP_PinPad
+[2024.05.12-07.43.27:871][184]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.05.12-07.43.31:476][393]Cmd: DELETE
+[2024.05.12-07.43.31:476][393]Cmd: ACTOR DELETE
+[2024.05.12-07.43.31:612][393]LogLinker: Warning: [AssetLog] C:\Users\mikir\OneDrive\Pulpit\Escape-from-0G\Content\FirstPerson\Maps\L_22.umap: Failed to load '/Game/Art/Corridor/Walls/Corridor_Wall_Var__4': Can't find file.
+[2024.05.12-07.43.31:612][393]LogLinker: Warning: [AssetLog] C:\Users\mikir\OneDrive\Pulpit\Escape-from-0G\Content\FirstPerson\Maps\L_22.umap: VerifyImport: Failed to load package for import object 'Package /Game/Art/Corridor/Walls/Corridor_Wall_Var__4'
+[2024.05.12-07.43.31:620][393]LogLinker: Warning: [AssetLog] C:\Users\mikir\OneDrive\Pulpit\Escape-from-0G\Content\FirstPerson\Maps\L_22.umap: Failed to load '/Game/Art/Rooms/Wall/Wall_Room_Var_5': Can't find file.
+[2024.05.12-07.43.31:620][393]LogLinker: Warning: [AssetLog] C:\Users\mikir\OneDrive\Pulpit\Escape-from-0G\Content\FirstPerson\Maps\L_22.umap: VerifyImport: Failed to load package for import object 'Package /Game/Art/Rooms/Wall/Wall_Room_Var_5'
+[2024.05.12-07.43.31:985][393]LogShaderCompilers: Display: ================================================
+[2024.05.12-07.43.31:985][393]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.05.12-07.43.31:985][393]LogShaderCompilers: Display: Total job queries 2276, among them cache hits 269 (11.82%)
+[2024.05.12-07.43.31:985][393]LogShaderCompilers: Display: Tracking 2007 distinct input hashes that result in 219 distinct outputs (10.91%)
+[2024.05.12-07.43.31:985][393]LogShaderCompilers: Display: RAM used: 14.01 MB (0.01 GB) of 819.20 MB (0.80 GB) budget. Usage: 1.71%
+[2024.05.12-07.43.31:986][393]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.05.12-07.43.31:986][393]LogShaderCompilers: Display: Shaders Compiled: 1575
+[2024.05.12-07.43.31:986][393]LogShaderCompilers: Display: Jobs assigned 1575, completed 1575 (100.00%)
+[2024.05.12-07.43.31:986][393]LogShaderCompilers: Display: Average time worker was idle: 21.52 s
+[2024.05.12-07.43.31:986][393]LogShaderCompilers: Display: Time job spent in pending queue: average 3.02 s, longest 37.24 s
+[2024.05.12-07.43.31:986][393]LogShaderCompilers: Display: Job execution time: average 1.44 s, max 17.64 s
+[2024.05.12-07.43.31:986][393]LogShaderCompilers: Display: Job life time (pending + execution): average 4.46 s, max 38.75
+[2024.05.12-07.43.31:986][393]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 343.30 s
+[2024.05.12-07.43.31:986][393]LogShaderCompilers: Display: Jobs were issued in 1575 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.05.12-07.43.31:986][393]LogShaderCompilers: Display: Average processing rate: 4.59 jobs/sec
+[2024.05.12-07.43.31:986][393]LogShaderCompilers: Display: Total thread time: 1809.29 s
+[2024.05.12-07.43.31:986][393]LogShaderCompilers: Display: Total thread preprocess time: 115.86 s
+[2024.05.12-07.43.31:986][393]LogShaderCompilers: Display: Percentage time preprocessing: 6.40%
+[2024.05.12-07.43.31:986][393]LogShaderCompilers: Display: Effective parallelization: 5.27 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.05.12-07.43.31:986][393]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.05.12-07.43.31:986][393]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled  105 times, average 2.04 sec, max 16.43 sec, min 0.98 sec)
+[2024.05.12-07.43.31:986][393]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled  105 times, average 1.93 sec, max 6.62 sec, min 1.05 sec)
+[2024.05.12-07.43.31:986][393]LogShaderCompilers: Display:                  TShadowDepthVSVertexShadowDepth_OutputDepth (compiled    2 times, average 1.63 sec, max 1.68 sec, min 1.58 sec)
+[2024.05.12-07.43.31:986][393]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled  101 times, average 1.60 sec, max 8.15 sec, min 0.86 sec)
+[2024.05.12-07.43.31:986][393]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled  101 times, average 1.18 sec, max 10.48 sec, min 0.48 sec)
+[2024.05.12-07.43.31:986][393]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.05.12-07.43.31:986][393]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 11.83% of total time (compiled  105 times, average 2.04 sec, max 16.43 sec, min 0.98 sec)
+[2024.05.12-07.43.31:986][393]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 11.21% of total time (compiled  105 times, average 1.93 sec, max 6.62 sec, min 1.05 sec)
+[2024.05.12-07.43.31:986][393]LogShaderCompilers: Display:                                                 FLumenCardVS - 8.95% of total time (compiled  101 times, average 1.60 sec, max 8.15 sec, min 0.86 sec)
+[2024.05.12-07.43.31:986][393]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 6.61% of total time (compiled  101 times, average 1.18 sec, max 10.48 sec, min 0.48 sec)
+[2024.05.12-07.43.31:986][393]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight - 6.07% of total time (compiled   96 times, average 1.14 sec, max 1.55 sec, min 0.97 sec)
+[2024.05.12-07.43.31:986][393]LogShaderCompilers: Display: ================================================
+[2024.05.12-07.43.32:262][393]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.12-07.43.32:344][393]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2024.05.12-07.43.32:349][393]LogEditorActor: Deleted 1 Actors (0.873 secs)
+[2024.05.12-07.43.35:457][531]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.05.12-07.43.54:252][574]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FirstPerson/Blueprints/BP_Openable_Cabinet.BP_Openable_Cabinet_C
+[2024.05.12-07.43.54:252][574]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FirstPerson/Blueprints/BP_Openable_Cabinet.BP_Openable_Cabinet_C
+[2024.05.12-07.43.54:256][574]LogActorFactory: Actor Factory spawned Blueprint /Game/FirstPerson/Blueprints/BP_Openable_Cabinet.BP_Openable_Cabinet as actor: BP_Openable_Cabinet_C /Game/FirstPerson/Maps/L_3.L_3:PersistentLevel.BP_Openable_Cabinet_C_0
+[2024.05.12-07.43.54:260][574]LogActorFactory: Actor Factory spawned Blueprint /Game/FirstPerson/Blueprints/BP_Openable_Cabinet.BP_Openable_Cabinet as actor: BP_Openable_Cabinet_C /Game/FirstPerson/Maps/L_3.L_3:PersistentLevel.BP_Openable_Cabinet_C_0
+[2024.05.12-07.43.55:075][602]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FirstPerson/Blueprints/BP_Openable_Cabinet.BP_Openable_Cabinet_C
+[2024.05.12-07.43.55:076][602]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FirstPerson/Blueprints/BP_Openable_Cabinet.BP_Openable_Cabinet_C
+[2024.05.12-07.43.55:082][602]LogActorFactory: Actor Factory spawned Blueprint /Game/FirstPerson/Blueprints/BP_Openable_Cabinet.BP_Openable_Cabinet as actor: BP_Openable_Cabinet_C /Game/FirstPerson/Maps/L_3.L_3:PersistentLevel.BP_Openable_Cabinet_C_1
+[2024.05.12-07.43.55:085][602]LogActorFactory: Actor Factory spawned Blueprint /Game/FirstPerson/Blueprints/BP_Openable_Cabinet.BP_Openable_Cabinet as actor: BP_Openable_Cabinet_C /Game/FirstPerson/Maps/L_3.L_3:PersistentLevel.BP_Openable_Cabinet_C_1
+[2024.05.12-07.44.00:448][918]Cmd: TRANSACTION UNDO
+[2024.05.12-07.44.00:448][918]LogEditorTransaction: Undo Paste Location
+[2024.05.12-07.44.02:330][  1]Cmd: DELETE
+[2024.05.12-07.44.02:330][  1]Cmd: ACTOR DELETE
+[2024.05.12-07.44.02:351][  1]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.12-07.44.02:420][  1]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2024.05.12-07.44.02:425][  1]LogEditorActor: Deleted 1 Actors (0.095 secs)
+[2024.05.12-07.44.03:103][ 36]Cmd: DELETE
+[2024.05.12-07.44.03:103][ 36]Cmd: ACTOR DELETE
+[2024.05.12-07.44.03:124][ 36]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.12-07.44.03:175][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2024.05.12-07.44.03:180][ 36]LogEditorActor: Deleted 1 Actors (0.076 secs)
+[2024.05.12-07.44.03:893][ 74]Cmd: DELETE
+[2024.05.12-07.44.03:893][ 74]Cmd: ACTOR DELETE
+[2024.05.12-07.44.03:913][ 74]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.12-07.44.03:962][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.05.12-07.44.03:965][ 74]LogEditorActor: Deleted 1 Actors (0.072 secs)
+[2024.05.12-07.44.04:838][119]Cmd: DELETE
+[2024.05.12-07.44.04:838][119]Cmd: ACTOR DELETE
+[2024.05.12-07.44.04:859][119]LogEditorActor: Deleted Actor: PointLight
+[2024.05.12-07.44.04:915][119]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2024.05.12-07.44.04:919][119]LogEditorActor: Deleted 1 Actors (0.080 secs)
+[2024.05.12-07.44.05:750][165]Cmd: DELETE
+[2024.05.12-07.44.05:750][165]Cmd: ACTOR DELETE
+[2024.05.12-07.44.05:768][165]LogEditorActor: Deleted Actor: PointLight
+[2024.05.12-07.44.05:825][165]LogUObjectHash: Compacting FUObjectHashTables data took   7.26ms
+[2024.05.12-07.44.05:828][165]LogEditorActor: Deleted 1 Actors (0.078 secs)
+[2024.05.12-07.44.16:634][791]Cmd: DELETE
+[2024.05.12-07.44.16:634][791]Cmd: ACTOR DELETE
+[2024.05.12-07.44.16:655][791]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.12-07.44.16:704][791]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2024.05.12-07.44.16:708][791]LogEditorActor: Deleted 1 Actors (0.074 secs)
+[2024.05.12-07.44.17:934][858]Cmd: DELETE
+[2024.05.12-07.44.17:934][858]Cmd: ACTOR DELETE
+[2024.05.12-07.44.17:954][858]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.12-07.44.17:998][858]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2024.05.12-07.44.18:001][858]LogEditorActor: Deleted 1 Actors (0.067 secs)
+[2024.05.12-07.44.18:704][896]Cmd: DELETE
+[2024.05.12-07.44.18:704][896]Cmd: ACTOR DELETE
+[2024.05.12-07.44.18:725][896]LogEditorActor: Deleted Actor: PointLight
+[2024.05.12-07.44.18:773][896]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2024.05.12-07.44.18:777][896]LogEditorActor: Deleted 1 Actors (0.072 secs)
+[2024.05.12-07.44.19:415][928]Cmd: DELETE
+[2024.05.12-07.44.19:415][928]Cmd: ACTOR DELETE
+[2024.05.12-07.44.19:437][928]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.12-07.44.19:491][928]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2024.05.12-07.44.19:494][928]LogEditorActor: Deleted 1 Actors (0.078 secs)
+[2024.05.12-07.44.20:158][964]Cmd: DELETE
+[2024.05.12-07.44.20:158][964]Cmd: ACTOR DELETE
+[2024.05.12-07.44.20:177][964]LogEditorActor: Deleted Actor: PointLight
+[2024.05.12-07.44.20:232][964]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2024.05.12-07.44.20:237][964]LogEditorActor: Deleted 1 Actors (0.078 secs)
+[2024.05.12-07.44.21:523][ 36]Cmd: DUPLICATE
+[2024.05.12-07.44.21:523][ 36]Cmd: ACTOR DUPLICATE
+[2024.05.12-07.44.21:589][ 36]LogClass: Warning: Short type name "BP_Openable_Cabinet_C_1" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2024.05.12-07.44.21:596][ 36]LogClass: Warning: Short type name "BP_Openable_Cabinet_C_1" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2024.05.12-07.44.33:131][698]Cmd: DUPLICATE
+[2024.05.12-07.44.33:131][698]Cmd: ACTOR DUPLICATE
+[2024.05.12-07.44.33:161][698]LogClass: Warning: Short type name "BP_Openable_Cabinet_C_2" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2024.05.12-07.44.33:166][698]LogClass: Warning: Short type name "BP_Openable_Cabinet_C_2" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2024.05.12-07.44.38:136][985]Cmd: DELETE
+[2024.05.12-07.44.38:136][985]Cmd: ACTOR DELETE
+[2024.05.12-07.44.38:156][985]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.12-07.44.38:211][985]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2024.05.12-07.44.38:215][985]LogEditorActor: Deleted 1 Actors (0.079 secs)
+[2024.05.12-07.44.38:994][ 25]Cmd: DELETE
+[2024.05.12-07.44.38:994][ 25]Cmd: ACTOR DELETE
+[2024.05.12-07.44.39:015][ 25]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.12-07.44.39:059][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.05.12-07.44.39:063][ 25]LogEditorActor: Deleted 1 Actors (0.068 secs)
+[2024.05.12-07.44.39:738][ 61]Cmd: DELETE
+[2024.05.12-07.44.39:738][ 61]Cmd: ACTOR DELETE
+[2024.05.12-07.44.39:757][ 61]LogEditorActor: Deleted Actor: PointLight
+[2024.05.12-07.44.39:805][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.05.12-07.44.39:809][ 61]LogEditorActor: Deleted 1 Actors (0.071 secs)
+[2024.05.12-07.44.41:176][137]Cmd: DELETE
+[2024.05.12-07.44.41:177][137]Cmd: ACTOR DELETE
+[2024.05.12-07.44.41:195][137]LogEditorActor: Deleted Actor: PointLight
+[2024.05.12-07.44.41:239][137]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2024.05.12-07.44.41:243][137]LogEditorActor: Deleted 1 Actors (0.067 secs)
+[2024.05.12-07.44.42:238][189]Cmd: DELETE
+[2024.05.12-07.44.42:238][189]Cmd: ACTOR DELETE
+[2024.05.12-07.44.42:258][189]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.12-07.44.42:301][189]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2024.05.12-07.44.42:305][189]LogEditorActor: Deleted 1 Actors (0.067 secs)
+[2024.05.12-07.44.49:274][591]Cmd: DELETE
+[2024.05.12-07.44.49:274][591]Cmd: ACTOR DELETE
+[2024.05.12-07.44.49:293][591]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.12-07.44.49:339][591]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2024.05.12-07.44.49:343][591]LogEditorActor: Deleted 1 Actors (0.069 secs)
+[2024.05.12-07.44.49:927][619]Cmd: DELETE
+[2024.05.12-07.44.49:927][619]Cmd: ACTOR DELETE
+[2024.05.12-07.44.49:952][619]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.12-07.44.49:996][619]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.05.12-07.44.50:000][619]LogEditorActor: Deleted 1 Actors (0.073 secs)
+[2024.05.12-07.44.50:585][649]Cmd: DELETE
+[2024.05.12-07.44.50:585][649]Cmd: ACTOR DELETE
+[2024.05.12-07.44.50:607][649]LogEditorActor: Deleted Actor: PointLight
+[2024.05.12-07.44.50:652][649]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2024.05.12-07.44.50:656][649]LogEditorActor: Deleted 1 Actors (0.070 secs)
+[2024.05.12-07.44.51:195][675]Cmd: DELETE
+[2024.05.12-07.44.51:195][675]Cmd: ACTOR DELETE
+[2024.05.12-07.44.51:214][675]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.12-07.44.51:259][675]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.05.12-07.44.51:263][675]LogEditorActor: Deleted 1 Actors (0.066 secs)
+[2024.05.12-07.44.51:817][703]Cmd: DELETE
+[2024.05.12-07.44.51:817][703]Cmd: ACTOR DELETE
+[2024.05.12-07.44.51:819][703]LogConsoleManager: Warning: Performance warning: Many (31) failed FindConsoleObject() for 'ACTOR'. 
+[2024.05.12-07.44.51:837][703]LogEditorActor: Deleted Actor: PointLight
+[2024.05.12-07.44.51:886][703]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2024.05.12-07.44.51:890][703]LogEditorActor: Deleted 1 Actors (0.071 secs)
+[2024.05.12-07.44.52:964][763]Cmd: DUPLICATE
+[2024.05.12-07.44.52:965][763]Cmd: ACTOR DUPLICATE
+[2024.05.12-07.44.52:994][763]LogClass: Warning: Short type name "BP_Openable_Cabinet_C_3" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2024.05.12-07.44.52:999][763]LogClass: Warning: Short type name "BP_Openable_Cabinet_C_3" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2024.05.12-07.44.58:971][ 86]Cmd: DUPLICATE
+[2024.05.12-07.44.58:971][ 86]Cmd: ACTOR DUPLICATE
+[2024.05.12-07.44.59:002][ 86]LogClass: Warning: Short type name "BP_Openable_Cabinet_C_4" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2024.05.12-07.44.59:008][ 86]LogClass: Warning: Short type name "BP_Openable_Cabinet_C_4" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2024.05.12-07.45.01:889][245]Cmd: DELETE
+[2024.05.12-07.45.01:889][245]Cmd: ACTOR DELETE
+[2024.05.12-07.45.01:908][245]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.12-07.45.01:953][245]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2024.05.12-07.45.01:958][245]LogEditorActor: Deleted 1 Actors (0.069 secs)
+[2024.05.12-07.45.03:421][327]Cmd: TRANSACTION UNDO
+[2024.05.12-07.45.03:421][327]LogEditorTransaction: Undo Delete Elements
+[2024.05.12-07.45.05:948][416]Cmd: DELETE
+[2024.05.12-07.45.05:948][416]Cmd: ACTOR DELETE
+[2024.05.12-07.45.05:969][416]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.12-07.45.06:016][416]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2024.05.12-07.45.06:020][416]LogEditorActor: Deleted 1 Actors (0.072 secs)
+[2024.05.12-07.45.06:785][447]Cmd: DELETE
+[2024.05.12-07.45.06:785][447]Cmd: ACTOR DELETE
+[2024.05.12-07.45.06:808][447]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.12-07.45.06:856][447]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2024.05.12-07.45.06:860][447]LogEditorActor: Deleted 1 Actors (0.075 secs)
+[2024.05.12-07.45.07:387][470]Cmd: DELETE
+[2024.05.12-07.45.07:387][470]Cmd: ACTOR DELETE
+[2024.05.12-07.45.07:408][470]LogEditorActor: Deleted Actor: PointLight
+[2024.05.12-07.45.07:460][470]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.05.12-07.45.07:464][470]LogEditorActor: Deleted 1 Actors (0.076 secs)
+[2024.05.12-07.45.08:137][504]Cmd: DELETE
+[2024.05.12-07.45.08:137][504]Cmd: ACTOR DELETE
+[2024.05.12-07.45.08:167][504]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.12-07.45.08:217][504]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2024.05.12-07.45.08:220][504]LogEditorActor: Deleted 1 Actors (0.083 secs)
+[2024.05.12-07.45.09:057][547]Cmd: DELETE
+[2024.05.12-07.45.09:057][547]Cmd: ACTOR DELETE
+[2024.05.12-07.45.09:075][547]LogEditorActor: Deleted Actor: PointLight
+[2024.05.12-07.45.09:130][547]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2024.05.12-07.45.09:134][547]LogEditorActor: Deleted 1 Actors (0.077 secs)
+[2024.05.12-07.45.15:369][898]Cmd: DELETE
+[2024.05.12-07.45.15:369][898]Cmd: ACTOR DELETE
+[2024.05.12-07.45.15:389][898]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.12-07.45.15:434][898]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2024.05.12-07.45.15:439][898]LogEditorActor: Deleted 1 Actors (0.070 secs)
+[2024.05.12-07.45.16:383][946]Cmd: DELETE
+[2024.05.12-07.45.16:383][946]Cmd: ACTOR DELETE
+[2024.05.12-07.45.16:409][946]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.12-07.45.16:454][946]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2024.05.12-07.45.16:459][946]LogEditorActor: Deleted 1 Actors (0.075 secs)
+[2024.05.12-07.45.17:020][975]Cmd: DELETE
+[2024.05.12-07.45.17:020][975]Cmd: ACTOR DELETE
+[2024.05.12-07.45.17:039][975]LogEditorActor: Deleted Actor: PointLight
+[2024.05.12-07.45.17:090][975]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2024.05.12-07.45.17:094][975]LogEditorActor: Deleted 1 Actors (0.075 secs)
+[2024.05.12-07.45.17:619][999]Cmd: DELETE
+[2024.05.12-07.45.17:619][999]Cmd: ACTOR DELETE
+[2024.05.12-07.45.17:646][999]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.12-07.45.17:690][999]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.05.12-07.45.17:693][999]LogEditorActor: Deleted 1 Actors (0.074 secs)
+[2024.05.12-07.45.18:262][ 26]Cmd: DELETE
+[2024.05.12-07.45.18:262][ 26]Cmd: ACTOR DELETE
+[2024.05.12-07.45.18:281][ 26]LogEditorActor: Deleted Actor: PointLight
+[2024.05.12-07.45.18:332][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.05.12-07.45.18:336][ 26]LogEditorActor: Deleted 1 Actors (0.074 secs)
+[2024.05.12-07.45.19:383][ 84]Cmd: DUPLICATE
+[2024.05.12-07.45.19:383][ 84]Cmd: ACTOR DUPLICATE
+[2024.05.12-07.45.19:413][ 84]LogClass: Warning: Short type name "BP_Openable_Cabinet_C_5" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2024.05.12-07.45.19:419][ 84]LogClass: Warning: Short type name "BP_Openable_Cabinet_C_5" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2024.05.12-07.45.21:533][202]Cmd: SELECT NONE
+[2024.05.12-07.45.46:391][679]Cmd: DELETE
+[2024.05.12-07.45.46:391][679]Cmd: ACTOR DELETE
+[2024.05.12-07.45.46:413][679]LogEditorActor: Deleted Actor: BP_Spacesuit_C
+[2024.05.12-07.45.46:464][679]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2024.05.12-07.45.46:469][679]LogEditorActor: Deleted 1 Actors (0.078 secs)
+[2024.05.12-07.46.01:976][579]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FirstPerson/Blueprints/BP_Spacesuit.BP_Spacesuit_C
+[2024.05.12-07.46.01:976][579]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FirstPerson/Blueprints/BP_Spacesuit.BP_Spacesuit_C
+[2024.05.12-07.46.01:986][579]LogActorFactory: Actor Factory spawned Blueprint /Game/FirstPerson/Blueprints/BP_Spacesuit.BP_Spacesuit as actor: BP_Spacesuit_C /Game/FirstPerson/Maps/L_3.L_3:PersistentLevel.BP_Spacesuit_C_0
+[2024.05.12-07.46.01:999][579]LogActorFactory: Actor Factory spawned Blueprint /Game/FirstPerson/Blueprints/BP_Spacesuit.BP_Spacesuit as actor: BP_Spacesuit_C /Game/FirstPerson/Maps/L_3.L_3:PersistentLevel.BP_Spacesuit_C_0
+[2024.05.12-07.46.03:185][625]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FirstPerson/Blueprints/BP_Spacesuit.BP_Spacesuit_C
+[2024.05.12-07.46.03:185][625]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FirstPerson/Blueprints/BP_Spacesuit.BP_Spacesuit_C
+[2024.05.12-07.46.03:192][625]LogActorFactory: Actor Factory spawned Blueprint /Game/FirstPerson/Blueprints/BP_Spacesuit.BP_Spacesuit as actor: BP_Spacesuit_C /Game/FirstPerson/Maps/L_3.L_3:PersistentLevel.BP_Spacesuit_C_2
+[2024.05.12-07.46.03:198][625]LogActorFactory: Actor Factory spawned Blueprint /Game/FirstPerson/Blueprints/BP_Spacesuit.BP_Spacesuit as actor: BP_Spacesuit_C /Game/FirstPerson/Maps/L_3.L_3:PersistentLevel.BP_Spacesuit_C_2
+[2024.05.12-07.46.23:563][738]Cmd: TRANSACTION UNDO
+[2024.05.12-07.46.23:563][738]LogEditorTransaction: Undo Scale Elements
+[2024.05.12-07.46.30:013][ 95]Cmd: DELETE
+[2024.05.12-07.46.30:013][ 95]Cmd: ACTOR DELETE
+[2024.05.12-07.46.30:033][ 95]LogEditorActor: Deleted Actor: BP_Spacesuit_C
+[2024.05.12-07.46.30:103][ 95]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2024.05.12-07.46.30:113][ 95]LogEditorActor: Deleted 1 Actors (0.100 secs)
+[2024.05.12-07.46.44:494][923]LogViewport: Scene viewport resized to 1130x595, mode Windowed.
+[2024.05.12-07.46.54:673][400]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2024.05.12-07.46.54:673][400]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.12-07.46.59:413][585]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2024.05.12-07.46.59:414][585]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.12-07.47.24:134][556]LogSlate: Took 0.007135 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2024.05.12-07.48.01:447][924]LogContentBrowser: Deferred new asset file creation: NewUserDefinedEnum
+[2024.05.12-07.48.01:472][924]LogContentBrowser: Creating deferred item: NewUserDefinedEnum
+[2024.05.12-07.48.01:508][925]LogContentBrowser: Renaming the item being created (Deferred Item: NewUserDefinedEnum).
+[2024.05.12-07.48.11:093][318]LogContentBrowser: Attempting asset rename: NewUserDefinedEnum -> E_SpacesuitParts
+[2024.05.12-07.48.11:100][318]LogContentBrowser: End creating deferred item NewUserDefinedEnum
+[2024.05.12-07.48.13:012][389]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedEnum /Game/FirstPerson/Blueprints/E_DebrisList.E_DebrisList
+[2024.05.12-07.48.19:322][695]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedEnum /Game/FirstPerson/Blueprints/E_SpacesuitParts.E_SpacesuitParts
+[2024.05.12-07.48.45:260][876]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2024.05.12-07.48.45:563][876]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2024.05.12-07.48.45:691][876]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.12-07.48.45:987][876]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2024.05.12-07.48.45:987][876]LogSavePackage: Moving '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/BP_FirstPersonCharacterB10D11AF48999CAFC718C99A281C2A72.tmp' to '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2024.05.12-07.48.45:999][876]LogFileHelpers: InternalPromptForCheckoutAndSave took 307 ms (total: 3:49 min)
+[2024.05.12-07.48.46:009][876]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2024.05.12-07.48.46:009][876]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2024.05.12-07.49.11:198][ 97]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPerson/Blueprints/Doors/BP_DebrisDoor.BP_DebrisDoor
+[2024.05.12-07.49.11:199][ 97]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.12-07.49.41:040][496]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPerson/Blueprints/BP_Debris.BP_Debris
+[2024.05.12-07.49.41:041][496]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.12-07.53.08:443][711]BlueprintLog: New page: Compile BP_Spacesuit
+[2024.05.12-07.53.08:454][711]LogBlueprint: Error: [AssetLog] C:\Users\mikir\OneDrive\Pulpit\Escape-from-0G\Content\FirstPerson\Blueprints\BP_Spacesuit.uasset: [Compiler] The type of  Value  is undetermined.  Connect something to  Add  to imply a specific type.
+[2024.05.12-07.53.08:454][711]LogBlueprint: Error: [AssetLog] C:\Users\mikir\OneDrive\Pulpit\Escape-from-0G\Content\FirstPerson\Blueprints\BP_Spacesuit.uasset: [Compiler] The type of  Variable  is undetermined.  Connect something to  Add  to imply a specific type.
+[2024.05.12-07.53.08:455][711]LogBlueprint: Error: [AssetLog] C:\Users\mikir\OneDrive\Pulpit\Escape-from-0G\Content\FirstPerson\Blueprints\BP_Spacesuit.uasset: [Compiler] The current value (E_SpacesuitParts_MAX) of the ' Target Map ' pin is invalid: Map inputs (like 'Target Map') must have an input wired into them (try connecting a MakeMap node).
+[2024.05.12-07.53.08:589][711]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2024.05.12-07.54.31:393][635]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2024.05.12-07.54.31:506][635]LogClass: Warning: Type mismatch in Spacesuit Parts of BP_FirstPersonCharacter_C - Previous (ByteProperty) Current(ArrayProperty) for package:  FObjectReader
+[2024.05.12-07.54.31:645][635]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2024.05.12-07.54.31:827][635]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.12-07.54.32:059][635]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2024.05.12-07.54.32:060][635]LogSavePackage: Moving '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/BP_FirstPersonCharacterE9A79A0F445A202AACFD0AA7CD37D0C2.tmp' to '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2024.05.12-07.54.32:070][635]LogFileHelpers: InternalPromptForCheckoutAndSave took 243 ms (total: 3:49 min)
+[2024.05.12-07.54.32:080][635]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2024.05.12-07.54.32:080][635]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2024.05.12-07.55.31:268][385]BlueprintLog: New page: Compile BP_Spacesuit
+[2024.05.12-07.55.31:396][385]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2024.05.12-07.55.31:437][385]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.12-07.55.31:593][385]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/BP_Spacesuit" FILE="../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/FirstPerson/Blueprints/BP_Spacesuit.uasset" SILENT=true
+[2024.05.12-07.55.31:604][385]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_Spacesuit
+[2024.05.12-07.55.31:605][385]LogSavePackage: Moving '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/BP_Spacesuit75548BE145434CDF79381C92246AB075.tmp' to '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/FirstPerson/Blueprints/BP_Spacesuit.uasset'
+[2024.05.12-07.55.31:619][385]LogFileHelpers: InternalPromptForCheckoutAndSave took 182 ms (total: 3:49 min)
+[2024.05.12-07.55.31:638][385]AssetCheck: New page: Asset Save: BP_Spacesuit
+[2024.05.12-07.55.31:638][385]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_Spacesuit.BP_Spacesuit
+[2024.05.12-07.55.48:361][111]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedEnum /Game/FirstPerson/Blueprints/E_SpacesuitParts.E_SpacesuitParts
+[2024.05.12-07.56.48:138][358]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.12-07.56.48:297][358]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/E_SpacesuitParts
+[2024.05.12-07.56.48:297][358]LogSavePackage: Moving '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/E_SpacesuitParts970F4D994A85CAE969214E8B06C2CB71.tmp' to '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/FirstPerson/Blueprints/E_SpacesuitParts.uasset'
+[2024.05.12-07.56.48:322][358]LogFileHelpers: InternalPromptForCheckoutAndSave took 183 ms (total: 3:49 min)
+[2024.05.12-07.56.48:337][358]AssetCheck: New page: Asset Save: E_SpacesuitParts
+[2024.05.12-07.56.48:337][358]LogContentValidation: Display: Validating /Script/Engine.UserDefinedEnum /Game/FirstPerson/Blueprints/E_SpacesuitParts.E_SpacesuitParts
+[2024.05.12-07.56.59:303][864]LogWorld: UWorld::CleanupWorld for World_48, bSessionEnded=true, bCleanupResources=true
+[2024.05.12-07.56.59:305][864]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.12-07.56.59:933][887]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.05.12-07.56.59:933][887]LogWorld: UWorld::CleanupWorld for World_49, bSessionEnded=true, bCleanupResources=true
+[2024.05.12-07.56.59:933][887]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.12-07.57.03:486][ 36]Warning: In asset 'None', there is an enum property of type 'E_SpacesuitParts' with an invalid value of '('
+[2024.05.12-07.57.03:486][ 36]Warning: In asset 'None', there is an enum property of type 'E_SpacesuitParts' with an invalid value of '('
+[2024.05.12-07.57.03:486][ 36]Warning: In asset 'None', there is an enum property of type 'E_SpacesuitParts' with an invalid value of '('
+[2024.05.12-07.57.03:486][ 36]Warning: In asset 'None', there is an enum property of type 'E_SpacesuitParts' with an invalid value of '('
+[2024.05.12-07.58.29:318][969]BlueprintLog: New page: Compile BP_Spacesuit
+[2024.05.12-07.58.29:445][969]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2024.05.12-07.58.29:471][969]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.12-07.58.29:636][969]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/BP_Spacesuit" FILE="../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/FirstPerson/Blueprints/BP_Spacesuit.uasset" SILENT=true
+[2024.05.12-07.58.29:651][969]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_Spacesuit
+[2024.05.12-07.58.29:652][969]LogSavePackage: Moving '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/BP_Spacesuit14FD75F744FE40E673730D9459E17E24.tmp' to '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/FirstPerson/Blueprints/BP_Spacesuit.uasset'
+[2024.05.12-07.58.29:692][969]LogFileHelpers: InternalPromptForCheckoutAndSave took 221 ms (total: 3:49 min)
+[2024.05.12-07.58.29:703][969]AssetCheck: New page: Asset Save: BP_Spacesuit
+[2024.05.12-07.58.29:703][969]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_Spacesuit.BP_Spacesuit
+[2024.05.12-07.59.10:640][977]LogContentBrowser: Attempting asset rename: BP_Spacesuit -> BP_Spacesuit_Body
+[2024.05.12-07.59.10:835][977]LogMetaData: Removing '/Game/FirstPerson/Blueprints/BP_Spacesuit_Body.BP_Spacesuit_Body:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/FirstPerson/Blueprints/BP_Spacesuit.PackageMetaData'
+[2024.05.12-07.59.10:835][977]LogMetaData: Removing '/Game/FirstPerson/Blueprints/BP_Spacesuit_Body.BP_Spacesuit_Body_C' ref from Metadata '/Game/FirstPerson/Blueprints/BP_Spacesuit.PackageMetaData'
+[2024.05.12-07.59.10:835][977]LogMetaData: Removing '/Game/FirstPerson/Blueprints/BP_Spacesuit_Body.SKEL_BP_Spacesuit_Body_C' ref from Metadata '/Game/FirstPerson/Blueprints/BP_Spacesuit.PackageMetaData'
+[2024.05.12-07.59.10:835][977]LogMetaData: Removing '/Game/FirstPerson/Blueprints/BP_Spacesuit_Body.SKEL_BP_Spacesuit_Body_C:UserConstructionScript' ref from Metadata '/Game/FirstPerson/Blueprints/BP_Spacesuit.PackageMetaData'
+[2024.05.12-07.59.10:835][977]LogMetaData: Removing '/Game/FirstPerson/Blueprints/BP_Spacesuit_Body.SKEL_BP_Spacesuit_Body_C:BeginInteraction' ref from Metadata '/Game/FirstPerson/Blueprints/BP_Spacesuit.PackageMetaData'
+[2024.05.12-07.59.10:952][977]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.12-07.59.11:118][977]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_Spacesuit_Body
+[2024.05.12-07.59.11:118][977]LogSavePackage: Moving '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/BP_Spacesuit_BodyB40E8EBB4ED4CB8F636E3EA44F6CE292.tmp' to '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/FirstPerson/Blueprints/BP_Spacesuit_Body.uasset'
+[2024.05.12-07.59.11:121][977]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/BP_Spacesuit" FILE="../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/FirstPerson/Blueprints/BP_Spacesuit.uasset" SILENT=true
+[2024.05.12-07.59.11:123][977]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_Spacesuit
+[2024.05.12-07.59.11:126][977]LogSavePackage: Moving '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/BP_Spacesuit8B83364B4AEEC4FC3009A395A4E5708E.tmp' to '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/FirstPerson/Blueprints/BP_Spacesuit.uasset'
+[2024.05.12-07.59.11:151][977]LogFileHelpers: InternalPromptForCheckoutAndSave took 199 ms (total: 3:50 min)
+[2024.05.12-07.59.11:173][977]AssetCheck: New page: Asset Save: multiple assets
+[2024.05.12-07.59.11:173][977]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/FirstPerson/Blueprints/BP_Spacesuit.BP_Spacesuit
+[2024.05.12-07.59.11:173][977]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/FirstPerson/Blueprints/BP_Spacesuit.Default__BP_Spacesuit_C
+[2024.05.12-07.59.11:173][977]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/FirstPerson/Blueprints/BP_Spacesuit.BP_Spacesuit_C
+[2024.05.12-07.59.11:173][977]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_Spacesuit_Body.BP_Spacesuit_Body
+[2024.05.12-07.59.29:846][766]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.05.12-07.59.29:866][766]LogContentBrowser: Creating deferred item: NewFolder
+[2024.05.12-07.59.29:910][767]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.05.12-07.59.34:373][976]LogContentBrowser: Attempting asset rename: NewFolder -> SpaceSuit
+[2024.05.12-07.59.34:378][976]LogContentBrowser: End creating deferred item NewFolder
+[2024.05.12-07.59.39:780][204]LogMetaData: Removing '/Game/FirstPerson/Blueprints/SpaceSuit/BP_Spacesuit_Body.BP_Spacesuit_Body_C' ref from Metadata '/Game/FirstPerson/Blueprints/BP_Spacesuit_Body.PackageMetaData'
+[2024.05.12-07.59.39:780][204]LogMetaData: Removing '/Game/FirstPerson/Blueprints/SpaceSuit/BP_Spacesuit_Body.SKEL_BP_Spacesuit_Body_C' ref from Metadata '/Game/FirstPerson/Blueprints/BP_Spacesuit_Body.PackageMetaData'
+[2024.05.12-07.59.39:780][204]LogMetaData: Removing '/Game/FirstPerson/Blueprints/SpaceSuit/BP_Spacesuit_Body.SKEL_BP_Spacesuit_Body_C:BeginInteraction' ref from Metadata '/Game/FirstPerson/Blueprints/BP_Spacesuit_Body.PackageMetaData'
+[2024.05.12-07.59.39:780][204]LogMetaData: Removing '/Game/FirstPerson/Blueprints/SpaceSuit/BP_Spacesuit_Body.SKEL_BP_Spacesuit_Body_C:UserConstructionScript' ref from Metadata '/Game/FirstPerson/Blueprints/BP_Spacesuit_Body.PackageMetaData'
+[2024.05.12-07.59.39:780][204]LogMetaData: Removing '/Game/FirstPerson/Blueprints/SpaceSuit/BP_Spacesuit_Body.BP_Spacesuit_Body:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/FirstPerson/Blueprints/BP_Spacesuit_Body.PackageMetaData'
+[2024.05.12-07.59.39:825][204]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.12-07.59.39:956][204]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/BP_Spacesuit" FILE="../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/FirstPerson/Blueprints/BP_Spacesuit.uasset" SILENT=true
+[2024.05.12-07.59.39:957][204]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_Spacesuit
+[2024.05.12-07.59.39:958][204]LogSavePackage: Moving '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/BP_Spacesuit1B10F51E49D86AE478F569929F7B5F32.tmp' to '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/FirstPerson/Blueprints/BP_Spacesuit.uasset'
+[2024.05.12-07.59.39:971][204]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/SpaceSuit/BP_Spacesuit_Body
+[2024.05.12-07.59.39:971][204]LogSavePackage: Moving '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/BP_Spacesuit_BodyD8C98DE443204A5940CA268BD49C2541.tmp' to '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/FirstPerson/Blueprints/SpaceSuit/BP_Spacesuit_Body.uasset'
+[2024.05.12-07.59.40:009][204]LogFileHelpers: InternalPromptForCheckoutAndSave took 182 ms (total: 3:50 min)
+[2024.05.12-07.59.40:119][204]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2024.05.12-07.59.40:179][204]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2024.05.12-07.59.40:235][204]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2024.05.12-07.59.40:248][204]LogSlate: Warning: Menu could not be pushed.  A path to the parent widget(SAssetTileItem [SAssetView.cpp(3310)]) could not be found
+[2024.05.12-07.59.40:256][204]AssetCheck: New page: Asset Save: multiple assets
+[2024.05.12-07.59.40:256][204]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/FirstPerson/Blueprints/BP_Spacesuit.BP_Spacesuit
+[2024.05.12-07.59.40:256][204]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/FirstPerson/Blueprints/BP_Spacesuit.Default__BP_Spacesuit_C
+[2024.05.12-07.59.40:256][204]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/FirstPerson/Blueprints/BP_Spacesuit.BP_Spacesuit_C
+[2024.05.12-07.59.40:256][204]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/SpaceSuit/BP_Spacesuit_Body.BP_Spacesuit_Body
+[2024.05.12-07.59.44:001][383]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPerson/Blueprints/BP_Debris.BP_Debris
+[2024.05.12-07.59.44:002][383]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.12-08.00.08:381][506]LogWorld: UWorld::CleanupWorld for World_51, bSessionEnded=true, bCleanupResources=true
+[2024.05.12-08.00.08:382][506]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.12-08.00.15:126][798]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.05.12-08.00.15:127][798]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2024.05.12-08.00.15:127][798]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.12-08.00.38:830][975]LogContentBrowser: Deferred new asset file creation: BP_Spacesuit_Body1
+[2024.05.12-08.00.38:847][975]LogContentBrowser: Creating deferred item: BP_Spacesuit_Body1
+[2024.05.12-08.00.38:877][976]LogContentBrowser: Renaming the item being created (Deferred Item: BP_Spacesuit_Body1).
+[2024.05.12-08.00.44:210][241]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetTileView [SAssetView.cpp(1662)].
+[2024.05.12-08.00.44:210][241]LogContentBrowser: Attempting asset rename: BP_Spacesuit_Body1 -> BP_Spacesuit_Helme
+[2024.05.12-08.00.44:300][241]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2024.05.12-08.00.44:319][241]LogContentBrowser: End creating deferred item BP_Spacesuit_Body1
+[2024.05.12-08.00.44:378][241]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2024.05.12-08.00.44:591][241]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Maps/L_3_Auto4
+[2024.05.12-08.00.44:592][241]LogSavePackage: Moving '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/L_3_Auto4420E3A974AC37685EC654793B1370F5E.tmp' to '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/Autosaves/Game/FirstPerson/Maps/L_3_Auto4.umap'
+[2024.05.12-08.00.44:624][241]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/L_3' took 0.285
+[2024.05.12-08.00.44:624][241]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.285
+[2024.05.12-08.00.44:625][241]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/Blueprints/BP_Debris] ([2] browsable assets)...
+[2024.05.12-08.00.44:650][241]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Blueprints/BP_Debris.BP_Debris]
+[2024.05.12-08.00.44:650][241]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_Debris]
+[2024.05.12-08.00.44:666][241]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Blueprints/BP_Debris_Auto4
+[2024.05.12-08.00.44:666][241]LogSavePackage: Moving '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/BP_Debris_Auto4CE42E64A4DF60E9A376516B9FE023C96.tmp' to '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/Autosaves/Game/FirstPerson/Blueprints/BP_Debris_Auto4.uasset'
+[2024.05.12-08.00.44:669][241]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/Blueprints/SpaceSuit/BP_Spacesuit_Helme] ([2] browsable assets)...
+[2024.05.12-08.00.44:704][241]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Blueprints/SpaceSuit/BP_Spacesuit_Helme.BP_Spacesuit_Helme]
+[2024.05.12-08.00.44:704][241]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/SpaceSuit/BP_Spacesuit_Helme]
+[2024.05.12-08.00.44:716][241]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Blueprints/SpaceSuit/BP_Spacesuit_Helme_Auto4
+[2024.05.12-08.00.44:716][241]LogSavePackage: Moving '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/BP_Spacesuit_Helme_Auto4B708E7EA4929056FD42B5F9FA765F846.tmp' to '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/Autosaves/Game/FirstPerson/Blueprints/SpaceSuit/BP_Spacesuit_Helme_Auto4.uasset'
+[2024.05.12-08.00.44:718][241]LogFileHelpers: Auto-saving content packages took 0.094
+[2024.05.12-08.00.51:170][567]LogContentBrowser: Attempting asset rename: BP_Spacesuit_Helme -> BP_Spacesuit_Helmet
+[2024.05.12-08.00.51:196][567]LogMetaData: Removing '/Game/FirstPerson/Blueprints/SpaceSuit/BP_Spacesuit_Helmet.SKEL_BP_Spacesuit_Helmet_C' ref from Metadata '/Game/FirstPerson/Blueprints/SpaceSuit/BP_Spacesuit_Helme.PackageMetaData'
+[2024.05.12-08.00.51:196][567]LogMetaData: Removing '/Game/FirstPerson/Blueprints/SpaceSuit/BP_Spacesuit_Helmet.BP_Spacesuit_Helmet_C' ref from Metadata '/Game/FirstPerson/Blueprints/SpaceSuit/BP_Spacesuit_Helme.PackageMetaData'
+[2024.05.12-08.00.51:196][567]LogMetaData: Removing '/Game/FirstPerson/Blueprints/SpaceSuit/BP_Spacesuit_Helmet.SKEL_BP_Spacesuit_Helmet_C:BeginInteraction' ref from Metadata '/Game/FirstPerson/Blueprints/SpaceSuit/BP_Spacesuit_Helme.PackageMetaData'
+[2024.05.12-08.00.51:196][567]LogMetaData: Removing '/Game/FirstPerson/Blueprints/SpaceSuit/BP_Spacesuit_Helmet.SKEL_BP_Spacesuit_Helmet_C:UserConstructionScript' ref from Metadata '/Game/FirstPerson/Blueprints/SpaceSuit/BP_Spacesuit_Helme.PackageMetaData'
+[2024.05.12-08.00.51:240][567]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.12-08.00.51:349][567]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/SpaceSuit/BP_Spacesuit_Helmet
+[2024.05.12-08.00.51:349][567]LogSavePackage: Moving '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/BP_Spacesuit_HelmetE8A393D646A50F56346370B6403B5CC5.tmp' to '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/FirstPerson/Blueprints/SpaceSuit/BP_Spacesuit_Helmet.uasset'
+[2024.05.12-08.00.51:366][567]LogFileHelpers: InternalPromptForCheckoutAndSave took 125 ms (total: 3:50 min)
+[2024.05.12-08.00.51:453][567]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2024.05.12-08.00.51:496][567]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2024.05.12-08.00.51:549][567]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.05.12-08.00.51:560][567]AssetCheck: New page: Asset Save: BP_Spacesuit_Helmet
+[2024.05.12-08.00.51:560][567]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/SpaceSuit/BP_Spacesuit_Helmet.BP_Spacesuit_Helmet
+[2024.05.12-08.00.54:599][717]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPerson/Blueprints/SpaceSuit/BP_Spacesuit_Helmet.BP_Spacesuit_Helmet
+[2024.05.12-08.00.54:600][717]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.12-08.00.58:087][830]LogViewport: Scene viewport resized to 1130x595, mode Windowed.
+[2024.05.12-08.01.54:066][765]LogShaderCompilers: Display: ================================================
+[2024.05.12-08.01.54:066][765]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.05.12-08.01.54:066][765]LogShaderCompilers: Display: Total job queries 2281, among them cache hits 269 (11.79%)
+[2024.05.12-08.01.54:066][765]LogShaderCompilers: Display: Tracking 2012 distinct input hashes that result in 222 distinct outputs (11.03%)
+[2024.05.12-08.01.54:066][765]LogShaderCompilers: Display: RAM used: 14.05 MB (0.01 GB) of 819.20 MB (0.80 GB) budget. Usage: 1.71%
+[2024.05.12-08.01.54:066][765]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.05.12-08.01.54:066][765]LogShaderCompilers: Display: Shaders Compiled: 1575
+[2024.05.12-08.01.54:066][765]LogShaderCompilers: Display: Jobs assigned 1575, completed 1575 (100.00%)
+[2024.05.12-08.01.54:066][765]LogShaderCompilers: Display: Average time worker was idle: 21.52 s
+[2024.05.12-08.01.54:066][765]LogShaderCompilers: Display: Time job spent in pending queue: average 3.02 s, longest 37.24 s
+[2024.05.12-08.01.54:066][765]LogShaderCompilers: Display: Job execution time: average 1.44 s, max 17.64 s
+[2024.05.12-08.01.54:066][765]LogShaderCompilers: Display: Job life time (pending + execution): average 4.46 s, max 38.75
+[2024.05.12-08.01.54:066][765]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 343.30 s
+[2024.05.12-08.01.54:066][765]LogShaderCompilers: Display: Jobs were issued in 1575 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.05.12-08.01.54:066][765]LogShaderCompilers: Display: Average processing rate: 4.59 jobs/sec
+[2024.05.12-08.01.54:066][765]LogShaderCompilers: Display: Total thread time: 1809.29 s
+[2024.05.12-08.01.54:066][765]LogShaderCompilers: Display: Total thread preprocess time: 115.86 s
+[2024.05.12-08.01.54:066][765]LogShaderCompilers: Display: Percentage time preprocessing: 6.40%
+[2024.05.12-08.01.54:066][765]LogShaderCompilers: Display: Effective parallelization: 5.27 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.05.12-08.01.54:066][765]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.05.12-08.01.54:066][765]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled  105 times, average 2.04 sec, max 16.43 sec, min 0.98 sec)
+[2024.05.12-08.01.54:066][765]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled  105 times, average 1.93 sec, max 6.62 sec, min 1.05 sec)
+[2024.05.12-08.01.54:066][765]LogShaderCompilers: Display:                  TShadowDepthVSVertexShadowDepth_OutputDepth (compiled    2 times, average 1.63 sec, max 1.68 sec, min 1.58 sec)
+[2024.05.12-08.01.54:066][765]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled  101 times, average 1.60 sec, max 8.15 sec, min 0.86 sec)
+[2024.05.12-08.01.54:066][765]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled  101 times, average 1.18 sec, max 10.48 sec, min 0.48 sec)
+[2024.05.12-08.01.54:066][765]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.05.12-08.01.54:066][765]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 11.83% of total time (compiled  105 times, average 2.04 sec, max 16.43 sec, min 0.98 sec)
+[2024.05.12-08.01.54:066][765]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 11.21% of total time (compiled  105 times, average 1.93 sec, max 6.62 sec, min 1.05 sec)
+[2024.05.12-08.01.54:066][765]LogShaderCompilers: Display:                                                 FLumenCardVS - 8.95% of total time (compiled  101 times, average 1.60 sec, max 8.15 sec, min 0.86 sec)
+[2024.05.12-08.01.54:066][765]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 6.61% of total time (compiled  101 times, average 1.18 sec, max 10.48 sec, min 0.48 sec)
+[2024.05.12-08.01.54:066][765]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight - 6.07% of total time (compiled   96 times, average 1.14 sec, max 1.55 sec, min 0.97 sec)
+[2024.05.12-08.01.54:066][765]LogShaderCompilers: Display: ================================================
+[2024.05.12-08.02.06:626][214]BlueprintLog: New page: Compile BP_Spacesuit_Helmet
+[2024.05.12-08.02.06:767][214]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2024.05.12-08.02.06:792][214]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.12-08.02.06:965][214]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/SpaceSuit/BP_Spacesuit_Helmet
+[2024.05.12-08.02.06:966][214]LogSavePackage: Moving '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/BP_Spacesuit_Helmet7AE12962400708402CE8DC833E2488DA.tmp' to '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/FirstPerson/Blueprints/SpaceSuit/BP_Spacesuit_Helmet.uasset'
+[2024.05.12-08.02.06:999][214]LogFileHelpers: InternalPromptForCheckoutAndSave took 207 ms (total: 3:50 min)
+[2024.05.12-08.02.07:013][214]AssetCheck: New page: Asset Save: BP_Spacesuit_Helmet
+[2024.05.12-08.02.07:013][214]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/SpaceSuit/BP_Spacesuit_Helmet.BP_Spacesuit_Helmet
+[2024.05.12-08.02.22:382][860]LogContentBrowser: Deferred new asset file creation: BP_Spacesuit_Helmet1
+[2024.05.12-08.02.22:398][860]LogContentBrowser: Creating deferred item: BP_Spacesuit_Helmet1
+[2024.05.12-08.02.22:431][861]LogContentBrowser: Renaming the item being created (Deferred Item: BP_Spacesuit_Helmet1).
+[2024.05.12-08.02.30:764][238]LogContentBrowser: Attempting asset rename: BP_Spacesuit_Helmet1 -> BP_Spacesuit_Right_Leg
+[2024.05.12-08.02.30:846][238]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2024.05.12-08.02.30:870][238]LogContentBrowser: End creating deferred item BP_Spacesuit_Helmet1
+[2024.05.12-08.02.35:419][436]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPerson/Blueprints/SpaceSuit/BP_Spacesuit_Right_Leg.BP_Spacesuit_Right_Leg
+[2024.05.12-08.02.35:422][436]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.12-08.02.37:505][496]LogViewport: Scene viewport resized to 1130x595, mode Windowed.
+[2024.05.12-08.03.24:662][289]BlueprintLog: New page: Compile BP_Spacesuit_Right_Leg
+[2024.05.12-08.03.24:768][289]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2024.05.12-08.03.24:783][289]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.12-08.03.24:946][289]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/SpaceSuit/BP_Spacesuit_Right_Leg
+[2024.05.12-08.03.24:946][289]LogSavePackage: Moving '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/BP_Spacesuit_Right_LegA966E92A4B3B84A69089F1957844EB24.tmp' to '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/FirstPerson/Blueprints/SpaceSuit/BP_Spacesuit_Right_Leg.uasset'
+[2024.05.12-08.03.24:967][289]LogFileHelpers: InternalPromptForCheckoutAndSave took 183 ms (total: 3:50 min)
+[2024.05.12-08.03.24:981][289]AssetCheck: New page: Asset Save: BP_Spacesuit_Right_Leg
+[2024.05.12-08.03.24:981][289]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/SpaceSuit/BP_Spacesuit_Right_Leg.BP_Spacesuit_Right_Leg
+[2024.05.12-08.03.42:308][ 26]LogContentBrowser: Deferred new asset file creation: BP_Spacesuit_Right_Leg1
+[2024.05.12-08.03.42:325][ 26]LogContentBrowser: Creating deferred item: BP_Spacesuit_Right_Leg1
+[2024.05.12-08.03.42:356][ 27]LogContentBrowser: Renaming the item being created (Deferred Item: BP_Spacesuit_Right_Leg1).
+[2024.05.12-08.03.51:710][457]LogContentBrowser: Attempting asset rename: BP_Spacesuit_Right_Leg1 -> BP_Spacesuit_Left_Leg
+[2024.05.12-08.03.51:792][457]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2024.05.12-08.03.51:813][457]LogContentBrowser: End creating deferred item BP_Spacesuit_Right_Leg1
+[2024.05.12-08.03.53:510][527]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPerson/Blueprints/SpaceSuit/BP_Spacesuit_Left_Leg.BP_Spacesuit_Left_Leg
+[2024.05.12-08.03.53:512][527]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.12-08.03.55:789][601]LogViewport: Scene viewport resized to 1130x595, mode Windowed.
+[2024.05.12-08.04.10:933][193]BlueprintLog: New page: Compile BP_Spacesuit_Left_Leg
+[2024.05.12-08.04.11:048][193]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2024.05.12-08.04.11:064][193]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.12-08.04.11:239][193]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/SpaceSuit/BP_Spacesuit_Left_Leg
+[2024.05.12-08.04.11:239][193]LogSavePackage: Moving '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/BP_Spacesuit_Left_Leg89E59B8248A0C6847AC8918E7E890083.tmp' to '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/FirstPerson/Blueprints/SpaceSuit/BP_Spacesuit_Left_Leg.uasset'
+[2024.05.12-08.04.11:273][193]LogFileHelpers: InternalPromptForCheckoutAndSave took 208 ms (total: 3:51 min)
+[2024.05.12-08.04.11:285][193]AssetCheck: New page: Asset Save: BP_Spacesuit_Left_Leg
+[2024.05.12-08.04.11:285][193]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/SpaceSuit/BP_Spacesuit_Left_Leg.BP_Spacesuit_Left_Leg
+[2024.05.12-08.04.19:820][561]LogContentBrowser: Deferred new asset file creation: BP_Spacesuit_Left_Leg1
+[2024.05.12-08.04.19:837][561]LogContentBrowser: Creating deferred item: BP_Spacesuit_Left_Leg1
+[2024.05.12-08.04.19:872][562]LogContentBrowser: Renaming the item being created (Deferred Item: BP_Spacesuit_Left_Leg1).
+[2024.05.12-08.04.26:604][869]LogContentBrowser: Attempting asset rename: BP_Spacesuit_Left_Leg1 -> BP_Spacesuit_Left_Hand
+[2024.05.12-08.04.26:692][869]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2024.05.12-08.04.26:710][869]LogContentBrowser: End creating deferred item BP_Spacesuit_Left_Leg1
+[2024.05.12-08.04.28:208][928]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPerson/Blueprints/SpaceSuit/BP_Spacesuit_Left_Hand.BP_Spacesuit_Left_Hand
+[2024.05.12-08.04.28:210][928]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.12-08.04.30:133][987]LogViewport: Scene viewport resized to 1130x595, mode Windowed.
+[2024.05.12-08.04.58:202][108]BlueprintLog: New page: Compile BP_Spacesuit_Left_Hand
+[2024.05.12-08.04.58:323][108]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2024.05.12-08.04.58:344][108]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.12-08.04.58:495][108]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/SpaceSuit/BP_Spacesuit_Left_Hand
+[2024.05.12-08.04.58:495][108]LogSavePackage: Moving '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/BP_Spacesuit_Left_Hand3AF22D524140842E767536A67B12E988.tmp' to '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/FirstPerson/Blueprints/SpaceSuit/BP_Spacesuit_Left_Hand.uasset'
+[2024.05.12-08.04.58:508][108]LogFileHelpers: InternalPromptForCheckoutAndSave took 164 ms (total: 3:51 min)
+[2024.05.12-08.04.58:518][108]AssetCheck: New page: Asset Save: BP_Spacesuit_Left_Hand
+[2024.05.12-08.04.58:519][108]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/SpaceSuit/BP_Spacesuit_Left_Hand.BP_Spacesuit_Left_Hand
+[2024.05.12-08.05.01:155][207]LogContentBrowser: Deferred new asset file creation: BP_Spacesuit_Left_Hand1
+[2024.05.12-08.05.01:176][207]LogContentBrowser: Creating deferred item: BP_Spacesuit_Left_Hand1
+[2024.05.12-08.05.01:211][208]LogContentBrowser: Renaming the item being created (Deferred Item: BP_Spacesuit_Left_Hand1).
+[2024.05.12-08.05.08:223][508]LogContentBrowser: Attempting asset rename: BP_Spacesuit_Left_Hand1 -> BP_Spacesuit_Right_Hand
+[2024.05.12-08.05.08:321][508]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2024.05.12-08.05.08:339][508]LogContentBrowser: End creating deferred item BP_Spacesuit_Left_Hand1
+[2024.05.12-08.05.09:948][566]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPerson/Blueprints/SpaceSuit/BP_Spacesuit_Right_Hand.BP_Spacesuit_Right_Hand
+[2024.05.12-08.05.09:950][566]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.12-08.05.13:493][691]LogViewport: Scene viewport resized to 1130x595, mode Windowed.
+[2024.05.12-08.05.33:365][468]BlueprintLog: New page: Compile BP_Spacesuit_Right_Hand
+[2024.05.12-08.05.33:492][468]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2024.05.12-08.05.33:507][468]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.12-08.05.33:691][468]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/SpaceSuit/BP_Spacesuit_Right_Hand
+[2024.05.12-08.05.33:691][468]LogSavePackage: Moving '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/BP_Spacesuit_Right_Hand9E445CA1490A997DBF9ADF82ADBD2582.tmp' to '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/FirstPerson/Blueprints/SpaceSuit/BP_Spacesuit_Right_Hand.uasset'
+[2024.05.12-08.05.33:706][468]LogFileHelpers: InternalPromptForCheckoutAndSave took 199 ms (total: 3:51 min)
+[2024.05.12-08.05.33:716][468]AssetCheck: New page: Asset Save: BP_Spacesuit_Right_Hand
+[2024.05.12-08.05.33:717][468]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/SpaceSuit/BP_Spacesuit_Right_Hand.BP_Spacesuit_Right_Hand
+[2024.05.12-08.05.36:485][577]LogSlate: Window 'BP_Spacesuit_Right_Hand' being destroyed
+[2024.05.12-08.05.36:529][577]LogSlate: Window 'BP_Spacesuit_Right_Hand' being destroyed
+[2024.05.12-08.05.36:544][577]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2024.05.12-08.05.36:544][577]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.12-08.05.36:706][577]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.05.12-08.05.36:706][577]LogWorld: UWorld::CleanupWorld for World_54, bSessionEnded=true, bCleanupResources=true
+[2024.05.12-08.05.36:706][577]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.12-08.05.36:775][577]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.05.12-08.05.36:775][577]LogWorld: UWorld::CleanupWorld for World_56, bSessionEnded=true, bCleanupResources=true
+[2024.05.12-08.05.36:775][577]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.12-08.05.36:843][577]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.05.12-08.05.36:843][577]LogWorld: UWorld::CleanupWorld for World_58, bSessionEnded=true, bCleanupResources=true
+[2024.05.12-08.05.36:843][577]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.12-08.05.36:909][577]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.05.12-08.05.36:910][577]LogWorld: UWorld::CleanupWorld for World_60, bSessionEnded=true, bCleanupResources=true
+[2024.05.12-08.05.36:910][577]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.12-08.05.36:972][577]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.05.12-08.05.36:972][577]LogWorld: UWorld::CleanupWorld for World_62, bSessionEnded=true, bCleanupResources=true
+[2024.05.12-08.05.36:972][577]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.12-08.05.40:296][757]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FirstPerson/Blueprints/SpaceSuit/BP_Spacesuit_Body.BP_Spacesuit_Body_C
+[2024.05.12-08.05.40:296][757]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FirstPerson/Blueprints/SpaceSuit/BP_Spacesuit_Body.BP_Spacesuit_Body_C
+[2024.05.12-08.05.40:298][757]LogActorFactory: Actor Factory spawned Blueprint /Game/FirstPerson/Blueprints/SpaceSuit/BP_Spacesuit_Body.BP_Spacesuit_Body as actor: BP_Spacesuit_Body_C /Game/FirstPerson/Maps/L_3.L_3:PersistentLevel.BP_Spacesuit_Body_C_3
+[2024.05.12-08.05.40:299][757]LogActorFactory: Actor Factory spawned Blueprint /Game/FirstPerson/Blueprints/SpaceSuit/BP_Spacesuit_Body.BP_Spacesuit_Body as actor: BP_Spacesuit_Body_C /Game/FirstPerson/Maps/L_3.L_3:PersistentLevel.BP_Spacesuit_Body_C_3
+[2024.05.12-08.05.41:402][811]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FirstPerson/Blueprints/SpaceSuit/BP_Spacesuit_Body.BP_Spacesuit_Body_C
+[2024.05.12-08.05.41:402][811]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FirstPerson/Blueprints/SpaceSuit/BP_Spacesuit_Body.BP_Spacesuit_Body_C
+[2024.05.12-08.05.41:408][811]LogActorFactory: Actor Factory spawned Blueprint /Game/FirstPerson/Blueprints/SpaceSuit/BP_Spacesuit_Body.BP_Spacesuit_Body as actor: BP_Spacesuit_Body_C /Game/FirstPerson/Maps/L_3.L_3:PersistentLevel.BP_Spacesuit_Body_C_4
+[2024.05.12-08.05.41:409][811]LogActorFactory: Actor Factory spawned Blueprint /Game/FirstPerson/Blueprints/SpaceSuit/BP_Spacesuit_Body.BP_Spacesuit_Body as actor: BP_Spacesuit_Body_C /Game/FirstPerson/Maps/L_3.L_3:PersistentLevel.BP_Spacesuit_Body_C_4
+[2024.05.12-08.06.07:882][327]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FirstPerson/Blueprints/SpaceSuit/BP_Spacesuit_Helmet.BP_Spacesuit_Helmet_C
+[2024.05.12-08.06.07:882][327]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FirstPerson/Blueprints/SpaceSuit/BP_Spacesuit_Helmet.BP_Spacesuit_Helmet_C
+[2024.05.12-08.06.07:886][327]LogActorFactory: Actor Factory spawned Blueprint /Game/FirstPerson/Blueprints/SpaceSuit/BP_Spacesuit_Helmet.BP_Spacesuit_Helmet as actor: BP_Spacesuit_Helmet_C /Game/FirstPerson/Maps/L_3.L_3:PersistentLevel.BP_Spacesuit_Helmet_C_0
+[2024.05.12-08.06.07:890][327]LogActorFactory: Actor Factory spawned Blueprint /Game/FirstPerson/Blueprints/SpaceSuit/BP_Spacesuit_Helmet.BP_Spacesuit_Helmet as actor: BP_Spacesuit_Helmet_C /Game/FirstPerson/Maps/L_3.L_3:PersistentLevel.BP_Spacesuit_Helmet_C_0
+[2024.05.12-08.06.09:240][373]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FirstPerson/Blueprints/SpaceSuit/BP_Spacesuit_Helmet.BP_Spacesuit_Helmet_C
+[2024.05.12-08.06.09:241][373]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FirstPerson/Blueprints/SpaceSuit/BP_Spacesuit_Helmet.BP_Spacesuit_Helmet_C
+[2024.05.12-08.06.09:246][373]LogActorFactory: Actor Factory spawned Blueprint /Game/FirstPerson/Blueprints/SpaceSuit/BP_Spacesuit_Helmet.BP_Spacesuit_Helmet as actor: BP_Spacesuit_Helmet_C /Game/FirstPerson/Maps/L_3.L_3:PersistentLevel.BP_Spacesuit_Helmet_C_1
+[2024.05.12-08.06.09:251][373]LogActorFactory: Actor Factory spawned Blueprint /Game/FirstPerson/Blueprints/SpaceSuit/BP_Spacesuit_Helmet.BP_Spacesuit_Helmet as actor: BP_Spacesuit_Helmet_C /Game/FirstPerson/Maps/L_3.L_3:PersistentLevel.BP_Spacesuit_Helmet_C_1
+[2024.05.12-08.07.00:191][188]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FirstPerson/Blueprints/SpaceSuit/BP_Spacesuit_Left_Leg.BP_Spacesuit_Left_Leg_C
+[2024.05.12-08.07.00:191][188]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FirstPerson/Blueprints/SpaceSuit/BP_Spacesuit_Left_Leg.BP_Spacesuit_Left_Leg_C
+[2024.05.12-08.07.00:194][188]LogActorFactory: Actor Factory spawned Blueprint /Game/FirstPerson/Blueprints/SpaceSuit/BP_Spacesuit_Left_Leg.BP_Spacesuit_Left_Leg as actor: BP_Spacesuit_Left_Leg_C /Game/FirstPerson/Maps/L_3.L_3:PersistentLevel.BP_Spacesuit_Left_Leg_C_0
+[2024.05.12-08.07.00:196][188]LogActorFactory: Actor Factory spawned Blueprint /Game/FirstPerson/Blueprints/SpaceSuit/BP_Spacesuit_Left_Leg.BP_Spacesuit_Left_Leg as actor: BP_Spacesuit_Left_Leg_C /Game/FirstPerson/Maps/L_3.L_3:PersistentLevel.BP_Spacesuit_Left_Leg_C_0
+[2024.05.12-08.07.01:929][261]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FirstPerson/Blueprints/SpaceSuit/BP_Spacesuit_Left_Leg.BP_Spacesuit_Left_Leg_C
+[2024.05.12-08.07.01:930][261]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FirstPerson/Blueprints/SpaceSuit/BP_Spacesuit_Left_Leg.BP_Spacesuit_Left_Leg_C
+[2024.05.12-08.07.01:933][261]LogActorFactory: Actor Factory spawned Blueprint /Game/FirstPerson/Blueprints/SpaceSuit/BP_Spacesuit_Left_Leg.BP_Spacesuit_Left_Leg as actor: BP_Spacesuit_Left_Leg_C /Game/FirstPerson/Maps/L_3.L_3:PersistentLevel.BP_Spacesuit_Left_Leg_C_1
+[2024.05.12-08.07.01:937][261]LogActorFactory: Actor Factory spawned Blueprint /Game/FirstPerson/Blueprints/SpaceSuit/BP_Spacesuit_Left_Leg.BP_Spacesuit_Left_Leg as actor: BP_Spacesuit_Left_Leg_C /Game/FirstPerson/Maps/L_3.L_3:PersistentLevel.BP_Spacesuit_Left_Leg_C_1
+[2024.05.12-08.07.19:406][216]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FirstPerson/Blueprints/SpaceSuit/BP_Spacesuit_Right_Leg.BP_Spacesuit_Right_Leg_C
+[2024.05.12-08.07.19:406][216]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FirstPerson/Blueprints/SpaceSuit/BP_Spacesuit_Right_Leg.BP_Spacesuit_Right_Leg_C
+[2024.05.12-08.07.19:411][216]LogActorFactory: Actor Factory spawned Blueprint /Game/FirstPerson/Blueprints/SpaceSuit/BP_Spacesuit_Right_Leg.BP_Spacesuit_Right_Leg as actor: BP_Spacesuit_Right_Leg_C /Game/FirstPerson/Maps/L_3.L_3:PersistentLevel.BP_Spacesuit_Right_Leg_C_0
+[2024.05.12-08.07.19:414][216]LogActorFactory: Actor Factory spawned Blueprint /Game/FirstPerson/Blueprints/SpaceSuit/BP_Spacesuit_Right_Leg.BP_Spacesuit_Right_Leg as actor: BP_Spacesuit_Right_Leg_C /Game/FirstPerson/Maps/L_3.L_3:PersistentLevel.BP_Spacesuit_Right_Leg_C_0
+[2024.05.12-08.07.20:893][280]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FirstPerson/Blueprints/SpaceSuit/BP_Spacesuit_Right_Leg.BP_Spacesuit_Right_Leg_C
+[2024.05.12-08.07.20:893][280]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FirstPerson/Blueprints/SpaceSuit/BP_Spacesuit_Right_Leg.BP_Spacesuit_Right_Leg_C
+[2024.05.12-08.07.20:898][280]LogActorFactory: Actor Factory spawned Blueprint /Game/FirstPerson/Blueprints/SpaceSuit/BP_Spacesuit_Right_Leg.BP_Spacesuit_Right_Leg as actor: BP_Spacesuit_Right_Leg_C /Game/FirstPerson/Maps/L_3.L_3:PersistentLevel.BP_Spacesuit_Right_Leg_C_1
+[2024.05.12-08.07.20:899][280]LogActorFactory: Actor Factory spawned Blueprint /Game/FirstPerson/Blueprints/SpaceSuit/BP_Spacesuit_Right_Leg.BP_Spacesuit_Right_Leg as actor: BP_Spacesuit_Right_Leg_C /Game/FirstPerson/Maps/L_3.L_3:PersistentLevel.BP_Spacesuit_Right_Leg_C_1
+[2024.05.12-08.07.37:711][220]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FirstPerson/Blueprints/SpaceSuit/BP_Spacesuit_Right_Hand.BP_Spacesuit_Right_Hand_C
+[2024.05.12-08.07.37:711][220]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FirstPerson/Blueprints/SpaceSuit/BP_Spacesuit_Right_Hand.BP_Spacesuit_Right_Hand_C
+[2024.05.12-08.07.37:714][220]LogActorFactory: Actor Factory spawned Blueprint /Game/FirstPerson/Blueprints/SpaceSuit/BP_Spacesuit_Right_Hand.BP_Spacesuit_Right_Hand as actor: BP_Spacesuit_Right_Hand_C /Game/FirstPerson/Maps/L_3.L_3:PersistentLevel.BP_Spacesuit_Right_Hand_C_0
+[2024.05.12-08.07.37:715][220]LogActorFactory: Actor Factory spawned Blueprint /Game/FirstPerson/Blueprints/SpaceSuit/BP_Spacesuit_Right_Hand.BP_Spacesuit_Right_Hand as actor: BP_Spacesuit_Right_Hand_C /Game/FirstPerson/Maps/L_3.L_3:PersistentLevel.BP_Spacesuit_Right_Hand_C_0
+[2024.05.12-08.07.38:602][263]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FirstPerson/Blueprints/SpaceSuit/BP_Spacesuit_Right_Hand.BP_Spacesuit_Right_Hand_C
+[2024.05.12-08.07.38:602][263]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FirstPerson/Blueprints/SpaceSuit/BP_Spacesuit_Right_Hand.BP_Spacesuit_Right_Hand_C
+[2024.05.12-08.07.38:607][263]LogActorFactory: Actor Factory spawned Blueprint /Game/FirstPerson/Blueprints/SpaceSuit/BP_Spacesuit_Right_Hand.BP_Spacesuit_Right_Hand as actor: BP_Spacesuit_Right_Hand_C /Game/FirstPerson/Maps/L_3.L_3:PersistentLevel.BP_Spacesuit_Right_Hand_C_1
+[2024.05.12-08.07.38:609][263]LogActorFactory: Actor Factory spawned Blueprint /Game/FirstPerson/Blueprints/SpaceSuit/BP_Spacesuit_Right_Hand.BP_Spacesuit_Right_Hand as actor: BP_Spacesuit_Right_Hand_C /Game/FirstPerson/Maps/L_3.L_3:PersistentLevel.BP_Spacesuit_Right_Hand_C_1
+[2024.05.12-08.07.57:388][276]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FirstPerson/Blueprints/SpaceSuit/BP_Spacesuit_Left_Hand.BP_Spacesuit_Left_Hand_C
+[2024.05.12-08.07.57:388][276]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FirstPerson/Blueprints/SpaceSuit/BP_Spacesuit_Left_Hand.BP_Spacesuit_Left_Hand_C
+[2024.05.12-08.07.57:391][276]LogActorFactory: Actor Factory spawned Blueprint /Game/FirstPerson/Blueprints/SpaceSuit/BP_Spacesuit_Left_Hand.BP_Spacesuit_Left_Hand as actor: BP_Spacesuit_Left_Hand_C /Game/FirstPerson/Maps/L_3.L_3:PersistentLevel.BP_Spacesuit_Left_Hand_C_0
+[2024.05.12-08.07.57:394][276]LogActorFactory: Actor Factory spawned Blueprint /Game/FirstPerson/Blueprints/SpaceSuit/BP_Spacesuit_Left_Hand.BP_Spacesuit_Left_Hand as actor: BP_Spacesuit_Left_Hand_C /Game/FirstPerson/Maps/L_3.L_3:PersistentLevel.BP_Spacesuit_Left_Hand_C_0
+[2024.05.12-08.07.58:284][310]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FirstPerson/Blueprints/SpaceSuit/BP_Spacesuit_Left_Hand.BP_Spacesuit_Left_Hand_C
+[2024.05.12-08.07.58:284][310]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FirstPerson/Blueprints/SpaceSuit/BP_Spacesuit_Left_Hand.BP_Spacesuit_Left_Hand_C
+[2024.05.12-08.07.58:287][310]LogActorFactory: Actor Factory spawned Blueprint /Game/FirstPerson/Blueprints/SpaceSuit/BP_Spacesuit_Left_Hand.BP_Spacesuit_Left_Hand as actor: BP_Spacesuit_Left_Hand_C /Game/FirstPerson/Maps/L_3.L_3:PersistentLevel.BP_Spacesuit_Left_Hand_C_1
+[2024.05.12-08.07.58:289][310]LogActorFactory: Actor Factory spawned Blueprint /Game/FirstPerson/Blueprints/SpaceSuit/BP_Spacesuit_Left_Hand.BP_Spacesuit_Left_Hand as actor: BP_Spacesuit_Left_Hand_C /Game/FirstPerson/Maps/L_3.L_3:PersistentLevel.BP_Spacesuit_Left_Hand_C_1
+[2024.05.12-08.08.22:962][676]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.05.12-08.08.23:454][703]LogDerivedDataCache: C:/Users/mikir/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:15.299 and deleted 0 files with total size 0 MiB. Scanned 7831 files in 7723 folders with total size 1306 MiB.
+[2024.05.12-08.08.24:271][746]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.05.12-08.08.24:297][746]BlueprintLog: Warning: Blueprint failed to compile:  UW_PinPad
+[2024.05.12-08.08.24:298][746]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.05.12-08.08.24:300][746]LogPlayLevel: [PlayLevel] Compiling BP_Debris before play...
+[2024.05.12-08.08.24:346][746]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.12-08.08.24:510][746]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/BP_Debris" FILE="../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/FirstPerson/Blueprints/BP_Debris.uasset" SILENT=true
+[2024.05.12-08.08.24:522][746]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_Debris
+[2024.05.12-08.08.24:523][746]LogSavePackage: Moving '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/BP_Debris4CD32E6E4E82D4DBB021E6B922F4AEAE.tmp' to '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/FirstPerson/Blueprints/BP_Debris.uasset'
+[2024.05.12-08.08.24:535][746]LogFileHelpers: InternalPromptForCheckoutAndSave took 189 ms (total: 3:51 min)
+[2024.05.12-08.08.24:536][746]LogPlayLevel: [PlayLevel] Compiling PROTO_BP_AnimBlueprint_0 before play...
+[2024.05.12-08.08.24:548][746]LogPlayLevel: [PlayLevel] Compiling L_2_Auto1 before play...
+[2024.05.12-08.08.24:639][746]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.12-08.08.26:478][746]LogSlate: Window 'Save Level As' being destroyed
+[2024.05.12-08.08.26:551][746]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.91 sec (total: 3:53 min)
+[2024.05.12-08.08.26:552][746]LogPlayLevel: [PlayLevel] Compiling L_3 before play...
+[2024.05.12-08.08.26:663][746]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.12-08.08.26:806][746]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Maps/L_3" FILE="../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/FirstPerson/Maps/L_3.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.05.12-08.08.26:870][746]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2024.05.12-08.08.27:119][746]LogSavePackage: Moving output files for package: /Game/FirstPerson/Maps/L_3
+[2024.05.12-08.08.27:120][746]LogSavePackage: Moving '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/L_3A5861AB947A19855D95E148FEC99050B.tmp' to '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/FirstPerson/Maps/L_3.umap'
+[2024.05.12-08.08.27:156][746]LogFileHelpers: Saving map 'L_3' took 0.353
+[2024.05.12-08.08.27:178][746]LogFileHelpers: InternalPromptForCheckoutAndSave took 514 ms (total: 3:54 min)
+[2024.05.12-08.08.27:179][746]LogPlayLevel: [PlayLevel] Compiling L_3_Auto2 before play...
+[2024.05.12-08.08.27:288][746]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.12-08.08.28:874][746]LogSlate: Window 'Save Level As' being destroyed
+[2024.05.12-08.08.28:945][746]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.65 sec (total: 3:55 min)
+[2024.05.12-08.08.28:946][746]LogPlayLevel: [PlayLevel] Compiling L_3_Auto3 before play...
+[2024.05.12-08.08.29:063][746]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.12-08.08.30:782][746]LogSlate: Window 'Save Level As' being destroyed
+[2024.05.12-08.08.30:850][746]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.78 sec (total: 3:57 min)
+[2024.05.12-08.08.30:922][746]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2024.05.12-08.08.30:926][746]LogPlayLevel: PlayLevel: Blueprint regeneration took 6628 ms (6 blueprints)
+[2024.05.12-08.08.32:882][746]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2024.05.12-08.08.32:988][747]AssetCheck: New page: Asset Save: multiple assets
+[2024.05.12-08.08.32:988][747]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_Debris.BP_Debris
+[2024.05.12-08.08.32:988][747]LogContentValidation: Display: Validating /Script/Engine.World /Game/FirstPerson/Maps/L_3.L_3
+[2024.05.12-08.08.35:118][845]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2024.05.12-08.08.39:066][845]LogSlate: Window 'Save Content' being destroyed
+[2024.05.12-08.08.40:995][939]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.05.12-08.08.41:009][939]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.12-08.08.41:009][939]BlueprintLog: Warning: Blueprint failed to compile:  UW_PinPad
+[2024.05.12-08.08.42:410][939]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/UW_PinPad.UW_PinPad
+[2024.05.12-08.08.42:412][939]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.12-08.08.42:423][939]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.12-08.08.42:437][939]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+Space Bar]
+[2024.05.12-08.08.43:023][939]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2024.05.12-08.08.43:024][939]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2024.05.12-08.08.43:078][939]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2024.05.12-08.08.43:502][939]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find SlateColor 'Foreground'.'
+[2024.05.12-08.08.43:517][939]LogSlate: Took 0.011761 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2024.05.12-08.08.58:759][753]BlueprintLog: New page: Compile UW_PinPad
+[2024.05.12-08.08.58:773][753]LogBlueprint: Warning: [AssetLog] C:\Users\mikir\OneDrive\Pulpit\Escape-from-0G\Content\UI\UW_PinPad.uasset: [Compiler] Could not find a variable named "T_Input" in 'UW_PinPad_C'.
+Make sure 'UW_PinPad_C' has been compiled for  Get T_Input
+[2024.05.12-08.08.58:773][753]LogBlueprint: Warning: [AssetLog] C:\Users\mikir\OneDrive\Pulpit\Escape-from-0G\Content\UI\UW_PinPad.uasset: [Compiler] Could not find a variable named "T_Input" in 'UW_PinPad_C'.
+Make sure 'UW_PinPad_C' has been compiled for  Get T_Input
+[2024.05.12-08.08.58:774][753]LogBlueprint: Warning: [AssetLog] C:\Users\mikir\OneDrive\Pulpit\Escape-from-0G\Content\UI\UW_PinPad.uasset: [Compiler] Could not find a variable named "T_Input" in 'UW_PinPad_C'.
+Make sure 'UW_PinPad_C' has been compiled for  Get T_Input
+[2024.05.12-08.08.58:774][753]LogBlueprint: Warning: [AssetLog] C:\Users\mikir\OneDrive\Pulpit\Escape-from-0G\Content\UI\UW_PinPad.uasset: [Compiler] Could not find a variable named "Correct?" in 'UW_PinPad'.
+Make sure 'UW_PinPad' has been compiled for  Set Correct?
+[2024.05.12-08.08.58:774][753]LogBlueprint: Warning: [AssetLog] C:\Users\mikir\OneDrive\Pulpit\Escape-from-0G\Content\UI\UW_PinPad.uasset: [Compiler] Could not find a variable named "T_Input" in 'UW_PinPad_C'.
+Make sure 'UW_PinPad_C' has been compiled for  Get T_Input
+[2024.05.12-08.08.58:775][753]LogBlueprint: Error: [AssetLog] C:\Users\mikir\OneDrive\Pulpit\Escape-from-0G\Content\UI\UW_PinPad.uasset: [Compiler] This blueprint (self) is not compatible with ' Target ', therefore that pin must have a connection.
+[2024.05.12-08.08.58:775][753]LogBlueprint: Error: [AssetLog] C:\Users\mikir\OneDrive\Pulpit\Escape-from-0G\Content\UI\UW_PinPad.uasset: [Compiler] The property associated with  T Input  could not be found in '/Game/UI/UW_PinPad.UW_PinPad_C'
+[2024.05.12-08.08.58:776][753]LogBlueprint: Error: [AssetLog] C:\Users\mikir\OneDrive\Pulpit\Escape-from-0G\Content\UI\UW_PinPad.uasset: [Compiler] The property associated with  T Input  could not be found in '/Game/UI/UW_PinPad.UW_PinPad_C'
+[2024.05.12-08.08.58:776][753]LogBlueprint: Error: [AssetLog] C:\Users\mikir\OneDrive\Pulpit\Escape-from-0G\Content\UI\UW_PinPad.uasset: [Compiler] The property associated with  T Input  could not be found in '/Game/UI/UW_PinPad.UW_PinPad_C'
+[2024.05.12-08.08.58:776][753]LogBlueprint: Error: [AssetLog] C:\Users\mikir\OneDrive\Pulpit\Escape-from-0G\Content\UI\UW_PinPad.uasset: [Compiler] The property associated with  Correct?  could not be found in '/Game/UI/UW_PinPad.UW_PinPad_C'
+[2024.05.12-08.08.58:776][753]LogBlueprint: Error: [AssetLog] C:\Users\mikir\OneDrive\Pulpit\Escape-from-0G\Content\UI\UW_PinPad.uasset: [Compiler] The property associated with  T Input  could not be found in '/Game/UI/UW_PinPad.UW_PinPad_C'
+[2024.05.12-08.08.58:917][753]LogUObjectHash: Compacting FUObjectHashTables data took   4.28ms
+[2024.05.12-08.09.48:433][643]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.05.12-08.09.48:448][643]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.12-08.09.48:448][643]BlueprintLog: Warning: Blueprint failed to compile:  UW_PinPad
+[2024.05.12-08.09.49:731][643]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2024.05.12-08.09.49:769][643]PIE: New page: PIE session: L_3 (12 maj 2024, 12:09:49)
+[2024.05.12-08.09.49:809][643]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_L_3
+[2024.05.12-08.09.49:944][643]LogPlayLevel: PIE: StaticDuplicateObject took: (0.135649s)
+[2024.05.12-08.09.49:944][643]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/L_3.L_3 to /Game/FirstPerson/Maps/UEDPIE_0_L_3.L_3 (0.135736s)
+[2024.05.12-08.09.49:947][643]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.12-08.09.49:948][643]LogAIModule: Creating AISystem for world L_3
+[2024.05.12-08.09.49:951][643]LogPlayLevel: PIE: World Init took: (0.005985s)
+[2024.05.12-08.09.50:038][643]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2024.05.12-08.09.50:058][643]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2024.05.12-08.09.50:061][643]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.12-08.09.50:061][643]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.12-08.09.50:061][643]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.12-08.09.50:062][643]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.12-08.09.50:062][643]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.12-08.09.50:062][643]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.05.12-08.09.50:062][643]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.12-08.09.50:062][643]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.12-08.09.50:065][643]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.12-08.09.50:065][643]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.12-08.09.50:065][643]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.12-08.09.50:075][643]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.12-08.09.50:140][643]LogAudioMixer: Display: Using Audio Hardware Device Głośniki (PRO X)
+[2024.05.12-08.09.50:146][643]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.12-08.09.50:146][643]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.12-08.09.50:147][643]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.12-08.09.50:158][643]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2024.05.12-08.09.50:159][643]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2024.05.12-08.09.50:161][643]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2024.05.12-08.09.50:161][643]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2024.05.12-08.09.50:162][643]LogInit: FAudioDevice initialized.
+[2024.05.12-08.09.50:162][643]LogAudio: Display: Audio Device (ID: 4) registered with world 'L_3'.
+[2024.05.12-08.09.50:180][643]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.05.12-08.09.50:233][643]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_L_3.L_3 up for play (max tick rate 60) at 2024.05.12-10.09.50
+[2024.05.12-08.09.50:257][643]LogWorld: Bringing up level for play took: 0.076935
+[2024.05.12-08.09.50:271][643]LogOnline: OSS: Created online subsystem instance for: :Context_68
+[2024.05.12-08.09.50:300][643]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2024.05.12-08.09.50:352][643]PIE: Server logged in
+[2024.05.12-08.09.50:354][643]PIE: Play in editor total start time 1,906 seconds.
+[2024.05.12-08.10.22:512][389]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.12-08.10.22:512][389]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_L_3
+[2024.05.12-08.10.22:515][389]LogWorld: UWorld::CleanupWorld for L_3, bSessionEnded=true, bCleanupResources=true
+[2024.05.12-08.10.22:522][389]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.12-08.10.22:537][389]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.12-08.10.22:548][389]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.12-08.10.22:622][389]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.12-08.10.22:623][389]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.05.12-08.10.22:628][389]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.05.12-08.10.22:637][389]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.12-08.10.22:657][389]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2024.05.12-08.10.22:733][390]LogPlayLevel: Display: Destroying online subsystem :Context_68
+[2024.05.12-08.10.34:617][957]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.05.12-08.10.46:779][586]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.05.12-08.10.49:132][715]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.05.12-08.10.59:419][298]Cmd: DELETE
+[2024.05.12-08.10.59:419][298]Cmd: ACTOR DELETE
+[2024.05.12-08.10.59:666][298]LogEditorActor: Deleted Actor: BP_AirlockDoorLeft_C
+[2024.05.12-08.10.59:745][298]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2024.05.12-08.10.59:751][298]LogEditorActor: Deleted 1 Actors (0.332 secs)
+[2024.05.12-08.11.04:032][548]Cmd: DELETE
+[2024.05.12-08.11.04:032][548]Cmd: ACTOR DELETE
+[2024.05.12-08.11.04:051][548]LogEditorActor: Deleted Actor: BP_AirlockDoorLeft_C
+[2024.05.12-08.11.04:100][548]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2024.05.12-08.11.04:103][548]LogEditorActor: Deleted 1 Actors (0.070 secs)
+[2024.05.12-08.11.06:992][715]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.05.12-08.11.09:490][863]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.05.12-08.11.13:344][ 87]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.05.12-08.11.29:826][964]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2024.05.12-08.11.29:826][964]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2024.05.12-08.11.36:777][365]LogSlate: Took 0.011361 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2024.05.12-08.12.56:019][732]BlueprintLog: New page: Compile UW_PinPad
+[2024.05.12-08.12.56:031][732]LogBlueprint: Warning: [AssetLog] C:\Users\mikir\OneDrive\Pulpit\Escape-from-0G\Content\UI\UW_PinPad.uasset: [Compiler] Could not find a variable named "Correct?" in 'UW_PinPad'.
+Make sure 'UW_PinPad' has been compiled for  Set Correct?
+[2024.05.12-08.12.56:032][732]LogBlueprint: Error: [AssetLog] C:\Users\mikir\OneDrive\Pulpit\Escape-from-0G\Content\UI\UW_PinPad.uasset: [Compiler] This blueprint (self) is not compatible with ' Target ', therefore that pin must have a connection.
+[2024.05.12-08.12.56:035][732]LogBlueprint: Error: [AssetLog] C:\Users\mikir\OneDrive\Pulpit\Escape-from-0G\Content\UI\UW_PinPad.uasset: [Compiler] The property associated with  Correct?  could not be found in '/Game/UI/UW_PinPad.UW_PinPad_C'
+[2024.05.12-08.12.56:116][732]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2024.05.12-08.13.11:836][595]LogEditorClassViewer: Warning: Class /Script/InteractiveToolsFramework.GizmoActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.05.12-08.13.11:836][595]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewGeometryActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.05.12-08.13.11:836][595]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewMeshActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.05.12-08.13.51:010][827]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPerson/Blueprints/Doors/BP_PinPadDoors.BP_PinPadDoors
+[2024.05.12-08.13.51:011][827]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.12-08.13.58:690][156]LogSlate: Window 'BP_PinPadDoors' being destroyed
+[2024.05.12-08.13.58:710][156]LogSlate: Window 'BP_PinPadDoors' being destroyed
+[2024.05.12-08.13.58:726][156]LogWorld: UWorld::CleanupWorld for World_66, bSessionEnded=true, bCleanupResources=true
+[2024.05.12-08.13.58:727][156]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.12-08.14.54:389][166]BlueprintLog: New page: Compile UW_PinPad
+[2024.05.12-08.14.54:490][166]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2024.05.12-08.14.54:517][166]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.12-08.14.54:674][166]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UW_PinPad" FILE="../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/UI/UW_PinPad.uasset" SILENT=true
+[2024.05.12-08.14.54:715][166]LogSavePackage: Moving output files for package: /Game/UI/UW_PinPad
+[2024.05.12-08.14.54:716][166]LogSavePackage: Moving '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/UW_PinPad4F8AB66941A54C15D8ED62968A454C05.tmp' to '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/UI/UW_PinPad.uasset'
+[2024.05.12-08.14.54:735][166]LogFileHelpers: InternalPromptForCheckoutAndSave took 218 ms (total: 3:57 min)
+[2024.05.12-08.14.54:756][166]AssetCheck: New page: Asset Save: UW_PinPad
+[2024.05.12-08.14.54:756][166]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/UW_PinPad.UW_PinPad
+[2024.05.12-08.14.58:012][305]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.05.12-08.14.58:025][305]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.12-08.14.58:025][305]PIE: New page: PIE session: L_3 (12 maj 2024, 12:14:58)
+[2024.05.12-08.14.58:026][305]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_L_3
+[2024.05.12-08.14.58:103][305]LogPlayLevel: PIE: StaticDuplicateObject took: (0.077664s)
+[2024.05.12-08.14.58:103][305]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/L_3.L_3 to /Game/FirstPerson/Maps/UEDPIE_0_L_3.L_3 (0.077724s)
+[2024.05.12-08.14.58:103][305]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.12-08.14.58:103][305]LogAIModule: Creating AISystem for world L_3
+[2024.05.12-08.14.58:104][305]LogPlayLevel: PIE: World Init took: (0.001259s)
+[2024.05.12-08.14.58:167][305]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2024.05.12-08.14.58:173][305]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2024.05.12-08.14.58:173][305]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.12-08.14.58:173][305]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.12-08.14.58:173][305]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.12-08.14.58:173][305]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.12-08.14.58:173][305]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.12-08.14.58:173][305]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.05.12-08.14.58:173][305]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.12-08.14.58:173][305]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.12-08.14.58:174][305]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.12-08.14.58:174][305]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.12-08.14.58:174][305]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.12-08.14.58:177][305]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.12-08.14.58:218][305]LogAudioMixer: Display: Using Audio Hardware Device Głośniki (PRO X)
+[2024.05.12-08.14.58:218][305]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.12-08.14.58:218][305]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.12-08.14.58:218][305]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.12-08.14.58:220][305]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2024.05.12-08.14.58:220][305]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2024.05.12-08.14.58:222][305]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2024.05.12-08.14.58:222][305]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2024.05.12-08.14.58:222][305]LogInit: FAudioDevice initialized.
+[2024.05.12-08.14.58:222][305]LogAudio: Display: Audio Device (ID: 5) registered with world 'L_3'.
+[2024.05.12-08.14.58:226][305]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.05.12-08.14.58:264][305]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_L_3.L_3 up for play (max tick rate 60) at 2024.05.12-10.14.58
+[2024.05.12-08.14.58:264][305]LogWorld: Bringing up level for play took: 0.037310
+[2024.05.12-08.14.58:266][305]LogOnline: OSS: Created online subsystem instance for: :Context_71
+[2024.05.12-08.14.58:269][305]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2024.05.12-08.14.58:273][305]PIE: Server logged in
+[2024.05.12-08.14.58:275][305]PIE: Play in editor total start time 0,25 seconds.
+[2024.05.12-08.15.29:889][ 36]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.12-08.15.29:890][ 36]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.05.12-08.15.29:890][ 36]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2024.05.12-08.15.38:422][544]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/UI/UW_PinPad.UW_PinPad_C:TryDoor'!
+[2024.05.12-08.15.38:422][544]LogScript: Warning: Last function called:
+	/Game/UI/UW_PinPad.UW_PinPad_C.TryDoor
+
+[2024.05.12-08.15.39:938][635]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/UI/UW_PinPad.UW_PinPad_C:TryDoor'!
+[2024.05.12-08.15.39:938][635]LogScript: Warning: Last function called:
+	/Game/UI/UW_PinPad.UW_PinPad_C.TryDoor
+
+[2024.05.12-08.15.41:335][718]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.05.12-08.15.41:335][718]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2024.05.12-08.15.41:485][727]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.12-08.15.41:485][727]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.05.12-08.15.41:485][727]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2024.05.12-08.15.43:585][851]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.05.12-08.15.43:585][851]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2024.05.12-08.15.47:076][ 48]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.12-08.15.47:076][ 48]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_L_3
+[2024.05.12-08.15.47:078][ 48]LogWorld: UWorld::CleanupWorld for L_3, bSessionEnded=true, bCleanupResources=true
+[2024.05.12-08.15.47:088][ 48]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.12-08.15.47:096][ 48]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.12-08.15.47:123][ 48]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.12-08.15.47:191][ 48]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.12-08.15.47:192][ 48]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.05.12-08.15.47:195][ 48]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.05.12-08.15.47:202][ 48]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.12-08.15.47:226][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   4.79ms
+[2024.05.12-08.15.47:327][ 49]LogPlayLevel: Display: Destroying online subsystem :Context_71
+[2024.05.12-08.15.52:363][294]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FirstPerson/Blueprints/Doors/BP_PinPadDoors.BP_PinPadDoors_C
+[2024.05.12-08.15.52:363][294]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FirstPerson/Blueprints/Doors/BP_PinPadDoors.BP_PinPadDoors_C
+[2024.05.12-08.15.52:369][294]LogActorFactory: Actor Factory spawned Blueprint /Game/FirstPerson/Blueprints/Doors/BP_PinPadDoors.BP_PinPadDoors as actor: BP_PinPadDoors_C /Game/FirstPerson/Maps/L_3.L_3:PersistentLevel.BP_PinPadDoors_C_0
+[2024.05.12-08.15.52:374][294]LogActorFactory: Actor Factory spawned Blueprint /Game/FirstPerson/Blueprints/Doors/BP_PinPadDoors.BP_PinPadDoors as actor: BP_PinPadDoors_C /Game/FirstPerson/Maps/L_3.L_3:PersistentLevel.BP_PinPadDoors_C_0
+[2024.05.12-08.15.52:478][298]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FirstPerson/Blueprints/Doors/BP_PinPadDoors.BP_PinPadDoors_C
+[2024.05.12-08.15.52:478][298]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FirstPerson/Blueprints/Doors/BP_PinPadDoors.BP_PinPadDoors_C
+[2024.05.12-08.15.52:481][298]LogActorFactory: Actor Factory spawned Blueprint /Game/FirstPerson/Blueprints/Doors/BP_PinPadDoors.BP_PinPadDoors as actor: BP_PinPadDoors_C /Game/FirstPerson/Maps/L_3.L_3:PersistentLevel.BP_PinPadDoors_C_1
+[2024.05.12-08.15.52:485][298]LogActorFactory: Actor Factory spawned Blueprint /Game/FirstPerson/Blueprints/Doors/BP_PinPadDoors.BP_PinPadDoors as actor: BP_PinPadDoors_C /Game/FirstPerson/Maps/L_3.L_3:PersistentLevel.BP_PinPadDoors_C_1
+[2024.05.12-08.15.53:390][334]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FirstPerson/Blueprints/Doors/BP_PinPadDoors.BP_PinPadDoors_C
+[2024.05.12-08.15.53:391][334]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FirstPerson/Blueprints/Doors/BP_PinPadDoors.BP_PinPadDoors_C
+[2024.05.12-08.15.53:398][334]LogActorFactory: Actor Factory spawned Blueprint /Game/FirstPerson/Blueprints/Doors/BP_PinPadDoors.BP_PinPadDoors as actor: BP_PinPadDoors_C /Game/FirstPerson/Maps/L_3.L_3:PersistentLevel.BP_PinPadDoors_C_2
+[2024.05.12-08.15.53:402][334]LogActorFactory: Actor Factory spawned Blueprint /Game/FirstPerson/Blueprints/Doors/BP_PinPadDoors.BP_PinPadDoors as actor: BP_PinPadDoors_C /Game/FirstPerson/Maps/L_3.L_3:PersistentLevel.BP_PinPadDoors_C_2
+[2024.05.12-08.16.01:129][771]Cmd: DELETE
+[2024.05.12-08.16.01:129][771]Cmd: ACTOR DELETE
+[2024.05.12-08.16.01:152][771]LogEditorActor: Deleted Actor: BP_Doors_C
+[2024.05.12-08.16.01:212][771]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2024.05.12-08.16.01:219][771]LogEditorActor: Deleted 1 Actors (0.090 secs)
+[2024.05.12-08.16.08:565][144]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.05.12-08.16.08:579][144]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.12-08.16.08:579][144]PIE: New page: PIE session: L_3 (12 maj 2024, 12:16:08)
+[2024.05.12-08.16.08:579][144]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_L_3
+[2024.05.12-08.16.08:653][144]LogPlayLevel: PIE: StaticDuplicateObject took: (0.072778s)
+[2024.05.12-08.16.08:653][144]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/L_3.L_3 to /Game/FirstPerson/Maps/UEDPIE_0_L_3.L_3 (0.072826s)
+[2024.05.12-08.16.08:653][144]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.12-08.16.08:653][144]LogAIModule: Creating AISystem for world L_3
+[2024.05.12-08.16.08:656][144]LogPlayLevel: PIE: World Init took: (0.003071s)
+[2024.05.12-08.16.08:716][144]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2024.05.12-08.16.08:720][144]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2024.05.12-08.16.08:720][144]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.12-08.16.08:720][144]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.12-08.16.08:720][144]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.12-08.16.08:720][144]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.12-08.16.08:720][144]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.12-08.16.08:720][144]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.05.12-08.16.08:720][144]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.12-08.16.08:720][144]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.12-08.16.08:721][144]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.12-08.16.08:721][144]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.12-08.16.08:721][144]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.12-08.16.08:723][144]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.12-08.16.08:764][144]LogAudioMixer: Display: Using Audio Hardware Device Głośniki (PRO X)
+[2024.05.12-08.16.08:764][144]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.12-08.16.08:764][144]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.12-08.16.08:764][144]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.12-08.16.08:766][144]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2024.05.12-08.16.08:766][144]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2024.05.12-08.16.08:769][144]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2024.05.12-08.16.08:769][144]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2024.05.12-08.16.08:769][144]LogInit: FAudioDevice initialized.
+[2024.05.12-08.16.08:769][144]LogAudio: Display: Audio Device (ID: 6) registered with world 'L_3'.
+[2024.05.12-08.16.08:774][144]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.05.12-08.16.08:820][144]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_L_3.L_3 up for play (max tick rate 60) at 2024.05.12-10.16.08
+[2024.05.12-08.16.08:821][144]LogWorld: Bringing up level for play took: 0.045664
+[2024.05.12-08.16.08:823][144]LogOnline: OSS: Created online subsystem instance for: :Context_72
+[2024.05.12-08.16.08:824][144]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2024.05.12-08.16.08:828][144]PIE: Server logged in
+[2024.05.12-08.16.08:829][144]PIE: Play in editor total start time 0,25 seconds.
+[2024.05.12-08.16.39:430][830]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.05.12-08.16.39:431][830]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.05.12-08.16.39:431][830]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2024.05.12-08.16.49:784][442]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.05.12-08.16.49:785][442]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2024.05.12-08.16.55:126][744]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.12-08.16.55:126][744]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_L_3
+[2024.05.12-08.16.55:128][744]LogWorld: UWorld::CleanupWorld for L_3, bSessionEnded=true, bCleanupResources=true
+[2024.05.12-08.16.55:132][744]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.12-08.16.55:138][744]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.12-08.16.55:147][744]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.12-08.16.55:218][744]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.12-08.16.55:219][744]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.05.12-08.16.55:222][744]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.05.12-08.16.55:230][744]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.12-08.16.55:241][744]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2024.05.12-08.16.55:301][745]LogPlayLevel: Display: Destroying online subsystem :Context_72
+[2024.05.12-08.16.57:068][838]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2024.05.12-08.16.57:078][838]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.12-08.16.58:594][838]LogSlate: Window 'Save Level As' being destroyed
+[2024.05.12-08.16.58:655][838]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.57 sec (total: 3:59 min)
+[2024.05.12-08.16.59:386][872]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2024.05.12-08.17.00:865][872]LogSlate: Window 'Save Content' being destroyed
+[2024.05.12-08.17.00:903][872]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.12-08.17.01:040][872]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Maps/L_3" FILE="../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/FirstPerson/Maps/L_3.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.05.12-08.17.01:119][872]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2024.05.12-08.17.01:365][872]LogSavePackage: Moving output files for package: /Game/FirstPerson/Maps/L_3
+[2024.05.12-08.17.01:366][872]LogSavePackage: Moving '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/L_305DD1CEF4A6EE43835F9AFB2D3B01DA2.tmp' to '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/FirstPerson/Maps/L_3.umap'
+[2024.05.12-08.17.01:402][872]LogFileHelpers: Saving map 'L_3' took 0.366
+[2024.05.12-08.17.01:428][872]LogFileHelpers: InternalPromptForCheckoutAndSave took 524 ms (total: 3:59 min)
+[2024.05.12-08.17.01:447][872]AssetCheck: New page: Asset Save: L_3
+[2024.05.12-08.17.01:447][872]LogContentValidation: Display: Validating /Script/Engine.World /Game/FirstPerson/Maps/L_3.L_3
+[2024.05.12-08.17.15:477][559]LogSlate: Window 'Message Log' being destroyed
+[2024.05.12-08.17.15:505][559]LogSlate: Window 'Message Log' being destroyed
+[2024.05.12-08.18.45:919][592]LogUObjectHash: Compacting FUObjectHashTables data took   3.10ms
+[2024.05.12-08.18.47:203][592]LogSlate: Window 'Save Content' being destroyed
+[2024.05.12-08.18.47:245][592]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.12-08.18.47:407][592]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Maps/L_3" FILE="../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/FirstPerson/Maps/L_3.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.05.12-08.18.47:483][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2024.05.12-08.18.47:705][592]LogSavePackage: Moving output files for package: /Game/FirstPerson/Maps/L_3
+[2024.05.12-08.18.47:705][592]LogSavePackage: Moving '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/L_37D5508A247CC77AFBC40A0A04DF922AF.tmp' to '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/FirstPerson/Maps/L_3.umap'
+[2024.05.12-08.18.47:735][592]LogFileHelpers: Saving map 'L_3' took 0.331
+[2024.05.12-08.18.47:759][592]LogFileHelpers: InternalPromptForCheckoutAndSave took 514 ms (total: 4:00 min)
+[2024.05.12-08.18.47:781][592]AssetCheck: New page: Asset Save: L_3
+[2024.05.12-08.18.47:781][592]LogContentValidation: Display: Validating /Script/Engine.World /Game/FirstPerson/Maps/L_3.L_3
