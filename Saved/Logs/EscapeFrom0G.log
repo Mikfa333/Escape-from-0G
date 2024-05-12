@@ -5117,3 +5117,116 @@ Make sure 'UW_PinPad' has been compiled for  Set Correct?
 [2024.05.12-08.20.28:118][ 94]LogEditorActor: Deleted Actor: StaticMeshActor
 [2024.05.12-08.20.28:187][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
 [2024.05.12-08.20.28:191][ 94]LogEditorActor: Deleted 1 Actors (0.095 secs)
+[2024.05.12-08.22.17:981][353]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2024.05.12-08.22.21:335][353]LogSlate: Window 'Save Content' being destroyed
+[2024.05.12-08.22.21:353][353]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.12-08.22.21:507][353]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Maps/L_3" FILE="../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/FirstPerson/Maps/L_3.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.05.12-08.22.21:581][353]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2024.05.12-08.22.21:822][353]LogSavePackage: Moving output files for package: /Game/FirstPerson/Maps/L_3
+[2024.05.12-08.22.21:823][353]LogSavePackage: Moving '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/L_3AFD31F5B4C93413BAA29689F7FBBE902.tmp' to '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/FirstPerson/Maps/L_3.umap'
+[2024.05.12-08.22.21:862][353]LogFileHelpers: Saving map 'L_3' took 0.358
+[2024.05.12-08.22.21:950][353]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Wardrobe/Black_Plastic" FILE="../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/Art/Wardrobe/Black_Plastic.uasset" SILENT=true
+[2024.05.12-08.22.21:957][353]LogSavePackage: Moving output files for package: /Game/Art/Wardrobe/Black_Plastic
+[2024.05.12-08.22.21:957][353]LogSavePackage: Moving '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/Black_PlasticE98F7FBC4EF47EF6E1AD58A90FF8274C.tmp' to '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/Art/Wardrobe/Black_Plastic.uasset'
+[2024.05.12-08.22.22:012][353]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Wardrobe/Plastic_01" FILE="../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/Art/Wardrobe/Plastic_01.uasset" SILENT=true
+[2024.05.12-08.22.22:013][353]LogSavePackage: Moving output files for package: /Game/Art/Wardrobe/Plastic_01
+[2024.05.12-08.22.22:013][353]LogSavePackage: Moving '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/Plastic_0113DC626945948B92A40C47BEBB3F27CD.tmp' to '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/Art/Wardrobe/Plastic_01.uasset'
+[2024.05.12-08.22.22:056][353]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Wardrobe/Plastic_Gold" FILE="../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/Art/Wardrobe/Plastic_Gold.uasset" SILENT=true
+[2024.05.12-08.22.22:058][353]LogSavePackage: Moving output files for package: /Game/Art/Wardrobe/Plastic_Gold
+[2024.05.12-08.22.22:058][353]LogSavePackage: Moving '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/Plastic_GoldBBBFDD16459306B1E1099E87FF385143.tmp' to '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/Art/Wardrobe/Plastic_Gold.uasset'
+[2024.05.12-08.22.22:077][353]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Wardrobe/WardrobeFIXED_Closet" FILE="../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/Art/Wardrobe/WardrobeFIXED_Closet.uasset" SILENT=true
+[2024.05.12-08.22.22:082][353]LogSavePackage: Moving output files for package: /Game/Art/Wardrobe/WardrobeFIXED_Closet
+[2024.05.12-08.22.22:083][353]LogSavePackage: Moving '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/WardrobeFIXED_Closet58F0EAC64EA586391EA83BBA9381B26E.tmp' to '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/Art/Wardrobe/WardrobeFIXED_Closet.uasset'
+[2024.05.12-08.22.22:102][353]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Wardrobe/WardrobeFIXED_Cylinder" FILE="../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/Art/Wardrobe/WardrobeFIXED_Cylinder.uasset" SILENT=true
+[2024.05.12-08.22.22:110][353]LogSavePackage: Moving output files for package: /Game/Art/Wardrobe/WardrobeFIXED_Cylinder
+[2024.05.12-08.22.22:110][353]LogSavePackage: Moving '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/WardrobeFIXED_CylinderB97257684061237987791B811660AD5A.tmp' to '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/Art/Wardrobe/WardrobeFIXED_Cylinder.uasset'
+[2024.05.12-08.22.22:136][353]LogSavePackage: Moving output files for package: /Game/Art/Wardrobe/WardrobeFIXED_Left_Door
+[2024.05.12-08.22.22:136][353]LogSavePackage: Moving '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/WardrobeFIXED_Left_DoorB36E72334F5BD101D699FCA5B8FB1176.tmp' to '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/Art/Wardrobe/WardrobeFIXED_Left_Door.uasset'
+[2024.05.12-08.22.22:170][353]LogSavePackage: Moving output files for package: /Game/Art/Wardrobe/WardrobeFIXED_LeftShelves
+[2024.05.12-08.22.22:170][353]LogSavePackage: Moving '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/WardrobeFIXED_LeftShelves7FF60E664E5A83D0F6C10B96C80CED18.tmp' to '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/Art/Wardrobe/WardrobeFIXED_LeftShelves.uasset'
+[2024.05.12-08.22.22:198][353]LogSavePackage: Moving output files for package: /Game/Art/Wardrobe/WardrobeFIXED_Right_Door
+[2024.05.12-08.22.22:198][353]LogSavePackage: Moving '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/WardrobeFIXED_Right_DoorD42262A249340C8833B2FF9A55E1CE4F.tmp' to '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/Art/Wardrobe/WardrobeFIXED_Right_Door.uasset'
+[2024.05.12-08.22.22:223][353]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Wardrobe/WardrobeFIXED_Shelf" FILE="../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/Art/Wardrobe/WardrobeFIXED_Shelf.uasset" SILENT=true
+[2024.05.12-08.22.22:230][353]LogSavePackage: Moving output files for package: /Game/Art/Wardrobe/WardrobeFIXED_Shelf
+[2024.05.12-08.22.22:230][353]LogSavePackage: Moving '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/WardrobeFIXED_ShelfDFDC109B4F21923ECF2722AF7792A187.tmp' to '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/Art/Wardrobe/WardrobeFIXED_Shelf.uasset'
+[2024.05.12-08.22.22:248][353]LogFileHelpers: InternalPromptForCheckoutAndSave took 895 ms (total: 4:01 min)
+[2024.05.12-08.22.22:248][353]LogAssetEditorSubsystem: Opening Asset editor for World /Game/FirstPerson/Maps/L_2.L_2
+[2024.05.12-08.22.22:250][353]Cmd: MAP LOAD FILE="../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/FirstPerson/Maps/L_2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.05.12-08.22.22:250][353]LightingResults: New page: Lighting Build
+[2024.05.12-08.22.22:250][353]LoadErrors: New page: Loading map: L_2.umap
+[2024.05.12-08.22.22:318][353]LogWorld: UWorld::CleanupWorld for L_3, bSessionEnded=true, bCleanupResources=true
+[2024.05.12-08.22.22:320][353]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.12-08.22.22:321][353]MapCheck: New page: Map Check
+[2024.05.12-08.22.22:321][353]LightingResults: New page: Lighting Build
+[2024.05.12-08.22.22:406][353]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.12-08.22.22:427][353]LogUObjectHash: Compacting FUObjectHashTables data took   3.41ms
+[2024.05.12-08.22.22:435][353]LogWorld: UWorld::CleanupWorld for L_2, bSessionEnded=true, bCleanupResources=true
+[2024.05.12-08.22.22:437][353]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.12-08.22.22:444][353]LogWorld: UWorld::CleanupWorld for L_22, bSessionEnded=true, bCleanupResources=true
+[2024.05.12-08.22.22:445][353]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.12-08.22.22:449][353]LogWorld: UWorld::CleanupWorld for L_3_Auto4, bSessionEnded=true, bCleanupResources=true
+[2024.05.12-08.22.22:452][353]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.12-08.22.22:543][353]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2024.05.12-08.22.22:612][353]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2024.05.12-08.22.24:356][353]LogSlate: Window 'Message' being destroyed
+[2024.05.12-08.22.24:377][353]Message dialog closed, result: Ok, title: Message, text: The following assets have been modified and cannot be unloaded:
+    /Temp/Autosaves/Game/FirstPerson/Maps/L_2_Auto1
+    /Temp/Autosaves/Game/FirstPerson/Maps/L_3_Auto2
+    /Temp/Autosaves/Game/FirstPerson/Maps/L_3_Auto3
+Saving these assets will allow them to be unloaded.
+[2024.05.12-08.22.24:468][353]LogAudio: Display: Audio Device (ID: 1) registered with world 'L_2'.
+[2024.05.12-08.22.24:468][353]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.12-08.22.24:469][353]LogAIModule: Creating AISystem for world L_2
+[2024.05.12-08.22.24:572][353]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.05.12-08.22.24:660][353]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2024.05.12-08.22.24:674][353]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.05.12-08.22.24:674][353]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,31ms to complete.
+[2024.05.12-08.22.24:674][353]LogFileHelpers: Loading map 'L_2' took 2.426
+[2024.05.12-08.22.24:705][353]AssetCheck: New page: Asset Save: multiple assets
+[2024.05.12-08.22.24:705][353]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Art/Wardrobe/WardrobeFIXED_Left_Door.WardrobeFIXED_Left_Door
+[2024.05.12-08.22.24:705][353]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Art/Wardrobe/Plastic_Gold.Plastic_Gold
+[2024.05.12-08.22.24:705][353]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Art/Wardrobe/WardrobeFIXED_Cylinder.WardrobeFIXED_Cylinder
+[2024.05.12-08.22.24:705][353]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Art/Wardrobe/Plastic_01.Plastic_01
+[2024.05.12-08.22.24:705][353]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Art/Wardrobe/WardrobeFIXED_Closet.WardrobeFIXED_Closet
+[2024.05.12-08.22.24:705][353]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Art/Wardrobe/WardrobeFIXED_Shelf.WardrobeFIXED_Shelf
+[2024.05.12-08.22.24:705][353]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Art/Wardrobe/WardrobeFIXED_Right_Door.WardrobeFIXED_Right_Door
+[2024.05.12-08.22.24:705][353]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Art/Wardrobe/Black_Plastic.Black_Plastic
+[2024.05.12-08.22.24:705][353]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Art/Wardrobe/WardrobeFIXED_LeftShelves.WardrobeFIXED_LeftShelves
+[2024.05.12-08.23.03:044][474]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FirstPerson/Blueprints/BP_Grappable.BP_Grappable_C
+[2024.05.12-08.23.03:044][474]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FirstPerson/Blueprints/BP_Grappable.BP_Grappable_C
+[2024.05.12-08.23.03:047][474]LogActorFactory: Actor Factory spawned Blueprint /Game/FirstPerson/Blueprints/BP_Grappable.BP_Grappable as actor: BP_Grappable_C /Game/FirstPerson/Maps/L_2.L_2:PersistentLevel.BP_Grappable_C_8
+[2024.05.12-08.23.03:049][474]LogActorFactory: Actor Factory spawned Blueprint /Game/FirstPerson/Blueprints/BP_Grappable.BP_Grappable as actor: BP_Grappable_C /Game/FirstPerson/Maps/L_2.L_2:PersistentLevel.BP_Grappable_C_8
+[2024.05.12-08.23.03:733][497]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FirstPerson/Blueprints/BP_Grappable.BP_Grappable_C
+[2024.05.12-08.23.03:733][497]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FirstPerson/Blueprints/BP_Grappable.BP_Grappable_C
+[2024.05.12-08.23.03:736][497]LogActorFactory: Actor Factory spawned Blueprint /Game/FirstPerson/Blueprints/BP_Grappable.BP_Grappable as actor: BP_Grappable_C /Game/FirstPerson/Maps/L_2.L_2:PersistentLevel.BP_Grappable_C_9
+[2024.05.12-08.23.03:739][497]LogActorFactory: Actor Factory spawned Blueprint /Game/FirstPerson/Blueprints/BP_Grappable.BP_Grappable as actor: BP_Grappable_C /Game/FirstPerson/Maps/L_2.L_2:PersistentLevel.BP_Grappable_C_9
+[2024.05.12-08.23.20:075][452]Cmd: DELETE
+[2024.05.12-08.23.20:075][452]Cmd: ACTOR DELETE
+[2024.05.12-08.23.20:210][452]LogEditorActor: Deleted Actor: BP_Grabable_Crate_C
+[2024.05.12-08.23.20:291][452]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2024.05.12-08.23.20:302][452]LogEditorActor: Deleted 1 Actors (0.225 secs)
+[2024.05.12-08.24.00:085][696]Cmd: DUPLICATE
+[2024.05.12-08.24.00:085][696]Cmd: ACTOR DUPLICATE
+[2024.05.12-08.24.05:415][  3]Cmd: DELETE
+[2024.05.12-08.24.05:415][  3]Cmd: ACTOR DELETE
+[2024.05.12-08.24.05:431][  3]LogEditorActor: Deleted Actor: BP_Grabable_Crate_C
+[2024.05.12-08.24.05:488][  3]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2024.05.12-08.24.05:498][  3]LogEditorActor: Deleted 1 Actors (0.083 secs)
+[2024.05.12-08.24.14:585][536]Cmd: DELETE
+[2024.05.12-08.24.14:585][536]Cmd: ACTOR DELETE
+[2024.05.12-08.24.14:599][536]LogEditorActor: Deleted Actor: BP_Grabable_Crate_C
+[2024.05.12-08.24.14:654][536]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2024.05.12-08.24.14:659][536]LogEditorActor: Deleted 1 Actors (0.074 secs)
+[2024.05.12-08.24.22:749][  0]Cmd: TRANSACTION UNDO
+[2024.05.12-08.24.22:749][  0]LogEditorTransaction: Undo Snap Elements To Floor
+[2024.05.12-08.24.35:656][697]Cmd: DUPLICATE
+[2024.05.12-08.24.35:656][697]Cmd: ACTOR DUPLICATE
+[2024.05.12-08.24.37:971][830]Cmd: TRANSACTION UNDO
+[2024.05.12-08.24.37:971][830]LogEditorTransaction: Undo Duplicate Elements
+[2024.05.12-08.24.42:666][ 75]Cmd: DUPLICATE
+[2024.05.12-08.24.42:666][ 75]Cmd: ACTOR DUPLICATE
+[2024.05.12-08.24.48:530][402]Cmd: DELETE
+[2024.05.12-08.24.48:530][402]Cmd: ACTOR DELETE
+[2024.05.12-08.24.48:545][402]LogEditorActor: Deleted Actor: BP_Grabable_Crate_C
+[2024.05.12-08.24.48:608][402]LogUObjectHash: Compacting FUObjectHashTables data took   3.53ms
+[2024.05.12-08.24.48:616][402]LogEditorActor: Deleted 1 Actors (0.086 secs)
