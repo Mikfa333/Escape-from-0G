@@ -4976,3 +4976,127 @@ Saving these assets will allow them to be unloaded.
 [2024.05.12-11.42.26:354][179]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
 [2024.05.12-11.42.26:608][179]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find SlateColor 'Foreground'.'
 [2024.05.12-11.42.26:622][179]LogSlate: Took 0.012559 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2024.05.12-11.42.58:520][646]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2024.05.12-11.42.58:569][646]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Maps/L_1_Auto5
+[2024.05.12-11.42.58:570][646]LogSavePackage: Moving '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/L_1_Auto5381A233242529117789AD9BB962C599A.tmp' to '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/Autosaves/Game/FirstPerson/Maps/L_1_Auto5.umap'
+[2024.05.12-11.42.58:585][646]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/L_1' took 0.160
+[2024.05.12-11.42.58:585][646]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.160
+[2024.05.12-11.43.34:061][329]BlueprintLog: New page: Compile Death_Screen_WB
+[2024.05.12-11.43.34:176][329]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2024.05.12-11.43.34:205][329]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.12-11.43.34:339][329]LogSavePackage: Moving output files for package: /Game/UI/Death_and_hit_screen/Death_Screen_WB
+[2024.05.12-11.43.34:340][329]LogSavePackage: Moving '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/Death_Screen_WB01F05DDA40EC86D8E51C368FA8940B80.tmp' to '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/UI/Death_and_hit_screen/Death_Screen_WB.uasset'
+[2024.05.12-11.43.34:355][329]LogFileHelpers: InternalPromptForCheckoutAndSave took 151 ms (total: 37.4 sec)
+[2024.05.12-11.43.34:369][329]AssetCheck: New page: Asset Save: Death_Screen_WB
+[2024.05.12-11.43.34:369][329]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/Death_and_hit_screen/Death_Screen_WB.Death_Screen_WB
+[2024.05.12-11.44.11:783][345]BlueprintLog: New page: Compile Death_Screen_WB
+[2024.05.12-11.44.11:891][345]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2024.05.12-11.44.11:920][345]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.12-11.44.12:077][345]LogSavePackage: Moving output files for package: /Game/UI/Death_and_hit_screen/Death_Screen_WB
+[2024.05.12-11.44.12:078][345]LogSavePackage: Moving '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/Death_Screen_WB2C824626425D6CF3CBE21EBBB4AEF072.tmp' to '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/UI/Death_and_hit_screen/Death_Screen_WB.uasset'
+[2024.05.12-11.44.12:089][345]LogFileHelpers: InternalPromptForCheckoutAndSave took 169 ms (total: 37.6 sec)
+[2024.05.12-11.44.12:097][345]AssetCheck: New page: Asset Save: Death_Screen_WB
+[2024.05.12-11.44.12:097][345]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/Death_and_hit_screen/Death_Screen_WB.Death_Screen_WB
+[2024.05.12-11.44.22:472][825]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/PopUps/Tutorial1UI.Tutorial1UI
+[2024.05.12-11.44.22:473][825]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.12-11.44.22:493][825]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.12-11.44.22:997][825]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2024.05.12-11.44.22:997][825]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2024.05.12-11.44.51:848][305]BlueprintLog: New page: Compile Tutorial1UI
+[2024.05.12-11.44.51:956][305]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2024.05.12-11.44.51:992][305]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.12-11.44.52:125][305]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/PopUps/Tutorial1UI" FILE="../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/UI/PopUps/Tutorial1UI.uasset" SILENT=true
+[2024.05.12-11.44.52:141][305]LogSavePackage: Moving output files for package: /Game/UI/PopUps/Tutorial1UI
+[2024.05.12-11.44.52:142][305]LogSavePackage: Moving '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/Tutorial1UI951E6DF744347D72927DC293499C20F8.tmp' to '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/UI/PopUps/Tutorial1UI.uasset'
+[2024.05.12-11.44.52:154][305]LogFileHelpers: InternalPromptForCheckoutAndSave took 161 ms (total: 37.7 sec)
+[2024.05.12-11.44.52:163][305]AssetCheck: New page: Asset Save: Tutorial1UI
+[2024.05.12-11.44.52:163][305]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/PopUps/Tutorial1UI.Tutorial1UI
+[2024.05.12-11.44.55:881][486]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/PopUps/Tutorial2UI.Tutorial2UI
+[2024.05.12-11.44.55:882][486]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.12-11.44.55:895][486]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.12-11.44.56:344][486]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2024.05.12-11.44.56:344][486]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2024.05.12-11.45.19:795][603]LogSlate: Window 'BP_Closet' being destroyed
+[2024.05.12-11.45.19:817][603]LogSlate: Window 'BP_Closet' being destroyed
+[2024.05.12-11.45.19:834][603]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2024.05.12-11.45.19:834][603]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.12-11.45.29:963][166]BlueprintLog: New page: Compile Tutorial2UI
+[2024.05.12-11.45.30:085][166]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2024.05.12-11.45.30:107][166]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.12-11.45.30:273][166]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/PopUps/Tutorial2UI" FILE="../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/UI/PopUps/Tutorial2UI.uasset" SILENT=true
+[2024.05.12-11.45.30:292][166]LogSavePackage: Moving output files for package: /Game/UI/PopUps/Tutorial2UI
+[2024.05.12-11.45.30:292][166]LogSavePackage: Moving '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/Tutorial2UI00D4774344CA8A4C26F5D1A1D5E7079A.tmp' to '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/UI/PopUps/Tutorial2UI.uasset'
+[2024.05.12-11.45.30:309][166]LogFileHelpers: InternalPromptForCheckoutAndSave took 201 ms (total: 37.9 sec)
+[2024.05.12-11.45.30:317][166]AssetCheck: New page: Asset Save: Tutorial2UI
+[2024.05.12-11.45.30:317][166]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/PopUps/Tutorial2UI.Tutorial2UI
+[2024.05.12-11.45.32:274][253]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2024.05.12-11.45.32:274][253]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.12-11.45.32:294][253]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2024.05.12-11.45.32:294][253]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.12-11.45.32:820][277]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2024.05.12-11.45.32:820][277]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.12-11.45.32:833][277]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2024.05.12-11.45.32:833][277]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.12-11.45.33:272][298]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2024.05.12-11.45.33:272][298]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.12-11.45.33:285][298]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2024.05.12-11.45.33:285][298]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.12-11.45.34:342][348]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.05.12-11.45.34:351][348]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.12-11.45.34:351][348]PIE: New page: PIE session: L_1 (12 maj 2024, 15:45:34)
+[2024.05.12-11.45.34:351][348]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_L_1
+[2024.05.12-11.45.34:363][348]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011884s)
+[2024.05.12-11.45.34:363][348]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/L_1.L_1 to /Game/FirstPerson/Maps/UEDPIE_0_L_1.L_1 (0.011928s)
+[2024.05.12-11.45.34:363][348]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.12-11.45.34:363][348]LogAIModule: Creating AISystem for world L_1
+[2024.05.12-11.45.34:364][348]LogPlayLevel: PIE: World Init took: (0.001073s)
+[2024.05.12-11.45.34:444][348]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2024.05.12-11.45.34:472][348]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2024.05.12-11.45.34:472][348]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.12-11.45.34:472][348]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.12-11.45.34:472][348]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.12-11.45.34:472][348]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.12-11.45.34:472][348]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.12-11.45.34:472][348]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.05.12-11.45.34:472][348]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.12-11.45.34:472][348]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.12-11.45.34:473][348]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.12-11.45.34:473][348]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.12-11.45.34:473][348]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.12-11.45.34:475][348]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.12-11.45.34:494][348]LogAudioMixer: Display: Using Audio Hardware Device Głośniki (Realtek(R) Audio)
+[2024.05.12-11.45.34:494][348]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.12-11.45.34:494][348]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.12-11.45.34:494][348]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.12-11.45.34:495][348]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=23
+[2024.05.12-11.45.34:495][348]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=23
+[2024.05.12-11.45.34:499][348]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=23
+[2024.05.12-11.45.34:499][348]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=23
+[2024.05.12-11.45.34:499][348]LogInit: FAudioDevice initialized.
+[2024.05.12-11.45.34:499][348]LogAudio: Display: Audio Device (ID: 23) registered with world 'L_1'.
+[2024.05.12-11.45.34:503][348]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.05.12-11.45.34:508][348]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_L_1.L_1 up for play (max tick rate 60) at 2024.05.12-13.45.34
+[2024.05.12-11.45.34:508][348]LogWorld: Bringing up level for play took: 0.005785
+[2024.05.12-11.45.34:511][348]LogOnline: OSS: Created online subsystem instance for: :Context_58
+[2024.05.12-11.45.34:511][348]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2024.05.12-11.45.34:514][348]PIE: Server logged in
+[2024.05.12-11.45.34:515][348]PIE: Play in editor total start time 0,164 seconds.
+[2024.05.12-11.45.34:519][348]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.12-11.45.34:521][348]LogLevelSequence: Starting new camera cut: 'CineCameraActor_1'
+[2024.05.12-11.46.02:854][ 44]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.05.12-11.46.02:854][ 44]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2024.05.12-11.46.02:866][ 45]LogLevelSequence: Starting new camera cut: 'None'
+[2024.05.12-11.46.04:654][152]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.05.12-11.46.04:654][152]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2024.05.12-11.46.26:338][450]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.12-11.46.26:340][450]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_L_1
+[2024.05.12-11.46.26:340][450]LogWorld: UWorld::CleanupWorld for L_1, bSessionEnded=true, bCleanupResources=true
+[2024.05.12-11.46.26:341][450]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.12-11.46.26:352][450]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.12-11.46.26:360][450]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.12-11.46.26:414][450]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.12-11.46.26:415][450]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2024.05.12-11.46.26:416][450]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2024.05.12-11.46.26:425][450]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.12-11.46.26:436][450]LogUObjectHash: Compacting FUObjectHashTables data took   5.83ms
+[2024.05.12-11.46.26:506][451]LogPlayLevel: Display: Destroying online subsystem :Context_58
