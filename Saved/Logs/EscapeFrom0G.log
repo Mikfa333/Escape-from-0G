@@ -2543,3 +2543,1083 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.05.12-06.32.16:542][654]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Art/EasterEggs/AppleOfEden_AppleOfEden_004.AppleOfEden_AppleOfEden_004
 [2024.05.12-06.32.16:542][654]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Art/EasterEggs/AppleOfEden_Plane.AppleOfEden_Plane
 [2024.05.12-06.32.16:542][654]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Art/EasterEggs/GroundSand005_4K.GroundSand005_4K
+[2024.05.12-06.34.23:468][987]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPerson/Blueprints/BP_PowerSwitch.BP_PowerSwitch
+[2024.05.12-06.34.23:470][987]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.12-06.34.26:211][ 81]LogViewport: Scene viewport resized to 1130x593, mode Windowed.
+[2024.05.12-06.34.37:520][600]LogSlate: Took 0.000739 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.05.12-06.34.41:596][754]LogStaticMesh: Display: Building static mesh Lever_ramie...
+[2024.05.12-06.34.41:612][754]LogStaticMesh: Built static mesh [0.02s] /Game/Art/SmallObjects/Lever_ramie.Lever_ramie
+[2024.05.12-06.34.55:167][341]LogStaticMesh: Display: Building static mesh Lever_podstawa...
+[2024.05.12-06.34.55:173][341]LogStaticMesh: Built static mesh [0.01s] /Game/Art/SmallObjects/Lever_podstawa.Lever_podstawa
+[2024.05.12-06.34.55:220][341]LogShaderCompilers: Display: ================================================
+[2024.05.12-06.34.55:220][341]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.05.12-06.34.55:220][341]LogShaderCompilers: Display: Total job queries 1744, among them cache hits 158 (9.06%)
+[2024.05.12-06.34.55:220][341]LogShaderCompilers: Display: Tracking 1586 distinct input hashes that result in 130 distinct outputs (8.20%)
+[2024.05.12-06.34.55:220][341]LogShaderCompilers: Display: RAM used: 11.27 MB (0.01 GB) of 819.20 MB (0.80 GB) budget. Usage: 1.38%
+[2024.05.12-06.34.55:220][341]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.05.12-06.34.55:220][341]LogShaderCompilers: Display: Shaders Compiled: 1300
+[2024.05.12-06.34.55:220][341]LogShaderCompilers: Display: Jobs assigned 1300, completed 1300 (100.00%)
+[2024.05.12-06.34.55:220][341]LogShaderCompilers: Display: Average time worker was idle: 5.53 s
+[2024.05.12-06.34.55:220][341]LogShaderCompilers: Display: Time job spent in pending queue: average 3.37 s, longest 37.24 s
+[2024.05.12-06.34.55:220][341]LogShaderCompilers: Display: Job execution time: average 1.39 s, max 17.64 s
+[2024.05.12-06.34.55:220][341]LogShaderCompilers: Display: Job life time (pending + execution): average 4.77 s, max 38.75
+[2024.05.12-06.34.55:220][341]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 267.88 s
+[2024.05.12-06.34.55:220][341]LogShaderCompilers: Display: Jobs were issued in 1300 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.05.12-06.34.55:220][341]LogShaderCompilers: Display: Average processing rate: 4.85 jobs/sec
+[2024.05.12-06.34.55:221][341]LogShaderCompilers: Display: Total thread time: 1522.64 s
+[2024.05.12-06.34.55:221][341]LogShaderCompilers: Display: Total thread preprocess time: 99.59 s
+[2024.05.12-06.34.55:221][341]LogShaderCompilers: Display: Percentage time preprocessing: 6.54%
+[2024.05.12-06.34.55:221][341]LogShaderCompilers: Display: Effective parallelization: 5.68 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.05.12-06.34.55:221][341]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.05.12-06.34.55:221][341]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled   80 times, average 2.25 sec, max 16.43 sec, min 1.24 sec)
+[2024.05.12-06.34.55:221][341]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   80 times, average 2.10 sec, max 6.62 sec, min 1.30 sec)
+[2024.05.12-06.34.55:221][341]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled   80 times, average 1.71 sec, max 8.15 sec, min 0.86 sec)
+[2024.05.12-06.34.55:221][341]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled   80 times, average 1.30 sec, max 10.48 sec, min 0.48 sec)
+[2024.05.12-06.34.55:221][341]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled   82 times, average 1.15 sec, max 1.42 sec, min 1.02 sec)
+[2024.05.12-06.34.55:221][341]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.05.12-06.34.55:221][341]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 11.84% of total time (compiled   80 times, average 2.25 sec, max 16.43 sec, min 1.24 sec)
+[2024.05.12-06.34.55:221][341]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 11.03% of total time (compiled   80 times, average 2.10 sec, max 6.62 sec, min 1.30 sec)
+[2024.05.12-06.34.55:221][341]LogShaderCompilers: Display:                                                 FLumenCardVS - 9.00% of total time (compiled   80 times, average 1.71 sec, max 8.15 sec, min 0.86 sec)
+[2024.05.12-06.34.55:221][341]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 6.83% of total time (compiled   80 times, average 1.30 sec, max 10.48 sec, min 0.48 sec)
+[2024.05.12-06.34.55:221][341]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight - 6.17% of total time (compiled   82 times, average 1.15 sec, max 1.42 sec, min 1.02 sec)
+[2024.05.12-06.34.55:221][341]LogShaderCompilers: Display: ================================================
+[2024.05.12-06.35.07:446][870]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Art/SmallObjects/Lever_podstawa.Lever_podstawa
+[2024.05.12-06.35.07:464][870]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.12-06.35.07:783][870]LogViewport: Scene viewport resized to 1403x848, mode Windowed.
+[2024.05.12-06.35.27:894][748]BlueprintLog: New page: Compile BP_PowerSwitch
+[2024.05.12-06.35.28:045][748]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2024.05.12-06.35.28:067][748]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.12-06.35.28:199][748]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_PowerSwitch
+[2024.05.12-06.35.28:200][748]LogSavePackage: Moving '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/BP_PowerSwitchE8B54CC84231A3B190AD38BAF769A606.tmp' to '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/FirstPerson/Blueprints/BP_PowerSwitch.uasset'
+[2024.05.12-06.35.28:215][748]LogFileHelpers: InternalPromptForCheckoutAndSave took 148 ms (total: 3:09 min)
+[2024.05.12-06.35.28:225][748]AssetCheck: New page: Asset Save: BP_PowerSwitch
+[2024.05.12-06.35.28:225][748]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_PowerSwitch.BP_PowerSwitch
+[2024.05.12-06.35.32:772][947]LogSlate: Window 'Lever_podstawa' being destroyed
+[2024.05.12-06.35.32:787][947]LogSlate: Window 'Lever_podstawa' being destroyed
+[2024.05.12-06.35.32:804][947]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2024.05.12-06.35.32:804][947]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.12-06.35.32:935][947]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2024.05.12-06.35.32:935][947]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.12-06.36.16:933][355]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.05.12-06.36.16:950][355]LogContentBrowser: Creating deferred item: NewFolder
+[2024.05.12-06.36.16:967][356]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.05.12-06.36.27:962][ 16]LogContentBrowser: Attempting asset rename: NewFolder -> Wardrobe
+[2024.05.12-06.36.27:964][ 16]LogContentBrowser: End creating deferred item NewFolder
+[2024.05.12-06.36.43:201][270]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\mikir\Downloads\Wardrobe.fbx)
+[2024.05.12-06.36.43:443][270]LogFbx: Loading FBX Scene from C:\Users\mikir\Downloads\Wardrobe.fbx
+[2024.05.12-06.36.44:705][270]LogFbx: FBX Scene Loaded Succesfully
+[2024.05.12-06.36.46:692][270]LogSlate: Window 'FBX Import Options' being destroyed
+[2024.05.12-06.36.46:887][270]LogFbxMaterialImport: Display: Unable to find Texture file G:\Blender\assets\models\designer_carpet__0ff89c80-dc5f-47b2-aa8b-a3bd76d1aee7\textures_1k\1.jpg
+[2024.05.12-06.36.46:900][270]LogFbx: Display: Triangulating static mesh Plane.001
+[2024.05.12-06.36.46:901][270]LogStaticMesh: Display: Building static mesh Wardrobe_Plane_001...
+[2024.05.12-06.36.46:904][270]LogStaticMesh: Built static mesh [0.00s] /Game/Art/Wardrobe/Wardrobe_Plane_001.Wardrobe_Plane_001
+[2024.05.12-06.36.46:942][270]LogFbx: Display: Triangulating static mesh Closet
+[2024.05.12-06.36.46:947][270]LogStaticMesh: Display: Building static mesh Wardrobe_Closet...
+[2024.05.12-06.36.46:950][270]LogStaticMesh: Built static mesh [0.00s] /Game/Art/Wardrobe/Wardrobe_Closet.Wardrobe_Closet
+[2024.05.12-06.36.46:988][270]LogFbx: Display: Triangulating static mesh Left Door
+[2024.05.12-06.36.46:990][270]LogStaticMesh: Display: Building static mesh Wardrobe_Left_Door...
+[2024.05.12-06.36.46:994][270]LogStaticMesh: Built static mesh [0.00s] /Game/Art/Wardrobe/Wardrobe_Left_Door.Wardrobe_Left_Door
+[2024.05.12-06.36.47:015][270]LogFbx: Display: Triangulating static mesh Right Door
+[2024.05.12-06.36.47:018][270]LogStaticMesh: Display: Building static mesh Wardrobe_Right_Door...
+[2024.05.12-06.36.47:021][270]LogStaticMesh: Built static mesh [0.00s] /Game/Art/Wardrobe/Wardrobe_Right_Door.Wardrobe_Right_Door
+[2024.05.12-06.36.47:048][270]LogFbx: Display: Triangulating static mesh LeftShelves
+[2024.05.12-06.36.47:052][270]LogStaticMesh: Display: Building static mesh Wardrobe_LeftShelves...
+[2024.05.12-06.36.47:055][270]LogStaticMesh: Built static mesh [0.00s] /Game/Art/Wardrobe/Wardrobe_LeftShelves.Wardrobe_LeftShelves
+[2024.05.12-06.36.47:082][270]LogFbx: Display: Triangulating static mesh Cylinder
+[2024.05.12-06.36.47:095][270]LogStaticMesh: Display: Building static mesh Wardrobe_Cylinder...
+[2024.05.12-06.36.47:102][270]LogStaticMesh: Built static mesh [0.01s] /Game/Art/Wardrobe/Wardrobe_Cylinder.Wardrobe_Cylinder
+[2024.05.12-06.36.47:120][270]LogFbx: Display: Triangulating static mesh Shelf
+[2024.05.12-06.36.47:121][270]LogStaticMesh: Display: Building static mesh Wardrobe_Shelf...
+[2024.05.12-06.36.47:123][270]LogStaticMesh: Built static mesh [0.00s] /Game/Art/Wardrobe/Wardrobe_Shelf.Wardrobe_Shelf
+[2024.05.12-06.36.47:157][270]LogFbx: Display: Triangulating static mesh Wall1
+[2024.05.12-06.36.47:159][270]LogStaticMesh: Display: Building static mesh Wardrobe_Wall1...
+[2024.05.12-06.36.47:163][270]LogStaticMesh: Built static mesh [0.00s] /Game/Art/Wardrobe/Wardrobe_Wall1.Wardrobe_Wall1
+[2024.05.12-06.36.47:184][270]LogFbx: Display: Triangulating static mesh Wall2
+[2024.05.12-06.36.47:185][270]LogStaticMesh: Display: Building static mesh Wardrobe_Wall2...
+[2024.05.12-06.36.47:189][270]LogStaticMesh: Built static mesh [0.00s] /Game/Art/Wardrobe/Wardrobe_Wall2.Wardrobe_Wall2
+[2024.05.12-06.36.47:189][270]LogStaticMesh: Warning: Wardrobe_Wall2 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2024.05.12-06.36.47:189][270]LogStaticMesh: Warning: Wardrobe_Wall2 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2024.05.12-06.36.47:217][270]LogFbx: Display: Triangulating static mesh Plane
+[2024.05.12-06.36.47:218][270]LogStaticMesh: Display: Building static mesh Wardrobe_Plane...
+[2024.05.12-06.36.47:220][270]LogStaticMesh: Built static mesh [0.00s] /Game/Art/Wardrobe/Wardrobe_Plane.Wardrobe_Plane
+[2024.05.12-06.36.47:253][270]LogFbx: Display: Triangulating static mesh PlantOrchidVase001.001
+[2024.05.12-06.36.48:777][270]LogStaticMesh: Display: Building static mesh Wardrobe_PlantOrchidVase001_001...
+[2024.05.12-06.36.49:678][270]LogStaticMesh: Built static mesh [0.90s] /Game/Art/Wardrobe/Wardrobe_PlantOrchidVase001_001.Wardrobe_PlantOrchidVase001_001
+[2024.05.12-06.36.49:940][270]LogFbx: Display: Triangulating static mesh PlantOrchid001.001
+[2024.05.12-06.36.50:824][270]LogMeshUtilities: Finished distance field build in 1.3s - 126x35x126 sparse distance field, 0.9Mb total, 0.0Mb always loaded, 100% occupied, 3 triangles, Wardrobe_Wall2
+[2024.05.12-06.36.54:816][270]LogStaticMesh: Display: Building static mesh Wardrobe_PlantOrchid001_001...
+[2024.05.12-06.36.56:624][270]LogStaticMesh: Built static mesh [1.81s] /Game/Art/Wardrobe/Wardrobe_PlantOrchid001_001.Wardrobe_PlantOrchid001_001
+[2024.05.12-06.36.57:288][270]LogFbx: Display: Triangulating static mesh PlantBanjoFigVase001.002
+[2024.05.12-06.37.02:096][270]LogStaticMesh: Display: Building static mesh Wardrobe_PlantBanjoFigVase001_002...
+[2024.05.12-06.37.03:872][270]LogStaticMesh: Built static mesh [1.78s] /Game/Art/Wardrobe/Wardrobe_PlantBanjoFigVase001_002.Wardrobe_PlantBanjoFigVase001_002
+[2024.05.12-06.37.04:624][270]LogFbx: Display: Triangulating static mesh PlantBanjoFig001.002
+[2024.05.12-06.37.25:988][270]LogStaticMesh: Display: Building static mesh Wardrobe_PlantBanjoFig001_002...
+[2024.05.12-06.37.34:489][270]LogStaticMesh: Built static mesh [8.50s] /Game/Art/Wardrobe/Wardrobe_PlantBanjoFig001_002.Wardrobe_PlantBanjoFig001_002
+[2024.05.12-06.37.36:318][270]LogMeshUtilities: Finished distance field build in 1.8s - 63x63x84 sparse distance field, 0.5Mb total, 0.0Mb always loaded, 84% occupied, 307549 triangles, Wardrobe_PlantBanjoFig001_002
+[2024.05.12-06.37.38:195][270]LogFbx: Display: Triangulating static mesh PlantMonsteraVase001.001
+[2024.05.12-06.37.43:454][270]LogStaticMesh: Display: Building static mesh Wardrobe_PlantMonsteraVase001_001...
+[2024.05.12-06.37.45:754][270]LogStaticMesh: Built static mesh [2.30s] /Game/Art/Wardrobe/Wardrobe_PlantMonsteraVase001_001.Wardrobe_PlantMonsteraVase001_001
+[2024.05.12-06.37.46:634][270]LogFbx: Display: Triangulating static mesh PlantMonstera001.001
+[2024.05.12-06.37.49:650][270]LogStaticMesh: Display: Building static mesh Wardrobe_PlantMonstera001_001...
+[2024.05.12-06.37.51:049][270]LogStaticMesh: Built static mesh [1.40s] /Game/Art/Wardrobe/Wardrobe_PlantMonstera001_001.Wardrobe_PlantMonstera001_001
+[2024.05.12-06.37.51:645][270]LogFbxMaterialImport: Display: Unable to find Texture file G:\blender_addons\SofaReversiReplica001\SofaReversiReplica001_COL_4K_METALNESS.jpg
+[2024.05.12-06.37.51:645][270]LogFbxMaterialImport: Display: Unable to find Texture file G:\blender_addons\SofaReversiReplica001\SofaReversiReplica001_ROUGHNESS_4K_METALNESS.jpg
+[2024.05.12-06.37.51:645][270]LogFbxMaterialImport: Display: Unable to find Texture file G:\blender_addons\SofaReversiReplica001\SofaReversiReplica001_NRM_4K_METALNESS.png
+[2024.05.12-06.37.51:661][270]LogFbx: Display: Triangulating static mesh SofaReversiReplica001.001
+[2024.05.12-06.37.57:141][270]LogStaticMesh: Display: Building static mesh Wardrobe_SofaReversiReplica001_001...
+[2024.05.12-06.37.59:891][270]LogStaticMesh: Built static mesh [2.75s] /Game/Art/Wardrobe/Wardrobe_SofaReversiReplica001_001.Wardrobe_SofaReversiReplica001_001
+[2024.05.12-06.38.01:044][270]LogFbxMaterialImport: Display: Unable to find Texture file G:\blender_addons\CoffeeTableNimbusGoldReplica001\CoffeeTableNimbusGoldReplica001_COL_3K_METALNESS.jpg
+[2024.05.12-06.38.01:044][270]LogFbxMaterialImport: Display: Unable to find Texture file G:\blender_addons\CoffeeTableNimbusGoldReplica001\CoffeeTableNimbusGoldReplica001_ROUGHNESS_3K_METALNESS.jpg
+[2024.05.12-06.38.01:045][270]LogFbxMaterialImport: Display: Unable to find Texture file G:\blender_addons\CoffeeTableNimbusGoldReplica001\CoffeeTableNimbusGoldReplica001_NRM_3K_METALNESS.png
+[2024.05.12-06.38.01:061][270]LogFbx: Display: Triangulating static mesh CoffeeTableNimbusGoldReplica001.001
+[2024.05.12-06.38.01:271][270]LogMeshUtilities: Finished distance field build in 1.4s - 56x126x49 sparse distance field, 0.6Mb total, 0.0Mb always loaded, 95% occupied, 79306 triangles, Wardrobe_SofaReversiReplica001_001
+[2024.05.12-06.38.02:188][270]LogStaticMesh: Display: Building static mesh Wardrobe_CoffeeTableNimbusGoldReplica001_001...
+[2024.05.12-06.38.02:815][270]LogStaticMesh: Built static mesh [0.63s] /Game/Art/Wardrobe/Wardrobe_CoffeeTableNimbusGoldReplica001_001.Wardrobe_CoffeeTableNimbusGoldReplica001_001
+[2024.05.12-06.38.03:149][270]LogFbxMaterialImport: Display: Unable to find Texture file G:\blender_addons\Headphones001\Headphones001_COL_2K.jpg
+[2024.05.12-06.38.03:150][270]LogFbxMaterialImport: Display: Unable to find Texture file G:\blender_addons\Headphones001\Headphones001_REFL_2K.jpg
+[2024.05.12-06.38.03:150][270]LogFbxMaterialImport: Display: Unable to find Texture file G:\blender_addons\Headphones001\Headphones001_NRM_2K.jpg
+[2024.05.12-06.38.03:175][270]LogFbx: Display: Triangulating static mesh Headphones001.001
+[2024.05.12-06.38.05:033][270]LogStaticMesh: Display: Building static mesh Wardrobe_Headphones001_001...
+[2024.05.12-06.38.06:359][270]LogStaticMesh: Built static mesh [1.33s] /Game/Art/Wardrobe/Wardrobe_Headphones001_001.Wardrobe_Headphones001_001
+[2024.05.12-06.38.06:547][270]LogFbx: Display: Triangulating static mesh GlasswareWhiskeySet002_HighballGlass.001
+[2024.05.12-06.38.07:173][270]LogStaticMesh: Display: Building static mesh Wardrobe_GlasswareWhiskeySet002_HighballGlass_001...
+[2024.05.12-06.38.07:304][270]LogStaticMesh: Built static mesh [0.13s] /Game/Art/Wardrobe/Wardrobe_GlasswareWhiskeySet002_HighballGlass_001.Wardrobe_GlasswareWhiskeySet002_HighballGlass_001
+[2024.05.12-06.38.08:097][270]LogFbx: Display: Triangulating static mesh GlasswareWhiskeySet002_DoubleGlass.001
+[2024.05.12-06.38.09:035][270]LogStaticMesh: Display: Building static mesh Wardrobe_GlasswareWhiskeySet002_DoubleGlass_001...
+[2024.05.12-06.38.09:162][270]LogStaticMesh: Built static mesh [0.13s] /Game/Art/Wardrobe/Wardrobe_GlasswareWhiskeySet002_DoubleGlass_001.Wardrobe_GlasswareWhiskeySet002_DoubleGlass_001
+[2024.05.12-06.38.09:219][270]LogFbx: Display: Triangulating static mesh GlasswareWhiskeySet002_Decanter.001
+[2024.05.12-06.38.09:955][270]LogStaticMesh: Display: Building static mesh Wardrobe_GlasswareWhiskeySet002_Decanter_001...
+[2024.05.12-06.38.10:334][270]LogStaticMesh: Built static mesh [0.38s] /Game/Art/Wardrobe/Wardrobe_GlasswareWhiskeySet002_Decanter_001.Wardrobe_GlasswareWhiskeySet002_Decanter_001
+[2024.05.12-06.38.11:480][270]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2024.05.12-06.38.11:480][270]FBXImport: Warning: Wardrobe_Wall2 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2024.05.12-06.38.11:480][270]FBXImport: Warning: Wardrobe_Wall2 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2024.05.12-06.38.14:907][273]LogShaderCompilers: Display: ================================================
+[2024.05.12-06.38.14:907][273]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.05.12-06.38.14:907][273]LogShaderCompilers: Display: Total job queries 1794, among them cache hits 182 (10.14%)
+[2024.05.12-06.38.14:907][273]LogShaderCompilers: Display: Tracking 1592 distinct input hashes that result in 136 distinct outputs (8.54%)
+[2024.05.12-06.38.14:907][273]LogShaderCompilers: Display: RAM used: 11.31 MB (0.01 GB) of 819.20 MB (0.80 GB) budget. Usage: 1.38%
+[2024.05.12-06.38.14:907][273]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.05.12-06.38.14:907][273]LogShaderCompilers: Display: Shaders Compiled: 1300
+[2024.05.12-06.38.14:907][273]LogShaderCompilers: Display: Jobs assigned 1304, completed 1300 (99.69%)
+[2024.05.12-06.38.14:907][273]LogShaderCompilers: Display: Average time worker was idle: 6.62 s
+[2024.05.12-06.38.14:907][273]LogShaderCompilers: Display: Time job spent in pending queue: average 3.36 s, longest 37.24 s
+[2024.05.12-06.38.14:907][273]LogShaderCompilers: Display: Job execution time: average 1.39 s, max 17.64 s
+[2024.05.12-06.38.14:907][273]LogShaderCompilers: Display: Job life time (pending + execution): average 4.77 s, max 38.75
+[2024.05.12-06.38.14:907][273]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 267.88 s
+[2024.05.12-06.38.14:907][273]LogShaderCompilers: Display: Jobs were issued in 1304 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.05.12-06.38.14:907][273]LogShaderCompilers: Display: Average processing rate: 4.85 jobs/sec
+[2024.05.12-06.38.14:907][273]LogShaderCompilers: Display: Total thread time: 1522.64 s
+[2024.05.12-06.38.14:907][273]LogShaderCompilers: Display: Total thread preprocess time: 99.59 s
+[2024.05.12-06.38.14:907][273]LogShaderCompilers: Display: Percentage time preprocessing: 6.54%
+[2024.05.12-06.38.14:907][273]LogShaderCompilers: Display: Effective parallelization: 5.68 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.05.12-06.38.14:907][273]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.05.12-06.38.14:907][273]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled   80 times, average 2.25 sec, max 16.43 sec, min 1.24 sec)
+[2024.05.12-06.38.14:907][273]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   80 times, average 2.10 sec, max 6.62 sec, min 1.30 sec)
+[2024.05.12-06.38.14:907][273]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled   80 times, average 1.71 sec, max 8.15 sec, min 0.86 sec)
+[2024.05.12-06.38.14:907][273]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled   80 times, average 1.30 sec, max 10.48 sec, min 0.48 sec)
+[2024.05.12-06.38.14:907][273]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled   82 times, average 1.15 sec, max 1.42 sec, min 1.02 sec)
+[2024.05.12-06.38.14:907][273]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.05.12-06.38.14:907][273]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 11.84% of total time (compiled   80 times, average 2.25 sec, max 16.43 sec, min 1.24 sec)
+[2024.05.12-06.38.14:907][273]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 11.03% of total time (compiled   80 times, average 2.10 sec, max 6.62 sec, min 1.30 sec)
+[2024.05.12-06.38.14:907][273]LogShaderCompilers: Display:                                                 FLumenCardVS - 9.00% of total time (compiled   80 times, average 1.71 sec, max 8.15 sec, min 0.86 sec)
+[2024.05.12-06.38.14:907][273]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 6.83% of total time (compiled   80 times, average 1.30 sec, max 10.48 sec, min 0.48 sec)
+[2024.05.12-06.38.14:907][273]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight - 6.17% of total time (compiled   82 times, average 1.15 sec, max 1.42 sec, min 1.02 sec)
+[2024.05.12-06.38.14:907][273]LogShaderCompilers: Display: ================================================
+[2024.05.12-06.38.16:618][299]LogSlate: Window 'Content Browser' being destroyed
+[2024.05.12-06.38.16:630][299]LogSlate: Window 'Content Browser' being destroyed
+[2024.05.12-06.38.18:301][349]LogSlate: Window 'Message Log' being destroyed
+[2024.05.12-06.38.18:325][349]LogSlate: Window 'Message Log' being destroyed
+[2024.05.12-06.38.18:581][364]LogMeshUtilities: Finished distance field build in 1.4s - 126x35x126 sparse distance field, 0.9Mb total, 0.0Mb always loaded, 100% occupied, 3 triangles, Wardrobe_Wall2
+[2024.05.12-06.38.21:455][496]LogMeshUtilities: Finished distance field build in 1.0s - 28x126x126 sparse distance field, 0.7Mb total, 0.0Mb always loaded, 100% occupied, 3 triangles, Wardrobe_Wall1
+[2024.05.12-06.38.23:618][586]LogMeshUtilities: Finished distance field build in 2.1s - 63x63x84 sparse distance field, 0.5Mb total, 0.0Mb always loaded, 84% occupied, 307549 triangles, Wardrobe_PlantBanjoFig001_002
+[2024.05.12-06.38.27:300][778]LogMeshUtilities: Finished distance field build in 1.5s - 56x126x49 sparse distance field, 0.6Mb total, 0.0Mb always loaded, 95% occupied, 79306 triangles, Wardrobe_SofaReversiReplica001_001
+[2024.05.12-06.38.59:362][392]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Art/Wardrobe/Wardrobe_Left_Door.Wardrobe_Left_Door
+[2024.05.12-06.38.59:514][392]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.12-06.38.59:913][392]LogViewport: Scene viewport resized to 1403x848, mode Windowed.
+[2024.05.12-06.39.10:400][831]LogSlate: Window 'Wardrobe_Left_Door' being destroyed
+[2024.05.12-06.39.10:428][831]LogSlate: Window 'Wardrobe_Left_Door' being destroyed
+[2024.05.12-06.39.10:476][831]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2024.05.12-06.39.10:477][831]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.12-06.39.42:077][964]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_Wall2.Wardrobe_Wall2
+[2024.05.12-06.39.42:077][964]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_Wall2.Wardrobe_Wall2
+[2024.05.12-06.39.42:080][964]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Wardrobe/Wardrobe_Wall2.Wardrobe_Wall2 as actor: StaticMeshActor /Game/FirstPerson/Maps/L_2.L_2:PersistentLevel.StaticMeshActor_6
+[2024.05.12-06.39.42:080][964]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_Closet.Wardrobe_Closet
+[2024.05.12-06.39.42:080][964]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_Closet.Wardrobe_Closet
+[2024.05.12-06.39.42:081][964]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Wardrobe/Wardrobe_Closet.Wardrobe_Closet as actor: StaticMeshActor /Game/FirstPerson/Maps/L_2.L_2:PersistentLevel.StaticMeshActor_37
+[2024.05.12-06.39.42:081][964]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_CoffeeTableNimbusGoldReplica001_001.Wardrobe_CoffeeTableNimbusGoldReplica001_001
+[2024.05.12-06.39.42:081][964]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_CoffeeTableNimbusGoldReplica001_001.Wardrobe_CoffeeTableNimbusGoldReplica001_001
+[2024.05.12-06.39.42:082][964]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Wardrobe/Wardrobe_CoffeeTableNimbusGoldReplica001_001.Wardrobe_CoffeeTableNimbusGoldReplica001_001 as actor: StaticMeshActor /Game/FirstPerson/Maps/L_2.L_2:PersistentLevel.StaticMeshActor_38
+[2024.05.12-06.39.42:083][964]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_Cylinder.Wardrobe_Cylinder
+[2024.05.12-06.39.42:083][964]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_Cylinder.Wardrobe_Cylinder
+[2024.05.12-06.39.42:084][964]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Wardrobe/Wardrobe_Cylinder.Wardrobe_Cylinder as actor: StaticMeshActor /Game/FirstPerson/Maps/L_2.L_2:PersistentLevel.StaticMeshActor_39
+[2024.05.12-06.39.42:085][964]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_GlasswareWhiskeySet002_Decanter_001.Wardrobe_GlasswareWhiskeySet002_Decanter_001
+[2024.05.12-06.39.42:085][964]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_GlasswareWhiskeySet002_Decanter_001.Wardrobe_GlasswareWhiskeySet002_Decanter_001
+[2024.05.12-06.39.42:085][964]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Wardrobe/Wardrobe_GlasswareWhiskeySet002_Decanter_001.Wardrobe_GlasswareWhiskeySet002_Decanter_001 as actor: StaticMeshActor /Game/FirstPerson/Maps/L_2.L_2:PersistentLevel.StaticMeshActor_43
+[2024.05.12-06.39.42:086][964]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_GlasswareWhiskeySet002_DoubleGlass_001.Wardrobe_GlasswareWhiskeySet002_DoubleGlass_001
+[2024.05.12-06.39.42:086][964]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_GlasswareWhiskeySet002_DoubleGlass_001.Wardrobe_GlasswareWhiskeySet002_DoubleGlass_001
+[2024.05.12-06.39.42:086][964]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Wardrobe/Wardrobe_GlasswareWhiskeySet002_DoubleGlass_001.Wardrobe_GlasswareWhiskeySet002_DoubleGlass_001 as actor: StaticMeshActor /Game/FirstPerson/Maps/L_2.L_2:PersistentLevel.StaticMeshActor_50
+[2024.05.12-06.39.42:086][964]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_GlasswareWhiskeySet002_HighballGlass_001.Wardrobe_GlasswareWhiskeySet002_HighballGlass_001
+[2024.05.12-06.39.42:086][964]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_GlasswareWhiskeySet002_HighballGlass_001.Wardrobe_GlasswareWhiskeySet002_HighballGlass_001
+[2024.05.12-06.39.42:087][964]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Wardrobe/Wardrobe_GlasswareWhiskeySet002_HighballGlass_001.Wardrobe_GlasswareWhiskeySet002_HighballGlass_001 as actor: StaticMeshActor /Game/FirstPerson/Maps/L_2.L_2:PersistentLevel.StaticMeshActor_65
+[2024.05.12-06.39.42:087][964]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_Headphones001_001.Wardrobe_Headphones001_001
+[2024.05.12-06.39.42:087][964]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_Headphones001_001.Wardrobe_Headphones001_001
+[2024.05.12-06.39.42:087][964]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Wardrobe/Wardrobe_Headphones001_001.Wardrobe_Headphones001_001 as actor: StaticMeshActor /Game/FirstPerson/Maps/L_2.L_2:PersistentLevel.StaticMeshActor_67
+[2024.05.12-06.39.42:088][964]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_Left_Door.Wardrobe_Left_Door
+[2024.05.12-06.39.42:088][964]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_Left_Door.Wardrobe_Left_Door
+[2024.05.12-06.39.42:088][964]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Wardrobe/Wardrobe_Left_Door.Wardrobe_Left_Door as actor: StaticMeshActor /Game/FirstPerson/Maps/L_2.L_2:PersistentLevel.StaticMeshActor_68
+[2024.05.12-06.39.42:089][964]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_LeftShelves.Wardrobe_LeftShelves
+[2024.05.12-06.39.42:089][964]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_LeftShelves.Wardrobe_LeftShelves
+[2024.05.12-06.39.42:089][964]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Wardrobe/Wardrobe_LeftShelves.Wardrobe_LeftShelves as actor: StaticMeshActor /Game/FirstPerson/Maps/L_2.L_2:PersistentLevel.StaticMeshActor_69
+[2024.05.12-06.39.42:090][964]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_Plane.Wardrobe_Plane
+[2024.05.12-06.39.42:090][964]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_Plane.Wardrobe_Plane
+[2024.05.12-06.39.42:090][964]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Wardrobe/Wardrobe_Plane.Wardrobe_Plane as actor: StaticMeshActor /Game/FirstPerson/Maps/L_2.L_2:PersistentLevel.StaticMeshActor_74
+[2024.05.12-06.39.42:091][964]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_Plane_001.Wardrobe_Plane_001
+[2024.05.12-06.39.42:091][964]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_Plane_001.Wardrobe_Plane_001
+[2024.05.12-06.39.42:091][964]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Wardrobe/Wardrobe_Plane_001.Wardrobe_Plane_001 as actor: StaticMeshActor /Game/FirstPerson/Maps/L_2.L_2:PersistentLevel.StaticMeshActor_75
+[2024.05.12-06.39.42:092][964]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_PlantBanjoFig001_002.Wardrobe_PlantBanjoFig001_002
+[2024.05.12-06.39.42:092][964]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_PlantBanjoFig001_002.Wardrobe_PlantBanjoFig001_002
+[2024.05.12-06.39.42:092][964]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Wardrobe/Wardrobe_PlantBanjoFig001_002.Wardrobe_PlantBanjoFig001_002 as actor: StaticMeshActor /Game/FirstPerson/Maps/L_2.L_2:PersistentLevel.StaticMeshActor_83
+[2024.05.12-06.39.42:093][964]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_PlantBanjoFigVase001_002.Wardrobe_PlantBanjoFigVase001_002
+[2024.05.12-06.39.42:093][964]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_PlantBanjoFigVase001_002.Wardrobe_PlantBanjoFigVase001_002
+[2024.05.12-06.39.42:093][964]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Wardrobe/Wardrobe_PlantBanjoFigVase001_002.Wardrobe_PlantBanjoFigVase001_002 as actor: StaticMeshActor /Game/FirstPerson/Maps/L_2.L_2:PersistentLevel.StaticMeshActor_85
+[2024.05.12-06.39.42:094][964]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_PlantMonstera001_001.Wardrobe_PlantMonstera001_001
+[2024.05.12-06.39.42:094][964]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_PlantMonstera001_001.Wardrobe_PlantMonstera001_001
+[2024.05.12-06.39.42:095][964]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Wardrobe/Wardrobe_PlantMonstera001_001.Wardrobe_PlantMonstera001_001 as actor: StaticMeshActor /Game/FirstPerson/Maps/L_2.L_2:PersistentLevel.StaticMeshActor_87
+[2024.05.12-06.39.42:097][964]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_PlantMonsteraVase001_001.Wardrobe_PlantMonsteraVase001_001
+[2024.05.12-06.39.42:097][964]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_PlantMonsteraVase001_001.Wardrobe_PlantMonsteraVase001_001
+[2024.05.12-06.39.42:098][964]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Wardrobe/Wardrobe_PlantMonsteraVase001_001.Wardrobe_PlantMonsteraVase001_001 as actor: StaticMeshActor /Game/FirstPerson/Maps/L_2.L_2:PersistentLevel.StaticMeshActor_90
+[2024.05.12-06.39.42:098][964]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_PlantOrchid001_001.Wardrobe_PlantOrchid001_001
+[2024.05.12-06.39.42:098][964]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_PlantOrchid001_001.Wardrobe_PlantOrchid001_001
+[2024.05.12-06.39.42:099][964]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Wardrobe/Wardrobe_PlantOrchid001_001.Wardrobe_PlantOrchid001_001 as actor: StaticMeshActor /Game/FirstPerson/Maps/L_2.L_2:PersistentLevel.StaticMeshActor_91
+[2024.05.12-06.39.42:099][964]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_PlantOrchidVase001_001.Wardrobe_PlantOrchidVase001_001
+[2024.05.12-06.39.42:099][964]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_PlantOrchidVase001_001.Wardrobe_PlantOrchidVase001_001
+[2024.05.12-06.39.42:100][964]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Wardrobe/Wardrobe_PlantOrchidVase001_001.Wardrobe_PlantOrchidVase001_001 as actor: StaticMeshActor /Game/FirstPerson/Maps/L_2.L_2:PersistentLevel.StaticMeshActor_140
+[2024.05.12-06.39.42:100][964]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_Right_Door.Wardrobe_Right_Door
+[2024.05.12-06.39.42:100][964]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_Right_Door.Wardrobe_Right_Door
+[2024.05.12-06.39.42:101][964]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Wardrobe/Wardrobe_Right_Door.Wardrobe_Right_Door as actor: StaticMeshActor /Game/FirstPerson/Maps/L_2.L_2:PersistentLevel.StaticMeshActor_145
+[2024.05.12-06.39.42:101][964]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_Shelf.Wardrobe_Shelf
+[2024.05.12-06.39.42:101][964]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_Shelf.Wardrobe_Shelf
+[2024.05.12-06.39.42:102][964]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Wardrobe/Wardrobe_Shelf.Wardrobe_Shelf as actor: StaticMeshActor /Game/FirstPerson/Maps/L_2.L_2:PersistentLevel.StaticMeshActor_146
+[2024.05.12-06.39.42:102][964]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_SofaReversiReplica001_001.Wardrobe_SofaReversiReplica001_001
+[2024.05.12-06.39.42:102][964]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_SofaReversiReplica001_001.Wardrobe_SofaReversiReplica001_001
+[2024.05.12-06.39.42:103][964]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Wardrobe/Wardrobe_SofaReversiReplica001_001.Wardrobe_SofaReversiReplica001_001 as actor: StaticMeshActor /Game/FirstPerson/Maps/L_2.L_2:PersistentLevel.StaticMeshActor_148
+[2024.05.12-06.39.42:104][964]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_Wall1.Wardrobe_Wall1
+[2024.05.12-06.39.42:104][964]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_Wall1.Wardrobe_Wall1
+[2024.05.12-06.39.42:104][964]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Wardrobe/Wardrobe_Wall1.Wardrobe_Wall1 as actor: StaticMeshActor /Game/FirstPerson/Maps/L_2.L_2:PersistentLevel.StaticMeshActor_150
+[2024.05.12-06.39.45:590][ 29]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_Wall2.Wardrobe_Wall2
+[2024.05.12-06.39.45:591][ 29]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_Wall2.Wardrobe_Wall2
+[2024.05.12-06.39.45:594][ 29]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Wardrobe/Wardrobe_Wall2.Wardrobe_Wall2 as actor: StaticMeshActor /Game/FirstPerson/Maps/L_2.L_2:PersistentLevel.StaticMeshActor_154
+[2024.05.12-06.39.45:640][ 29]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_Closet.Wardrobe_Closet
+[2024.05.12-06.39.45:640][ 29]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_Closet.Wardrobe_Closet
+[2024.05.12-06.39.45:641][ 29]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Wardrobe/Wardrobe_Closet.Wardrobe_Closet as actor: StaticMeshActor /Game/FirstPerson/Maps/L_2.L_2:PersistentLevel.StaticMeshActor_182
+[2024.05.12-06.39.45:669][ 29]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_CoffeeTableNimbusGoldReplica001_001.Wardrobe_CoffeeTableNimbusGoldReplica001_001
+[2024.05.12-06.39.45:669][ 29]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_CoffeeTableNimbusGoldReplica001_001.Wardrobe_CoffeeTableNimbusGoldReplica001_001
+[2024.05.12-06.39.45:671][ 29]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Wardrobe/Wardrobe_CoffeeTableNimbusGoldReplica001_001.Wardrobe_CoffeeTableNimbusGoldReplica001_001 as actor: StaticMeshActor /Game/FirstPerson/Maps/L_2.L_2:PersistentLevel.StaticMeshActor_184
+[2024.05.12-06.39.45:704][ 29]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_Cylinder.Wardrobe_Cylinder
+[2024.05.12-06.39.45:704][ 29]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_Cylinder.Wardrobe_Cylinder
+[2024.05.12-06.39.45:707][ 29]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Wardrobe/Wardrobe_Cylinder.Wardrobe_Cylinder as actor: StaticMeshActor /Game/FirstPerson/Maps/L_2.L_2:PersistentLevel.StaticMeshActor_218
+[2024.05.12-06.39.45:741][ 29]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_GlasswareWhiskeySet002_Decanter_001.Wardrobe_GlasswareWhiskeySet002_Decanter_001
+[2024.05.12-06.39.45:741][ 29]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_GlasswareWhiskeySet002_Decanter_001.Wardrobe_GlasswareWhiskeySet002_Decanter_001
+[2024.05.12-06.39.45:742][ 29]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Wardrobe/Wardrobe_GlasswareWhiskeySet002_Decanter_001.Wardrobe_GlasswareWhiskeySet002_Decanter_001 as actor: StaticMeshActor /Game/FirstPerson/Maps/L_2.L_2:PersistentLevel.StaticMeshActor_219
+[2024.05.12-06.39.45:776][ 29]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_GlasswareWhiskeySet002_DoubleGlass_001.Wardrobe_GlasswareWhiskeySet002_DoubleGlass_001
+[2024.05.12-06.39.45:776][ 29]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_GlasswareWhiskeySet002_DoubleGlass_001.Wardrobe_GlasswareWhiskeySet002_DoubleGlass_001
+[2024.05.12-06.39.45:778][ 29]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Wardrobe/Wardrobe_GlasswareWhiskeySet002_DoubleGlass_001.Wardrobe_GlasswareWhiskeySet002_DoubleGlass_001 as actor: StaticMeshActor /Game/FirstPerson/Maps/L_2.L_2:PersistentLevel.StaticMeshActor_220
+[2024.05.12-06.39.45:808][ 29]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_GlasswareWhiskeySet002_HighballGlass_001.Wardrobe_GlasswareWhiskeySet002_HighballGlass_001
+[2024.05.12-06.39.45:808][ 29]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_GlasswareWhiskeySet002_HighballGlass_001.Wardrobe_GlasswareWhiskeySet002_HighballGlass_001
+[2024.05.12-06.39.45:810][ 29]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Wardrobe/Wardrobe_GlasswareWhiskeySet002_HighballGlass_001.Wardrobe_GlasswareWhiskeySet002_HighballGlass_001 as actor: StaticMeshActor /Game/FirstPerson/Maps/L_2.L_2:PersistentLevel.StaticMeshActor_221
+[2024.05.12-06.39.45:842][ 29]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_Headphones001_001.Wardrobe_Headphones001_001
+[2024.05.12-06.39.45:842][ 29]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_Headphones001_001.Wardrobe_Headphones001_001
+[2024.05.12-06.39.45:844][ 29]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Wardrobe/Wardrobe_Headphones001_001.Wardrobe_Headphones001_001 as actor: StaticMeshActor /Game/FirstPerson/Maps/L_2.L_2:PersistentLevel.StaticMeshActor_223
+[2024.05.12-06.39.45:875][ 29]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_Left_Door.Wardrobe_Left_Door
+[2024.05.12-06.39.45:875][ 29]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_Left_Door.Wardrobe_Left_Door
+[2024.05.12-06.39.45:877][ 29]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Wardrobe/Wardrobe_Left_Door.Wardrobe_Left_Door as actor: StaticMeshActor /Game/FirstPerson/Maps/L_2.L_2:PersistentLevel.StaticMeshActor_224
+[2024.05.12-06.39.45:911][ 29]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_LeftShelves.Wardrobe_LeftShelves
+[2024.05.12-06.39.45:911][ 29]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_LeftShelves.Wardrobe_LeftShelves
+[2024.05.12-06.39.45:912][ 29]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Wardrobe/Wardrobe_LeftShelves.Wardrobe_LeftShelves as actor: StaticMeshActor /Game/FirstPerson/Maps/L_2.L_2:PersistentLevel.StaticMeshActor_225
+[2024.05.12-06.39.45:945][ 29]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_Plane.Wardrobe_Plane
+[2024.05.12-06.39.45:945][ 29]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_Plane.Wardrobe_Plane
+[2024.05.12-06.39.45:947][ 29]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Wardrobe/Wardrobe_Plane.Wardrobe_Plane as actor: StaticMeshActor /Game/FirstPerson/Maps/L_2.L_2:PersistentLevel.StaticMeshActor_226
+[2024.05.12-06.39.45:981][ 29]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_Plane_001.Wardrobe_Plane_001
+[2024.05.12-06.39.45:981][ 29]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_Plane_001.Wardrobe_Plane_001
+[2024.05.12-06.39.45:983][ 29]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Wardrobe/Wardrobe_Plane_001.Wardrobe_Plane_001 as actor: StaticMeshActor /Game/FirstPerson/Maps/L_2.L_2:PersistentLevel.StaticMeshActor_227
+[2024.05.12-06.39.46:019][ 29]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_PlantBanjoFig001_002.Wardrobe_PlantBanjoFig001_002
+[2024.05.12-06.39.46:019][ 29]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_PlantBanjoFig001_002.Wardrobe_PlantBanjoFig001_002
+[2024.05.12-06.39.46:021][ 29]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Wardrobe/Wardrobe_PlantBanjoFig001_002.Wardrobe_PlantBanjoFig001_002 as actor: StaticMeshActor /Game/FirstPerson/Maps/L_2.L_2:PersistentLevel.StaticMeshActor_228
+[2024.05.12-06.39.46:061][ 29]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_PlantBanjoFigVase001_002.Wardrobe_PlantBanjoFigVase001_002
+[2024.05.12-06.39.46:061][ 29]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_PlantBanjoFigVase001_002.Wardrobe_PlantBanjoFigVase001_002
+[2024.05.12-06.39.46:063][ 29]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Wardrobe/Wardrobe_PlantBanjoFigVase001_002.Wardrobe_PlantBanjoFigVase001_002 as actor: StaticMeshActor /Game/FirstPerson/Maps/L_2.L_2:PersistentLevel.StaticMeshActor_229
+[2024.05.12-06.39.46:099][ 29]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_PlantMonstera001_001.Wardrobe_PlantMonstera001_001
+[2024.05.12-06.39.46:099][ 29]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_PlantMonstera001_001.Wardrobe_PlantMonstera001_001
+[2024.05.12-06.39.46:101][ 29]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Wardrobe/Wardrobe_PlantMonstera001_001.Wardrobe_PlantMonstera001_001 as actor: StaticMeshActor /Game/FirstPerson/Maps/L_2.L_2:PersistentLevel.StaticMeshActor_230
+[2024.05.12-06.39.46:136][ 29]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_PlantMonsteraVase001_001.Wardrobe_PlantMonsteraVase001_001
+[2024.05.12-06.39.46:136][ 29]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_PlantMonsteraVase001_001.Wardrobe_PlantMonsteraVase001_001
+[2024.05.12-06.39.46:138][ 29]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Wardrobe/Wardrobe_PlantMonsteraVase001_001.Wardrobe_PlantMonsteraVase001_001 as actor: StaticMeshActor /Game/FirstPerson/Maps/L_2.L_2:PersistentLevel.StaticMeshActor_231
+[2024.05.12-06.39.46:179][ 29]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_PlantOrchid001_001.Wardrobe_PlantOrchid001_001
+[2024.05.12-06.39.46:179][ 29]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_PlantOrchid001_001.Wardrobe_PlantOrchid001_001
+[2024.05.12-06.39.46:182][ 29]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Wardrobe/Wardrobe_PlantOrchid001_001.Wardrobe_PlantOrchid001_001 as actor: StaticMeshActor /Game/FirstPerson/Maps/L_2.L_2:PersistentLevel.StaticMeshActor_232
+[2024.05.12-06.39.46:215][ 29]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_PlantOrchidVase001_001.Wardrobe_PlantOrchidVase001_001
+[2024.05.12-06.39.46:215][ 29]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_PlantOrchidVase001_001.Wardrobe_PlantOrchidVase001_001
+[2024.05.12-06.39.46:217][ 29]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Wardrobe/Wardrobe_PlantOrchidVase001_001.Wardrobe_PlantOrchidVase001_001 as actor: StaticMeshActor /Game/FirstPerson/Maps/L_2.L_2:PersistentLevel.StaticMeshActor_233
+[2024.05.12-06.39.46:251][ 29]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_Right_Door.Wardrobe_Right_Door
+[2024.05.12-06.39.46:252][ 29]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_Right_Door.Wardrobe_Right_Door
+[2024.05.12-06.39.46:253][ 29]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Wardrobe/Wardrobe_Right_Door.Wardrobe_Right_Door as actor: StaticMeshActor /Game/FirstPerson/Maps/L_2.L_2:PersistentLevel.StaticMeshActor_234
+[2024.05.12-06.39.46:285][ 29]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_Shelf.Wardrobe_Shelf
+[2024.05.12-06.39.46:285][ 29]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_Shelf.Wardrobe_Shelf
+[2024.05.12-06.39.46:287][ 29]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Wardrobe/Wardrobe_Shelf.Wardrobe_Shelf as actor: StaticMeshActor /Game/FirstPerson/Maps/L_2.L_2:PersistentLevel.StaticMeshActor_238
+[2024.05.12-06.39.46:317][ 29]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_SofaReversiReplica001_001.Wardrobe_SofaReversiReplica001_001
+[2024.05.12-06.39.46:317][ 29]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_SofaReversiReplica001_001.Wardrobe_SofaReversiReplica001_001
+[2024.05.12-06.39.46:319][ 29]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Wardrobe/Wardrobe_SofaReversiReplica001_001.Wardrobe_SofaReversiReplica001_001 as actor: StaticMeshActor /Game/FirstPerson/Maps/L_2.L_2:PersistentLevel.StaticMeshActor_239
+[2024.05.12-06.39.46:354][ 29]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_Wall1.Wardrobe_Wall1
+[2024.05.12-06.39.46:355][ 29]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_Wall1.Wardrobe_Wall1
+[2024.05.12-06.39.46:356][ 29]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Wardrobe/Wardrobe_Wall1.Wardrobe_Wall1 as actor: StaticMeshActor /Game/FirstPerson/Maps/L_2.L_2:PersistentLevel.StaticMeshActor_240
+[2024.05.12-06.40.04:843][ 23]Cmd: DELETE
+[2024.05.12-06.40.04:844][ 23]Cmd: ACTOR DELETE
+[2024.05.12-06.40.05:666][ 23]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behavior for '/Game/Planet_System/Textures/Render_02_edited_Alpha.Render_02_edited_Alpha', its maximum texture size has been explicitly set to 512.
+[2024.05.12-06.40.05:815][ 23]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (Bed_1) ...
+[2024.05.12-06.40.06:327][ 23]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.12-06.40.06:328][ 23]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.12-06.40.06:329][ 23]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.12-06.40.06:331][ 23]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.12-06.40.06:332][ 23]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.12-06.40.06:333][ 23]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.12-06.40.06:334][ 23]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.12-06.40.06:335][ 23]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.12-06.40.06:336][ 23]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.12-06.40.06:337][ 23]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.12-06.40.06:337][ 23]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.12-06.40.06:338][ 23]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.12-06.40.06:339][ 23]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.12-06.40.06:340][ 23]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.12-06.40.06:341][ 23]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.12-06.40.06:341][ 23]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.12-06.40.06:342][ 23]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.12-06.40.06:343][ 23]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.12-06.40.06:344][ 23]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.12-06.40.06:345][ 23]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.12-06.40.06:347][ 23]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.12-06.40.06:347][ 23]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.12-06.40.06:471][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   4.29ms
+[2024.05.12-06.40.06:482][ 23]LogEditorActor: Deleted 22 Actors (1.616 secs)
+[2024.05.12-06.40.14:377][315]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_Wall2.Wardrobe_Wall2
+[2024.05.12-06.40.14:377][315]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_Wall2.Wardrobe_Wall2
+[2024.05.12-06.40.14:378][315]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Wardrobe/Wardrobe_Wall2.Wardrobe_Wall2 as actor: StaticMeshActor /Game/FirstPerson/Maps/L_2.L_2:PersistentLevel.StaticMeshActor_241
+[2024.05.12-06.40.14:378][315]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_Closet.Wardrobe_Closet
+[2024.05.12-06.40.14:379][315]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_Closet.Wardrobe_Closet
+[2024.05.12-06.40.14:379][315]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Wardrobe/Wardrobe_Closet.Wardrobe_Closet as actor: StaticMeshActor /Game/FirstPerson/Maps/L_2.L_2:PersistentLevel.StaticMeshActor_242
+[2024.05.12-06.40.14:379][315]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_CoffeeTableNimbusGoldReplica001_001.Wardrobe_CoffeeTableNimbusGoldReplica001_001
+[2024.05.12-06.40.14:379][315]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_CoffeeTableNimbusGoldReplica001_001.Wardrobe_CoffeeTableNimbusGoldReplica001_001
+[2024.05.12-06.40.14:380][315]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Wardrobe/Wardrobe_CoffeeTableNimbusGoldReplica001_001.Wardrobe_CoffeeTableNimbusGoldReplica001_001 as actor: StaticMeshActor /Game/FirstPerson/Maps/L_2.L_2:PersistentLevel.StaticMeshActor_243
+[2024.05.12-06.40.14:380][315]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_Cylinder.Wardrobe_Cylinder
+[2024.05.12-06.40.14:380][315]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_Cylinder.Wardrobe_Cylinder
+[2024.05.12-06.40.14:381][315]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Wardrobe/Wardrobe_Cylinder.Wardrobe_Cylinder as actor: StaticMeshActor /Game/FirstPerson/Maps/L_2.L_2:PersistentLevel.StaticMeshActor_244
+[2024.05.12-06.40.14:381][315]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_GlasswareWhiskeySet002_Decanter_001.Wardrobe_GlasswareWhiskeySet002_Decanter_001
+[2024.05.12-06.40.14:381][315]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_GlasswareWhiskeySet002_Decanter_001.Wardrobe_GlasswareWhiskeySet002_Decanter_001
+[2024.05.12-06.40.14:381][315]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Wardrobe/Wardrobe_GlasswareWhiskeySet002_Decanter_001.Wardrobe_GlasswareWhiskeySet002_Decanter_001 as actor: StaticMeshActor /Game/FirstPerson/Maps/L_2.L_2:PersistentLevel.StaticMeshActor_245
+[2024.05.12-06.40.14:382][315]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_GlasswareWhiskeySet002_DoubleGlass_001.Wardrobe_GlasswareWhiskeySet002_DoubleGlass_001
+[2024.05.12-06.40.14:382][315]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_GlasswareWhiskeySet002_DoubleGlass_001.Wardrobe_GlasswareWhiskeySet002_DoubleGlass_001
+[2024.05.12-06.40.14:382][315]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Wardrobe/Wardrobe_GlasswareWhiskeySet002_DoubleGlass_001.Wardrobe_GlasswareWhiskeySet002_DoubleGlass_001 as actor: StaticMeshActor /Game/FirstPerson/Maps/L_2.L_2:PersistentLevel.StaticMeshActor_246
+[2024.05.12-06.40.14:382][315]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_GlasswareWhiskeySet002_HighballGlass_001.Wardrobe_GlasswareWhiskeySet002_HighballGlass_001
+[2024.05.12-06.40.14:382][315]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_GlasswareWhiskeySet002_HighballGlass_001.Wardrobe_GlasswareWhiskeySet002_HighballGlass_001
+[2024.05.12-06.40.14:382][315]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Wardrobe/Wardrobe_GlasswareWhiskeySet002_HighballGlass_001.Wardrobe_GlasswareWhiskeySet002_HighballGlass_001 as actor: StaticMeshActor /Game/FirstPerson/Maps/L_2.L_2:PersistentLevel.StaticMeshActor_247
+[2024.05.12-06.40.14:383][315]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_Headphones001_001.Wardrobe_Headphones001_001
+[2024.05.12-06.40.14:383][315]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_Headphones001_001.Wardrobe_Headphones001_001
+[2024.05.12-06.40.14:383][315]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Wardrobe/Wardrobe_Headphones001_001.Wardrobe_Headphones001_001 as actor: StaticMeshActor /Game/FirstPerson/Maps/L_2.L_2:PersistentLevel.StaticMeshActor_248
+[2024.05.12-06.40.14:383][315]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_Left_Door.Wardrobe_Left_Door
+[2024.05.12-06.40.14:383][315]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_Left_Door.Wardrobe_Left_Door
+[2024.05.12-06.40.14:384][315]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Wardrobe/Wardrobe_Left_Door.Wardrobe_Left_Door as actor: StaticMeshActor /Game/FirstPerson/Maps/L_2.L_2:PersistentLevel.StaticMeshActor_249
+[2024.05.12-06.40.14:384][315]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_LeftShelves.Wardrobe_LeftShelves
+[2024.05.12-06.40.14:384][315]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_LeftShelves.Wardrobe_LeftShelves
+[2024.05.12-06.40.14:384][315]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Wardrobe/Wardrobe_LeftShelves.Wardrobe_LeftShelves as actor: StaticMeshActor /Game/FirstPerson/Maps/L_2.L_2:PersistentLevel.StaticMeshActor_250
+[2024.05.12-06.40.14:385][315]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_Plane.Wardrobe_Plane
+[2024.05.12-06.40.14:385][315]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_Plane.Wardrobe_Plane
+[2024.05.12-06.40.14:385][315]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Wardrobe/Wardrobe_Plane.Wardrobe_Plane as actor: StaticMeshActor /Game/FirstPerson/Maps/L_2.L_2:PersistentLevel.StaticMeshActor_251
+[2024.05.12-06.40.14:385][315]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_Plane_001.Wardrobe_Plane_001
+[2024.05.12-06.40.14:385][315]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_Plane_001.Wardrobe_Plane_001
+[2024.05.12-06.40.14:385][315]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Wardrobe/Wardrobe_Plane_001.Wardrobe_Plane_001 as actor: StaticMeshActor /Game/FirstPerson/Maps/L_2.L_2:PersistentLevel.StaticMeshActor_252
+[2024.05.12-06.40.14:385][315]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_PlantBanjoFig001_002.Wardrobe_PlantBanjoFig001_002
+[2024.05.12-06.40.14:385][315]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_PlantBanjoFig001_002.Wardrobe_PlantBanjoFig001_002
+[2024.05.12-06.40.14:387][315]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Wardrobe/Wardrobe_PlantBanjoFig001_002.Wardrobe_PlantBanjoFig001_002 as actor: StaticMeshActor /Game/FirstPerson/Maps/L_2.L_2:PersistentLevel.StaticMeshActor_253
+[2024.05.12-06.40.14:387][315]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_PlantBanjoFigVase001_002.Wardrobe_PlantBanjoFigVase001_002
+[2024.05.12-06.40.14:387][315]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_PlantBanjoFigVase001_002.Wardrobe_PlantBanjoFigVase001_002
+[2024.05.12-06.40.14:388][315]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Wardrobe/Wardrobe_PlantBanjoFigVase001_002.Wardrobe_PlantBanjoFigVase001_002 as actor: StaticMeshActor /Game/FirstPerson/Maps/L_2.L_2:PersistentLevel.StaticMeshActor_254
+[2024.05.12-06.40.14:388][315]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_PlantMonstera001_001.Wardrobe_PlantMonstera001_001
+[2024.05.12-06.40.14:388][315]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_PlantMonstera001_001.Wardrobe_PlantMonstera001_001
+[2024.05.12-06.40.14:389][315]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Wardrobe/Wardrobe_PlantMonstera001_001.Wardrobe_PlantMonstera001_001 as actor: StaticMeshActor /Game/FirstPerson/Maps/L_2.L_2:PersistentLevel.StaticMeshActor_255
+[2024.05.12-06.40.14:389][315]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_PlantMonsteraVase001_001.Wardrobe_PlantMonsteraVase001_001
+[2024.05.12-06.40.14:389][315]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_PlantMonsteraVase001_001.Wardrobe_PlantMonsteraVase001_001
+[2024.05.12-06.40.14:389][315]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Wardrobe/Wardrobe_PlantMonsteraVase001_001.Wardrobe_PlantMonsteraVase001_001 as actor: StaticMeshActor /Game/FirstPerson/Maps/L_2.L_2:PersistentLevel.StaticMeshActor_256
+[2024.05.12-06.40.14:390][315]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_PlantOrchid001_001.Wardrobe_PlantOrchid001_001
+[2024.05.12-06.40.14:390][315]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_PlantOrchid001_001.Wardrobe_PlantOrchid001_001
+[2024.05.12-06.40.14:390][315]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Wardrobe/Wardrobe_PlantOrchid001_001.Wardrobe_PlantOrchid001_001 as actor: StaticMeshActor /Game/FirstPerson/Maps/L_2.L_2:PersistentLevel.StaticMeshActor_257
+[2024.05.12-06.40.14:390][315]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_PlantOrchidVase001_001.Wardrobe_PlantOrchidVase001_001
+[2024.05.12-06.40.14:390][315]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_PlantOrchidVase001_001.Wardrobe_PlantOrchidVase001_001
+[2024.05.12-06.40.14:391][315]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Wardrobe/Wardrobe_PlantOrchidVase001_001.Wardrobe_PlantOrchidVase001_001 as actor: StaticMeshActor /Game/FirstPerson/Maps/L_2.L_2:PersistentLevel.StaticMeshActor_258
+[2024.05.12-06.40.14:391][315]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_Right_Door.Wardrobe_Right_Door
+[2024.05.12-06.40.14:391][315]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_Right_Door.Wardrobe_Right_Door
+[2024.05.12-06.40.14:391][315]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Wardrobe/Wardrobe_Right_Door.Wardrobe_Right_Door as actor: StaticMeshActor /Game/FirstPerson/Maps/L_2.L_2:PersistentLevel.StaticMeshActor_259
+[2024.05.12-06.40.14:392][315]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_Shelf.Wardrobe_Shelf
+[2024.05.12-06.40.14:392][315]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_Shelf.Wardrobe_Shelf
+[2024.05.12-06.40.14:392][315]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Wardrobe/Wardrobe_Shelf.Wardrobe_Shelf as actor: StaticMeshActor /Game/FirstPerson/Maps/L_2.L_2:PersistentLevel.StaticMeshActor_260
+[2024.05.12-06.40.14:392][315]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_SofaReversiReplica001_001.Wardrobe_SofaReversiReplica001_001
+[2024.05.12-06.40.14:392][315]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_SofaReversiReplica001_001.Wardrobe_SofaReversiReplica001_001
+[2024.05.12-06.40.14:393][315]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Wardrobe/Wardrobe_SofaReversiReplica001_001.Wardrobe_SofaReversiReplica001_001 as actor: StaticMeshActor /Game/FirstPerson/Maps/L_2.L_2:PersistentLevel.StaticMeshActor_261
+[2024.05.12-06.40.14:393][315]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_Wall1.Wardrobe_Wall1
+[2024.05.12-06.40.14:393][315]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_Wall1.Wardrobe_Wall1
+[2024.05.12-06.40.14:393][315]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Wardrobe/Wardrobe_Wall1.Wardrobe_Wall1 as actor: StaticMeshActor /Game/FirstPerson/Maps/L_2.L_2:PersistentLevel.StaticMeshActor_262
+[2024.05.12-06.40.18:209][423]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_Wall2.Wardrobe_Wall2
+[2024.05.12-06.40.18:209][423]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_Wall2.Wardrobe_Wall2
+[2024.05.12-06.40.18:211][423]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Wardrobe/Wardrobe_Wall2.Wardrobe_Wall2 as actor: StaticMeshActor /Game/FirstPerson/Maps/L_2.L_2:PersistentLevel.StaticMeshActor_263
+[2024.05.12-06.40.18:228][423]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_Closet.Wardrobe_Closet
+[2024.05.12-06.40.18:228][423]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_Closet.Wardrobe_Closet
+[2024.05.12-06.40.18:229][423]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Wardrobe/Wardrobe_Closet.Wardrobe_Closet as actor: StaticMeshActor /Game/FirstPerson/Maps/L_2.L_2:PersistentLevel.StaticMeshActor_264
+[2024.05.12-06.40.18:246][423]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_CoffeeTableNimbusGoldReplica001_001.Wardrobe_CoffeeTableNimbusGoldReplica001_001
+[2024.05.12-06.40.18:246][423]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_CoffeeTableNimbusGoldReplica001_001.Wardrobe_CoffeeTableNimbusGoldReplica001_001
+[2024.05.12-06.40.18:247][423]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Wardrobe/Wardrobe_CoffeeTableNimbusGoldReplica001_001.Wardrobe_CoffeeTableNimbusGoldReplica001_001 as actor: StaticMeshActor /Game/FirstPerson/Maps/L_2.L_2:PersistentLevel.StaticMeshActor_265
+[2024.05.12-06.40.18:266][423]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_Cylinder.Wardrobe_Cylinder
+[2024.05.12-06.40.18:266][423]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_Cylinder.Wardrobe_Cylinder
+[2024.05.12-06.40.18:267][423]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Wardrobe/Wardrobe_Cylinder.Wardrobe_Cylinder as actor: StaticMeshActor /Game/FirstPerson/Maps/L_2.L_2:PersistentLevel.StaticMeshActor_266
+[2024.05.12-06.40.18:286][423]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_GlasswareWhiskeySet002_Decanter_001.Wardrobe_GlasswareWhiskeySet002_Decanter_001
+[2024.05.12-06.40.18:286][423]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_GlasswareWhiskeySet002_Decanter_001.Wardrobe_GlasswareWhiskeySet002_Decanter_001
+[2024.05.12-06.40.18:288][423]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Wardrobe/Wardrobe_GlasswareWhiskeySet002_Decanter_001.Wardrobe_GlasswareWhiskeySet002_Decanter_001 as actor: StaticMeshActor /Game/FirstPerson/Maps/L_2.L_2:PersistentLevel.StaticMeshActor_267
+[2024.05.12-06.40.18:305][423]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_GlasswareWhiskeySet002_DoubleGlass_001.Wardrobe_GlasswareWhiskeySet002_DoubleGlass_001
+[2024.05.12-06.40.18:305][423]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_GlasswareWhiskeySet002_DoubleGlass_001.Wardrobe_GlasswareWhiskeySet002_DoubleGlass_001
+[2024.05.12-06.40.18:307][423]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Wardrobe/Wardrobe_GlasswareWhiskeySet002_DoubleGlass_001.Wardrobe_GlasswareWhiskeySet002_DoubleGlass_001 as actor: StaticMeshActor /Game/FirstPerson/Maps/L_2.L_2:PersistentLevel.StaticMeshActor_268
+[2024.05.12-06.40.18:329][423]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_GlasswareWhiskeySet002_HighballGlass_001.Wardrobe_GlasswareWhiskeySet002_HighballGlass_001
+[2024.05.12-06.40.18:329][423]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_GlasswareWhiskeySet002_HighballGlass_001.Wardrobe_GlasswareWhiskeySet002_HighballGlass_001
+[2024.05.12-06.40.18:330][423]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Wardrobe/Wardrobe_GlasswareWhiskeySet002_HighballGlass_001.Wardrobe_GlasswareWhiskeySet002_HighballGlass_001 as actor: StaticMeshActor /Game/FirstPerson/Maps/L_2.L_2:PersistentLevel.StaticMeshActor_269
+[2024.05.12-06.40.18:352][423]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_Headphones001_001.Wardrobe_Headphones001_001
+[2024.05.12-06.40.18:352][423]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_Headphones001_001.Wardrobe_Headphones001_001
+[2024.05.12-06.40.18:353][423]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Wardrobe/Wardrobe_Headphones001_001.Wardrobe_Headphones001_001 as actor: StaticMeshActor /Game/FirstPerson/Maps/L_2.L_2:PersistentLevel.StaticMeshActor_270
+[2024.05.12-06.40.18:372][423]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_Left_Door.Wardrobe_Left_Door
+[2024.05.12-06.40.18:372][423]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_Left_Door.Wardrobe_Left_Door
+[2024.05.12-06.40.18:373][423]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Wardrobe/Wardrobe_Left_Door.Wardrobe_Left_Door as actor: StaticMeshActor /Game/FirstPerson/Maps/L_2.L_2:PersistentLevel.StaticMeshActor_271
+[2024.05.12-06.40.18:393][423]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_LeftShelves.Wardrobe_LeftShelves
+[2024.05.12-06.40.18:393][423]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_LeftShelves.Wardrobe_LeftShelves
+[2024.05.12-06.40.18:394][423]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Wardrobe/Wardrobe_LeftShelves.Wardrobe_LeftShelves as actor: StaticMeshActor /Game/FirstPerson/Maps/L_2.L_2:PersistentLevel.StaticMeshActor_272
+[2024.05.12-06.40.18:424][423]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_Plane.Wardrobe_Plane
+[2024.05.12-06.40.18:424][423]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_Plane.Wardrobe_Plane
+[2024.05.12-06.40.18:425][423]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Wardrobe/Wardrobe_Plane.Wardrobe_Plane as actor: StaticMeshActor /Game/FirstPerson/Maps/L_2.L_2:PersistentLevel.StaticMeshActor_273
+[2024.05.12-06.40.18:454][423]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_Plane_001.Wardrobe_Plane_001
+[2024.05.12-06.40.18:454][423]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_Plane_001.Wardrobe_Plane_001
+[2024.05.12-06.40.18:455][423]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Wardrobe/Wardrobe_Plane_001.Wardrobe_Plane_001 as actor: StaticMeshActor /Game/FirstPerson/Maps/L_2.L_2:PersistentLevel.StaticMeshActor_274
+[2024.05.12-06.40.18:492][423]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_PlantBanjoFig001_002.Wardrobe_PlantBanjoFig001_002
+[2024.05.12-06.40.18:492][423]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_PlantBanjoFig001_002.Wardrobe_PlantBanjoFig001_002
+[2024.05.12-06.40.18:494][423]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Wardrobe/Wardrobe_PlantBanjoFig001_002.Wardrobe_PlantBanjoFig001_002 as actor: StaticMeshActor /Game/FirstPerson/Maps/L_2.L_2:PersistentLevel.StaticMeshActor_275
+[2024.05.12-06.40.18:539][423]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_PlantBanjoFigVase001_002.Wardrobe_PlantBanjoFigVase001_002
+[2024.05.12-06.40.18:539][423]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_PlantBanjoFigVase001_002.Wardrobe_PlantBanjoFigVase001_002
+[2024.05.12-06.40.18:540][423]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Wardrobe/Wardrobe_PlantBanjoFigVase001_002.Wardrobe_PlantBanjoFigVase001_002 as actor: StaticMeshActor /Game/FirstPerson/Maps/L_2.L_2:PersistentLevel.StaticMeshActor_276
+[2024.05.12-06.40.18:568][423]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_PlantMonstera001_001.Wardrobe_PlantMonstera001_001
+[2024.05.12-06.40.18:568][423]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_PlantMonstera001_001.Wardrobe_PlantMonstera001_001
+[2024.05.12-06.40.18:570][423]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Wardrobe/Wardrobe_PlantMonstera001_001.Wardrobe_PlantMonstera001_001 as actor: StaticMeshActor /Game/FirstPerson/Maps/L_2.L_2:PersistentLevel.StaticMeshActor_277
+[2024.05.12-06.40.18:599][423]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_PlantMonsteraVase001_001.Wardrobe_PlantMonsteraVase001_001
+[2024.05.12-06.40.18:599][423]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_PlantMonsteraVase001_001.Wardrobe_PlantMonsteraVase001_001
+[2024.05.12-06.40.18:601][423]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Wardrobe/Wardrobe_PlantMonsteraVase001_001.Wardrobe_PlantMonsteraVase001_001 as actor: StaticMeshActor /Game/FirstPerson/Maps/L_2.L_2:PersistentLevel.StaticMeshActor_278
+[2024.05.12-06.40.18:629][423]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_PlantOrchid001_001.Wardrobe_PlantOrchid001_001
+[2024.05.12-06.40.18:629][423]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_PlantOrchid001_001.Wardrobe_PlantOrchid001_001
+[2024.05.12-06.40.18:631][423]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Wardrobe/Wardrobe_PlantOrchid001_001.Wardrobe_PlantOrchid001_001 as actor: StaticMeshActor /Game/FirstPerson/Maps/L_2.L_2:PersistentLevel.StaticMeshActor_279
+[2024.05.12-06.40.18:652][423]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_PlantOrchidVase001_001.Wardrobe_PlantOrchidVase001_001
+[2024.05.12-06.40.18:652][423]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_PlantOrchidVase001_001.Wardrobe_PlantOrchidVase001_001
+[2024.05.12-06.40.18:653][423]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Wardrobe/Wardrobe_PlantOrchidVase001_001.Wardrobe_PlantOrchidVase001_001 as actor: StaticMeshActor /Game/FirstPerson/Maps/L_2.L_2:PersistentLevel.StaticMeshActor_280
+[2024.05.12-06.40.18:669][423]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_Right_Door.Wardrobe_Right_Door
+[2024.05.12-06.40.18:670][423]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_Right_Door.Wardrobe_Right_Door
+[2024.05.12-06.40.18:671][423]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Wardrobe/Wardrobe_Right_Door.Wardrobe_Right_Door as actor: StaticMeshActor /Game/FirstPerson/Maps/L_2.L_2:PersistentLevel.StaticMeshActor_281
+[2024.05.12-06.40.18:687][423]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_Shelf.Wardrobe_Shelf
+[2024.05.12-06.40.18:688][423]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_Shelf.Wardrobe_Shelf
+[2024.05.12-06.40.18:689][423]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Wardrobe/Wardrobe_Shelf.Wardrobe_Shelf as actor: StaticMeshActor /Game/FirstPerson/Maps/L_2.L_2:PersistentLevel.StaticMeshActor_282
+[2024.05.12-06.40.18:707][423]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_SofaReversiReplica001_001.Wardrobe_SofaReversiReplica001_001
+[2024.05.12-06.40.18:707][423]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_SofaReversiReplica001_001.Wardrobe_SofaReversiReplica001_001
+[2024.05.12-06.40.18:709][423]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Wardrobe/Wardrobe_SofaReversiReplica001_001.Wardrobe_SofaReversiReplica001_001 as actor: StaticMeshActor /Game/FirstPerson/Maps/L_2.L_2:PersistentLevel.StaticMeshActor_283
+[2024.05.12-06.40.18:727][423]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_Wall1.Wardrobe_Wall1
+[2024.05.12-06.40.18:727][423]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_Wall1.Wardrobe_Wall1
+[2024.05.12-06.40.18:727][423]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Wardrobe/Wardrobe_Wall1.Wardrobe_Wall1 as actor: StaticMeshActor /Game/FirstPerson/Maps/L_2.L_2:PersistentLevel.StaticMeshActor_284
+[2024.05.12-06.40.20:087][467]Cmd: DELETE
+[2024.05.12-06.40.20:087][467]Cmd: ACTOR DELETE
+[2024.05.12-06.40.20:102][467]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.12-06.40.20:104][467]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.12-06.40.20:105][467]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.12-06.40.20:105][467]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.12-06.40.20:107][467]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.12-06.40.20:107][467]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.12-06.40.20:108][467]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.12-06.40.20:109][467]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.12-06.40.20:110][467]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.12-06.40.20:111][467]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.12-06.40.20:112][467]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.12-06.40.20:113][467]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.12-06.40.20:114][467]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.12-06.40.20:115][467]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.12-06.40.20:116][467]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.12-06.40.20:117][467]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.12-06.40.20:117][467]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.12-06.40.20:118][467]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.12-06.40.20:118][467]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.12-06.40.20:120][467]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.12-06.40.20:121][467]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.12-06.40.20:122][467]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.12-06.40.20:196][467]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2024.05.12-06.40.20:205][467]LogEditorActor: Deleted 22 Actors (0.118 secs)
+[2024.05.12-06.40.23:108][604]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_Closet.Wardrobe_Closet
+[2024.05.12-06.40.23:108][604]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_Closet.Wardrobe_Closet
+[2024.05.12-06.40.23:110][604]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Wardrobe/Wardrobe_Closet.Wardrobe_Closet as actor: StaticMeshActor /Game/FirstPerson/Maps/L_2.L_2:PersistentLevel.StaticMeshActor_285
+[2024.05.12-06.40.24:381][664]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_Closet.Wardrobe_Closet
+[2024.05.12-06.40.24:381][664]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_Closet.Wardrobe_Closet
+[2024.05.12-06.40.24:383][664]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Wardrobe/Wardrobe_Closet.Wardrobe_Closet as actor: StaticMeshActor /Game/FirstPerson/Maps/L_2.L_2:PersistentLevel.StaticMeshActor_286
+[2024.05.12-06.40.28:405][896]Cmd: DELETE
+[2024.05.12-06.40.28:405][896]Cmd: ACTOR DELETE
+[2024.05.12-06.40.28:421][896]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.12-06.40.28:453][896]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2024.05.12-06.40.28:461][896]LogEditorActor: Deleted 1 Actors (0.054 secs)
+[2024.05.12-06.41.09:148][ 93]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPerson/Blueprints/BP_Pressure_Plate.BP_Pressure_Plate
+[2024.05.12-06.41.09:149][ 93]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.12-06.41.11:408][151]LogViewport: Scene viewport resized to 1130x593, mode Windowed.
+[2024.05.12-06.41.19:736][446]LogStaticMesh: Display: Building static mesh Pressure_plate...
+[2024.05.12-06.41.19:742][446]LogStaticMesh: Built static mesh [0.01s] /Game/Art/SmallObjects/Pressure_plate.Pressure_plate
+[2024.05.12-06.41.19:775][446]LogShaderCompilers: Display: ================================================
+[2024.05.12-06.41.19:775][446]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.05.12-06.41.19:775][446]LogShaderCompilers: Display: Total job queries 1923, among them cache hits 220 (11.44%)
+[2024.05.12-06.41.19:775][446]LogShaderCompilers: Display: Tracking 1703 distinct input hashes that result in 146 distinct outputs (8.57%)
+[2024.05.12-06.41.19:775][446]LogShaderCompilers: Display: RAM used: 11.97 MB (0.01 GB) of 819.20 MB (0.80 GB) budget. Usage: 1.46%
+[2024.05.12-06.41.19:775][446]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.05.12-06.41.19:775][446]LogShaderCompilers: Display: Shaders Compiled: 1384
+[2024.05.12-06.41.19:775][446]LogShaderCompilers: Display: Jobs assigned 1384, completed 1384 (100.00%)
+[2024.05.12-06.41.19:775][446]LogShaderCompilers: Display: Average time worker was idle: 7.66 s
+[2024.05.12-06.41.19:775][446]LogShaderCompilers: Display: Time job spent in pending queue: average 3.40 s, longest 37.24 s
+[2024.05.12-06.41.19:775][446]LogShaderCompilers: Display: Job execution time: average 1.46 s, max 17.64 s
+[2024.05.12-06.41.19:775][446]LogShaderCompilers: Display: Job life time (pending + execution): average 4.86 s, max 38.75
+[2024.05.12-06.41.19:775][446]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 296.70 s
+[2024.05.12-06.41.19:775][446]LogShaderCompilers: Display: Jobs were issued in 1384 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.05.12-06.41.19:775][446]LogShaderCompilers: Display: Average processing rate: 4.66 jobs/sec
+[2024.05.12-06.41.19:775][446]LogShaderCompilers: Display: Total thread time: 1619.52 s
+[2024.05.12-06.41.19:775][446]LogShaderCompilers: Display: Total thread preprocess time: 105.28 s
+[2024.05.12-06.41.19:775][446]LogShaderCompilers: Display: Percentage time preprocessing: 6.50%
+[2024.05.12-06.41.19:775][446]LogShaderCompilers: Display: Effective parallelization: 5.46 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.05.12-06.41.19:777][446]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.05.12-06.41.19:777][446]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled   94 times, average 2.12 sec, max 16.43 sec, min 1.10 sec)
+[2024.05.12-06.41.19:777][446]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   94 times, average 2.00 sec, max 6.62 sec, min 1.06 sec)
+[2024.05.12-06.41.19:777][446]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled   94 times, average 1.63 sec, max 8.15 sec, min 0.86 sec)
+[2024.05.12-06.41.19:777][446]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled   94 times, average 1.22 sec, max 10.48 sec, min 0.48 sec)
+[2024.05.12-06.41.19:777][446]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled   82 times, average 1.15 sec, max 1.42 sec, min 1.02 sec)
+[2024.05.12-06.41.19:777][446]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.05.12-06.41.19:777][446]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 12.29% of total time (compiled   94 times, average 2.12 sec, max 16.43 sec, min 1.10 sec)
+[2024.05.12-06.41.19:777][446]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 11.60% of total time (compiled   94 times, average 2.00 sec, max 6.62 sec, min 1.06 sec)
+[2024.05.12-06.41.19:777][446]LogShaderCompilers: Display:                                                 FLumenCardVS - 9.48% of total time (compiled   94 times, average 1.63 sec, max 8.15 sec, min 0.86 sec)
+[2024.05.12-06.41.19:777][446]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 7.05% of total time (compiled   94 times, average 1.22 sec, max 10.48 sec, min 0.48 sec)
+[2024.05.12-06.41.19:777][446]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy - 6.33% of total time (compiled   94 times, average 1.09 sec, max 1.36 sec, min 0.77 sec)
+[2024.05.12-06.41.19:777][446]LogShaderCompilers: Display: ================================================
+[2024.05.12-06.41.31:499][908]BlueprintLog: New page: Compile BP_Pressure_Plate
+[2024.05.12-06.41.31:584][908]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2024.05.12-06.41.31:606][908]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.12-06.41.31:781][908]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_Pressure_Plate
+[2024.05.12-06.41.31:782][908]LogSavePackage: Moving '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/BP_Pressure_Plate7B2C854B4C8DED2294267F890BF06C1D.tmp' to '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/FirstPerson/Blueprints/BP_Pressure_Plate.uasset'
+[2024.05.12-06.41.31:813][908]LogFileHelpers: InternalPromptForCheckoutAndSave took 205 ms (total: 3:09 min)
+[2024.05.12-06.41.31:824][908]AssetCheck: New page: Asset Save: BP_Pressure_Plate
+[2024.05.12-06.41.31:824][908]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_Pressure_Plate.BP_Pressure_Plate
+[2024.05.12-06.41.33:324][963]LogSlate: Window 'BP_Pressure_Plate' being destroyed
+[2024.05.12-06.41.33:336][963]LogSlate: Window 'BP_Pressure_Plate' being destroyed
+[2024.05.12-06.41.33:345][963]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2024.05.12-06.41.33:345][963]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.12-06.41.40:133][346]Cmd: TRANSACTION UNDO
+[2024.05.12-06.41.40:135][346]LogEditorTransaction: Undo Move Elements
+[2024.05.12-06.41.55:587][218]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2024.05.12-06.41.55:614][218]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.12-06.41.55:757][218]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Maps/L_2" FILE="../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/FirstPerson/Maps/L_2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.05.12-06.41.55:817][218]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2024.05.12-06.41.55:993][218]LogSavePackage: Moving output files for package: /Game/FirstPerson/Maps/L_2
+[2024.05.12-06.41.55:993][218]LogSavePackage: Moving '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/L_24E2E75364DE0A90EAE2D8D851A5254F9.tmp' to '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/FirstPerson/Maps/L_2.umap'
+[2024.05.12-06.41.56:028][218]LogFileHelpers: No new changes to save!
+[2024.05.12-06.41.56:028][218]LogFileHelpers: Saving map 'L_2' took 0.273
+[2024.05.12-06.41.56:053][218]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Wardrobe/Wardrobe_Plane_001" FILE="../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/Art/Wardrobe/Wardrobe_Plane_001.uasset" SILENT=true
+[2024.05.12-06.41.56:056][218]LogSavePackage: Moving output files for package: /Game/Art/Wardrobe/Wardrobe_Plane_001
+[2024.05.12-06.41.56:056][218]LogSavePackage: Moving '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/Wardrobe_Plane_00150268D5245E85479F6DD75B02A8D4C12.tmp' to '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/Art/Wardrobe/Wardrobe_Plane_001.uasset'
+[2024.05.12-06.41.58:077][218]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2024.05.12-06.41.58:740][218]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.003747s (0.664676s overbudget)
+[2024.05.12-06.41.58:772][218]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Wardrobe/carpet" FILE="../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/Art/Wardrobe/carpet.uasset" SILENT=true
+[2024.05.12-06.41.58:775][218]LogSavePackage: Moving output files for package: /Game/Art/Wardrobe/carpet
+[2024.05.12-06.41.58:775][218]LogSavePackage: Moving '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/carpetEEC3CA814AE32BCC300886A14EB57C69.tmp' to '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/Art/Wardrobe/carpet.uasset'
+[2024.05.12-06.41.58:802][218]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Wardrobe/Wardrobe_Closet" FILE="../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/Art/Wardrobe/Wardrobe_Closet.uasset" SILENT=true
+[2024.05.12-06.41.58:812][218]LogSavePackage: Moving output files for package: /Game/Art/Wardrobe/Wardrobe_Closet
+[2024.05.12-06.41.58:813][218]LogSavePackage: Moving '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/Wardrobe_Closet871A61574B040C1760F464BF95CE6DBA.tmp' to '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/Art/Wardrobe/Wardrobe_Closet.uasset'
+[2024.05.12-06.42.00:777][218]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Wardrobe/Plastic_01" FILE="../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/Art/Wardrobe/Plastic_01.uasset" SILENT=true
+[2024.05.12-06.42.00:780][218]LogSavePackage: Moving output files for package: /Game/Art/Wardrobe/Plastic_01
+[2024.05.12-06.42.00:781][218]LogSavePackage: Moving '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/Plastic_01EB14874B4E01662134A688B21B9AF639.tmp' to '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/Art/Wardrobe/Plastic_01.uasset'
+[2024.05.12-06.42.00:814][218]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Wardrobe/Wardrobe_Left_Door" FILE="../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/Art/Wardrobe/Wardrobe_Left_Door.uasset" SILENT=true
+[2024.05.12-06.42.00:820][218]LogSavePackage: Moving output files for package: /Game/Art/Wardrobe/Wardrobe_Left_Door
+[2024.05.12-06.42.00:820][218]LogSavePackage: Moving '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/Wardrobe_Left_Door1D33C63C490745F76142ECB74605DD51.tmp' to '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/Art/Wardrobe/Wardrobe_Left_Door.uasset'
+[2024.05.12-06.42.02:857][218]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2024.05.12-06.42.02:900][218]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.003135s (0.045962s overbudget)
+[2024.05.12-06.42.02:943][218]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Wardrobe/Plastic_Gold" FILE="../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/Art/Wardrobe/Plastic_Gold.uasset" SILENT=true
+[2024.05.12-06.42.02:945][218]LogSavePackage: Moving output files for package: /Game/Art/Wardrobe/Plastic_Gold
+[2024.05.12-06.42.02:945][218]LogSavePackage: Moving '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/Plastic_GoldA4D2C79947751C8F13B768A9B2147783.tmp' to '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/Art/Wardrobe/Plastic_Gold.uasset'
+[2024.05.12-06.42.02:974][218]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Wardrobe/Wardrobe_Right_Door" FILE="../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/Art/Wardrobe/Wardrobe_Right_Door.uasset" SILENT=true
+[2024.05.12-06.42.02:981][218]LogSavePackage: Moving output files for package: /Game/Art/Wardrobe/Wardrobe_Right_Door
+[2024.05.12-06.42.02:981][218]LogSavePackage: Moving '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/Wardrobe_Right_Door188303EA4AAD65FA940CD180A43636C3.tmp' to '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/Art/Wardrobe/Wardrobe_Right_Door.uasset'
+[2024.05.12-06.42.03:013][218]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Wardrobe/Wardrobe_LeftShelves" FILE="../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/Art/Wardrobe/Wardrobe_LeftShelves.uasset" SILENT=true
+[2024.05.12-06.42.03:017][218]LogSavePackage: Moving output files for package: /Game/Art/Wardrobe/Wardrobe_LeftShelves
+[2024.05.12-06.42.03:017][218]LogSavePackage: Moving '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/Wardrobe_LeftShelves069088884949A61F769B0F98635D4BB9.tmp' to '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/Art/Wardrobe/Wardrobe_LeftShelves.uasset'
+[2024.05.12-06.42.03:078][218]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Wardrobe/Black_Plastic" FILE="../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/Art/Wardrobe/Black_Plastic.uasset" SILENT=true
+[2024.05.12-06.42.03:080][218]LogSavePackage: Moving output files for package: /Game/Art/Wardrobe/Black_Plastic
+[2024.05.12-06.42.03:080][218]LogSavePackage: Moving '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/Black_Plastic4A1E23264C489B4D388893A0B0FBA750.tmp' to '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/Art/Wardrobe/Black_Plastic.uasset'
+[2024.05.12-06.42.03:110][218]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Wardrobe/Wardrobe_Cylinder" FILE="../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/Art/Wardrobe/Wardrobe_Cylinder.uasset" SILENT=true
+[2024.05.12-06.42.03:126][218]LogSavePackage: Moving output files for package: /Game/Art/Wardrobe/Wardrobe_Cylinder
+[2024.05.12-06.42.03:126][218]LogSavePackage: Moving '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/Wardrobe_CylinderB379D79245F106501DBC97ACB7343080.tmp' to '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/Art/Wardrobe/Wardrobe_Cylinder.uasset'
+[2024.05.12-06.42.03:157][218]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Wardrobe/Wardrobe_Shelf" FILE="../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/Art/Wardrobe/Wardrobe_Shelf.uasset" SILENT=true
+[2024.05.12-06.42.03:161][218]LogSavePackage: Moving output files for package: /Game/Art/Wardrobe/Wardrobe_Shelf
+[2024.05.12-06.42.03:161][218]LogSavePackage: Moving '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/Wardrobe_ShelfA25084394E9A21F52D6157BC61F94B75.tmp' to '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/Art/Wardrobe/Wardrobe_Shelf.uasset'
+[2024.05.12-06.42.03:189][218]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Wardrobe/Wardrobe_Wall1" FILE="../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/Art/Wardrobe/Wardrobe_Wall1.uasset" SILENT=true
+[2024.05.12-06.42.03:194][218]LogSavePackage: Moving output files for package: /Game/Art/Wardrobe/Wardrobe_Wall1
+[2024.05.12-06.42.03:194][218]LogSavePackage: Moving '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/Wardrobe_Wall12A695B2C4A6DF8050212AB8A970FB8CC.tmp' to '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/Art/Wardrobe/Wardrobe_Wall1.uasset'
+[2024.05.12-06.42.05:218][218]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2024.05.12-06.42.05:373][218]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.002698s (0.157529s overbudget)
+[2024.05.12-06.42.05:399][218]LogSavePackage: Moving output files for package: /Game/Art/Wardrobe/StoneBricksSplitface001_4K
+[2024.05.12-06.42.05:399][218]LogSavePackage: Moving '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/StoneBricksSplitface001_4K378246AD4C1B724765C624A66D810B6C.tmp' to '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/Art/Wardrobe/StoneBricksSplitface001_4K.uasset'
+[2024.05.12-06.42.05:423][218]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Wardrobe/Wardrobe_Wall2" FILE="../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/Art/Wardrobe/Wardrobe_Wall2.uasset" SILENT=true
+[2024.05.12-06.42.05:427][218]LogSavePackage: Moving output files for package: /Game/Art/Wardrobe/Wardrobe_Wall2
+[2024.05.12-06.42.05:427][218]LogSavePackage: Moving '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/Wardrobe_Wall2A18BE3204277FBB2DD6DDF8E68F9BF4C.tmp' to '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/Art/Wardrobe/Wardrobe_Wall2.uasset'
+[2024.05.12-06.42.05:451][218]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Wardrobe/Wardrobe_Plane" FILE="../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/Art/Wardrobe/Wardrobe_Plane.uasset" SILENT=true
+[2024.05.12-06.42.05:454][218]LogSavePackage: Moving output files for package: /Game/Art/Wardrobe/Wardrobe_Plane
+[2024.05.12-06.42.05:454][218]LogSavePackage: Moving '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/Wardrobe_Plane7638A1E249657401E88FAEAD51AB9238.tmp' to '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/Art/Wardrobe/Wardrobe_Plane.uasset'
+[2024.05.12-06.42.07:504][218]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Wardrobe/TilesSlateSquare001_2K" FILE="../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/Art/Wardrobe/TilesSlateSquare001_2K.uasset" SILENT=true
+[2024.05.12-06.42.07:511][218]LogSavePackage: Moving output files for package: /Game/Art/Wardrobe/TilesSlateSquare001_2K
+[2024.05.12-06.42.07:512][218]LogSavePackage: Moving '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/TilesSlateSquare001_2K318D58EC4404B908A5D31EA25FDDAAE2.tmp' to '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/Art/Wardrobe/TilesSlateSquare001_2K.uasset'
+[2024.05.12-06.42.07:631][218]LogSavePackage: Moving output files for package: /Game/Art/Wardrobe/Wardrobe_PlantOrchidVase001_001
+[2024.05.12-06.42.07:631][218]LogSavePackage: Moving '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/Wardrobe_PlantOrchidVase001_001B5CA7E694844DF4ED8A150A1D7820D0D.tmp' to '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/Art/Wardrobe/Wardrobe_PlantOrchidVase001_001.uasset'
+[2024.05.12-06.42.09:481][218]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Wardrobe/PlantOrchid001_2K" FILE="../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/Art/Wardrobe/PlantOrchid001_2K.uasset" SILENT=true
+[2024.05.12-06.42.09:487][218]LogSavePackage: Moving output files for package: /Game/Art/Wardrobe/PlantOrchid001_2K
+[2024.05.12-06.42.09:487][218]LogSavePackage: Moving '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/PlantOrchid001_2KDB36C33C48917DD27A79A183AA4FD937.tmp' to '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/Art/Wardrobe/PlantOrchid001_2K.uasset'
+[2024.05.12-06.42.09:627][218]LogSavePackage: Moving output files for package: /Game/Art/Wardrobe/Wardrobe_PlantOrchid001_001
+[2024.05.12-06.42.09:628][218]LogSavePackage: Moving '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/Wardrobe_PlantOrchid001_001A46509F54A90127881CF3A96179ADF5B.tmp' to '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/Art/Wardrobe/Wardrobe_PlantOrchid001_001.uasset'
+[2024.05.12-06.42.09:754][218]LogSavePackage: Moving output files for package: /Game/Art/Wardrobe/Wardrobe_PlantBanjoFigVase001_002
+[2024.05.12-06.42.09:755][218]LogSavePackage: Moving '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/Wardrobe_PlantBanjoFigVase001_009292454D4190CC2CF453DCBB1FBE508A.tmp' to '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/Art/Wardrobe/Wardrobe_PlantBanjoFigVase001_002.uasset'
+[2024.05.12-06.42.11:774][218]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2024.05.12-06.42.11:780][218]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.000212s (0.008066s overbudget)
+[2024.05.12-06.42.11:822][218]LogSavePackage: Moving output files for package: /Game/Art/Wardrobe/PlantBanjoFigVase001_4K
+[2024.05.12-06.42.11:822][218]LogSavePackage: Moving '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/PlantBanjoFigVase001_4K8F4E397E4C8325984E7AB4B192B92664.tmp' to '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/Art/Wardrobe/PlantBanjoFigVase001_4K.uasset'
+[2024.05.12-06.42.12:399][218]LogSavePackage: Moving output files for package: /Game/Art/Wardrobe/Wardrobe_PlantBanjoFig001_002
+[2024.05.12-06.42.12:399][218]LogSavePackage: Moving '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/Wardrobe_PlantBanjoFig001_0025C055DEC45E5688EB8D8E3BB8E46318E.tmp' to '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/Art/Wardrobe/Wardrobe_PlantBanjoFig001_002.uasset'
+[2024.05.12-06.42.14:238][218]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Wardrobe/PlantBanjoFig001_4K" FILE="../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/Art/Wardrobe/PlantBanjoFig001_4K.uasset" SILENT=true
+[2024.05.12-06.42.14:244][218]LogSavePackage: Moving output files for package: /Game/Art/Wardrobe/PlantBanjoFig001_4K
+[2024.05.12-06.42.14:244][218]LogSavePackage: Moving '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/PlantBanjoFig001_4KA695F2CC46BBC6A8B3F67FA6AD47620F.tmp' to '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/Art/Wardrobe/PlantBanjoFig001_4K.uasset'
+[2024.05.12-06.42.14:437][218]LogSavePackage: Moving output files for package: /Game/Art/Wardrobe/Wardrobe_PlantMonsteraVase001_001
+[2024.05.12-06.42.14:437][218]LogSavePackage: Moving '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/Wardrobe_PlantMonsteraVase001_00AC3C42454DEF31F6E91D6B84CD3063BD.tmp' to '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/Art/Wardrobe/Wardrobe_PlantMonsteraVase001_001.uasset'
+[2024.05.12-06.42.16:265][218]LogSavePackage: Moving output files for package: /Game/Art/Wardrobe/PlantMonsteraVase001_4K
+[2024.05.12-06.42.16:265][218]LogSavePackage: Moving '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/PlantMonsteraVase001_4K7C802C92436D556A80A5DE8E75AD63FC.tmp' to '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/Art/Wardrobe/PlantMonsteraVase001_4K.uasset'
+[2024.05.12-06.42.16:387][218]LogSavePackage: Moving output files for package: /Game/Art/Wardrobe/Wardrobe_PlantMonstera001_001
+[2024.05.12-06.42.16:387][218]LogSavePackage: Moving '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/Wardrobe_PlantMonstera001_001F0D237594A13AB5300F82AA5BA94AE7B.tmp' to '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/Art/Wardrobe/Wardrobe_PlantMonstera001_001.uasset'
+[2024.05.12-06.42.18:165][218]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Wardrobe/PlantMonstera001_4K" FILE="../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/Art/Wardrobe/PlantMonstera001_4K.uasset" SILENT=true
+[2024.05.12-06.42.18:172][218]LogSavePackage: Moving output files for package: /Game/Art/Wardrobe/PlantMonstera001_4K
+[2024.05.12-06.42.18:172][218]LogSavePackage: Moving '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/PlantMonstera001_4KE7A7F5784E7CF4C825B733997B8394D1.tmp' to '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/Art/Wardrobe/PlantMonstera001_4K.uasset'
+[2024.05.12-06.42.18:363][218]LogSavePackage: Moving output files for package: /Game/Art/Wardrobe/Wardrobe_SofaReversiReplica001_001
+[2024.05.12-06.42.18:364][218]LogSavePackage: Moving '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/Wardrobe_SofaReversiReplica001_037F9878E4A7C76DD2B7CE39B09337C27.tmp' to '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/Art/Wardrobe/Wardrobe_SofaReversiReplica001_001.uasset'
+[2024.05.12-06.42.20:272][218]LogSavePackage: Moving output files for package: /Game/Art/Wardrobe/SofaReversiReplica001_4K
+[2024.05.12-06.42.20:273][218]LogSavePackage: Moving '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/SofaReversiReplica001_4KF05A0C9547E97143925BC5B4A88C2D49.tmp' to '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/Art/Wardrobe/SofaReversiReplica001_4K.uasset'
+[2024.05.12-06.42.20:370][218]LogSavePackage: Moving output files for package: /Game/Art/Wardrobe/Wardrobe_CoffeeTableNimbusGoldReplica001_001
+[2024.05.12-06.42.20:370][218]LogSavePackage: Moving '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/Wardrobe_CoffeeTableNimbusGoldRe575CDB81448510639BD0B5B6D90385FF.tmp' to '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/Art/Wardrobe/Wardrobe_CoffeeTableNimbusGoldReplica001_001.uasset'
+[2024.05.12-06.42.22:161][218]LogSavePackage: Moving output files for package: /Game/Art/Wardrobe/CoffeeTableNimbusGoldReplica001_3K
+[2024.05.12-06.42.22:161][218]LogSavePackage: Moving '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/CoffeeTableNimbusGoldReplica001_C13ADCEC489D093EB7954F88E256A4C3.tmp' to '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/Art/Wardrobe/CoffeeTableNimbusGoldReplica001_3K.uasset'
+[2024.05.12-06.42.22:259][218]LogSavePackage: Moving output files for package: /Game/Art/Wardrobe/Wardrobe_Headphones001_001
+[2024.05.12-06.42.22:259][218]LogSavePackage: Moving '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/Wardrobe_Headphones001_00116944CD64DB4276A009A5C85E398B010.tmp' to '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/Art/Wardrobe/Wardrobe_Headphones001_001.uasset'
+[2024.05.12-06.42.24:149][218]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Wardrobe/Headphones001_2K" FILE="../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/Art/Wardrobe/Headphones001_2K.uasset" SILENT=true
+[2024.05.12-06.42.24:151][218]LogSavePackage: Moving output files for package: /Game/Art/Wardrobe/Headphones001_2K
+[2024.05.12-06.42.24:151][218]LogSavePackage: Moving '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/Headphones001_2KC9560CDA46C69844D7753D966715F532.tmp' to '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/Art/Wardrobe/Headphones001_2K.uasset'
+[2024.05.12-06.42.24:210][218]LogSavePackage: Moving output files for package: /Game/Art/Wardrobe/Wardrobe_GlasswareWhiskeySet002_HighballGlass_001
+[2024.05.12-06.42.24:210][218]LogSavePackage: Moving '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/Wardrobe_GlasswareWhiskeySet002_0770FB7346138B78F989349DCDD1942E.tmp' to '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/Art/Wardrobe/Wardrobe_GlasswareWhiskeySet002_HighballGlass_001.uasset'
+[2024.05.12-06.42.26:242][218]LogSavePackage: Moving output files for package: /Game/Art/Wardrobe/GlasswareWhiskeySet002_2K
+[2024.05.12-06.42.26:242][218]LogSavePackage: Moving '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/GlasswareWhiskeySet002_2KCFD2CB594C48728BF2B10D9F395378C7.tmp' to '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/Art/Wardrobe/GlasswareWhiskeySet002_2K.uasset'
+[2024.05.12-06.42.26:275][218]LogSavePackage: Moving output files for package: /Game/Art/Wardrobe/Wardrobe_GlasswareWhiskeySet002_DoubleGlass_001
+[2024.05.12-06.42.26:275][218]LogSavePackage: Moving '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/Wardrobe_GlasswareWhiskeySet002_2ECCB75B414B5B6CC6096EB3CB5E416F.tmp' to '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/Art/Wardrobe/Wardrobe_GlasswareWhiskeySet002_DoubleGlass_001.uasset'
+[2024.05.12-06.42.26:319][218]LogSavePackage: Moving output files for package: /Game/Art/Wardrobe/Wardrobe_GlasswareWhiskeySet002_Decanter_001
+[2024.05.12-06.42.26:319][218]LogSavePackage: Moving '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/Wardrobe_GlasswareWhiskeySet002_E0B95960487CD1CA912988A382326ED7.tmp' to '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/Art/Wardrobe/Wardrobe_GlasswareWhiskeySet002_Decanter_001.uasset'
+[2024.05.12-06.42.26:330][218]LogFileHelpers: InternalPromptForCheckoutAndSave took 30.7 sec (total: 3:40 min)
+[2024.05.12-06.42.26:351][218]AssetCheck: New page: Asset Save: multiple assets
+[2024.05.12-06.42.26:351][218]LogContentValidation: Display: Validating /Script/Engine.World /Game/FirstPerson/Maps/L_2.L_2
+[2024.05.12-06.42.26:351][218]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Art/Wardrobe/Wardrobe_GlasswareWhiskeySet002_Decanter_001.Wardrobe_GlasswareWhiskeySet002_Decanter_001
+[2024.05.12-06.42.26:351][218]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Art/Wardrobe/Wardrobe_GlasswareWhiskeySet002_DoubleGlass_001.Wardrobe_GlasswareWhiskeySet002_DoubleGlass_001
+[2024.05.12-06.42.26:351][218]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Art/Wardrobe/GlasswareWhiskeySet002_2K.GlasswareWhiskeySet002_2K
+[2024.05.12-06.42.26:351][218]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Art/Wardrobe/Wardrobe_GlasswareWhiskeySet002_HighballGlass_001.Wardrobe_GlasswareWhiskeySet002_HighballGlass_001
+[2024.05.12-06.42.26:351][218]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Art/Wardrobe/Headphones001_2K.Headphones001_2K
+[2024.05.12-06.42.26:351][218]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Art/Wardrobe/Wardrobe_Headphones001_001.Wardrobe_Headphones001_001
+[2024.05.12-06.42.26:351][218]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Art/Wardrobe/CoffeeTableNimbusGoldReplica001_3K.CoffeeTableNimbusGoldReplica001_3K
+[2024.05.12-06.42.26:351][218]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Art/Wardrobe/Wardrobe_CoffeeTableNimbusGoldReplica001_001.Wardrobe_CoffeeTableNimbusGoldReplica001_001
+[2024.05.12-06.42.26:351][218]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Art/Wardrobe/SofaReversiReplica001_4K.SofaReversiReplica001_4K
+[2024.05.12-06.42.26:351][218]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Art/Wardrobe/Wardrobe_SofaReversiReplica001_001.Wardrobe_SofaReversiReplica001_001
+[2024.05.12-06.42.26:351][218]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Art/Wardrobe/PlantMonstera001_4K.PlantMonstera001_4K
+[2024.05.12-06.42.26:351][218]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Art/Wardrobe/Wardrobe_PlantMonstera001_001.Wardrobe_PlantMonstera001_001
+[2024.05.12-06.42.26:351][218]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Art/Wardrobe/PlantMonsteraVase001_4K.PlantMonsteraVase001_4K
+[2024.05.12-06.42.26:351][218]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Art/Wardrobe/Wardrobe_PlantMonsteraVase001_001.Wardrobe_PlantMonsteraVase001_001
+[2024.05.12-06.42.26:351][218]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Art/Wardrobe/PlantBanjoFig001_4K.PlantBanjoFig001_4K
+[2024.05.12-06.42.26:351][218]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Art/Wardrobe/Wardrobe_PlantBanjoFig001_002.Wardrobe_PlantBanjoFig001_002
+[2024.05.12-06.42.26:351][218]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Art/Wardrobe/PlantBanjoFigVase001_4K.PlantBanjoFigVase001_4K
+[2024.05.12-06.42.26:351][218]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Art/Wardrobe/Wardrobe_PlantBanjoFigVase001_002.Wardrobe_PlantBanjoFigVase001_002
+[2024.05.12-06.42.26:351][218]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Art/Wardrobe/Wardrobe_PlantOrchid001_001.Wardrobe_PlantOrchid001_001
+[2024.05.12-06.42.26:351][218]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Art/Wardrobe/PlantOrchid001_2K.PlantOrchid001_2K
+[2024.05.12-06.42.26:352][218]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Art/Wardrobe/Wardrobe_PlantOrchidVase001_001.Wardrobe_PlantOrchidVase001_001
+[2024.05.12-06.42.26:352][218]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Art/Wardrobe/TilesSlateSquare001_2K.TilesSlateSquare001_2K
+[2024.05.12-06.42.26:352][218]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Art/Wardrobe/Wardrobe_Plane.Wardrobe_Plane
+[2024.05.12-06.42.26:352][218]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Art/Wardrobe/Wardrobe_Wall2.Wardrobe_Wall2
+[2024.05.12-06.42.26:352][218]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Art/Wardrobe/StoneBricksSplitface001_4K.StoneBricksSplitface001_4K
+[2024.05.12-06.42.26:352][218]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Art/Wardrobe/Wardrobe_Wall1.Wardrobe_Wall1
+[2024.05.12-06.42.26:352][218]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Art/Wardrobe/Wardrobe_Shelf.Wardrobe_Shelf
+[2024.05.12-06.42.26:352][218]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Art/Wardrobe/Wardrobe_Cylinder.Wardrobe_Cylinder
+[2024.05.12-06.42.26:352][218]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Art/Wardrobe/Black_Plastic.Black_Plastic
+[2024.05.12-06.42.26:352][218]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Art/Wardrobe/Wardrobe_LeftShelves.Wardrobe_LeftShelves
+[2024.05.12-06.42.26:352][218]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Art/Wardrobe/Wardrobe_Right_Door.Wardrobe_Right_Door
+[2024.05.12-06.42.26:352][218]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Art/Wardrobe/Plastic_Gold.Plastic_Gold
+[2024.05.12-06.42.26:352][218]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Art/Wardrobe/Wardrobe_Left_Door.Wardrobe_Left_Door
+[2024.05.12-06.42.26:352][218]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Art/Wardrobe/Plastic_01.Plastic_01
+[2024.05.12-06.42.26:352][218]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Art/Wardrobe/Wardrobe_Closet.Wardrobe_Closet
+[2024.05.12-06.42.26:352][218]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Art/Wardrobe/carpet.carpet
+[2024.05.12-06.42.26:352][218]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Art/Wardrobe/Wardrobe_Plane_001.Wardrobe_Plane_001
+[2024.05.12-06.43.50:959][990]Cmd: TRANSACTION UNDO
+[2024.05.12-06.43.50:959][990]LogEditorTransaction: Undo Move Elements
+[2024.05.12-06.43.51:351][995]Cmd: TRANSACTION UNDO
+[2024.05.12-06.43.51:351][995]LogEditorTransaction: Undo Reset Rotation
+[2024.05.12-06.43.51:744][  5]Cmd: TRANSACTION UNDO
+[2024.05.12-06.43.51:744][  5]LogEditorTransaction: Undo Reset Scale
+[2024.05.12-06.43.52:185][ 26]Cmd: TRANSACTION UNDO
+[2024.05.12-06.43.52:185][ 26]LogEditorTransaction: Undo Edit Static Mesh
+[2024.05.12-06.43.54:498][127]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Art/Wardrobe/Wardrobe_Closet.Wardrobe_Closet
+[2024.05.12-06.43.54:631][127]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.12-06.43.55:070][127]LogViewport: Scene viewport resized to 1403x848, mode Windowed.
+[2024.05.12-06.44.11:817][734]LogSlate: Window 'Wardrobe_Closet' being destroyed
+[2024.05.12-06.44.11:845][734]LogSlate: Window 'Wardrobe_Closet' being destroyed
+[2024.05.12-06.44.11:900][734]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2024.05.12-06.44.11:900][734]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.12-06.44.26:382][497]Cmd: DUPLICATE
+[2024.05.12-06.44.26:382][497]Cmd: ACTOR DUPLICATE
+[2024.05.12-06.44.46:420][631]Cmd: SELECT NONE
+[2024.05.12-06.45.27:032][150]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_Closet.Wardrobe_Closet
+[2024.05.12-06.45.27:032][150]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_Closet.Wardrobe_Closet
+[2024.05.12-06.45.27:033][150]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Wardrobe/Wardrobe_Closet.Wardrobe_Closet as actor: StaticMeshActor /Game/FirstPerson/Maps/L_2.L_2:PersistentLevel.StaticMeshActor_287
+[2024.05.12-06.45.30:393][316]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_Closet.Wardrobe_Closet
+[2024.05.12-06.45.30:393][316]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_Closet.Wardrobe_Closet
+[2024.05.12-06.45.30:395][316]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Wardrobe/Wardrobe_Closet.Wardrobe_Closet as actor: StaticMeshActor /Game/FirstPerson/Maps/L_2.L_2:PersistentLevel.StaticMeshActor_288
+[2024.05.12-06.45.43:057][ 39]Cmd: DELETE
+[2024.05.12-06.45.43:057][ 39]Cmd: ACTOR DELETE
+[2024.05.12-06.45.43:071][ 39]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.12-06.45.43:117][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2024.05.12-06.45.43:128][ 39]LogEditorActor: Deleted 1 Actors (0.071 secs)
+[2024.05.12-06.45.49:440][384]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_Closet.Wardrobe_Closet
+[2024.05.12-06.45.49:440][384]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_Closet.Wardrobe_Closet
+[2024.05.12-06.45.49:441][384]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Wardrobe/Wardrobe_Closet.Wardrobe_Closet as actor: StaticMeshActor /Game/FirstPerson/Maps/L_2.L_2:PersistentLevel.StaticMeshActor_289
+[2024.05.12-06.45.51:061][463]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_Closet.Wardrobe_Closet
+[2024.05.12-06.45.51:061][463]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_Closet.Wardrobe_Closet
+[2024.05.12-06.45.51:063][463]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Wardrobe/Wardrobe_Closet.Wardrobe_Closet as actor: StaticMeshActor /Game/FirstPerson/Maps/L_2.L_2:PersistentLevel.StaticMeshActor_290
+[2024.05.12-06.48.03:990][434]Cmd: DELETE
+[2024.05.12-06.48.03:990][434]Cmd: ACTOR DELETE
+[2024.05.12-06.48.04:003][434]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.12-06.48.04:047][434]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2024.05.12-06.48.04:051][434]LogEditorActor: Deleted 1 Actors (0.061 secs)
+[2024.05.12-06.50.01:039][849]LogShaderCompilers: Display: ================================================
+[2024.05.12-06.50.01:040][849]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.05.12-06.50.01:040][849]LogShaderCompilers: Display: Total job queries 2083, among them cache hits 238 (11.43%)
+[2024.05.12-06.50.01:040][849]LogShaderCompilers: Display: Tracking 1845 distinct input hashes that result in 146 distinct outputs (7.91%)
+[2024.05.12-06.50.01:040][849]LogShaderCompilers: Display: RAM used: 13.04 MB (0.01 GB) of 819.20 MB (0.80 GB) budget. Usage: 1.59%
+[2024.05.12-06.50.01:040][849]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.05.12-06.50.01:040][849]LogShaderCompilers: Display: Shaders Compiled: 1524
+[2024.05.12-06.50.01:040][849]LogShaderCompilers: Display: Jobs assigned 1524, completed 1524 (100.00%)
+[2024.05.12-06.50.01:040][849]LogShaderCompilers: Display: Average time worker was idle: 7.69 s
+[2024.05.12-06.50.01:040][849]LogShaderCompilers: Display: Time job spent in pending queue: average 3.12 s, longest 37.24 s
+[2024.05.12-06.50.01:040][849]LogShaderCompilers: Display: Job execution time: average 1.43 s, max 17.64 s
+[2024.05.12-06.50.01:040][849]LogShaderCompilers: Display: Job life time (pending + execution): average 4.55 s, max 38.75
+[2024.05.12-06.50.01:040][849]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 323.79 s
+[2024.05.12-06.50.01:040][849]LogShaderCompilers: Display: Jobs were issued in 1524 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.05.12-06.50.01:040][849]LogShaderCompilers: Display: Average processing rate: 4.71 jobs/sec
+[2024.05.12-06.50.01:040][849]LogShaderCompilers: Display: Total thread time: 1752.26 s
+[2024.05.12-06.50.01:040][849]LogShaderCompilers: Display: Total thread preprocess time: 112.75 s
+[2024.05.12-06.50.01:040][849]LogShaderCompilers: Display: Percentage time preprocessing: 6.43%
+[2024.05.12-06.50.01:040][849]LogShaderCompilers: Display: Effective parallelization: 5.41 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.05.12-06.50.01:040][849]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.05.12-06.50.01:040][849]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled   94 times, average 2.12 sec, max 16.43 sec, min 1.10 sec)
+[2024.05.12-06.50.01:040][849]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   94 times, average 2.00 sec, max 6.62 sec, min 1.06 sec)
+[2024.05.12-06.50.01:040][849]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled   94 times, average 1.63 sec, max 8.15 sec, min 0.86 sec)
+[2024.05.12-06.50.01:040][849]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled   94 times, average 1.22 sec, max 10.48 sec, min 0.48 sec)
+[2024.05.12-06.50.01:040][849]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled   96 times, average 1.14 sec, max 1.55 sec, min 0.97 sec)
+[2024.05.12-06.50.01:040][849]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.05.12-06.50.01:040][849]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 11.36% of total time (compiled   94 times, average 2.12 sec, max 16.43 sec, min 1.10 sec)
+[2024.05.12-06.50.01:040][849]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 10.72% of total time (compiled   94 times, average 2.00 sec, max 6.62 sec, min 1.06 sec)
+[2024.05.12-06.50.01:040][849]LogShaderCompilers: Display:                                                 FLumenCardVS - 8.76% of total time (compiled   94 times, average 1.63 sec, max 8.15 sec, min 0.86 sec)
+[2024.05.12-06.50.01:040][849]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 6.52% of total time (compiled   94 times, average 1.22 sec, max 10.48 sec, min 0.48 sec)
+[2024.05.12-06.50.01:040][849]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight - 6.26% of total time (compiled   96 times, average 1.14 sec, max 1.55 sec, min 0.97 sec)
+[2024.05.12-06.50.01:040][849]LogShaderCompilers: Display: ================================================
+[2024.05.12-06.50.10:004][359]Cmd: SELECT NONE
+[2024.05.12-06.52.01:849][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2024.05.12-06.52.02:049][ 43]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Maps/L_2_Auto1
+[2024.05.12-06.52.02:050][ 43]LogSavePackage: Moving '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/L_2_Auto102F4CA18408032A1954B589472678D15.tmp' to '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/Autosaves/Game/FirstPerson/Maps/L_2_Auto1.umap'
+[2024.05.12-06.52.02:072][ 43]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/L_2' took 0.264
+[2024.05.12-06.52.02:072][ 43]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.264
+[2024.05.12-06.53.28:668][ 44]LogShaderCompilers: Display: ================================================
+[2024.05.12-06.53.28:669][ 44]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.05.12-06.53.28:669][ 44]LogShaderCompilers: Display: Total job queries 2097, among them cache hits 238 (11.35%)
+[2024.05.12-06.53.28:669][ 44]LogShaderCompilers: Display: Tracking 1859 distinct input hashes that result in 146 distinct outputs (7.85%)
+[2024.05.12-06.53.28:669][ 44]LogShaderCompilers: Display: RAM used: 13.12 MB (0.01 GB) of 819.20 MB (0.80 GB) budget. Usage: 1.60%
+[2024.05.12-06.53.28:669][ 44]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.05.12-06.53.28:669][ 44]LogShaderCompilers: Display: Shaders Compiled: 1524
+[2024.05.12-06.53.28:669][ 44]LogShaderCompilers: Display: Jobs assigned 1524, completed 1524 (100.00%)
+[2024.05.12-06.53.28:669][ 44]LogShaderCompilers: Display: Average time worker was idle: 7.69 s
+[2024.05.12-06.53.28:669][ 44]LogShaderCompilers: Display: Time job spent in pending queue: average 3.12 s, longest 37.24 s
+[2024.05.12-06.53.28:669][ 44]LogShaderCompilers: Display: Job execution time: average 1.43 s, max 17.64 s
+[2024.05.12-06.53.28:669][ 44]LogShaderCompilers: Display: Job life time (pending + execution): average 4.55 s, max 38.75
+[2024.05.12-06.53.28:669][ 44]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 323.79 s
+[2024.05.12-06.53.28:669][ 44]LogShaderCompilers: Display: Jobs were issued in 1524 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.05.12-06.53.28:669][ 44]LogShaderCompilers: Display: Average processing rate: 4.71 jobs/sec
+[2024.05.12-06.53.28:669][ 44]LogShaderCompilers: Display: Total thread time: 1752.26 s
+[2024.05.12-06.53.28:669][ 44]LogShaderCompilers: Display: Total thread preprocess time: 112.75 s
+[2024.05.12-06.53.28:669][ 44]LogShaderCompilers: Display: Percentage time preprocessing: 6.43%
+[2024.05.12-06.53.28:669][ 44]LogShaderCompilers: Display: Effective parallelization: 5.41 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.05.12-06.53.28:669][ 44]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.05.12-06.53.28:669][ 44]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled   94 times, average 2.12 sec, max 16.43 sec, min 1.10 sec)
+[2024.05.12-06.53.28:669][ 44]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   94 times, average 2.00 sec, max 6.62 sec, min 1.06 sec)
+[2024.05.12-06.53.28:669][ 44]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled   94 times, average 1.63 sec, max 8.15 sec, min 0.86 sec)
+[2024.05.12-06.53.28:669][ 44]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled   94 times, average 1.22 sec, max 10.48 sec, min 0.48 sec)
+[2024.05.12-06.53.28:669][ 44]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled   96 times, average 1.14 sec, max 1.55 sec, min 0.97 sec)
+[2024.05.12-06.53.28:669][ 44]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.05.12-06.53.28:669][ 44]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 11.36% of total time (compiled   94 times, average 2.12 sec, max 16.43 sec, min 1.10 sec)
+[2024.05.12-06.53.28:669][ 44]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 10.72% of total time (compiled   94 times, average 2.00 sec, max 6.62 sec, min 1.06 sec)
+[2024.05.12-06.53.28:669][ 44]LogShaderCompilers: Display:                                                 FLumenCardVS - 8.76% of total time (compiled   94 times, average 1.63 sec, max 8.15 sec, min 0.86 sec)
+[2024.05.12-06.53.28:669][ 44]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 6.52% of total time (compiled   94 times, average 1.22 sec, max 10.48 sec, min 0.48 sec)
+[2024.05.12-06.53.28:669][ 44]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight - 6.26% of total time (compiled   96 times, average 1.14 sec, max 1.55 sec, min 0.97 sec)
+[2024.05.12-06.53.28:669][ 44]LogShaderCompilers: Display: ================================================
+[2024.05.12-06.54.21:595][445]LogStaticMesh: Display: Building static mesh monitor1...
+[2024.05.12-06.54.21:601][445]LogTexture: Display: Building textures: /Game/Art/SmallObjects/Screenshot_1.Screenshot_1 (BGRA8, 605x609 x1x1x1) (Required Memory Estimate: 10.838047 MB), EncodeSpeed: Fast
+[2024.05.12-06.54.21:620][445]LogStaticMesh: Built static mesh [0.02s] /Game/Art/SmallObjects/monitor1.monitor1
+[2024.05.12-06.54.37:262][293]Cmd: TRANSACTION UNDO
+[2024.05.12-06.54.37:263][293]LogEditorTransaction: Undo Reset Scale
+[2024.05.12-06.55.06:170][901]Cmd: DELETE
+[2024.05.12-06.55.06:170][901]Cmd: ACTOR DELETE
+[2024.05.12-06.55.06:333][901]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.12-06.55.06:371][901]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2024.05.12-06.55.06:380][901]LogEditorActor: Deleted 1 Actors (0.210 secs)
+[2024.05.12-06.55.44:317][ 20]LogStaticMesh: Display: Building static mesh monitor_screen...
+[2024.05.12-06.55.44:320][ 20]LogStaticMesh: Built static mesh [0.00s] /Game/Art/SmallObjects/monitor_screen.monitor_screen
+[2024.05.12-06.56.23:139][206]Cmd: MODE GRID=0
+[2024.05.12-06.56.35:097][906]LogShaderCompilers: Display: ================================================
+[2024.05.12-06.56.35:097][906]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.05.12-06.56.35:097][906]LogShaderCompilers: Display: Total job queries 2111, among them cache hits 238 (11.27%)
+[2024.05.12-06.56.35:097][906]LogShaderCompilers: Display: Tracking 1873 distinct input hashes that result in 149 distinct outputs (7.96%)
+[2024.05.12-06.56.35:097][906]LogShaderCompilers: Display: RAM used: 13.21 MB (0.01 GB) of 819.20 MB (0.80 GB) budget. Usage: 1.61%
+[2024.05.12-06.56.35:097][906]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.05.12-06.56.35:097][906]LogShaderCompilers: Display: Shaders Compiled: 1532
+[2024.05.12-06.56.35:097][906]LogShaderCompilers: Display: Jobs assigned 1532, completed 1532 (100.00%)
+[2024.05.12-06.56.35:097][906]LogShaderCompilers: Display: Average time worker was idle: 10.57 s
+[2024.05.12-06.56.35:097][906]LogShaderCompilers: Display: Time job spent in pending queue: average 3.10 s, longest 37.24 s
+[2024.05.12-06.56.35:097][906]LogShaderCompilers: Display: Job execution time: average 1.43 s, max 17.64 s
+[2024.05.12-06.56.35:097][906]LogShaderCompilers: Display: Job life time (pending + execution): average 4.54 s, max 38.75
+[2024.05.12-06.56.35:097][906]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 327.74 s
+[2024.05.12-06.56.35:097][906]LogShaderCompilers: Display: Jobs were issued in 1532 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.05.12-06.56.35:097][906]LogShaderCompilers: Display: Average processing rate: 4.67 jobs/sec
+[2024.05.12-06.56.35:097][906]LogShaderCompilers: Display: Total thread time: 1763.46 s
+[2024.05.12-06.56.35:097][906]LogShaderCompilers: Display: Total thread preprocess time: 113.35 s
+[2024.05.12-06.56.35:097][906]LogShaderCompilers: Display: Percentage time preprocessing: 6.43%
+[2024.05.12-06.56.35:097][906]LogShaderCompilers: Display: Effective parallelization: 5.38 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.05.12-06.56.35:097][906]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.05.12-06.56.35:098][906]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled   95 times, average 2.11 sec, max 16.43 sec, min 1.10 sec)
+[2024.05.12-06.56.35:098][906]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   95 times, average 1.99 sec, max 6.62 sec, min 1.06 sec)
+[2024.05.12-06.56.35:098][906]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled   95 times, average 1.63 sec, max 8.15 sec, min 0.86 sec)
+[2024.05.12-06.56.35:098][906]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled   95 times, average 1.21 sec, max 10.48 sec, min 0.48 sec)
+[2024.05.12-06.56.35:098][906]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled   96 times, average 1.14 sec, max 1.55 sec, min 0.97 sec)
+[2024.05.12-06.56.35:098][906]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.05.12-06.56.35:098][906]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 11.38% of total time (compiled   95 times, average 2.11 sec, max 16.43 sec, min 1.10 sec)
+[2024.05.12-06.56.35:098][906]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 10.74% of total time (compiled   95 times, average 1.99 sec, max 6.62 sec, min 1.06 sec)
+[2024.05.12-06.56.35:098][906]LogShaderCompilers: Display:                                                 FLumenCardVS - 8.79% of total time (compiled   95 times, average 1.63 sec, max 8.15 sec, min 0.86 sec)
+[2024.05.12-06.56.35:098][906]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 6.53% of total time (compiled   95 times, average 1.21 sec, max 10.48 sec, min 0.48 sec)
+[2024.05.12-06.56.35:098][906]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight - 6.22% of total time (compiled   96 times, average 1.14 sec, max 1.55 sec, min 0.97 sec)
+[2024.05.12-06.56.35:098][906]LogShaderCompilers: Display: ================================================
+[2024.05.12-06.56.42:164][289]Cmd: SELECT NONE
+[2024.05.12-06.56.56:712][124]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2024.05.12-06.56.56:724][124]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.12-06.56.56:864][124]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Maps/L_2" FILE="../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/FirstPerson/Maps/L_2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.05.12-06.56.56:919][124]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2024.05.12-06.56.57:078][124]LogSavePackage: Moving output files for package: /Game/FirstPerson/Maps/L_2
+[2024.05.12-06.56.57:079][124]LogSavePackage: Moving '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/L_2CFE2444647E70B7988F3C2BEDB6CA118.tmp' to '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/FirstPerson/Maps/L_2.umap'
+[2024.05.12-06.56.57:102][124]LogFileHelpers: No new changes to save!
+[2024.05.12-06.56.57:102][124]LogFileHelpers: Saving map 'L_2' took 0.239
+[2024.05.12-06.56.57:124][124]LogFileHelpers: InternalPromptForCheckoutAndSave took 399 ms (total: 3:40 min)
+[2024.05.12-06.56.57:142][124]AssetCheck: New page: Asset Save: L_2
+[2024.05.12-06.56.57:142][124]LogContentValidation: Display: Validating /Script/Engine.World /Game/FirstPerson/Maps/L_2.L_2
+[2024.05.12-06.57.37:485][ 84]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\mikir\Downloads\SpaceshipFIXED.fbx)
+[2024.05.12-06.57.37:492][ 84]LogFbx: Loading FBX Scene from C:\Users\mikir\Downloads\SpaceshipFIXED.fbx
+[2024.05.12-06.57.37:506][ 84]LogFbx: FBX Scene Loaded Succesfully
+[2024.05.12-06.57.39:978][ 84]LogSlate: Window 'FBX Import Options' being destroyed
+[2024.05.12-06.57.40:170][ 84]LogFbx: Display: Triangulating static mesh Plane
+[2024.05.12-06.57.40:183][ 84]LogStaticMesh: Display: Building static mesh SpaceshipFIXED_Plane...
+[2024.05.12-06.57.40:190][ 84]LogStaticMesh: Built static mesh [0.01s] /Game/Art/spaceship/SpaceshipFIXED_Plane.SpaceshipFIXED_Plane
+[2024.05.12-06.57.40:192][ 84]LogStaticMesh: Warning: SpaceshipFIXED_Plane has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2024.05.12-06.57.40:193][ 84]LogStaticMesh: Warning: SpaceshipFIXED_Plane has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2024.05.12-06.57.40:193][ 84]LogStaticMesh: Warning: SpaceshipFIXED_Plane has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2024.05.12-06.57.40:218][ 84]LogFbx: Display: Triangulating static mesh Circle
+[2024.05.12-06.57.40:361][ 84]LogStaticMesh: Display: Building static mesh SpaceshipFIXED_Circle...
+[2024.05.12-06.57.40:392][ 84]LogStaticMesh: Built static mesh [0.03s] /Game/Art/spaceship/SpaceshipFIXED_Circle.SpaceshipFIXED_Circle
+[2024.05.12-06.57.40:401][ 84]LogStaticMesh: Warning: SpaceshipFIXED_Circle has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2024.05.12-06.57.40:401][ 84]LogStaticMesh: Warning: SpaceshipFIXED_Circle has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2024.05.12-06.57.40:431][ 84]LogFbx: Display: Triangulating static mesh Circle.001
+[2024.05.12-06.57.40:525][ 84]LogStaticMesh: Display: Building static mesh SpaceshipFIXED_Circle_001...
+[2024.05.12-06.57.40:557][ 84]LogStaticMesh: Built static mesh [0.03s] /Game/Art/spaceship/SpaceshipFIXED_Circle_001.SpaceshipFIXED_Circle_001
+[2024.05.12-06.57.40:564][ 84]LogStaticMesh: Warning: SpaceshipFIXED_Circle_001 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2024.05.12-06.57.40:564][ 84]LogStaticMesh: Warning: SpaceshipFIXED_Circle_001 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2024.05.12-06.57.40:585][ 84]LogFbx: Display: Triangulating static mesh Circle.002
+[2024.05.12-06.57.40:684][ 84]LogStaticMesh: Display: Building static mesh SpaceshipFIXED_Circle_002...
+[2024.05.12-06.57.40:715][ 84]LogStaticMesh: Built static mesh [0.03s] /Game/Art/spaceship/SpaceshipFIXED_Circle_002.SpaceshipFIXED_Circle_002
+[2024.05.12-06.57.40:723][ 84]LogStaticMesh: Warning: SpaceshipFIXED_Circle_002 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2024.05.12-06.57.40:723][ 84]LogStaticMesh: Warning: SpaceshipFIXED_Circle_002 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2024.05.12-06.57.40:760][ 84]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2024.05.12-06.57.40:760][ 84]FBXImport: Warning: SpaceshipFIXED_Plane has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2024.05.12-06.57.40:760][ 84]FBXImport: Warning: SpaceshipFIXED_Plane has some nearly zero tangents which can create some issues. (Tolerance of 1E-4) 
+[2024.05.12-06.57.40:760][ 84]FBXImport: Warning: SpaceshipFIXED_Plane has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2024.05.12-06.57.40:760][ 84]FBXImport: Warning: SpaceshipFIXED_Circle has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2024.05.12-06.57.40:760][ 84]FBXImport: Warning: SpaceshipFIXED_Circle has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2024.05.12-06.57.40:760][ 84]FBXImport: Warning: SpaceshipFIXED_Circle_001 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2024.05.12-06.57.40:760][ 84]FBXImport: Warning: SpaceshipFIXED_Circle_001 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2024.05.12-06.57.40:760][ 84]FBXImport: Warning: SpaceshipFIXED_Circle_002 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2024.05.12-06.57.40:760][ 84]FBXImport: Warning: SpaceshipFIXED_Circle_002 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2024.05.12-06.57.40:889][ 84]LogStaticMesh: Display: Building static mesh SpaceshipFIXED_Plane...
+[2024.05.12-06.57.40:903][ 84]LogStaticMesh: Built static mesh [0.01s] /Game/Art/spaceship/SpaceshipFIXED_Plane.SpaceshipFIXED_Plane
+[2024.05.12-06.57.40:905][ 84]LogStaticMesh: Warning: SpaceshipFIXED_Plane has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2024.05.12-06.57.40:905][ 84]LogStaticMesh: Warning: SpaceshipFIXED_Plane has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2024.05.12-06.57.40:905][ 84]LogStaticMesh: Warning: SpaceshipFIXED_Plane has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2024.05.12-06.57.47:808][436]LogSlate: Window 'Content Browser' being destroyed
+[2024.05.12-06.57.47:833][436]LogSlate: Window 'Content Browser' being destroyed
+[2024.05.12-06.57.48:902][497]LogSlate: Window 'Message Log' being destroyed
+[2024.05.12-06.57.48:928][497]LogSlate: Window 'Message Log' being destroyed
+[2024.05.12-06.57.55:194][813]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/spaceship/SpaceshipFIXED_Plane.SpaceshipFIXED_Plane
+[2024.05.12-06.57.55:195][813]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/spaceship/SpaceshipFIXED_Plane.SpaceshipFIXED_Plane
+[2024.05.12-06.57.55:195][813]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/spaceship/SpaceshipFIXED_Plane.SpaceshipFIXED_Plane as actor: StaticMeshActor /Game/FirstPerson/Maps/L_2.L_2:PersistentLevel.StaticMeshActor_291
+[2024.05.12-06.57.55:196][813]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/spaceship/SpaceshipFIXED_Circle.SpaceshipFIXED_Circle
+[2024.05.12-06.57.55:196][813]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/spaceship/SpaceshipFIXED_Circle.SpaceshipFIXED_Circle
+[2024.05.12-06.57.55:196][813]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/spaceship/SpaceshipFIXED_Circle.SpaceshipFIXED_Circle as actor: StaticMeshActor /Game/FirstPerson/Maps/L_2.L_2:PersistentLevel.StaticMeshActor_292
+[2024.05.12-06.57.55:196][813]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/spaceship/SpaceshipFIXED_Circle_001.SpaceshipFIXED_Circle_001
+[2024.05.12-06.57.55:197][813]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/spaceship/SpaceshipFIXED_Circle_001.SpaceshipFIXED_Circle_001
+[2024.05.12-06.57.55:197][813]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/spaceship/SpaceshipFIXED_Circle_001.SpaceshipFIXED_Circle_001 as actor: StaticMeshActor /Game/FirstPerson/Maps/L_2.L_2:PersistentLevel.StaticMeshActor_293
+[2024.05.12-06.57.55:197][813]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/spaceship/SpaceshipFIXED_Circle_002.SpaceshipFIXED_Circle_002
+[2024.05.12-06.57.55:197][813]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/spaceship/SpaceshipFIXED_Circle_002.SpaceshipFIXED_Circle_002
+[2024.05.12-06.57.55:198][813]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/spaceship/SpaceshipFIXED_Circle_002.SpaceshipFIXED_Circle_002 as actor: StaticMeshActor /Game/FirstPerson/Maps/L_2.L_2:PersistentLevel.StaticMeshActor_294
+[2024.05.12-06.57.56:097][851]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/spaceship/SpaceshipFIXED_Plane.SpaceshipFIXED_Plane
+[2024.05.12-06.57.56:097][851]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/spaceship/SpaceshipFIXED_Plane.SpaceshipFIXED_Plane
+[2024.05.12-06.57.56:100][851]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/spaceship/SpaceshipFIXED_Plane.SpaceshipFIXED_Plane as actor: StaticMeshActor /Game/FirstPerson/Maps/L_2.L_2:PersistentLevel.StaticMeshActor_295
+[2024.05.12-06.57.56:117][851]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/spaceship/SpaceshipFIXED_Circle.SpaceshipFIXED_Circle
+[2024.05.12-06.57.56:117][851]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/spaceship/SpaceshipFIXED_Circle.SpaceshipFIXED_Circle
+[2024.05.12-06.57.56:118][851]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/spaceship/SpaceshipFIXED_Circle.SpaceshipFIXED_Circle as actor: StaticMeshActor /Game/FirstPerson/Maps/L_2.L_2:PersistentLevel.StaticMeshActor_296
+[2024.05.12-06.57.56:135][851]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/spaceship/SpaceshipFIXED_Circle_001.SpaceshipFIXED_Circle_001
+[2024.05.12-06.57.56:135][851]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/spaceship/SpaceshipFIXED_Circle_001.SpaceshipFIXED_Circle_001
+[2024.05.12-06.57.56:136][851]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/spaceship/SpaceshipFIXED_Circle_001.SpaceshipFIXED_Circle_001 as actor: StaticMeshActor /Game/FirstPerson/Maps/L_2.L_2:PersistentLevel.StaticMeshActor_297
+[2024.05.12-06.57.56:153][851]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/spaceship/SpaceshipFIXED_Circle_002.SpaceshipFIXED_Circle_002
+[2024.05.12-06.57.56:153][851]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/spaceship/SpaceshipFIXED_Circle_002.SpaceshipFIXED_Circle_002
+[2024.05.12-06.57.56:154][851]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/spaceship/SpaceshipFIXED_Circle_002.SpaceshipFIXED_Circle_002 as actor: StaticMeshActor /Game/FirstPerson/Maps/L_2.L_2:PersistentLevel.StaticMeshActor_298
+[2024.05.12-06.58.02:961][239]Cmd: DELETE
+[2024.05.12-06.58.02:961][239]Cmd: ACTOR DELETE
+[2024.05.12-06.58.02:976][239]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.12-06.58.02:977][239]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.12-06.58.02:978][239]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.12-06.58.02:979][239]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.12-06.58.03:012][239]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2024.05.12-06.58.03:019][239]LogEditorActor: Deleted 4 Actors (0.058 secs)
+[2024.05.12-06.58.32:678][449]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPerson/Blueprints/BPCommandCenter_Monitor.BPCommandCenter_Monitor
+[2024.05.12-06.58.32:679][449]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.12-06.58.38:458][706]LogViewport: Scene viewport resized to 1130x593, mode Windowed.
+[2024.05.12-06.59.50:763][676]BlueprintLog: New page: Compile BPCommandCenter_Monitor
+[2024.05.12-06.59.50:862][676]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2024.05.12-06.59.50:886][676]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.12-06.59.51:044][676]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BPCommandCenter_Monitor
+[2024.05.12-06.59.51:045][676]LogSavePackage: Moving '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/BPCommandCenter_Monitor5E87151B4CA92978E2685FAF58835F62.tmp' to '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/FirstPerson/Blueprints/BPCommandCenter_Monitor.uasset'
+[2024.05.12-06.59.51:077][676]LogFileHelpers: InternalPromptForCheckoutAndSave took 190 ms (total: 3:41 min)
+[2024.05.12-06.59.51:086][676]AssetCheck: New page: Asset Save: BPCommandCenter_Monitor
+[2024.05.12-06.59.51:086][676]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BPCommandCenter_Monitor.BPCommandCenter_Monitor
+[2024.05.12-06.59.55:099][848]LogSlate: Window 'BPCommandCenter_Monitor' being destroyed
+[2024.05.12-06.59.55:109][848]LogSlate: Window 'BPCommandCenter_Monitor' being destroyed
+[2024.05.12-06.59.55:116][848]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2024.05.12-06.59.55:116][848]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.12-07.00.01:592][219]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2024.05.12-07.00.01:611][219]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.12-07.00.01:764][219]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Maps/L_2" FILE="../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/FirstPerson/Maps/L_2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.05.12-07.00.01:822][219]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2024.05.12-07.00.01:980][219]LogSavePackage: Moving output files for package: /Game/FirstPerson/Maps/L_2
+[2024.05.12-07.00.01:981][219]LogSavePackage: Moving '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/L_26493B9DF47A91DFC03A4729C588AF313.tmp' to '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/FirstPerson/Maps/L_2.umap'
+[2024.05.12-07.00.02:012][219]LogFileHelpers: No new changes to save!
+[2024.05.12-07.00.02:012][219]LogFileHelpers: Saving map 'L_2' took 0.249
+[2024.05.12-07.00.03:707][219]LogSlate: Window 'Save Level As' being destroyed
+[2024.05.12-07.00.03:773][219]LogFileHelpers: InternalPromptForCheckoutAndSave took 2.16 sec (total: 3:43 min)
+[2024.05.12-07.00.03:781][219]AssetCheck: New page: Asset Save: L_2
+[2024.05.12-07.00.03:781][219]LogContentValidation: Display: Validating /Script/Engine.World /Game/FirstPerson/Maps/L_2.L_2
+[2024.05.12-07.00.04:832][268]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2024.05.12-07.00.07:965][268]LogSlate: Window 'Save Content' being destroyed
+[2024.05.12-07.00.07:982][268]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.12-07.00.08:184][268]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/spaceship/SpaceshipFIXED_Circle" FILE="../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/Art/spaceship/SpaceshipFIXED_Circle.uasset" SILENT=true
+[2024.05.12-07.00.08:197][268]LogSavePackage: Moving output files for package: /Game/Art/spaceship/SpaceshipFIXED_Circle
+[2024.05.12-07.00.08:197][268]LogSavePackage: Moving '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/SpaceshipFIXED_Circle8CC06F1A44054AFF152901BBF6197BAE.tmp' to '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/Art/spaceship/SpaceshipFIXED_Circle.uasset'
+[2024.05.12-07.00.08:241][268]LogSavePackage: Moving output files for package: /Game/Art/spaceship/SpaceshipFIXED_Circle_001
+[2024.05.12-07.00.08:242][268]LogSavePackage: Moving '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/SpaceshipFIXED_Circle_0011A5EC04E4A5A66B2EAC1D49C1571F377.tmp' to '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/Art/spaceship/SpaceshipFIXED_Circle_001.uasset'
+[2024.05.12-07.00.08:279][268]LogSavePackage: Moving output files for package: /Game/Art/spaceship/SpaceshipFIXED_Circle_002
+[2024.05.12-07.00.08:279][268]LogSavePackage: Moving '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/SpaceshipFIXED_Circle_00258248C58425D50221B84CFBD8F817A0F.tmp' to '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/Art/spaceship/SpaceshipFIXED_Circle_002.uasset'
+[2024.05.12-07.00.08:305][268]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/spaceship/SpaceshipFIXED_Plane" FILE="../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/Art/spaceship/SpaceshipFIXED_Plane.uasset" SILENT=true
+[2024.05.12-07.00.08:312][268]LogSavePackage: Moving output files for package: /Game/Art/spaceship/SpaceshipFIXED_Plane
+[2024.05.12-07.00.08:312][268]LogSavePackage: Moving '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/SpaceshipFIXED_PlaneFE0ABD84424D9813514D718D83DD2A7E.tmp' to '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/Art/spaceship/SpaceshipFIXED_Plane.uasset'
+[2024.05.12-07.00.08:358][268]LogFileHelpers: InternalPromptForCheckoutAndSave took 375 ms (total: 3:43 min)
+[2024.05.12-07.00.08:370][268]AssetCheck: New page: Asset Save: multiple assets
+[2024.05.12-07.00.08:370][268]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Art/spaceship/SpaceshipFIXED_Circle_002.SpaceshipFIXED_Circle_002
+[2024.05.12-07.00.08:370][268]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Art/spaceship/SpaceshipFIXED_Circle_001.SpaceshipFIXED_Circle_001
+[2024.05.12-07.00.08:370][268]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Art/spaceship/SpaceshipFIXED_Circle.SpaceshipFIXED_Circle
+[2024.05.12-07.00.08:370][268]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Art/spaceship/SpaceshipFIXED_Plane.SpaceshipFIXED_Plane
+[2024.05.12-07.01.15:626][659]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2024.05.12-07.01.16:897][659]LogSlate: Window 'Save Content' being destroyed
+[2024.05.12-07.01.16:912][659]LogAssetEditorSubsystem: Opening Asset editor for World /Game/FirstPerson/Maps/L_1.L_1
+[2024.05.12-07.01.16:914][659]Cmd: MAP LOAD FILE="../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/FirstPerson/Maps/L_1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.05.12-07.01.16:915][659]LightingResults: New page: Lighting Build
+[2024.05.12-07.01.16:916][659]LoadErrors: New page: Loading map: L_1.umap
+[2024.05.12-07.01.16:950][659]LogWorld: UWorld::CleanupWorld for L_2, bSessionEnded=true, bCleanupResources=true
+[2024.05.12-07.01.16:954][659]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.12-07.01.16:959][659]MapCheck: New page: Map Check
+[2024.05.12-07.01.16:959][659]LightingResults: New page: Lighting Build
+[2024.05.12-07.01.17:023][659]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.12-07.01.17:045][659]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2024.05.12-07.01.17:055][659]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2024.05.12-07.01.17:056][659]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.12-07.01.17:061][659]LogWorld: UWorld::CleanupWorld for L_1, bSessionEnded=true, bCleanupResources=true
+[2024.05.12-07.01.17:062][659]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.12-07.01.17:065][659]LogWorld: UWorld::CleanupWorld for L_11, bSessionEnded=true, bCleanupResources=true
+[2024.05.12-07.01.17:065][659]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.12-07.01.17:116][659]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2024.05.12-07.01.17:151][659]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2024.05.12-07.01.18:864][659]LogSlate: Window 'Message' being destroyed
+[2024.05.12-07.01.18:883][659]Message dialog closed, result: Ok, title: Message, text: The following assets have been modified and cannot be unloaded:
+    /Temp/Autosaves/Game/FirstPerson/Maps/L_2_Auto1
+Saving these assets will allow them to be unloaded.
+[2024.05.12-07.01.18:924][659]LogAudio: Display: Audio Device (ID: 1) registered with world 'L_1'.
+[2024.05.12-07.01.18:927][659]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.12-07.01.18:930][659]LogAIModule: Creating AISystem for world L_1
+[2024.05.12-07.01.19:003][659]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.05.12-07.01.19:088][659]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2024.05.12-07.01.19:103][659]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.05.12-07.01.19:104][659]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1,102ms to complete.
+[2024.05.12-07.01.19:104][659]LogFileHelpers: Loading map 'L_1' took 2.190
+[2024.05.12-07.01.19:144][659]LogNavigation: Warning: Exporting geometry with too many verticies (1179630). This might cause performance and memory issues. Simplify collision or change GeometryExportVertexCountWarningThreshold. See 'StaticMeshComponent /Game/FirstPerson/Maps/L_1.L_1:PersistentLevel.BP_Blackhole_C_1.Blackhole'.
+[2024.05.12-07.01.19:274][660]LogShaderCompilers: Display: ================================================
+[2024.05.12-07.01.19:274][660]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.05.12-07.01.19:274][660]LogShaderCompilers: Display: Total job queries 2127, among them cache hits 244 (11.47%)
+[2024.05.12-07.01.19:274][660]LogShaderCompilers: Display: Tracking 1883 distinct input hashes that result in 155 distinct outputs (8.23%)
+[2024.05.12-07.01.19:274][660]LogShaderCompilers: Display: RAM used: 13.28 MB (0.01 GB) of 819.20 MB (0.80 GB) budget. Usage: 1.62%
+[2024.05.12-07.01.19:274][660]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.05.12-07.01.19:274][660]LogShaderCompilers: Display: Shaders Compiled: 1534
+[2024.05.12-07.01.19:274][660]LogShaderCompilers: Display: Jobs assigned 1534, completed 1534 (100.00%)
+[2024.05.12-07.01.19:274][660]LogShaderCompilers: Display: Average time worker was idle: 10.82 s
+[2024.05.12-07.01.19:274][660]LogShaderCompilers: Display: Time job spent in pending queue: average 3.10 s, longest 37.24 s
+[2024.05.12-07.01.19:274][660]LogShaderCompilers: Display: Job execution time: average 1.43 s, max 17.64 s
+[2024.05.12-07.01.19:274][660]LogShaderCompilers: Display: Job life time (pending + execution): average 4.53 s, max 38.75
+[2024.05.12-07.01.19:274][660]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 329.20 s
+[2024.05.12-07.01.19:274][660]LogShaderCompilers: Display: Jobs were issued in 1534 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.05.12-07.01.19:274][660]LogShaderCompilers: Display: Average processing rate: 4.66 jobs/sec
+[2024.05.12-07.01.19:274][660]LogShaderCompilers: Display: Total thread time: 1765.60 s
+[2024.05.12-07.01.19:274][660]LogShaderCompilers: Display: Total thread preprocess time: 113.46 s
+[2024.05.12-07.01.19:274][660]LogShaderCompilers: Display: Percentage time preprocessing: 6.43%
+[2024.05.12-07.01.19:274][660]LogShaderCompilers: Display: Effective parallelization: 5.36 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.05.12-07.01.19:274][660]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.05.12-07.01.19:274][660]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled   95 times, average 2.11 sec, max 16.43 sec, min 1.10 sec)
+[2024.05.12-07.01.19:274][660]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   95 times, average 1.99 sec, max 6.62 sec, min 1.06 sec)
+[2024.05.12-07.01.19:274][660]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled   95 times, average 1.63 sec, max 8.15 sec, min 0.86 sec)
+[2024.05.12-07.01.19:274][660]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled   95 times, average 1.21 sec, max 10.48 sec, min 0.48 sec)
+[2024.05.12-07.01.19:274][660]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled   96 times, average 1.14 sec, max 1.55 sec, min 0.97 sec)
+[2024.05.12-07.01.19:274][660]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.05.12-07.01.19:274][660]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 11.36% of total time (compiled   95 times, average 2.11 sec, max 16.43 sec, min 1.10 sec)
+[2024.05.12-07.01.19:274][660]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 10.73% of total time (compiled   95 times, average 1.99 sec, max 6.62 sec, min 1.06 sec)
+[2024.05.12-07.01.19:274][660]LogShaderCompilers: Display:                                                 FLumenCardVS - 8.78% of total time (compiled   95 times, average 1.63 sec, max 8.15 sec, min 0.86 sec)
+[2024.05.12-07.01.19:274][660]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 6.52% of total time (compiled   95 times, average 1.21 sec, max 10.48 sec, min 0.48 sec)
+[2024.05.12-07.01.19:274][660]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight - 6.22% of total time (compiled   96 times, average 1.14 sec, max 1.55 sec, min 0.97 sec)
+[2024.05.12-07.01.19:274][660]LogShaderCompilers: Display: ================================================
