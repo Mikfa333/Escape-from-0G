@@ -1173,3 +1173,48 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.05.12-08.49.33:099][562]LogFileHelpers: InternalPromptForCheckoutAndSave took 351 ms (total: 651 ms)
 [2024.05.12-08.49.33:108][562]AssetCheck: New page: Asset Save: L_2
 [2024.05.12-08.49.33:108][562]LogContentValidation: Display: Validating /Script/Engine.World /Game/FirstPerson/Maps/L_2.L_2
+[2024.05.12-08.49.54:430][792]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2024.05.12-08.49.55:332][792]LogAssetEditorSubsystem: Opening Asset editor for World /Game/FirstPerson/Maps/L_3.L_3
+[2024.05.12-08.49.55:333][792]Cmd: MAP LOAD FILE="../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/FirstPerson/Maps/L_3.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.05.12-08.49.55:333][792]LightingResults: New page: Lighting Build
+[2024.05.12-08.49.55:333][792]LoadErrors: New page: Loading map: L_3.umap
+[2024.05.12-08.49.55:360][792]LogWorld: UWorld::CleanupWorld for L_2, bSessionEnded=true, bCleanupResources=true
+[2024.05.12-08.49.55:361][792]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.12-08.49.55:361][792]MapCheck: New page: Map Check
+[2024.05.12-08.49.55:361][792]LightingResults: New page: Lighting Build
+[2024.05.12-08.49.55:384][792]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.12-08.49.55:399][792]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2024.05.12-08.49.55:429][792]LogShaderCompilers: Display: ================================================
+[2024.05.12-08.49.55:429][792]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.05.12-08.49.55:429][792]LogShaderCompilers: Display: Total job queries 362, among them cache hits 82 (22.65%)
+[2024.05.12-08.49.55:429][792]LogShaderCompilers: Display: Tracking 280 distinct input hashes that result in 133 distinct outputs (47.50%)
+[2024.05.12-08.49.55:429][792]LogShaderCompilers: Display: RAM used: 1.96 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.24%
+[2024.05.12-08.49.55:429][792]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.05.12-08.49.55:429][792]LogShaderCompilers: Display: Shaders Compiled: 0
+[2024.05.12-08.49.55:429][792]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2024.05.12-08.49.55:429][792]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2024.05.12-08.49.55:429][792]LogShaderCompilers: Display: ================================================
+[2024.05.12-08.49.55:480][792]LogStaticMesh: Display: Waiting for static meshes to be ready 89/101 (/Game/Art/Spacesuit/AstronautVer2_NEW_SUIT) ...
+[2024.05.12-08.49.55:547][792]LogWorld: UWorld::CleanupWorld for L_3, bSessionEnded=true, bCleanupResources=true
+[2024.05.12-08.49.55:549][792]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.12-08.49.55:586][792]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2024.05.12-08.49.55:605][792]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2024.05.12-08.49.55:691][792]LogAudio: Display: Audio Device (ID: 1) registered with world 'L_3'.
+[2024.05.12-08.49.55:691][792]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.12-08.49.55:691][792]LogAIModule: Creating AISystem for world L_3
+[2024.05.12-08.49.55:804][792]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.05.12-08.49.55:917][792]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2024.05.12-08.49.55:932][792]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.05.12-08.49.55:933][792]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,508ms to complete.
+[2024.05.12-08.49.55:933][792]LogFileHelpers: Loading map 'L_3' took 0.601
+[2024.05.12-08.49.55:996][792]LogNavigation: Warning: Exporting geometry with too many verticies (1179630). This might cause performance and memory issues. Simplify collision or change GeometryExportVertexCountWarningThreshold. See 'StaticMeshComponent /Game/FirstPerson/Maps/L_3.L_3:PersistentLevel.BP_Blackhole_C_1.Blackhole'.
+[2024.05.12-08.51.10:989][747]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2024.05.12-08.51.10:995][747]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.12-08.51.11:110][747]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Maps/L_3" FILE="../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/FirstPerson/Maps/L_3.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.05.12-08.51.11:122][747]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2024.05.12-08.51.11:335][747]LogSavePackage: Moving output files for package: /Game/FirstPerson/Maps/L_3
+[2024.05.12-08.51.11:337][747]LogSavePackage: Moving '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/L_332C1412F46F5519908E6EE905BC00EFF.tmp' to '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/FirstPerson/Maps/L_3.umap'
+[2024.05.12-08.51.11:371][747]LogFileHelpers: Saving map 'L_3' took 0.262
+[2024.05.12-08.51.11:388][747]LogFileHelpers: InternalPromptForCheckoutAndSave took 393 ms (total: 1.04 sec)
+[2024.05.12-08.51.11:401][747]AssetCheck: New page: Asset Save: L_3
+[2024.05.12-08.51.11:401][747]LogContentValidation: Display: Validating /Script/Engine.World /Game/FirstPerson/Maps/L_3.L_3
