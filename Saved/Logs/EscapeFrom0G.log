@@ -5100,3 +5100,530 @@ Saving these assets will allow them to be unloaded.
 [2024.05.12-11.46.26:425][450]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2024.05.12-11.46.26:436][450]LogUObjectHash: Compacting FUObjectHashTables data took   5.83ms
 [2024.05.12-11.46.26:506][451]LogPlayLevel: Display: Destroying online subsystem :Context_58
+[2024.05.12-11.47.39:480][842]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2024.05.12-11.47.39:487][842]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.12-11.47.41:166][842]LogSlate: Window 'Save Level As' being destroyed
+[2024.05.12-11.47.41:235][842]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.74 sec (total: 39.7 sec)
+[2024.05.12-11.47.41:845][875]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2024.05.12-11.47.43:334][875]LogSlate: Window 'Save Content' being destroyed
+[2024.05.12-11.47.43:372][875]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.12-11.47.43:532][875]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Maps/L_1" FILE="../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/FirstPerson/Maps/L_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.05.12-11.47.43:583][875]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2024.05.12-11.47.43:624][875]LogSavePackage: Moving output files for package: /Game/FirstPerson/Maps/L_1
+[2024.05.12-11.47.43:625][875]LogSavePackage: Moving '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/L_141397F47477E33D0C54A3EA79DB1B967.tmp' to '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/FirstPerson/Maps/L_1.umap'
+[2024.05.12-11.47.43:645][875]LogFileHelpers: Saving map 'L_1' took 0.115
+[2024.05.12-11.47.43:664][875]LogFileHelpers: InternalPromptForCheckoutAndSave took 291 ms (total: 40.0 sec)
+[2024.05.12-11.47.43:674][875]AssetCheck: New page: Asset Save: L_1
+[2024.05.12-11.47.43:674][875]LogContentValidation: Display: Validating /Script/Engine.World /Game/FirstPerson/Maps/L_1.L_1
+[2024.05.12-11.47.46:675][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2024.05.12-11.47.47:770][ 45]LogSlate: Window 'Save Content' being destroyed
+[2024.05.12-11.47.52:447][296]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2024.05.12-11.47.54:017][296]LogSlate: Window 'Save Content' being destroyed
+[2024.05.12-11.47.54:362][296]LogAssetEditorSubsystem: Opening Asset editor for World /Game/FirstPerson/Maps/L_3.L_3
+[2024.05.12-11.47.54:363][296]Cmd: MAP LOAD FILE="../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/FirstPerson/Maps/L_3.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.05.12-11.47.54:363][296]LightingResults: New page: Lighting Build
+[2024.05.12-11.47.54:363][296]LoadErrors: New page: Loading map: L_3.umap
+[2024.05.12-11.47.54:371][296]LogWorld: UWorld::CleanupWorld for L_1, bSessionEnded=true, bCleanupResources=true
+[2024.05.12-11.47.54:371][296]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.12-11.47.54:371][296]MapCheck: New page: Map Check
+[2024.05.12-11.47.54:371][296]LightingResults: New page: Lighting Build
+[2024.05.12-11.47.54:415][296]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.12-11.47.54:422][296]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2024.05.12-11.47.54:430][296]LogWorld: UWorld::CleanupWorld for L_3, bSessionEnded=true, bCleanupResources=true
+[2024.05.12-11.47.54:433][296]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.12-11.47.54:483][296]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2024.05.12-11.47.54:524][296]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2024.05.12-11.47.56:765][296]LogSlate: Window 'Message' being destroyed
+[2024.05.12-11.47.56:779][296]Message dialog closed, result: Ok, title: Message, text: The following assets have been modified and cannot be unloaded:
+    /Temp/Autosaves/Game/FirstPerson/Maps/L_3_Auto1
+Saving these assets will allow them to be unloaded.
+[2024.05.12-11.47.56:883][296]LogAudio: Display: Audio Device (ID: 1) registered with world 'L_3'.
+[2024.05.12-11.47.56:883][296]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.12-11.47.56:884][296]LogAIModule: Creating AISystem for world L_3
+[2024.05.12-11.47.56:992][296]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.05.12-11.47.57:043][296]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2024.05.12-11.47.57:058][296]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.05.12-11.47.57:059][296]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,354ms to complete.
+[2024.05.12-11.47.57:059][296]LogFileHelpers: Loading map 'L_3' took 2.696
+[2024.05.12-11.47.57:104][296]LogNavigation: Warning: Exporting geometry with too many verticies (1179630). This might cause performance and memory issues. Simplify collision or change GeometryExportVertexCountWarningThreshold. See 'StaticMeshComponent /Game/FirstPerson/Maps/L_3.L_3:PersistentLevel.BP_Blackhole_C_1.Blackhole'.
+[2024.05.12-11.52.39:126][921]LogDerivedDataCache: C:/Users/mikir/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:15.443 and deleted 0 files with total size 0 MiB. Scanned 8185 files in 8071 folders with total size 1790 MiB.
+[2024.05.12-11.57.52:898][861]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2024.05.12-11.57.52:902][861]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/L_3' took 0.064
+[2024.05.12-12.07.53:400][662]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2024.05.12-12.07.53:402][662]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/L_3' took 0.055
+[2024.05.12-12.17.53:802][300]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.05.12-12.17.53:804][300]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/L_3' took 0.053
+[2024.05.12-12.26.29:210][368]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPerson/Blueprints/BP_Grappable.BP_Grappable
+[2024.05.12-12.26.29:210][368]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.12-12.28.00:522][398]LogViewport: Scene viewport resized to 1074x638, mode Windowed.
+[2024.05.12-12.28.12:763][896]BlueprintLog: New page: Compile BP_Grappable
+[2024.05.12-12.28.12:840][896]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2024.05.12-12.28.12:868][896]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.12-12.28.12:959][896]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/BP_Grappable" FILE="../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/FirstPerson/Blueprints/BP_Grappable.uasset" SILENT=true
+[2024.05.12-12.28.12:972][896]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_Grappable
+[2024.05.12-12.28.12:974][896]LogSavePackage: Moving '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/BP_Grappable9439C2654656EB7DE239B28E51005C4B.tmp' to '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/FirstPerson/Blueprints/BP_Grappable.uasset'
+[2024.05.12-12.28.13:011][896]LogFileHelpers: InternalPromptForCheckoutAndSave took 142 ms (total: 40.1 sec)
+[2024.05.12-12.28.13:024][896]AssetCheck: New page: Asset Save: BP_Grappable
+[2024.05.12-12.28.13:024][896]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_Grappable.BP_Grappable
+[2024.05.12-12.28.49:693][714]BlueprintLog: New page: Compile BP_Grappable
+[2024.05.12-12.28.49:765][714]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2024.05.12-12.28.49:797][714]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.12-12.28.49:881][714]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/BP_Grappable" FILE="../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/FirstPerson/Blueprints/BP_Grappable.uasset" SILENT=true
+[2024.05.12-12.28.49:890][714]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_Grappable
+[2024.05.12-12.28.49:891][714]LogSavePackage: Moving '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/BP_GrappableF928185B4A68C45DC2103BA13AD5710F.tmp' to '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/FirstPerson/Blueprints/BP_Grappable.uasset'
+[2024.05.12-12.28.49:908][714]LogFileHelpers: InternalPromptForCheckoutAndSave took 110 ms (total: 40.2 sec)
+[2024.05.12-12.28.49:918][714]AssetCheck: New page: Asset Save: BP_Grappable
+[2024.05.12-12.28.49:918][714]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_Grappable.BP_Grappable
+[2024.05.12-12.29.18:867][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2024.05.12-12.29.18:873][ 33]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/L_3' took 0.050
+[2024.05.12-12.29.32:444][588]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Art/Wardrobe/PlantMonstera001_4K.PlantMonstera001_4K
+[2024.05.12-12.29.32:482][588]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.12-12.29.32:701][588]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.12-12.29.32:701][588]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.05.12-12.29.32:701][588]MaterialEditorStats: Shader Count: 0
+[2024.05.12-12.29.32:717][588]LogViewport: Scene viewport resized to 376x445, mode Windowed.
+[2024.05.12-12.29.32:827][589]LogShaderCompilers: Display: ================================================
+[2024.05.12-12.29.32:827][589]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.05.12-12.29.32:827][589]LogShaderCompilers: Display: Total job queries 1284, among them cache hits 353 (27.49%)
+[2024.05.12-12.29.32:827][589]LogShaderCompilers: Display: Tracking 931 distinct input hashes that result in 377 distinct outputs (40.49%)
+[2024.05.12-12.29.32:827][589]LogShaderCompilers: Display: RAM used: 7.54 MB (0.01 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.92%
+[2024.05.12-12.29.32:827][589]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.05.12-12.29.32:827][589]LogShaderCompilers: Display: Shaders Compiled: 103
+[2024.05.12-12.29.32:828][589]LogShaderCompilers: Display: Jobs assigned 103, completed 103 (100.00%)
+[2024.05.12-12.29.32:828][589]LogShaderCompilers: Display: Average time worker was idle: 662.78 s
+[2024.05.12-12.29.32:828][589]LogShaderCompilers: Display: Time job spent in pending queue: average 5.36 s, longest 25.18 s
+[2024.05.12-12.29.32:828][589]LogShaderCompilers: Display: Job execution time: average 6.94 s, max 20.98 s
+[2024.05.12-12.29.32:828][589]LogShaderCompilers: Display: Job life time (pending + execution): average 12.30 s, max 32.36
+[2024.05.12-12.29.32:828][589]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 42.56 s
+[2024.05.12-12.29.32:828][589]LogShaderCompilers: Display: Jobs were issued in 66 batches (only local compilation was used), average 1.56 jobs/batch
+[2024.05.12-12.29.32:828][589]LogShaderCompilers: Display: Average processing rate: 2.42 jobs/sec
+[2024.05.12-12.29.32:828][589]LogShaderCompilers: Display: Total thread time: 258.17 s
+[2024.05.12-12.29.32:828][589]LogShaderCompilers: Display: Total thread preprocess time: 7.36 s
+[2024.05.12-12.29.32:828][589]LogShaderCompilers: Display: Percentage time preprocessing: 2.85%
+[2024.05.12-12.29.32:828][589]LogShaderCompilers: Display: Effective parallelization: 6.07 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.05.12-12.29.32:828][589]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.05.12-12.29.32:828][589]LogShaderCompilers: Display: TBasePassPSFSelfShadowedCachedPointIndirectLightingPolicySkylight (compiled    1 times, average 8.61 sec, max 8.61 sec, min 8.61 sec)
+[2024.05.12-12.29.32:828][589]LogShaderCompilers: Display:           TBasePassPSFSelfShadowedTranslucencyPolicySkylight (compiled    1 times, average 7.71 sec, max 7.71 sec, min 7.71 sec)
+[2024.05.12-12.29.32:828][589]LogShaderCompilers: Display:     TBasePassPSFSelfShadowedVolumetricLightmapPolicySkylight (compiled    1 times, average 7.13 sec, max 7.13 sec, min 7.13 sec)
+[2024.05.12-12.29.32:828][589]LogShaderCompilers: Display:             TBasePassPSFSelfShadowedVolumetricLightmapPolicy (compiled    1 times, average 6.52 sec, max 6.52 sec, min 6.52 sec)
+[2024.05.12-12.29.32:828][589]LogShaderCompilers: Display:                   TBasePassPSFSelfShadowedTranslucencyPolicy (compiled    1 times, average 5.87 sec, max 5.87 sec, min 5.87 sec)
+[2024.05.12-12.29.32:828][589]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.05.12-12.29.32:828][589]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 7.73% of total time (compiled    5 times, average 3.99 sec, max 14.46 sec, min 1.24 sec)
+[2024.05.12-12.29.32:828][589]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 7.32% of total time (compiled    4 times, average 4.73 sec, max 14.39 sec, min 0.67 sec)
+[2024.05.12-12.29.32:828][589]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 4.80% of total time (compiled    4 times, average 3.10 sec, max 9.16 sec, min 0.91 sec)
+[2024.05.12-12.29.32:828][589]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy - 4.20% of total time (compiled    4 times, average 2.71 sec, max 5.82 sec, min 0.95 sec)
+[2024.05.12-12.29.32:828][589]LogShaderCompilers: Display:                                             FDebugViewModeVS - 3.87% of total time (compiled    7 times, average 1.43 sec, max 2.85 sec, min 0.57 sec)
+[2024.05.12-12.29.32:828][589]LogShaderCompilers: Display: ================================================
+[2024.05.12-12.29.32:906][590]MaterialEditorStats: Base pass shader: 216 instructions
+[2024.05.12-12.29.32:907][590]MaterialEditorStats: Base pass vertex shader: 255 instructions
+[2024.05.12-12.29.32:907][590]MaterialEditorStats: Texture samplers: 2/16
+[2024.05.12-12.29.32:907][590]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.05.12-12.29.32:907][590]MaterialEditorStats: Shader Count: 4
+[2024.05.12-12.29.37:194][747]LogWorld: UWorld::CleanupWorld for World_42, bSessionEnded=true, bCleanupResources=true
+[2024.05.12-12.29.37:195][747]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.12-12.29.39:762][868]LogSlate: Window 'BP_Grappable' being destroyed
+[2024.05.12-12.29.39:778][868]LogSlate: Window 'BP_Grappable' being destroyed
+[2024.05.12-12.29.39:787][868]LogWorld: UWorld::CleanupWorld for World_41, bSessionEnded=true, bCleanupResources=true
+[2024.05.12-12.29.39:787][868]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.12-12.30.03:035][ 15]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_PlantOrchidVase001_001.Wardrobe_PlantOrchidVase001_001
+[2024.05.12-12.30.03:035][ 15]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_PlantOrchidVase001_001.Wardrobe_PlantOrchidVase001_001
+[2024.05.12-12.30.03:036][ 15]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Wardrobe/Wardrobe_PlantOrchidVase001_001.Wardrobe_PlantOrchidVase001_001 as actor: StaticMeshActor /Game/FirstPerson/Maps/L_3.L_3:PersistentLevel.StaticMeshActor_2
+[2024.05.12-12.30.05:156][131]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_PlantOrchidVase001_001.Wardrobe_PlantOrchidVase001_001
+[2024.05.12-12.30.05:156][131]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_PlantOrchidVase001_001.Wardrobe_PlantOrchidVase001_001
+[2024.05.12-12.30.05:159][131]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Wardrobe/Wardrobe_PlantOrchidVase001_001.Wardrobe_PlantOrchidVase001_001 as actor: StaticMeshActor /Game/FirstPerson/Maps/L_3.L_3:PersistentLevel.StaticMeshActor_14
+[2024.05.12-12.31.11:972][700]Cmd: DELETE
+[2024.05.12-12.31.11:972][700]Cmd: ACTOR DELETE
+[2024.05.12-12.31.12:637][700]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.12-12.31.12:713][700]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2024.05.12-12.31.12:736][700]LogEditorActor: Deleted 1 Actors (0.763 secs)
+[2024.05.12-12.31.50:425][831]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FirstPerson/Blueprints/BP_Grappable.BP_Grappable_C
+[2024.05.12-12.31.50:426][831]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FirstPerson/Blueprints/BP_Grappable.BP_Grappable_C
+[2024.05.12-12.31.50:428][831]LogActorFactory: Actor Factory spawned Blueprint /Game/FirstPerson/Blueprints/BP_Grappable.BP_Grappable as actor: BP_Grappable_C /Game/FirstPerson/Maps/L_3.L_3:PersistentLevel.BP_Grappable_C_0
+[2024.05.12-12.31.50:431][831]LogActorFactory: Actor Factory spawned Blueprint /Game/FirstPerson/Blueprints/BP_Grappable.BP_Grappable as actor: BP_Grappable_C /Game/FirstPerson/Maps/L_3.L_3:PersistentLevel.BP_Grappable_C_0
+[2024.05.12-12.31.51:404][869]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FirstPerson/Blueprints/BP_Grappable.BP_Grappable_C
+[2024.05.12-12.31.51:404][869]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FirstPerson/Blueprints/BP_Grappable.BP_Grappable_C
+[2024.05.12-12.31.51:410][869]LogActorFactory: Actor Factory spawned Blueprint /Game/FirstPerson/Blueprints/BP_Grappable.BP_Grappable as actor: BP_Grappable_C /Game/FirstPerson/Maps/L_3.L_3:PersistentLevel.BP_Grappable_C_1
+[2024.05.12-12.31.51:412][869]LogActorFactory: Actor Factory spawned Blueprint /Game/FirstPerson/Blueprints/BP_Grappable.BP_Grappable as actor: BP_Grappable_C /Game/FirstPerson/Maps/L_3.L_3:PersistentLevel.BP_Grappable_C_1
+[2024.05.12-12.32.25:088][799]LogSlate: Took 0.007533 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.05.12-12.33.00:169][752]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.05.12-12.33.00:180][752]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.12-12.33.00:180][752]PIE: New page: PIE session: L_3 (12 maj 2024, 16:33:00)
+[2024.05.12-12.33.00:181][752]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_L_3
+[2024.05.12-12.33.00:253][752]LogPlayLevel: PIE: StaticDuplicateObject took: (0.072950s)
+[2024.05.12-12.33.00:253][752]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/L_3.L_3 to /Game/FirstPerson/Maps/UEDPIE_0_L_3.L_3 (0.073014s)
+[2024.05.12-12.33.00:253][752]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.12-12.33.00:254][752]LogAIModule: Creating AISystem for world L_3
+[2024.05.12-12.33.00:254][752]LogPlayLevel: PIE: World Init took: (0.001339s)
+[2024.05.12-12.33.00:294][752]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2024.05.12-12.33.00:306][752]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2024.05.12-12.33.00:306][752]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.12-12.33.00:306][752]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.12-12.33.00:306][752]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.12-12.33.00:306][752]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.12-12.33.00:306][752]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.12-12.33.00:306][752]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.05.12-12.33.00:306][752]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.12-12.33.00:306][752]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.12-12.33.00:306][752]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.12-12.33.00:306][752]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.12-12.33.00:306][752]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.12-12.33.00:312][752]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.12-12.33.00:335][752]LogAudioMixer: Display: Using Audio Hardware Device Głośniki (Realtek(R) Audio)
+[2024.05.12-12.33.00:335][752]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.12-12.33.00:337][752]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.12-12.33.00:337][752]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.12-12.33.00:338][752]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=24
+[2024.05.12-12.33.00:338][752]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=24
+[2024.05.12-12.33.00:341][752]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=24
+[2024.05.12-12.33.00:341][752]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=24
+[2024.05.12-12.33.00:341][752]LogInit: FAudioDevice initialized.
+[2024.05.12-12.33.00:341][752]LogAudio: Display: Audio Device (ID: 24) registered with world 'L_3'.
+[2024.05.12-12.33.00:345][752]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.05.12-12.33.00:390][752]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_L_3.L_3 up for play (max tick rate 60) at 2024.05.12-14.33.00
+[2024.05.12-12.33.00:391][752]LogWorld: Bringing up level for play took: 0.045201
+[2024.05.12-12.33.00:395][752]LogOnline: OSS: Created online subsystem instance for: :Context_62
+[2024.05.12-12.33.00:397][752]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2024.05.12-12.33.00:410][752]PIE: Server logged in
+[2024.05.12-12.33.00:411][752]PIE: Play in editor total start time 0,232 seconds.
+[2024.05.12-12.33.14:377][573]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.12-12.33.14:377][573]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_L_3
+[2024.05.12-12.33.14:378][573]LogWorld: UWorld::CleanupWorld for L_3, bSessionEnded=true, bCleanupResources=true
+[2024.05.12-12.33.14:381][573]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.12-12.33.14:388][573]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.12-12.33.14:400][573]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.12-12.33.14:463][573]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.12-12.33.14:463][573]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2024.05.12-12.33.14:466][573]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2024.05.12-12.33.14:474][573]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.12-12.33.14:487][573]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2024.05.12-12.33.14:574][574]LogPlayLevel: Display: Destroying online subsystem :Context_62
+[2024.05.12-12.33.44:103][313]Cmd: DELETE
+[2024.05.12-12.33.44:103][313]Cmd: ACTOR DELETE
+[2024.05.12-12.33.44:123][313]LogEditorActor: Deleted Actor: BP_Grappable_C
+[2024.05.12-12.33.44:155][313]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2024.05.12-12.33.44:162][313]LogEditorActor: Deleted 1 Actors (0.058 secs)
+[2024.05.12-12.33.48:256][517]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPerson/Blueprints/BP_Grappable.BP_Grappable
+[2024.05.12-12.33.48:257][517]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.12-12.34.05:484][366]BlueprintLog: New page: Compile BP_Grappable
+[2024.05.12-12.34.05:568][366]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2024.05.12-12.34.05:612][366]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.12-12.34.05:705][366]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/BP_Grappable" FILE="../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/FirstPerson/Blueprints/BP_Grappable.uasset" SILENT=true
+[2024.05.12-12.34.05:730][366]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_Grappable
+[2024.05.12-12.34.05:732][366]LogSavePackage: Moving '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/BP_GrappableD744393942C4DC389BA58DAE10123DFF.tmp' to '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/FirstPerson/Blueprints/BP_Grappable.uasset'
+[2024.05.12-12.34.05:752][366]LogFileHelpers: InternalPromptForCheckoutAndSave took 140 ms (total: 40.4 sec)
+[2024.05.12-12.34.05:786][366]AssetCheck: New page: Asset Save: BP_Grappable
+[2024.05.12-12.34.05:787][366]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_Grappable.BP_Grappable
+[2024.05.12-12.34.07:581][464]Cmd: TRANSACTION UNDO
+[2024.05.12-12.34.07:581][464]LogEditorTransaction: Undo Create Pin Link
+[2024.05.12-12.34.08:132][470]Cmd: TRANSACTION UNDO
+[2024.05.12-12.34.08:132][470]LogEditorTransaction: Undo Move Node
+[2024.05.12-12.34.08:361][474]Cmd: TRANSACTION UNDO
+[2024.05.12-12.34.08:361][474]LogEditorTransaction: Undo Add Node
+[2024.05.12-12.34.08:756][490]Cmd: TRANSACTION UNDO
+[2024.05.12-12.34.08:757][490]LogEditorTransaction: Undo Delete current selection
+[2024.05.12-12.34.09:189][509]Cmd: TRANSACTION UNDO
+[2024.05.12-12.34.09:189][509]LogEditorTransaction: Undo Delete Elements
+[2024.05.12-12.34.24:018][227]BlueprintLog: New page: Compile BP_Grappable
+[2024.05.12-12.34.24:111][227]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2024.05.12-12.34.24:153][227]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.12-12.34.24:254][227]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/BP_Grappable" FILE="../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/FirstPerson/Blueprints/BP_Grappable.uasset" SILENT=true
+[2024.05.12-12.34.24:264][227]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_Grappable
+[2024.05.12-12.34.24:264][227]LogSavePackage: Moving '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/BP_GrappableC9EA074E4477704493CB90BA89FE8EBA.tmp' to '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/FirstPerson/Blueprints/BP_Grappable.uasset'
+[2024.05.12-12.34.24:282][227]LogFileHelpers: InternalPromptForCheckoutAndSave took 129 ms (total: 40.5 sec)
+[2024.05.12-12.34.24:294][227]AssetCheck: New page: Asset Save: BP_Grappable
+[2024.05.12-12.34.24:295][227]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_Grappable.BP_Grappable
+[2024.05.12-12.34.24:867][248]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.05.12-12.34.24:889][248]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.12-12.34.24:889][248]PIE: New page: PIE session: L_3 (12 maj 2024, 16:34:24)
+[2024.05.12-12.34.24:889][248]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_L_3
+[2024.05.12-12.34.24:956][248]LogPlayLevel: PIE: StaticDuplicateObject took: (0.066842s)
+[2024.05.12-12.34.24:956][248]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/L_3.L_3 to /Game/FirstPerson/Maps/UEDPIE_0_L_3.L_3 (0.066899s)
+[2024.05.12-12.34.24:956][248]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.12-12.34.24:956][248]LogAIModule: Creating AISystem for world L_3
+[2024.05.12-12.34.24:957][248]LogPlayLevel: PIE: World Init took: (0.001383s)
+[2024.05.12-12.34.25:023][248]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2024.05.12-12.34.25:029][248]LogAudio: Display: Creating Audio Device:                 Id: 25, Scope: Unique, Realtime: True
+[2024.05.12-12.34.25:029][248]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.12-12.34.25:029][248]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.12-12.34.25:029][248]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.12-12.34.25:029][248]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.12-12.34.25:030][248]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.12-12.34.25:030][248]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.05.12-12.34.25:030][248]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.12-12.34.25:030][248]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.12-12.34.25:030][248]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.12-12.34.25:030][248]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.12-12.34.25:030][248]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.12-12.34.25:033][248]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.12-12.34.25:051][248]LogAudioMixer: Display: Using Audio Hardware Device Głośniki (Realtek(R) Audio)
+[2024.05.12-12.34.25:051][248]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.12-12.34.25:051][248]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.12-12.34.25:051][248]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.12-12.34.25:053][248]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=25
+[2024.05.12-12.34.25:053][248]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=25
+[2024.05.12-12.34.25:055][248]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=25
+[2024.05.12-12.34.25:055][248]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=25
+[2024.05.12-12.34.25:055][248]LogInit: FAudioDevice initialized.
+[2024.05.12-12.34.25:055][248]LogAudio: Display: Audio Device (ID: 25) registered with world 'L_3'.
+[2024.05.12-12.34.25:060][248]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.05.12-12.34.25:096][248]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_L_3.L_3 up for play (max tick rate 60) at 2024.05.12-14.34.25
+[2024.05.12-12.34.25:097][248]LogWorld: Bringing up level for play took: 0.036325
+[2024.05.12-12.34.25:099][248]LogOnline: OSS: Created online subsystem instance for: :Context_64
+[2024.05.12-12.34.25:099][248]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2024.05.12-12.34.25:103][248]PIE: Server logged in
+[2024.05.12-12.34.25:104][248]PIE: Play in editor total start time 0,227 seconds.
+[2024.05.12-12.34.44:866][269]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.12-12.34.44:867][269]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_L_3
+[2024.05.12-12.34.44:868][269]LogWorld: UWorld::CleanupWorld for L_3, bSessionEnded=true, bCleanupResources=true
+[2024.05.12-12.34.44:872][269]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.12-12.34.44:890][269]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.12-12.34.44:899][269]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.12-12.34.44:961][269]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.12-12.34.44:961][269]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25
+[2024.05.12-12.34.44:963][269]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25
+[2024.05.12-12.34.44:970][269]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.12-12.34.44:984][269]LogUObjectHash: Compacting FUObjectHashTables data took   4.98ms
+[2024.05.12-12.34.45:111][270]LogPlayLevel: Display: Destroying online subsystem :Context_64
+[2024.05.12-12.34.51:375][589]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.05.12-12.34.51:386][589]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.12-12.34.51:386][589]PIE: New page: PIE session: L_3 (12 maj 2024, 16:34:51)
+[2024.05.12-12.34.51:386][589]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_L_3
+[2024.05.12-12.34.51:458][589]LogPlayLevel: PIE: StaticDuplicateObject took: (0.071640s)
+[2024.05.12-12.34.51:459][589]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/L_3.L_3 to /Game/FirstPerson/Maps/UEDPIE_0_L_3.L_3 (0.071699s)
+[2024.05.12-12.34.51:459][589]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.12-12.34.51:459][589]LogAIModule: Creating AISystem for world L_3
+[2024.05.12-12.34.51:459][589]LogPlayLevel: PIE: World Init took: (0.001370s)
+[2024.05.12-12.34.51:508][589]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2024.05.12-12.34.51:512][589]LogAudio: Display: Creating Audio Device:                 Id: 26, Scope: Unique, Realtime: True
+[2024.05.12-12.34.51:512][589]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.12-12.34.51:512][589]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.12-12.34.51:512][589]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.12-12.34.51:512][589]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.12-12.34.51:512][589]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.12-12.34.51:512][589]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.05.12-12.34.51:512][589]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.12-12.34.51:512][589]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.12-12.34.51:513][589]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.12-12.34.51:513][589]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.12-12.34.51:513][589]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.12-12.34.51:516][589]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.12-12.34.51:535][589]LogAudioMixer: Display: Using Audio Hardware Device Głośniki (Realtek(R) Audio)
+[2024.05.12-12.34.51:536][589]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.12-12.34.51:536][589]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.12-12.34.51:536][589]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.12-12.34.51:537][589]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=26
+[2024.05.12-12.34.51:537][589]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=26
+[2024.05.12-12.34.51:539][589]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=26
+[2024.05.12-12.34.51:539][589]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=26
+[2024.05.12-12.34.51:539][589]LogInit: FAudioDevice initialized.
+[2024.05.12-12.34.51:539][589]LogAudio: Display: Audio Device (ID: 26) registered with world 'L_3'.
+[2024.05.12-12.34.51:543][589]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.05.12-12.34.51:579][589]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_L_3.L_3 up for play (max tick rate 60) at 2024.05.12-14.34.51
+[2024.05.12-12.34.51:580][589]LogWorld: Bringing up level for play took: 0.036099
+[2024.05.12-12.34.51:583][589]LogOnline: OSS: Created online subsystem instance for: :Context_65
+[2024.05.12-12.34.51:583][589]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2024.05.12-12.34.51:587][589]PIE: Server logged in
+[2024.05.12-12.34.51:589][589]PIE: Play in editor total start time 0,203 seconds.
+[2024.05.12-12.35.16:377][832]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.12-12.35.16:377][832]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_L_3
+[2024.05.12-12.35.16:379][832]LogWorld: UWorld::CleanupWorld for L_3, bSessionEnded=true, bCleanupResources=true
+[2024.05.12-12.35.16:384][832]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.12-12.35.16:401][832]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.12-12.35.16:408][832]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.12-12.35.16:467][832]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.12-12.35.16:467][832]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26
+[2024.05.12-12.35.16:469][832]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26
+[2024.05.12-12.35.16:492][832]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2024.05.12-12.35.16:571][833]LogPlayLevel: Display: Destroying online subsystem :Context_65
+[2024.05.12-12.35.58:692][777]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_PlantOrchid001_001.Wardrobe_PlantOrchid001_001
+[2024.05.12-12.35.58:692][777]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_PlantOrchid001_001.Wardrobe_PlantOrchid001_001
+[2024.05.12-12.35.58:693][777]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Wardrobe/Wardrobe_PlantOrchid001_001.Wardrobe_PlantOrchid001_001 as actor: StaticMeshActor /Game/FirstPerson/Maps/L_3.L_3:PersistentLevel.StaticMeshActor_16
+[2024.05.12-12.36.01:224][892]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_PlantOrchid001_001.Wardrobe_PlantOrchid001_001
+[2024.05.12-12.36.01:224][892]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/Wardrobe_PlantOrchid001_001.Wardrobe_PlantOrchid001_001
+[2024.05.12-12.36.01:227][892]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Wardrobe/Wardrobe_PlantOrchid001_001.Wardrobe_PlantOrchid001_001 as actor: StaticMeshActor /Game/FirstPerson/Maps/L_3.L_3:PersistentLevel.StaticMeshActor_24
+[2024.05.12-12.36.05:252][ 75]Cmd: DELETE
+[2024.05.12-12.36.05:252][ 75]Cmd: ACTOR DELETE
+[2024.05.12-12.36.05:283][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.12-12.36.05:322][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2024.05.12-12.36.05:330][ 75]LogEditorActor: Deleted 1 Actors (0.078 secs)
+[2024.05.12-12.36.46:017][ 61]Cmd: DELETE
+[2024.05.12-12.36.46:017][ 61]Cmd: ACTOR DELETE
+[2024.05.12-12.36.46:017][ 61]LogEditorActor: Cannot delete component StaticMeshComponent /Game/FirstPerson/Maps/L_3.L_3:PersistentLevel.BP_Grappable_C_2.Cube: Can't delete non-instanced components or the scene root.
+[2024.05.12-12.36.48:485][177]Cmd: DELETE
+[2024.05.12-12.36.48:485][177]Cmd: ACTOR DELETE
+[2024.05.12-12.36.48:485][177]LogEditorActor: Cannot delete component StaticMeshComponent /Game/FirstPerson/Maps/L_3.L_3:PersistentLevel.BP_Grappable_C_2.Cube: Can't delete non-instanced components or the scene root.
+[2024.05.12-12.36.49:717][235]Cmd: DELETE
+[2024.05.12-12.36.49:717][235]Cmd: ACTOR DELETE
+[2024.05.12-12.36.49:717][235]LogEditorActor: Cannot delete component SceneComponent /Game/FirstPerson/Maps/L_3.L_3:PersistentLevel.BP_Grappable_C_2.DefaultSceneRoot: Can't delete non-instanced components or the scene root.
+[2024.05.12-12.36.50:738][288]Cmd: DELETE
+[2024.05.12-12.36.50:738][288]Cmd: ACTOR DELETE
+[2024.05.12-12.36.50:738][288]LogEditorActor: Cannot delete component SceneComponent /Game/FirstPerson/Maps/L_3.L_3:PersistentLevel.BP_Grappable_C_2.DefaultSceneRoot: Can't delete non-instanced components or the scene root.
+[2024.05.12-12.36.50:918][295]Cmd: DELETE
+[2024.05.12-12.36.50:918][295]Cmd: ACTOR DELETE
+[2024.05.12-12.36.50:918][295]LogEditorActor: Cannot delete component SceneComponent /Game/FirstPerson/Maps/L_3.L_3:PersistentLevel.BP_Grappable_C_2.DefaultSceneRoot: Can't delete non-instanced components or the scene root.
+[2024.05.12-12.36.54:912][478]Cmd: DELETE
+[2024.05.12-12.36.54:912][478]Cmd: ACTOR DELETE
+[2024.05.12-12.36.54:912][478]LogEditorActor: Cannot delete component SceneComponent /Game/FirstPerson/Maps/L_3.L_3:PersistentLevel.BP_Grappable_C_2.DefaultSceneRoot: Can't delete non-instanced components or the scene root.
+[2024.05.12-12.36.56:321][545]Cmd: SELECT NONE
+[2024.05.12-12.36.58:231][637]Cmd: DELETE
+[2024.05.12-12.36.58:231][637]Cmd: ACTOR DELETE
+[2024.05.12-12.36.58:254][637]LogEditorActor: Deleted Actor: BP_Grappable_C
+[2024.05.12-12.36.58:296][637]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2024.05.12-12.36.58:306][637]LogEditorActor: Deleted 1 Actors (0.074 secs)
+[2024.05.12-12.37.02:757][839]Cmd: DELETE
+[2024.05.12-12.37.02:757][839]Cmd: ACTOR DELETE
+[2024.05.12-12.37.02:779][839]LogEditorActor: Deleted Actor: BP_Grappable_C
+[2024.05.12-12.37.02:830][839]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2024.05.12-12.37.02:834][839]LogEditorActor: Deleted 1 Actors (0.077 secs)
+[2024.05.12-12.37.22:079][721]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.TextRenderActor
+[2024.05.12-12.37.22:079][721]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.TextRenderActor
+[2024.05.12-12.37.22:082][721]LogActorFactory: Actor Factory spawned Class /Script/Engine.TextRenderActor as actor: TextRenderActor /Game/FirstPerson/Maps/L_3.L_3:PersistentLevel.TextRenderActor_0
+[2024.05.12-12.37.22:083][721]LogActorFactory: Actor Factory spawned Class /Script/Engine.TextRenderActor as actor: TextRenderActor /Game/FirstPerson/Maps/L_3.L_3:PersistentLevel.TextRenderActor_0
+[2024.05.12-12.38.04:262][803]Cmd: SELECT NONE
+[2024.05.12-12.38.18:332][504]Cmd: TRANSACTION UNDO
+[2024.05.12-12.38.18:333][504]LogEditorTransaction: Undo Scale Elements
+[2024.05.12-12.38.19:953][566]Cmd: TRANSACTION UNDO
+[2024.05.12-12.38.19:953][566]LogEditorTransaction: Undo Move Elements
+[2024.05.12-12.39.00:406][788]Cmd: TRANSACTION UNDO
+[2024.05.12-12.39.00:406][788]LogEditorTransaction: Undo Scale Elements
+[2024.05.12-12.39.15:324][542]LogShaderCompilers: Display: ================================================
+[2024.05.12-12.39.15:324][542]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.05.12-12.39.15:324][542]LogShaderCompilers: Display: Total job queries 1298, among them cache hits 357 (27.50%)
+[2024.05.12-12.39.15:324][542]LogShaderCompilers: Display: Tracking 941 distinct input hashes that result in 383 distinct outputs (40.70%)
+[2024.05.12-12.39.15:324][542]LogShaderCompilers: Display: RAM used: 7.60 MB (0.01 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.93%
+[2024.05.12-12.39.15:324][542]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.05.12-12.39.15:324][542]LogShaderCompilers: Display: Shaders Compiled: 103
+[2024.05.12-12.39.15:324][542]LogShaderCompilers: Display: Jobs assigned 103, completed 103 (100.00%)
+[2024.05.12-12.39.15:324][542]LogShaderCompilers: Display: Average time worker was idle: 662.78 s
+[2024.05.12-12.39.15:324][542]LogShaderCompilers: Display: Time job spent in pending queue: average 5.36 s, longest 25.18 s
+[2024.05.12-12.39.15:324][542]LogShaderCompilers: Display: Job execution time: average 6.94 s, max 20.98 s
+[2024.05.12-12.39.15:324][542]LogShaderCompilers: Display: Job life time (pending + execution): average 12.30 s, max 32.36
+[2024.05.12-12.39.15:324][542]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 42.56 s
+[2024.05.12-12.39.15:324][542]LogShaderCompilers: Display: Jobs were issued in 66 batches (only local compilation was used), average 1.56 jobs/batch
+[2024.05.12-12.39.15:324][542]LogShaderCompilers: Display: Average processing rate: 2.42 jobs/sec
+[2024.05.12-12.39.15:324][542]LogShaderCompilers: Display: Total thread time: 258.17 s
+[2024.05.12-12.39.15:324][542]LogShaderCompilers: Display: Total thread preprocess time: 7.36 s
+[2024.05.12-12.39.15:324][542]LogShaderCompilers: Display: Percentage time preprocessing: 2.85%
+[2024.05.12-12.39.15:324][542]LogShaderCompilers: Display: Effective parallelization: 6.07 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.05.12-12.39.15:324][542]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.05.12-12.39.15:324][542]LogShaderCompilers: Display: TBasePassPSFSelfShadowedCachedPointIndirectLightingPolicySkylight (compiled    1 times, average 8.61 sec, max 8.61 sec, min 8.61 sec)
+[2024.05.12-12.39.15:324][542]LogShaderCompilers: Display:           TBasePassPSFSelfShadowedTranslucencyPolicySkylight (compiled    1 times, average 7.71 sec, max 7.71 sec, min 7.71 sec)
+[2024.05.12-12.39.15:324][542]LogShaderCompilers: Display:     TBasePassPSFSelfShadowedVolumetricLightmapPolicySkylight (compiled    1 times, average 7.13 sec, max 7.13 sec, min 7.13 sec)
+[2024.05.12-12.39.15:324][542]LogShaderCompilers: Display:             TBasePassPSFSelfShadowedVolumetricLightmapPolicy (compiled    1 times, average 6.52 sec, max 6.52 sec, min 6.52 sec)
+[2024.05.12-12.39.15:324][542]LogShaderCompilers: Display:                   TBasePassPSFSelfShadowedTranslucencyPolicy (compiled    1 times, average 5.87 sec, max 5.87 sec, min 5.87 sec)
+[2024.05.12-12.39.15:324][542]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.05.12-12.39.15:324][542]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 7.73% of total time (compiled    5 times, average 3.99 sec, max 14.46 sec, min 1.24 sec)
+[2024.05.12-12.39.15:324][542]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 7.32% of total time (compiled    4 times, average 4.73 sec, max 14.39 sec, min 0.67 sec)
+[2024.05.12-12.39.15:324][542]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 4.80% of total time (compiled    4 times, average 3.10 sec, max 9.16 sec, min 0.91 sec)
+[2024.05.12-12.39.15:324][542]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy - 4.20% of total time (compiled    4 times, average 2.71 sec, max 5.82 sec, min 0.95 sec)
+[2024.05.12-12.39.15:324][542]LogShaderCompilers: Display:                                             FDebugViewModeVS - 3.87% of total time (compiled    7 times, average 1.43 sec, max 2.85 sec, min 0.57 sec)
+[2024.05.12-12.39.15:324][542]LogShaderCompilers: Display: ================================================
+[2024.05.12-12.40.24:758][611]Cmd: SELECT NONE
+[2024.05.12-12.41.27:811][772]Cmd: SELECT NONE
+[2024.05.12-12.41.57:377][167]Cmd: SELECT NONE
+[2024.05.12-12.42.06:220][628]Cmd: SELECT NONE
+[2024.05.12-12.42.22:997][492]Cmd: SELECT NONE
+[2024.05.12-12.42.30:096][860]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2024.05.12-12.42.30:114][860]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.12-12.42.32:033][860]LogSlate: Window 'Save Level As' being destroyed
+[2024.05.12-12.42.32:116][860]LogFileHelpers: InternalPromptForCheckoutAndSave took 2.00 sec (total: 42.5 sec)
+[2024.05.12-12.42.33:011][903]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2024.05.12-12.42.34:730][903]LogSlate: Window 'Save Content' being destroyed
+[2024.05.12-12.42.34:747][903]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.12-12.42.34:919][903]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.12-12.42.35:007][903]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Maps/L_2" FILE="../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/FirstPerson/Maps/L_2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.05.12-12.42.35:052][903]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2024.05.12-12.42.35:257][903]LogSavePackage: Moving output files for package: /Game/FirstPerson/Maps/L_2
+[2024.05.12-12.42.35:258][903]LogSavePackage: Moving '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/L_28ED775364FD53D6AA549B5A145C8497E.tmp' to '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/FirstPerson/Maps/L_2.umap'
+[2024.05.12-12.42.35:278][903]LogFileHelpers: No new changes to save!
+[2024.05.12-12.42.35:356][903]LogFileHelpers: Saving map 'L_2' took 0.440
+[2024.05.12-12.42.35:357][903]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Maps/L_3" FILE="../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/FirstPerson/Maps/L_3.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.05.12-12.42.35:415][903]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2024.05.12-12.42.35:622][903]LogSavePackage: Moving output files for package: /Game/FirstPerson/Maps/L_3
+[2024.05.12-12.42.35:622][903]LogSavePackage: Moving '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/L_3AC489AD2475407A35B927389809F047F.tmp' to '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/FirstPerson/Maps/L_3.umap'
+[2024.05.12-12.42.35:650][903]LogFileHelpers: Saving map 'L_3' took 0.294
+[2024.05.12-12.42.35:701][903]LogFileHelpers: InternalPromptForCheckoutAndSave took 953 ms (total: 43.4 sec)
+[2024.05.12-12.42.35:712][903]AssetCheck: New page: Asset Save: multiple assets
+[2024.05.12-12.42.35:712][903]LogContentValidation: Display: Validating /Script/Engine.World /Game/FirstPerson/Maps/L_2.L_2
+[2024.05.12-12.42.35:712][903]LogContentValidation: Display: Validating /Script/Engine.World /Game/FirstPerson/Maps/L_3.L_3
+[2024.05.12-12.42.40:522][170]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2024.05.12-12.42.42:048][170]LogSlate: Window 'Save Content' being destroyed
+[2024.05.12-12.42.42:063][170]LogStall: Shutdown...
+[2024.05.12-12.42.42:078][170]LogStall: Shutdown complete.
+[2024.05.12-12.42.42:145][170]LogSlate: Window 'BP_Grappable' being destroyed
+[2024.05.12-12.42.42:188][170]LogWorld: UWorld::CleanupWorld for World_43, bSessionEnded=true, bCleanupResources=true
+[2024.05.12-12.42.42:188][170]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.12-12.42.42:316][170]LogSlate: Window 'EscapeFrom0G - Unreal Editor' being destroyed
+[2024.05.12-12.42.42:713][171]Cmd: QUIT_EDITOR
+[2024.05.12-12.42.42:714][171]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2024.05.12-12.42.42:721][171]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2024.05.12-12.42.42:722][171]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2024.05.12-12.42.42:723][171]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2024.05.12-12.42.42:737][171]LogWorld: UWorld::CleanupWorld for L_3, bSessionEnded=true, bCleanupResources=true
+[2024.05.12-12.42.42:737][171]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.12-12.42.42:742][171]LogWorld: UWorld::CleanupWorld for L_3_Auto1, bSessionEnded=true, bCleanupResources=true
+[2024.05.12-12.42.42:742][171]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.12-12.42.42:746][171]LogWorld: UWorld::CleanupWorld for L_3_Auto4, bSessionEnded=true, bCleanupResources=true
+[2024.05.12-12.42.42:746][171]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.12-12.42.42:749][171]LogWorld: UWorld::CleanupWorld for L_2, bSessionEnded=true, bCleanupResources=true
+[2024.05.12-12.42.42:749][171]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.12-12.42.42:750][171]LogWorld: UWorld::CleanupWorld for L_22, bSessionEnded=true, bCleanupResources=true
+[2024.05.12-12.42.42:750][171]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.12-12.42.42:753][171]LogWorld: UWorld::CleanupWorld for L_3_Auto3, bSessionEnded=true, bCleanupResources=true
+[2024.05.12-12.42.42:754][171]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.12-12.42.42:770][171]LogStylusInput: Shutting down StylusInput subsystem.
+[2024.05.12-12.42.42:779][171]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2024.05.12-12.42.43:834][171]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2024.05.12-12.42.43:834][171]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2024.05.12-12.42.43:834][171]LogAudio: Display: Audio Device unregistered from world 'L_3'.
+[2024.05.12-12.42.43:847][171]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2024.05.12-12.42.43:853][171]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2024.05.12-12.42.43:875][171]LogAudio: Display: Audio Device Manager Shutdown
+[2024.05.12-12.42.43:897][171]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2024.05.12-12.42.43:898][171]LogExit: Preparing to exit.
+[2024.05.12-12.42.44:026][171]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2024.05.12-12.42.44:061][171]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.05.12-12.42.44:063][171]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.05.12-12.42.44:068][171]LogPython: Display: Object '/Engine/PythonTypes.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.05.12-12.42.44:070][171]LogPython: Display: Object '/Engine/PythonTypes.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.05.12-12.42.44:070][171]LogPython: Display: Object '/Engine/PythonTypes.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.05.12-12.42.44:070][171]LogPython: Display: Object '/Engine/PythonTypes.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.05.12-12.42.44:070][171]LogPython: Display: Object '/Engine/PythonTypes.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.05.12-12.42.44:071][171]LogPython: Display: Object '/Engine/PythonTypes.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.05.12-12.42.44:071][171]LogPython: Display: Object '/Engine/PythonTypes.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.05.12-12.42.44:071][171]LogPython: Display: Object '/Engine/PythonTypes.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.05.12-12.42.44:071][171]LogPython: Display: Object '/Engine/PythonTypes.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.05.12-12.42.44:071][171]LogPython: Display: Object '/Engine/PythonTypes.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.05.12-12.42.44:071][171]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.05.12-12.42.44:071][171]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.05.12-12.42.44:071][171]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.05.12-12.42.44:071][171]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.05.12-12.42.44:071][171]LogPython: Display: Object '/Engine/PythonTypes.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.05.12-12.42.44:071][171]LogPython: Display: Object '/Engine/PythonTypes.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.05.12-12.42.44:072][171]LogPython: Display: Object '/Engine/PythonTypes.MoviePipelineExampleRuntimeExecutor' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.05.12-12.42.44:073][171]LogPython: Display: Object '/Engine/PythonTypes.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.05.12-12.42.44:894][171]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2024.05.12-12.42.44:901][171]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2024.05.12-12.42.44:906][171]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2024.05.12-12.42.44:916][171]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2024.05.12-12.42.44:924][171]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2024.05.12-12.42.44:928][171]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2024.05.12-12.42.44:932][171]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2024.05.12-12.42.44:936][171]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2024.05.12-12.42.44:939][171]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2024.05.12-12.42.44:943][171]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2024.05.12-12.42.44:948][171]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2024.05.12-12.42.44:958][171]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2024.05.12-12.42.44:962][171]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2024.05.12-12.42.44:965][171]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2024.05.12-12.42.44:969][171]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2024.05.12-12.42.44:974][171]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2024.05.12-12.42.44:978][171]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2024.05.12-12.42.44:983][171]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2024.05.12-12.42.44:989][171]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2024.05.12-12.42.44:992][171]LogWorld: UWorld::CleanupWorld for World_40, bSessionEnded=true, bCleanupResources=true
+[2024.05.12-12.42.44:995][171]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2024.05.12-12.42.44:998][171]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2024.05.12-12.42.45:154][171]LogExit: Editor shut down
+[2024.05.12-12.42.45:173][171]LogExit: Transaction tracking system shut down
+[2024.05.12-12.42.45:294][171]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
