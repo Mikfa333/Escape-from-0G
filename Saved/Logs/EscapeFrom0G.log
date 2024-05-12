@@ -1139,3 +1139,37 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.05.12-08.47.39:785][699]LogFileHelpers: InternalPromptForCheckoutAndSave took 299 ms
 [2024.05.12-08.47.39:789][699]AssetCheck: New page: Asset Save: L_1
 [2024.05.12-08.47.39:789][699]LogContentValidation: Display: Validating /Script/Engine.World /Game/FirstPerson/Maps/L_1.L_1
+[2024.05.12-08.48.12:169][173]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2024.05.12-08.48.12:361][173]LogAssetEditorSubsystem: Opening Asset editor for World /Game/FirstPerson/Maps/L_2.L_2
+[2024.05.12-08.48.12:361][173]Cmd: MAP LOAD FILE="../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/FirstPerson/Maps/L_2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.05.12-08.48.12:361][173]LightingResults: New page: Lighting Build
+[2024.05.12-08.48.12:361][173]LoadErrors: New page: Loading map: L_2.umap
+[2024.05.12-08.48.12:368][173]LogWorld: UWorld::CleanupWorld for L_1, bSessionEnded=true, bCleanupResources=true
+[2024.05.12-08.48.12:368][173]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.12-08.48.12:368][173]MapCheck: New page: Map Check
+[2024.05.12-08.48.12:369][173]LightingResults: New page: Lighting Build
+[2024.05.12-08.48.12:385][173]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.12-08.48.12:390][173]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.05.12-08.48.12:394][173]LogWorld: UWorld::CleanupWorld for L_2, bSessionEnded=true, bCleanupResources=true
+[2024.05.12-08.48.12:396][173]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.12-08.48.12:420][173]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2024.05.12-08.48.12:432][173]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2024.05.12-08.48.12:508][173]LogAudio: Display: Audio Device (ID: 1) registered with world 'L_2'.
+[2024.05.12-08.48.12:508][173]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.12-08.48.12:509][173]LogAIModule: Creating AISystem for world L_2
+[2024.05.12-08.48.12:602][173]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.05.12-08.48.12:632][173]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2024.05.12-08.48.12:646][173]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.05.12-08.48.12:654][173]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 7,325ms to complete.
+[2024.05.12-08.48.12:654][173]LogFileHelpers: Loading map 'L_2' took 0.293
+[2024.05.12-08.49.25:583][151]Cmd: SELECT NONE
+[2024.05.12-08.49.32:748][562]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.12-08.49.32:881][562]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Maps/L_2" FILE="../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/FirstPerson/Maps/L_2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.05.12-08.49.32:902][562]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2024.05.12-08.49.33:055][562]LogSavePackage: Moving output files for package: /Game/FirstPerson/Maps/L_2
+[2024.05.12-08.49.33:056][562]LogSavePackage: Moving '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/L_22A3419164B902D9B9575698A58503152.tmp' to '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/FirstPerson/Maps/L_2.umap'
+[2024.05.12-08.49.33:081][562]LogFileHelpers: No new changes to save!
+[2024.05.12-08.49.33:084][562]LogFileHelpers: Saving map 'L_2' took 0.203
+[2024.05.12-08.49.33:099][562]LogFileHelpers: InternalPromptForCheckoutAndSave took 351 ms (total: 651 ms)
+[2024.05.12-08.49.33:108][562]AssetCheck: New page: Asset Save: L_2
+[2024.05.12-08.49.33:108][562]LogContentValidation: Display: Validating /Script/Engine.World /Game/FirstPerson/Maps/L_2.L_2
