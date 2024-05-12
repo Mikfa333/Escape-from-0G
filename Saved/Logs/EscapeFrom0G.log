@@ -1937,3 +1937,544 @@ Script Stack (3 frames) :
 [2024.05.12-10.10.44:383][ 72]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2024.05.12-10.10.44:402][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
 [2024.05.12-10.10.44:472][ 73]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2024.05.12-10.11.49:035][  8]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2024.05.12-10.11.50:530][  8]LogSlate: Window 'Delete Assets' being destroyed
+[2024.05.12-10.11.50:621][  8]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2024.05.12-10.11.50:671][  8]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2024.05.12-10.11.50:729][  8]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2024.05.12-10.12.07:755][366]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\mikir\Downloads\WardrobeFIXED (1).fbx)
+[2024.05.12-10.12.07:769][366]LogFbx: Loading FBX Scene from C:\Users\mikir\Downloads\WardrobeFIXED (1).fbx
+[2024.05.12-10.12.07:777][366]LogFbx: FBX Scene Loaded Succesfully
+[2024.05.12-10.12.09:080][366]LogSlate: Window 'FBX Import Options' being destroyed
+[2024.05.12-10.12.09:310][366]LogFbx: Display: Triangulating static mesh Closet
+[2024.05.12-10.12.09:315][366]LogStaticMesh: Display: Building static mesh WardrobeFIXED__1__Closet...
+[2024.05.12-10.12.09:320][366]LogStaticMesh: Built static mesh [0.00s] /Game/Art/Wardrobe/WardrobeFIXED__1__Closet.WardrobeFIXED__1__Closet
+[2024.05.12-10.12.09:321][366]LogStaticMesh: Warning: WardrobeFIXED__1__Closet has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2024.05.12-10.12.09:321][366]LogStaticMesh: Warning: WardrobeFIXED__1__Closet has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2024.05.12-10.12.09:400][366]LogFbx: Display: Triangulating static mesh Right Door.001
+[2024.05.12-10.12.09:402][366]LogStaticMesh: Display: Building static mesh WardrobeFIXED__1__Right_Door_001...
+[2024.05.12-10.12.09:406][366]LogStaticMesh: Built static mesh [0.00s] /Game/Art/Wardrobe/WardrobeFIXED__1__Right_Door_001.WardrobeFIXED__1__Right_Door_001
+[2024.05.12-10.12.09:406][366]LogStaticMesh: Warning: WardrobeFIXED__1__Right_Door_001 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2024.05.12-10.12.09:406][366]LogStaticMesh: Warning: WardrobeFIXED__1__Right_Door_001 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2024.05.12-10.12.09:456][366]LogFbx: Display: Triangulating static mesh Left Door.001
+[2024.05.12-10.12.09:458][366]LogStaticMesh: Display: Building static mesh WardrobeFIXED__1__Left_Door_001...
+[2024.05.12-10.12.09:462][366]LogStaticMesh: Built static mesh [0.00s] /Game/Art/Wardrobe/WardrobeFIXED__1__Left_Door_001.WardrobeFIXED__1__Left_Door_001
+[2024.05.12-10.12.09:462][366]LogStaticMesh: Warning: WardrobeFIXED__1__Left_Door_001 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2024.05.12-10.12.09:462][366]LogStaticMesh: Warning: WardrobeFIXED__1__Left_Door_001 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2024.05.12-10.12.09:481][366]LogFbx: Display: Triangulating static mesh Closet_Part01
+[2024.05.12-10.12.09:496][366]LogStaticMesh: Display: Building static mesh WardrobeFIXED__1__Closet_Part01...
+[2024.05.12-10.12.09:506][366]LogStaticMesh: Built static mesh [0.01s] /Game/Art/Wardrobe/WardrobeFIXED__1__Closet_Part01.WardrobeFIXED__1__Closet_Part01
+[2024.05.12-10.12.09:523][366]LogFbx: Display: Triangulating static mesh Closet.001
+[2024.05.12-10.12.09:525][366]LogStaticMesh: Display: Building static mesh WardrobeFIXED__1__Closet_001...
+[2024.05.12-10.12.09:530][366]LogStaticMesh: Built static mesh [0.01s] /Game/Art/Wardrobe/WardrobeFIXED__1__Closet_001.WardrobeFIXED__1__Closet_001
+[2024.05.12-10.12.09:562][366]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2024.05.12-10.12.09:562][366]FBXImport: Warning: WardrobeFIXED__1__Closet has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2024.05.12-10.12.09:562][366]FBXImport: Warning: WardrobeFIXED__1__Closet has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2024.05.12-10.12.09:562][366]FBXImport: Warning: WardrobeFIXED__1__Right_Door_001 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2024.05.12-10.12.09:562][366]FBXImport: Warning: WardrobeFIXED__1__Right_Door_001 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2024.05.12-10.12.09:562][366]FBXImport: Warning: WardrobeFIXED__1__Left_Door_001 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2024.05.12-10.12.09:562][366]FBXImport: Warning: WardrobeFIXED__1__Left_Door_001 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2024.05.12-10.12.10:132][368]LogShaderCompilers: Display: ================================================
+[2024.05.12-10.12.10:132][368]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.05.12-10.12.10:132][368]LogShaderCompilers: Display: Total job queries 497, among them cache hits 100 (20.12%)
+[2024.05.12-10.12.10:132][368]LogShaderCompilers: Display: Tracking 397 distinct input hashes that result in 176 distinct outputs (44.33%)
+[2024.05.12-10.12.10:132][368]LogShaderCompilers: Display: RAM used: 3.35 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.41%
+[2024.05.12-10.12.10:132][368]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.05.12-10.12.10:133][368]LogShaderCompilers: Display: Shaders Compiled: 67
+[2024.05.12-10.12.10:133][368]LogShaderCompilers: Display: Jobs assigned 67, completed 67 (100.00%)
+[2024.05.12-10.12.10:133][368]LogShaderCompilers: Display: Average time worker was idle: 0.00 s
+[2024.05.12-10.12.10:133][368]LogShaderCompilers: Display: Time job spent in pending queue: average 8.06 s, longest 25.18 s
+[2024.05.12-10.12.10:133][368]LogShaderCompilers: Display: Job execution time: average 9.84 s, max 20.98 s
+[2024.05.12-10.12.10:133][368]LogShaderCompilers: Display: Job life time (pending + execution): average 17.90 s, max 32.36
+[2024.05.12-10.12.10:133][368]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 33.00 s
+[2024.05.12-10.12.10:133][368]LogShaderCompilers: Display: Jobs were issued in 30 batches (only local compilation was used), average 2.23 jobs/batch
+[2024.05.12-10.12.10:133][368]LogShaderCompilers: Display: Average processing rate: 2.03 jobs/sec
+[2024.05.12-10.12.10:133][368]LogShaderCompilers: Display: Total thread time: 224.68 s
+[2024.05.12-10.12.10:133][368]LogShaderCompilers: Display: Total thread preprocess time: 5.46 s
+[2024.05.12-10.12.10:133][368]LogShaderCompilers: Display: Percentage time preprocessing: 2.43%
+[2024.05.12-10.12.10:133][368]LogShaderCompilers: Display: Effective parallelization: 6.81 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.05.12-10.12.10:133][368]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.05.12-10.12.10:133][368]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    2 times, average 8.78 sec, max 14.39 sec, min 3.16 sec)
+[2024.05.12-10.12.10:133][368]LogShaderCompilers: Display: TBasePassPSFSelfShadowedCachedPointIndirectLightingPolicySkylight (compiled    1 times, average 8.61 sec, max 8.61 sec, min 8.61 sec)
+[2024.05.12-10.12.10:133][368]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    2 times, average 7.90 sec, max 14.46 sec, min 1.34 sec)
+[2024.05.12-10.12.10:133][368]LogShaderCompilers: Display:           TBasePassPSFSelfShadowedTranslucencyPolicySkylight (compiled    1 times, average 7.71 sec, max 7.71 sec, min 7.71 sec)
+[2024.05.12-10.12.10:133][368]LogShaderCompilers: Display:     TBasePassPSFSelfShadowedVolumetricLightmapPolicySkylight (compiled    1 times, average 7.13 sec, max 7.13 sec, min 7.13 sec)
+[2024.05.12-10.12.10:133][368]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.05.12-10.12.10:133][368]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 7.81% of total time (compiled    2 times, average 8.78 sec, max 14.39 sec, min 3.16 sec)
+[2024.05.12-10.12.10:133][368]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 7.03% of total time (compiled    2 times, average 7.90 sec, max 14.46 sec, min 1.34 sec)
+[2024.05.12-10.12.10:133][368]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 4.67% of total time (compiled    2 times, average 5.24 sec, max 9.16 sec, min 1.32 sec)
+[2024.05.12-10.12.10:133][368]LogShaderCompilers: Display:                         TBasePassPSTLightMapPolicyLQSkylight - 4.26% of total time (compiled    2 times, average 4.78 sec, max 8.22 sec, min 1.34 sec)
+[2024.05.12-10.12.10:133][368]LogShaderCompilers: Display:                         TBasePassPSTLightMapPolicyHQSkylight - 4.09% of total time (compiled    2 times, average 4.60 sec, max 6.11 sec, min 3.09 sec)
+[2024.05.12-10.12.10:133][368]LogShaderCompilers: Display: ================================================
+[2024.05.12-10.12.12:468][443]LogSlate: Window 'Content Browser' being destroyed
+[2024.05.12-10.12.12:500][443]LogSlate: Window 'Content Browser' being destroyed
+[2024.05.12-10.12.13:259][483]LogSlate: Window 'Message Log' being destroyed
+[2024.05.12-10.12.13:287][483]LogSlate: Window 'Message Log' being destroyed
+[2024.05.12-10.12.15:408][577]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/WardrobeFIXED__1__Closet.WardrobeFIXED__1__Closet
+[2024.05.12-10.12.15:408][577]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/WardrobeFIXED__1__Closet.WardrobeFIXED__1__Closet
+[2024.05.12-10.12.15:410][577]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Wardrobe/WardrobeFIXED__1__Closet.WardrobeFIXED__1__Closet as actor: StaticMeshActor /Game/FirstPerson/Maps/L_3.L_3:PersistentLevel.StaticMeshActor_61
+[2024.05.12-10.12.16:355][615]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/WardrobeFIXED__1__Closet.WardrobeFIXED__1__Closet
+[2024.05.12-10.12.16:356][615]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/WardrobeFIXED__1__Closet.WardrobeFIXED__1__Closet
+[2024.05.12-10.12.16:360][615]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Wardrobe/WardrobeFIXED__1__Closet.WardrobeFIXED__1__Closet as actor: StaticMeshActor /Game/FirstPerson/Maps/L_3.L_3:PersistentLevel.StaticMeshActor_82
+[2024.05.12-10.12.20:114][775]Cmd: DELETE
+[2024.05.12-10.12.20:114][775]Cmd: ACTOR DELETE
+[2024.05.12-10.12.20:136][775]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.12-10.12.20:183][775]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2024.05.12-10.12.20:188][775]LogEditorActor: Deleted 1 Actors (0.074 secs)
+[2024.05.12-10.12.22:379][859]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/WardrobeFIXED__1__Left_Door_001.WardrobeFIXED__1__Left_Door_001
+[2024.05.12-10.12.22:379][859]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/WardrobeFIXED__1__Left_Door_001.WardrobeFIXED__1__Left_Door_001
+[2024.05.12-10.12.22:380][859]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Wardrobe/WardrobeFIXED__1__Left_Door_001.WardrobeFIXED__1__Left_Door_001 as actor: StaticMeshActor /Game/FirstPerson/Maps/L_3.L_3:PersistentLevel.StaticMeshActor_83
+[2024.05.12-10.12.23:097][882]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/WardrobeFIXED__1__Left_Door_001.WardrobeFIXED__1__Left_Door_001
+[2024.05.12-10.12.23:097][882]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/WardrobeFIXED__1__Left_Door_001.WardrobeFIXED__1__Left_Door_001
+[2024.05.12-10.12.23:100][882]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Wardrobe/WardrobeFIXED__1__Left_Door_001.WardrobeFIXED__1__Left_Door_001 as actor: StaticMeshActor /Game/FirstPerson/Maps/L_3.L_3:PersistentLevel.StaticMeshActor_94
+[2024.05.12-10.12.24:426][939]Cmd: DELETE
+[2024.05.12-10.12.24:426][939]Cmd: ACTOR DELETE
+[2024.05.12-10.12.24:450][939]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.12-10.12.24:504][939]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2024.05.12-10.12.24:508][939]LogEditorActor: Deleted 1 Actors (0.082 secs)
+[2024.05.12-10.12.33:205][250]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2024.05.12-10.12.34:875][250]LogSlate: Window 'Delete Assets' being destroyed
+[2024.05.12-10.12.34:961][250]LogUObjectGlobals: Force Deleting 7 Package(s):
+	Asset Name: /Game/Art/Wardrobe/Plastic_01.Plastic_01
+	Asset Type: Material
+	Asset Name: /Game/Art/Wardrobe/Plastic_Gold_001.Plastic_Gold_001
+	Asset Type: Material
+	Asset Name: /Game/Art/Wardrobe/WardrobeFIXED__1__Closet.WardrobeFIXED__1__Closet
+	Asset Type: StaticMesh
+	Asset Name: /Game/Art/Wardrobe/WardrobeFIXED__1__Closet_001.WardrobeFIXED__1__Closet_001
+	Asset Type: StaticMesh
+	Asset Name: /Game/Art/Wardrobe/WardrobeFIXED__1__Closet_Part01.WardrobeFIXED__1__Closet_Part01
+	Asset Type: StaticMesh
+	Asset Name: /Game/Art/Wardrobe/WardrobeFIXED__1__Left_Door_001.WardrobeFIXED__1__Left_Door_001
+	Asset Type: StaticMesh
+	Asset Name: /Game/Art/Wardrobe/WardrobeFIXED__1__Right_Door_001.WardrobeFIXED__1__Right_Door_001
+	Asset Type: StaticMesh
+[2024.05.12-10.12.36:004][250]LogUObjectHash: Compacting FUObjectHashTables data took   3.10ms
+[2024.05.12-10.12.36:063][250]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2024.05.12-10.12.36:128][250]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2024.05.12-10.12.41:554][296]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\mikir\Downloads\WardrobeFIXED (1).fbx)
+[2024.05.12-10.12.41:562][296]LogFbx: Loading FBX Scene from C:\Users\mikir\Downloads\WardrobeFIXED (1).fbx
+[2024.05.12-10.12.41:570][296]LogFbx: FBX Scene Loaded Succesfully
+[2024.05.12-10.13.03:506][296]LogSlate: Window 'FBX Import Options' being destroyed
+[2024.05.12-10.13.03:619][296]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2024.05.12-10.13.03:621][296]LogUObjectGlobals: Force Deleting 0 Package(s):
+[2024.05.12-10.13.04:164][296]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2024.05.12-10.13.04:167][296]FBXImport: Import was canceled. 
+[2024.05.12-10.13.04:255][296]LogAssetTools: The import task was canceled.
+[2024.05.12-10.13.08:248][454]LogSlate: Window 'Message Log' being destroyed
+[2024.05.12-10.13.08:281][454]LogSlate: Window 'Message Log' being destroyed
+[2024.05.12-10.13.59:987][931]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\mikir\Downloads\WardrobeFIXED (1).fbx)
+[2024.05.12-10.13.59:996][931]LogFbx: Loading FBX Scene from C:\Users\mikir\Downloads\WardrobeFIXED (1).fbx
+[2024.05.12-10.14.00:004][931]LogFbx: FBX Scene Loaded Succesfully
+[2024.05.12-10.14.13:971][931]LogSlate: Window 'FBX Import Options' being destroyed
+[2024.05.12-10.14.14:259][931]LogFbx: Display: Triangulating static mesh Closet
+[2024.05.12-10.14.14:265][931]LogStaticMesh: Warning: WardrobeFIXED__1__Closet has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2024.05.12-10.14.14:265][931]LogStaticMesh: Warning: WardrobeFIXED__1__Closet has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2024.05.12-10.14.14:352][931]LogFbx: Display: Triangulating static mesh Right Door.001
+[2024.05.12-10.14.14:357][931]LogStaticMesh: Warning: WardrobeFIXED__1__Right_Door_001 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2024.05.12-10.14.14:357][931]LogStaticMesh: Warning: WardrobeFIXED__1__Right_Door_001 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2024.05.12-10.14.14:416][931]LogFbx: Display: Triangulating static mesh Left Door.001
+[2024.05.12-10.14.14:419][931]LogStaticMesh: Warning: WardrobeFIXED__1__Left_Door_001 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2024.05.12-10.14.14:419][931]LogStaticMesh: Warning: WardrobeFIXED__1__Left_Door_001 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2024.05.12-10.14.14:437][931]LogFbx: Display: Triangulating static mesh Closet_Part01
+[2024.05.12-10.14.14:460][931]LogFbx: Display: Triangulating static mesh Closet.001
+[2024.05.12-10.14.14:491][931]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2024.05.12-10.14.14:491][931]FBXImport: Warning: WardrobeFIXED__1__Closet has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2024.05.12-10.14.14:491][931]FBXImport: Warning: WardrobeFIXED__1__Closet has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2024.05.12-10.14.14:491][931]FBXImport: Warning: WardrobeFIXED__1__Right_Door_001 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2024.05.12-10.14.14:491][931]FBXImport: Warning: WardrobeFIXED__1__Right_Door_001 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2024.05.12-10.14.14:491][931]FBXImport: Warning: WardrobeFIXED__1__Left_Door_001 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2024.05.12-10.14.14:491][931]FBXImport: Warning: WardrobeFIXED__1__Left_Door_001 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2024.05.12-10.14.17:075][ 24]LogSlate: Window 'Content Browser' being destroyed
+[2024.05.12-10.14.17:106][ 24]LogSlate: Window 'Content Browser' being destroyed
+[2024.05.12-10.14.17:937][ 64]LogSlate: Window 'Message Log' being destroyed
+[2024.05.12-10.14.17:965][ 64]LogSlate: Window 'Message Log' being destroyed
+[2024.05.12-10.14.21:740][220]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/WardrobeFIXED__1__Closet.WardrobeFIXED__1__Closet
+[2024.05.12-10.14.21:740][220]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/WardrobeFIXED__1__Closet.WardrobeFIXED__1__Closet
+[2024.05.12-10.14.21:742][220]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Wardrobe/WardrobeFIXED__1__Closet.WardrobeFIXED__1__Closet as actor: StaticMeshActor /Game/FirstPerson/Maps/L_3.L_3:PersistentLevel.StaticMeshActor_95
+[2024.05.12-10.14.22:725][254]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/WardrobeFIXED__1__Closet.WardrobeFIXED__1__Closet
+[2024.05.12-10.14.22:725][254]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/WardrobeFIXED__1__Closet.WardrobeFIXED__1__Closet
+[2024.05.12-10.14.22:728][254]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Wardrobe/WardrobeFIXED__1__Closet.WardrobeFIXED__1__Closet as actor: StaticMeshActor /Game/FirstPerson/Maps/L_3.L_3:PersistentLevel.StaticMeshActor_102
+[2024.05.12-10.14.25:234][367]Cmd: DELETE
+[2024.05.12-10.14.25:234][367]Cmd: ACTOR DELETE
+[2024.05.12-10.14.25:259][367]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.12-10.14.25:308][367]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2024.05.12-10.14.25:312][367]LogEditorActor: Deleted 1 Actors (0.077 secs)
+[2024.05.12-10.14.28:540][503]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/WardrobeFIXED__1__Closet_Part01.WardrobeFIXED__1__Closet_Part01
+[2024.05.12-10.14.28:541][503]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/WardrobeFIXED__1__Closet_Part01.WardrobeFIXED__1__Closet_Part01
+[2024.05.12-10.14.28:542][503]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Wardrobe/WardrobeFIXED__1__Closet_Part01.WardrobeFIXED__1__Closet_Part01 as actor: StaticMeshActor /Game/FirstPerson/Maps/L_3.L_3:PersistentLevel.StaticMeshActor_107
+[2024.05.12-10.14.29:496][538]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/WardrobeFIXED__1__Closet_Part01.WardrobeFIXED__1__Closet_Part01
+[2024.05.12-10.14.29:496][538]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/WardrobeFIXED__1__Closet_Part01.WardrobeFIXED__1__Closet_Part01
+[2024.05.12-10.14.29:498][538]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Wardrobe/WardrobeFIXED__1__Closet_Part01.WardrobeFIXED__1__Closet_Part01 as actor: StaticMeshActor /Game/FirstPerson/Maps/L_3.L_3:PersistentLevel.StaticMeshActor_108
+[2024.05.12-10.14.30:760][593]Cmd: DELETE
+[2024.05.12-10.14.30:760][593]Cmd: ACTOR DELETE
+[2024.05.12-10.14.30:783][593]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.12-10.14.30:838][593]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2024.05.12-10.14.30:842][593]LogEditorActor: Deleted 1 Actors (0.082 secs)
+[2024.05.12-10.14.37:324][905]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2024.05.12-10.14.38:646][905]LogSlate: Window 'Delete Assets' being destroyed
+[2024.05.12-10.14.38:733][905]LogUObjectGlobals: Force Deleting 7 Package(s):
+	Asset Name: /Game/Art/Wardrobe/Plastic_01.Plastic_01
+	Asset Type: Material
+	Asset Name: /Game/Art/Wardrobe/Plastic_Gold_001.Plastic_Gold_001
+	Asset Type: Material
+	Asset Name: /Game/Art/Wardrobe/WardrobeFIXED__1__Closet.WardrobeFIXED__1__Closet
+	Asset Type: StaticMesh
+	Asset Name: /Game/Art/Wardrobe/WardrobeFIXED__1__Closet_001.WardrobeFIXED__1__Closet_001
+	Asset Type: StaticMesh
+	Asset Name: /Game/Art/Wardrobe/WardrobeFIXED__1__Closet_Part01.WardrobeFIXED__1__Closet_Part01
+	Asset Type: StaticMesh
+	Asset Name: /Game/Art/Wardrobe/WardrobeFIXED__1__Left_Door_001.WardrobeFIXED__1__Left_Door_001
+	Asset Type: StaticMesh
+	Asset Name: /Game/Art/Wardrobe/WardrobeFIXED__1__Right_Door_001.WardrobeFIXED__1__Right_Door_001
+	Asset Type: StaticMesh
+[2024.05.12-10.14.39:685][905]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2024.05.12-10.14.39:735][905]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2024.05.12-10.14.39:782][905]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.05.12-10.15.09:833][163]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2024.05.12-10.15.10:039][163]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Maps/L_3_Auto1
+[2024.05.12-10.15.10:040][163]LogSavePackage: Moving '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/L_3_Auto14CE167F3464F140142C3AB8CF5109F03.tmp' to '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/Autosaves/Game/FirstPerson/Maps/L_3_Auto1.umap'
+[2024.05.12-10.15.10:065][163]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/L_3' took 0.295
+[2024.05.12-10.15.10:065][163]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.295
+[2024.05.12-10.15.25:934][870]Cmd: ACTOR UNHIDE SELECTED
+[2024.05.12-10.15.29:530][ 53]Cmd: TRANSACTION UNDO
+[2024.05.12-10.15.29:530][ 53]LogEditorTransaction: Undo Clicking on Elements
+[2024.05.12-10.15.31:846][147]Cmd: DELETE
+[2024.05.12-10.15.31:846][147]Cmd: ACTOR DELETE
+[2024.05.12-10.15.32:045][147]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.12-10.15.32:048][147]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.12-10.15.32:049][147]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.12-10.15.32:051][147]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.12-10.15.32:053][147]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.12-10.15.32:054][147]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.12-10.15.32:055][147]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.12-10.15.32:056][147]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.12-10.15.32:057][147]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.12-10.15.32:059][147]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.12-10.15.32:125][147]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2024.05.12-10.15.32:129][147]LogEditorActor: Deleted 10 Actors (0.283 secs)
+[2024.05.12-10.15.34:086][228]Cmd: DUPLICATE
+[2024.05.12-10.15.34:086][228]Cmd: ACTOR DUPLICATE
+[2024.05.12-10.15.34:135][228]LogClass: Warning: Short type name "BP_Hydroponic_Closet_C_2" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2024.05.12-10.15.34:140][228]LogClass: Warning: Short type name "BP_Hydroponic_Closet_C_2" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2024.05.12-10.16.09:851][978]Cmd: DELETE
+[2024.05.12-10.16.09:851][978]Cmd: ACTOR DELETE
+[2024.05.12-10.16.09:877][978]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.12-10.16.09:879][978]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.12-10.16.09:880][978]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.12-10.16.09:881][978]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.12-10.16.09:882][978]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.12-10.16.09:883][978]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.12-10.16.09:945][978]LogUObjectHash: Compacting FUObjectHashTables data took   3.18ms
+[2024.05.12-10.16.09:950][978]LogEditorActor: Deleted 6 Actors (0.099 secs)
+[2024.05.12-10.16.15:630][239]Cmd: DELETE
+[2024.05.12-10.16.15:630][239]Cmd: ACTOR DELETE
+[2024.05.12-10.16.15:656][239]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.12-10.16.15:657][239]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.12-10.16.15:658][239]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.12-10.16.15:659][239]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.12-10.16.15:660][239]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.12-10.16.15:661][239]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.12-10.16.15:705][239]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2024.05.12-10.16.15:709][239]LogEditorActor: Deleted 6 Actors (0.079 secs)
+[2024.05.12-10.16.22:551][553]Cmd: DELETE
+[2024.05.12-10.16.22:551][553]Cmd: ACTOR DELETE
+[2024.05.12-10.16.22:571][553]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.12-10.16.22:572][553]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.12-10.16.22:574][553]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.12-10.16.22:576][553]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.12-10.16.22:577][553]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.12-10.16.22:578][553]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.12-10.16.22:579][553]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.12-10.16.22:580][553]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.12-10.16.22:635][553]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2024.05.12-10.16.22:639][553]LogEditorActor: Deleted 8 Actors (0.088 secs)
+[2024.05.12-10.16.28:926][859]LogClass: Warning: Short type name "BP_Hydroponic_Closet_C_2" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2024.05.12-10.16.28:932][859]LogClass: Warning: Short type name "BP_Hydroponic_Closet_C_2" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2024.05.12-10.16.28:972][859]LogClass: Warning: Short type name "BP_Hydroponic_Closet_C_3" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2024.05.12-10.16.28:977][859]LogClass: Warning: Short type name "BP_Hydroponic_Closet_C_3" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2024.05.12-10.16.42:073][452]Cmd: DELETE
+[2024.05.12-10.16.42:073][452]Cmd: ACTOR DELETE
+[2024.05.12-10.16.42:099][452]LogEditorActor: Actor Boolean48 is referenced by GroupActor_48.
+[2024.05.12-10.16.44:318][452]LogSlate: Window 'Message' being destroyed
+[2024.05.12-10.16.44:332][452]Message dialog closed, result: Yes, title: Message, text: Actor Boolean48 is referenced by other Actors/Objects.
+Do you really want to delete it? This will break references.
+
+Reference List:
+
+GroupActor_48
+[2024.05.12-10.16.44:335][452]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.12-10.16.44:337][452]LogEditorActor: Actor Cylinder64 is referenced by GroupActor_48.
+[2024.05.12-10.16.45:960][452]LogSlate: Window 'Message' being destroyed
+[2024.05.12-10.16.45:975][452]Message dialog closed, result: YesAll, title: Message, text: Actor Cylinder64 is referenced by other Actors/Objects.
+Do you really want to delete it? This will break references.
+
+Reference List:
+
+GroupActor_48
+[2024.05.12-10.16.45:976][452]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.12-10.16.45:977][452]LogEditorActor: Actor Cylinder65 is referenced by GroupActor_48.
+[2024.05.12-10.16.45:978][452]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.12-10.16.45:979][452]LogEditorActor: Actor Cylinder66 is referenced by GroupActor_48.
+[2024.05.12-10.16.45:980][452]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.12-10.16.45:980][452]LogEditorActor: Actor Cylinder67 is referenced by GroupActor_48.
+[2024.05.12-10.16.45:982][452]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.12-10.16.45:983][452]LogEditorActor: Actor Cylinder68 is referenced by GroupActor_48.
+[2024.05.12-10.16.45:984][452]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.12-10.16.45:986][452]LogEditorActor: Actor Cylinder69 is referenced by GroupActor_48.
+[2024.05.12-10.16.45:987][452]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.12-10.16.45:988][452]LogEditorActor: Actor Cylinder70 is referenced by GroupActor_48.
+[2024.05.12-10.16.45:989][452]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.12-10.16.45:989][452]LogEditorActor: Actor Boolean58 is referenced by GroupActor_48.
+[2024.05.12-10.16.45:990][452]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.12-10.16.45:991][452]LogEditorActor: Actor Boolean59 is referenced by GroupActor_48.
+[2024.05.12-10.16.45:992][452]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.12-10.16.45:992][452]LogEditorActor: Actor Boolean46 is referenced by GroupActor_46.
+[2024.05.12-10.16.45:993][452]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.12-10.16.45:993][452]LogEditorActor: Actor Cylinder44 is referenced by GroupActor_46.
+[2024.05.12-10.16.45:994][452]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.12-10.16.45:994][452]LogEditorActor: Actor Cylinder52 is referenced by GroupActor_46.
+[2024.05.12-10.16.45:995][452]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.12-10.16.45:995][452]LogEditorActor: Actor Cylinder53 is referenced by GroupActor_46.
+[2024.05.12-10.16.45:996][452]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.12-10.16.45:996][452]LogEditorActor: Actor Cylinder54 is referenced by GroupActor_46.
+[2024.05.12-10.16.45:997][452]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.12-10.16.45:997][452]LogEditorActor: Actor Cylinder55 is referenced by GroupActor_46.
+[2024.05.12-10.16.45:998][452]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.12-10.16.45:998][452]LogEditorActor: Actor Cylinder56 is referenced by GroupActor_46.
+[2024.05.12-10.16.45:999][452]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.12-10.16.45:999][452]LogEditorActor: Actor Cylinder57 is referenced by GroupActor_46.
+[2024.05.12-10.16.46:000][452]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.12-10.16.46:000][452]LogEditorActor: Actor Boolean54 is referenced by GroupActor_46.
+[2024.05.12-10.16.46:001][452]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.12-10.16.46:001][452]LogEditorActor: Actor Boolean55 is referenced by GroupActor_46.
+[2024.05.12-10.16.46:002][452]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.12-10.16.46:003][452]LogEditorActor: Actor Cylinder46 is referenced by GroupActor46.
+[2024.05.12-10.16.46:003][452]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.12-10.16.46:004][452]LogEditorActor: Actor Cylinder43 is referenced by GroupActor46.
+[2024.05.12-10.16.46:004][452]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.12-10.16.46:005][452]LogEditorActor: Actor Boolean53 is referenced by GroupActor46.
+[2024.05.12-10.16.46:005][452]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.12-10.16.46:006][452]LogEditorActor: Actor Boolean52 is referenced by GroupActor46.
+[2024.05.12-10.16.46:006][452]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.12-10.16.46:007][452]LogEditorActor: Actor Boolean45 is referenced by GroupActor46.
+[2024.05.12-10.16.46:007][452]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.12-10.16.46:008][452]LogEditorActor: Actor Cylinder50 is referenced by GroupActor46.
+[2024.05.12-10.16.46:008][452]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.12-10.16.46:008][452]LogEditorActor: Actor Cylinder47 is referenced by GroupActor46.
+[2024.05.12-10.16.46:009][452]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.12-10.16.46:009][452]LogEditorActor: Actor Cylinder48 is referenced by GroupActor46.
+[2024.05.12-10.16.46:010][452]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.12-10.16.46:010][452]LogEditorActor: Actor Cylinder51 is referenced by GroupActor46.
+[2024.05.12-10.16.46:010][452]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.12-10.16.46:012][452]LogEditorActor: Actor Cylinder49 is referenced by GroupActor46.
+[2024.05.12-10.16.46:013][452]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.12-10.16.46:013][452]LogEditorActor: Actor Boolean47 is referenced by GroupActor_47.
+[2024.05.12-10.16.46:014][452]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.12-10.16.46:014][452]LogEditorActor: Actor Cylinder45 is referenced by GroupActor_47.
+[2024.05.12-10.16.46:015][452]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.12-10.16.46:015][452]LogEditorActor: Actor Cylinder58 is referenced by GroupActor_47.
+[2024.05.12-10.16.46:016][452]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.12-10.16.46:016][452]LogEditorActor: Actor Cylinder59 is referenced by GroupActor_47.
+[2024.05.12-10.16.46:017][452]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.12-10.16.46:017][452]LogEditorActor: Actor Cylinder60 is referenced by GroupActor_47.
+[2024.05.12-10.16.46:017][452]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.12-10.16.46:018][452]LogEditorActor: Actor Cylinder61 is referenced by GroupActor_47.
+[2024.05.12-10.16.46:018][452]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.12-10.16.46:019][452]LogEditorActor: Actor Cylinder62 is referenced by GroupActor_47.
+[2024.05.12-10.16.46:019][452]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.12-10.16.46:020][452]LogEditorActor: Actor Cylinder63 is referenced by GroupActor_47.
+[2024.05.12-10.16.46:020][452]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.12-10.16.46:021][452]LogEditorActor: Actor Boolean56 is referenced by GroupActor_47.
+[2024.05.12-10.16.46:021][452]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.12-10.16.46:021][452]LogEditorActor: Actor Boolean57 is referenced by GroupActor_47.
+[2024.05.12-10.16.46:022][452]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.12-10.16.46:079][452]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2024.05.12-10.16.46:084][452]LogEditorActor: Deleted 40 Actors (0.139 secs)
+[2024.05.12-10.16.55:527][921]LogClass: Warning: Short type name "BP_Hydroponic_Closet_C_2" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2024.05.12-10.16.55:535][921]LogClass: Warning: Short type name "BP_Hydroponic_Closet_C_2" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2024.05.12-10.16.55:579][921]LogClass: Warning: Short type name "BP_Hydroponic_Closet_C_3" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2024.05.12-10.16.55:587][921]LogClass: Warning: Short type name "BP_Hydroponic_Closet_C_3" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2024.05.12-10.16.55:646][921]LogClass: Warning: Short type name "BP_Hydroponic_Closet_C_4" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2024.05.12-10.16.55:656][921]LogClass: Warning: Short type name "BP_Hydroponic_Closet_C_4" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2024.05.12-10.16.55:717][921]LogClass: Warning: Short type name "BP_Hydroponic_Closet_C_5" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2024.05.12-10.16.55:725][921]LogClass: Warning: Short type name "BP_Hydroponic_Closet_C_5" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2024.05.12-10.17.03:958][318]Cmd: SELECT NONE
+[2024.05.12-10.17.28:939][582]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2024.05.12-10.17.28:946][582]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.12-10.17.29:093][582]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Maps/L_3" FILE="../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/FirstPerson/Maps/L_3.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.05.12-10.17.29:156][582]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2024.05.12-10.17.29:381][582]LogSavePackage: Moving output files for package: /Game/FirstPerson/Maps/L_3
+[2024.05.12-10.17.29:382][582]LogSavePackage: Moving '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Saved/L_3F8A6E5874FF281871769ACBF361BD65F.tmp' to '../../../../../../Users/mikir/OneDrive/Pulpit/Escape-from-0G/Content/FirstPerson/Maps/L_3.umap'
+[2024.05.12-10.17.29:411][582]LogFileHelpers: Saving map 'L_3' took 0.320
+[2024.05.12-10.17.29:427][582]LogFileHelpers: InternalPromptForCheckoutAndSave took 480 ms (total: 19.6 sec)
+[2024.05.12-10.17.29:436][582]AssetCheck: New page: Asset Save: L_3
+[2024.05.12-10.17.29:436][582]LogContentValidation: Display: Validating /Script/Engine.World /Game/FirstPerson/Maps/L_3.L_3
