@@ -5031,3 +5031,89 @@ Make sure 'UW_PinPad' has been compiled for  Set Correct?
 [2024.05.12-08.18.47:759][592]LogFileHelpers: InternalPromptForCheckoutAndSave took 514 ms (total: 4:00 min)
 [2024.05.12-08.18.47:781][592]AssetCheck: New page: Asset Save: L_3
 [2024.05.12-08.18.47:781][592]LogContentValidation: Display: Validating /Script/Engine.World /Game/FirstPerson/Maps/L_3.L_3
+[2024.05.12-08.19.25:100][529]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2024.05.12-08.19.28:612][529]LogSlate: Window 'Delete Assets' being destroyed
+[2024.05.12-08.19.28:859][529]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2024.05.12-08.19.28:919][529]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2024.05.12-08.19.28:975][529]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2024.05.12-08.19.51:893][729]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\mikir\Downloads\WardrobeFIXED.fbx)
+[2024.05.12-08.19.51:898][729]LogFbx: Loading FBX Scene from C:\Users\mikir\Downloads\WardrobeFIXED.fbx
+[2024.05.12-08.19.51:906][729]LogFbx: FBX Scene Loaded Succesfully
+[2024.05.12-08.19.57:748][729]LogSlate: Window 'FBX Import Options' being destroyed
+[2024.05.12-08.19.58:083][729]LogFbx: Display: Triangulating static mesh Closet
+[2024.05.12-08.19.58:094][729]LogStaticMesh: Display: Building static mesh WardrobeFIXED_Closet...
+[2024.05.12-08.19.58:097][729]LogStaticMesh: Built static mesh [0.00s] /Game/Art/Wardrobe/WardrobeFIXED_Closet.WardrobeFIXED_Closet
+[2024.05.12-08.19.58:335][729]LogFbx: Display: Triangulating static mesh Cylinder
+[2024.05.12-08.19.58:365][729]LogStaticMesh: Display: Building static mesh WardrobeFIXED_Cylinder...
+[2024.05.12-08.19.58:387][729]LogStaticMesh: Built static mesh [0.02s] /Game/Art/Wardrobe/WardrobeFIXED_Cylinder.WardrobeFIXED_Cylinder
+[2024.05.12-08.19.58:471][729]LogFbx: Display: Triangulating static mesh Left Door
+[2024.05.12-08.19.58:473][729]LogStaticMesh: Display: Building static mesh WardrobeFIXED_Left_Door...
+[2024.05.12-08.19.58:478][729]LogStaticMesh: Built static mesh [0.00s] /Game/Art/Wardrobe/WardrobeFIXED_Left_Door.WardrobeFIXED_Left_Door
+[2024.05.12-08.19.58:592][729]LogFbx: Display: Triangulating static mesh LeftShelves
+[2024.05.12-08.19.58:603][729]LogStaticMesh: Display: Building static mesh WardrobeFIXED_LeftShelves...
+[2024.05.12-08.19.58:608][729]LogStaticMesh: Built static mesh [0.00s] /Game/Art/Wardrobe/WardrobeFIXED_LeftShelves.WardrobeFIXED_LeftShelves
+[2024.05.12-08.19.58:724][729]LogFbx: Display: Triangulating static mesh Right Door
+[2024.05.12-08.19.58:727][729]LogStaticMesh: Display: Building static mesh WardrobeFIXED_Right_Door...
+[2024.05.12-08.19.58:731][729]LogStaticMesh: Built static mesh [0.00s] /Game/Art/Wardrobe/WardrobeFIXED_Right_Door.WardrobeFIXED_Right_Door
+[2024.05.12-08.19.58:752][729]LogFbx: Display: Triangulating static mesh Shelf
+[2024.05.12-08.19.58:755][729]LogStaticMesh: Display: Building static mesh WardrobeFIXED_Shelf...
+[2024.05.12-08.19.58:758][729]LogStaticMesh: Built static mesh [0.00s] /Game/Art/Wardrobe/WardrobeFIXED_Shelf.WardrobeFIXED_Shelf
+[2024.05.12-08.19.58:795][729]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2024.05.12-08.19.59:113][729]LogShaderCompilers: Display: ================================================
+[2024.05.12-08.19.59:113][729]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.05.12-08.19.59:113][729]LogShaderCompilers: Display: Total job queries 2394, among them cache hits 277 (11.57%)
+[2024.05.12-08.19.59:113][729]LogShaderCompilers: Display: Tracking 2117 distinct input hashes that result in 265 distinct outputs (12.52%)
+[2024.05.12-08.19.59:113][729]LogShaderCompilers: Display: RAM used: 14.63 MB (0.01 GB) of 819.20 MB (0.80 GB) budget. Usage: 1.79%
+[2024.05.12-08.19.59:113][729]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.05.12-08.19.59:113][729]LogShaderCompilers: Display: Shaders Compiled: 1575
+[2024.05.12-08.19.59:113][729]LogShaderCompilers: Display: Jobs assigned 1575, completed 1575 (100.00%)
+[2024.05.12-08.19.59:113][729]LogShaderCompilers: Display: Average time worker was idle: 21.52 s
+[2024.05.12-08.19.59:113][729]LogShaderCompilers: Display: Time job spent in pending queue: average 3.02 s, longest 37.24 s
+[2024.05.12-08.19.59:113][729]LogShaderCompilers: Display: Job execution time: average 1.44 s, max 17.64 s
+[2024.05.12-08.19.59:113][729]LogShaderCompilers: Display: Job life time (pending + execution): average 4.46 s, max 38.75
+[2024.05.12-08.19.59:113][729]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 343.30 s
+[2024.05.12-08.19.59:113][729]LogShaderCompilers: Display: Jobs were issued in 1575 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.05.12-08.19.59:113][729]LogShaderCompilers: Display: Average processing rate: 4.59 jobs/sec
+[2024.05.12-08.19.59:113][729]LogShaderCompilers: Display: Total thread time: 1809.29 s
+[2024.05.12-08.19.59:113][729]LogShaderCompilers: Display: Total thread preprocess time: 115.86 s
+[2024.05.12-08.19.59:113][729]LogShaderCompilers: Display: Percentage time preprocessing: 6.40%
+[2024.05.12-08.19.59:113][729]LogShaderCompilers: Display: Effective parallelization: 5.27 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.05.12-08.19.59:113][729]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.05.12-08.19.59:113][729]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled  105 times, average 2.04 sec, max 16.43 sec, min 0.98 sec)
+[2024.05.12-08.19.59:113][729]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled  105 times, average 1.93 sec, max 6.62 sec, min 1.05 sec)
+[2024.05.12-08.19.59:113][729]LogShaderCompilers: Display:                  TShadowDepthVSVertexShadowDepth_OutputDepth (compiled    2 times, average 1.63 sec, max 1.68 sec, min 1.58 sec)
+[2024.05.12-08.19.59:113][729]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled  101 times, average 1.60 sec, max 8.15 sec, min 0.86 sec)
+[2024.05.12-08.19.59:113][729]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled  101 times, average 1.18 sec, max 10.48 sec, min 0.48 sec)
+[2024.05.12-08.19.59:113][729]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.05.12-08.19.59:113][729]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 11.83% of total time (compiled  105 times, average 2.04 sec, max 16.43 sec, min 0.98 sec)
+[2024.05.12-08.19.59:113][729]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 11.21% of total time (compiled  105 times, average 1.93 sec, max 6.62 sec, min 1.05 sec)
+[2024.05.12-08.19.59:113][729]LogShaderCompilers: Display:                                                 FLumenCardVS - 8.95% of total time (compiled  101 times, average 1.60 sec, max 8.15 sec, min 0.86 sec)
+[2024.05.12-08.19.59:113][729]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 6.61% of total time (compiled  101 times, average 1.18 sec, max 10.48 sec, min 0.48 sec)
+[2024.05.12-08.19.59:113][729]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight - 6.07% of total time (compiled   96 times, average 1.14 sec, max 1.55 sec, min 0.97 sec)
+[2024.05.12-08.19.59:113][729]LogShaderCompilers: Display: ================================================
+[2024.05.12-08.20.05:491][980]LogSlate: Window 'Content Browser' being destroyed
+[2024.05.12-08.20.05:520][980]LogSlate: Window 'Content Browser' being destroyed
+[2024.05.12-08.20.08:546][110]LogSlate: Window 'Message Log' being destroyed
+[2024.05.12-08.20.08:580][110]LogSlate: Window 'Message Log' being destroyed
+[2024.05.12-08.20.12:394][275]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/WardrobeFIXED_Closet.WardrobeFIXED_Closet
+[2024.05.12-08.20.12:394][275]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/WardrobeFIXED_Closet.WardrobeFIXED_Closet
+[2024.05.12-08.20.12:396][275]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Wardrobe/WardrobeFIXED_Closet.WardrobeFIXED_Closet as actor: StaticMeshActor /Game/FirstPerson/Maps/L_3.L_3:PersistentLevel.StaticMeshActor_2
+[2024.05.12-08.20.13:952][339]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/WardrobeFIXED_Closet.WardrobeFIXED_Closet
+[2024.05.12-08.20.13:952][339]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/WardrobeFIXED_Closet.WardrobeFIXED_Closet
+[2024.05.12-08.20.13:956][339]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Wardrobe/WardrobeFIXED_Closet.WardrobeFIXED_Closet as actor: StaticMeshActor /Game/FirstPerson/Maps/L_3.L_3:PersistentLevel.StaticMeshActor_14
+[2024.05.12-08.20.21:875][770]Cmd: DELETE
+[2024.05.12-08.20.21:875][770]Cmd: ACTOR DELETE
+[2024.05.12-08.20.21:895][770]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.12-08.20.21:963][770]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2024.05.12-08.20.21:974][770]LogEditorActor: Deleted 1 Actors (0.100 secs)
+[2024.05.12-08.20.24:228][881]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/WardrobeFIXED_Left_Door.WardrobeFIXED_Left_Door
+[2024.05.12-08.20.24:228][881]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/WardrobeFIXED_Left_Door.WardrobeFIXED_Left_Door
+[2024.05.12-08.20.24:229][881]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Wardrobe/WardrobeFIXED_Left_Door.WardrobeFIXED_Left_Door as actor: StaticMeshActor /Game/FirstPerson/Maps/L_3.L_3:PersistentLevel.StaticMeshActor_16
+[2024.05.12-08.20.24:904][912]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/WardrobeFIXED_Left_Door.WardrobeFIXED_Left_Door
+[2024.05.12-08.20.24:904][912]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Wardrobe/WardrobeFIXED_Left_Door.WardrobeFIXED_Left_Door
+[2024.05.12-08.20.24:907][912]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Wardrobe/WardrobeFIXED_Left_Door.WardrobeFIXED_Left_Door as actor: StaticMeshActor /Game/FirstPerson/Maps/L_3.L_3:PersistentLevel.StaticMeshActor_24
+[2024.05.12-08.20.28:096][ 94]Cmd: DELETE
+[2024.05.12-08.20.28:096][ 94]Cmd: ACTOR DELETE
+[2024.05.12-08.20.28:118][ 94]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.12-08.20.28:187][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2024.05.12-08.20.28:191][ 94]LogEditorActor: Deleted 1 Actors (0.095 secs)
